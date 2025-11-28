@@ -54,7 +54,7 @@ This option will be toggleable. If you are not a fan of the dub, avoid using the
 
 ## Honorable Mentions
 - [Case-Closed] 001-130 https://nyaa.si/view/645282 (The funanimation dub, no need to modify anything, less aggressive colors)
-- [DVDRJ2] 001-502 https://nyaa.si/view/836765 (The OG broadcasts, though it's very dated, this is less vibrant but noticeable quality drop.)
+- [DVDRJ2] 001-502 https://nyaa.si/view/836765 (The OG broadcasts, though it's very dated, this is less vibrant but noticeable quality drop, still supported)
 - [Anonymous-CR] 001-123 https://nyaa.si/view/1421295  (High filesize warning, mid-quality, messed up AR 1920x1080 instead of 1440x1080, deprecated but still supported)
 
 
