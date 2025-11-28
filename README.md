@@ -36,19 +36,27 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 There is a current English dub effort going on. The new episodes that are dubbed are:  
 1-5, 7, 10, 43, 48-49, 57-58, 76, 128-129, 176-178, 230-231, 286-288, 345, 425
 
+This option will be toggleable. If you are not a fan of the dub, avoid using the CR remaster releases. The file size is large and of a lower quality.
+
 ## Sources / Credits
 
 ### Videos
-- [Anonymous-CR] 001-123 https://nyaa.si/view/1421295  
+- [Erai-Raws] 001-123 https://nyaa.si/view/1539508
 - [Fabre-Raw-NFJP] 124-723 https://nyaa.si/view/1939397  
-- [Fabre-Raw-CR-USA] Dubbed EP https://nyaa.si/view/2040031  
-- [Fabre-Raw-BB] 723-753 https://nyaa.si/view/1502227  
-- [Erai-Raws] 754-1132 https://nyaa.si/view/1862421  
+- [Fabre-Raw-CR-USA] Dubbed EP https://nyaa.si/view/2040031  (Only watch if you like the dub. Aggressive vibrant colors)
+- [Fabre-Raw-BB] 0453-0753 https://nyaa.si/view/1502227 (Only 723-753 should be used)  
+- [Erai-Raws] 754-1132 https://nyaa.si/view/1862421
 
 ### Subtitles
 - [Fabre-Raw-BB-Subs] 124-723 https://nyaa.si/view/1907075  
-- [DC-Fan-Subs] 0-757 https://github.com/x-cord/conan  
+- [DC-Fan-Subs] 0-757 https://github.com/x-cord/conan 
 - [DC-Fan-Subs-Pull-15] 0-757 https://github.com/SkinnerK/conan/tree/master  
+
+## Honorable Mentions
+- [Case-Closed] 001-130 https://nyaa.si/view/645282 (The funanimation dub, no need to modify anything, less aggressive colors)
+- [DVDRJ2] 001-502 https://nyaa.si/view/836765 (The OG broadcasts, though it's very dated, this is less vibrant but noticeable quality drop.)
+- [Anonymous-CR] 001-123 https://nyaa.si/view/1421295  (High filesize warning, mid-quality, messed up AR 1920x1080 instead of 1440x1080, deprecated but still supported)
+
 
 ### Projects
 - [ffmpeg] https://git.ffmpeg.org/ffmpeg.git  
