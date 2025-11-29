@@ -41,11 +41,11 @@ This option will be toggleable. If you are not a fan of the dub, avoid using the
 ## Sources / Credits
 
 ### Videos
-- [Erai-Raws] 001-123 https://nyaa.si/view/1539508
+- [Erai-Raws] 001-123 https://nyaa.si/view/1539508 (Great subs, no need to add any)
 - [Fabre-Raw-NFJP] 124-723 https://nyaa.si/view/1939397  
 - [Fabre-Raw-CR-USA] Dubbed EP https://nyaa.si/view/2040031  (Only watch if you like the dub. Aggressive vibrant colors)
 - [Fabre-Raw-BB] 0453-0753 https://nyaa.si/view/1502227 (Only 723-753 should be used)  
-- [Erai-Raws] 754-1132 https://nyaa.si/view/1862421
+- [Erai-Raws] 754-1132 https://nyaa.si/view/1862421 (Great subs, no need to add any)
 
 ### Subtitles
 - [Fabre-Raw-BB-Subs] 124-723 https://nyaa.si/view/1907075  
