@@ -44,7 +44,7 @@ def get_default_config() -> Dict:
             'temp_dir': 'temp_processing',
             'ffmpeg_dir': None
         },
-        'ffsubsync_timeout': 600,
+        'ffsubsync_timeout': 45,
         'ffmpeg_timeout': 300,
         'create_backups': False,
         'cleanup_temp_files': True,
@@ -229,9 +229,10 @@ def detect_source_format(filename: str) -> str:
         return "fabre-remastered"
     elif "[Fabre-RAW] Detective Conan" in filename:
         return "fabre"
+    elif "Bilibili" in filename or "bilibili" in filename:  # <--- ADD THIS
+        return "bilibili"
     else:
         return "unknown"
-
 
 def extract_episode_number(filename: str) -> Optional[int]:
     """Extract episode number from filename."""
@@ -286,7 +287,7 @@ def sync_subtitle(video_path: Path, subtitle_path: Path, output_path: Path) -> b
             "-o", str(output_path)
         ]
         
-        timeout = CONFIG.get('ffsubsync_timeout', 600)
+        timeout = CONFIG.get('ffsubsync_timeout', 45)
         result = subprocess.run(
             cmd,
             capture_output=True,
@@ -319,7 +320,7 @@ def get_episode_config(ep_num: int, source_format: str) -> Dict:
     if source_format == "erai-raws" and 1 <= ep_num <= 123:
         return {
             'rename_only': True,
-            'output_format': 'remastered',  # Detective Conan Remastered xxxx [1080p].mkv
+            'output_format': 'remastered',
             'keep_existing_subs': True,
             'add_fan_subs': False,
             'add_bb_subs': False
@@ -339,12 +340,18 @@ def get_episode_config(ep_num: int, source_format: str) -> Dict:
             'add_bb_subs': True
         })
     elif 724 <= ep_num <= 753:
-        return CONFIG.get('episodes_724_753', {
+        # Default config for this range (Fabre/Netflix files)
+        config = CONFIG.get('episodes_724_753', {
             'keep_existing_subs': True,
             'add_fan_subs': True,
             'add_bb_subs': False,
             'rename_existing_bb_track': True
         })
+        
+        if source_format == 'bilibili':
+            config['rename_existing_bb_track'] = False
+            
+        return config
     else:  # 754-1132
         return CONFIG.get('episodes_754_1132', {
             'keep_existing_subs': True,
@@ -372,7 +379,6 @@ def get_output_filename(ep_num: int, source_format: str, ep_config: Dict) -> str
     else:
         return f"Detective Conan Remastered {ep_num:04d} [1080p].mkv"
 
-
 def mux_subtitles_advanced(video_path: Path, fan_sub_path: Optional[Path], 
                            bb_sub_path: Optional[Path], output_path: Path,
                            ep_config: Dict) -> bool:
@@ -381,44 +387,44 @@ def mux_subtitles_advanced(video_path: Path, fan_sub_path: Optional[Path],
         ep_num = extract_episode_number(video_path.name)
         logger.info(f"Muxing subtitles for episode {ep_num}")
         
-        # Build ffmpeg command
+        # 1. Start command with the main video input
         cmd = [FFMPEG_PATH, "-i", str(video_path)]
         
-        input_count = 1
-        subtitle_maps = []
+        # Lists to hold different parts of the command
+        additional_inputs = []
+        output_maps = []
         metadata = []
         
-        # Map video and audio from original
-        cmd.extend(["-map", "0:v", "-map", "0:a"])
+        # 2. Setup Maps for the Main Video (Input 0)
+        output_maps.extend(["-map", "0:v", "-map", "0:a"])
         
-        # Handle existing subtitle tracks
-        if ep_config.get('keep_existing_subs', True):
-            # For episodes 724-753, we need to rename existing BB track
-            if ep_config.get('rename_existing_bb_track', False):
-                # Map existing subtitle tracks
-                cmd.extend(["-map", "0:s?"])
-                # Metadata to rename the first subtitle track
+        keep_existing = ep_config.get('keep_existing_subs', True)
+        rename_existing = ep_config.get('rename_existing_bb_track', False)
+
+        if keep_existing:
+            output_maps.extend(["-map", "0:s?"])
+            
+            if rename_existing:
                 bb_label = CONFIG.get('subtitle_labels', {}).get('bb_subs', 'BB Subs [English]')
                 metadata.extend([
                     "-metadata:s:s:0", "language=eng",
                     "-metadata:s:s:0", f"title={bb_label}"
                 ])
-            else:
-                # Just keep all existing subtitles
-                cmd.extend(["-map", "0:s?"])
         
-        # Add new subtitle files
-        subtitle_index = 1 if ep_config.get('rename_existing_bb_track', False) else 0
+        # 3. logic for New Subtitles
+        # We track input_count starting at 1 because video_path is input 0
+        input_count = 1
         
-        # Count existing subtitle streams if keeping them
-        if ep_config.get('keep_existing_subs', True) and not ep_config.get('rename_existing_bb_track', False):
-            # We need to figure out how many subtitle streams exist
-            # For simplicity, assume at least 1 if keeping existing
-            subtitle_index = 1  # Will be adjusted if needed
+        # Calculate metadata index for new streams
+        # If keeping existing subs, assume at least 1 exists (index 0), so new ones start at 1
+        # If NOT keeping existing, new ones start at 0
+        subtitle_index = 1 if keep_existing else 0
         
+        # Fan Subs
         if fan_sub_path and fan_sub_path.exists() and ep_config.get('add_fan_subs', True):
-            cmd.extend(["-i", str(fan_sub_path)])
-            subtitle_maps.append(f"-map {input_count}:s")
+            additional_inputs.extend(["-i", str(fan_sub_path)])
+            output_maps.extend(["-map", f"{input_count}:s"])
+            
             fan_label = CONFIG.get('subtitle_labels', {}).get('fan_subs', 'Fan Subs [English]')
             metadata.extend([
                 f"-metadata:s:s:{subtitle_index}", "language=eng",
@@ -427,9 +433,11 @@ def mux_subtitles_advanced(video_path: Path, fan_sub_path: Optional[Path],
             input_count += 1
             subtitle_index += 1
         
+        # BB Subs
         if bb_sub_path and bb_sub_path.exists() and ep_config.get('add_bb_subs', True):
-            cmd.extend(["-i", str(bb_sub_path)])
-            subtitle_maps.append(f"-map {input_count}:s")
+            additional_inputs.extend(["-i", str(bb_sub_path)])
+            output_maps.extend(["-map", f"{input_count}:s"])
+            
             bb_label = CONFIG.get('subtitle_labels', {}).get('bb_subs', 'BB Subs [English]')
             metadata.extend([
                 f"-metadata:s:s:{subtitle_index}", "language=eng",
@@ -437,33 +445,30 @@ def mux_subtitles_advanced(video_path: Path, fan_sub_path: Optional[Path],
             ])
             input_count += 1
         
-        # Add new subtitle maps
-        for sub_map in subtitle_maps:
-            cmd.extend(sub_map.split())
-        
-        # Add metadata
+        # 4. Construct Final Command
+        # Order: [ffmpeg] [input 0] [input 1..N] [maps] [metadata] [codecs] [output]
+        cmd.extend(additional_inputs)
+        cmd.extend(output_maps)
         cmd.extend(metadata)
         
-        # Copy codecs
         cmd.extend([
             "-c:v", "copy",
             "-c:a", "copy",
             "-c:s", "copy",
-            "-y"  # Overwrite output file if exists
+            "-y"
         ])
         
-        # Output file
         cmd.append(str(output_path))
         
-        # Log the command for debugging
         logger.debug(f"FFmpeg command: {' '.join(cmd)}")
         
-        # Run ffmpeg
         timeout = CONFIG.get('ffmpeg_timeout', 300)
         result = subprocess.run(
             cmd,
             capture_output=True,
             text=True,
+            encoding='utf-8',
+            errors='replace',
             timeout=timeout
         )
         
@@ -471,7 +476,9 @@ def mux_subtitles_advanced(video_path: Path, fan_sub_path: Optional[Path],
             logger.info(f"Successfully muxed: {output_path.name}")
             return True
         else:
-            logger.error(f"FFmpeg muxing failed: {result.stderr[:500]}")
+            logger.error(f"FFmpeg muxing failed for {video_path.name}")
+            error_log = result.stderr[-2000:] if result.stderr else "No error output"
+            logger.error(f"Error log:\n{error_log}")
             return False
     
     except subprocess.TimeoutExpired:
@@ -714,7 +721,7 @@ def validate_directories() -> bool:
 def main():
     """Main processing function."""
     logger.info("="*60)
-    logger.info("Detective Conan Archival Project")
+    logger.info("Detective Conan Archival Project - Subtitle Processing V2")
     logger.info("="*60)
     
     # Validate directories
@@ -763,5 +770,4 @@ def main():
 
 
 if __name__ == "__main__":
-
     main()

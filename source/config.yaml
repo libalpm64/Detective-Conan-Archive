@@ -128,7 +128,7 @@ directories:
 # ============================================================
 
 # FFSubSync timeout per episode (seconds)
-ffsubsync_timeout: 600
+ffsubsync_timeout: 45
 
 # FFmpeg muxing timeout per episode (seconds)
 ffmpeg_timeout: 300
@@ -144,7 +144,7 @@ cleanup_temp_files: true
 # ============================================================
 
 # Log level: DEBUG, INFO, WARNING, ERROR
-log_level: INFO
+log_level: ERROR
 
 # Log file name
 log_file: "detective_conan_processing.log"
