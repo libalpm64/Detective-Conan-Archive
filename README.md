@@ -24,7 +24,7 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 - Fan subs, good translation with some minor issues  
 - BB resynced, poor translation quality  
 
-### [BB] Detective Conan Remaster 723-753
+### [BB] Detective Conan Remaster 724-753
 - Fan subs, good translations  
 - BB resync, poor translation quality  
 
