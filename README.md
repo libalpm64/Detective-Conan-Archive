@@ -17,10 +17,9 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 - **ER** = Erai-Raws  
 
 ## Series Remasters
-### [CR] Detective Conan Remastered 001-123
-- CR subs are sufficient and high quality with no issues  
-- Fan subs  
-
+### [Erai-Raws] Detective Conan Remastered 001-123
+- Subs are high quality with no issues
+  
 ### [NFJP] Detective Conan Remaster 124-723
 - Fan subs, good translation with some minor issues  
 - BB resynced, poor translation quality  
