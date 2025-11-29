@@ -9,7 +9,7 @@ import os
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from process_detective_conan_v2 import (
+from detective_conan_archive import (
     process_episode,
     extract_episode_number,
     SHOWS_DIR,

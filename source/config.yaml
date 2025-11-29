@@ -104,7 +104,24 @@ subtitle_labels:
 # ============================================================
 
 # Base directory (auto-detected, but can override here)
-# base_dir: "C:\\Users\\xxxx\\Desktop\\Detective Conan (Fixing)"
+directories:
+  # Base directory for the project
+  base_dir: "C:\\Users\\snoop\\Desktop\DC"
+  
+  # Directory containing the show seasons/episodes
+  shows_dir: "Shows"
+  
+  # Directory containing fan subtitles
+  fan_subs_dir: "fan subs 0001-0757"
+  
+  # Directory containing BB subtitles
+  bb_subs_dir: "[Fabre-RAW] Detective Conan Remastered [NetflixJP] [1080p]"
+  
+  # Temporary directory for processing
+  temp_dir: "temp_processing"
+  
+  # Directory containing FFmpeg binaries (optional, if not in PATH)
+  ffmpeg_dir: "C:\\Program Files\\ffmpeg\\bin"
 
 # ============================================================
 # PROCESSING BEHAVIOR

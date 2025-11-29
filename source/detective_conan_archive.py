@@ -25,15 +25,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-BASE_DIR = Path(r"C:\Users\xxxx\Desktop\Desktop)")
+# Default base dir to where the script is
+BASE_DIR = Path(__file__).parent.absolute()
 CONFIG_FILE = BASE_DIR / "config.yaml"
-SHOWS_DIR = BASE_DIR / "Shows"
-FAN_SUBS_DIR = BASE_DIR / "fan subs 0001-0757"
-BB_SUBS_DIR = BASE_DIR / "[Fabre-RAW] Detective Conan Remastered [NetflixJP] [1080p]"
-TEMP_DIR = BASE_DIR / "temp_processing"
-
-# tmp directory
-TEMP_DIR.mkdir(exist_ok=True)
 
 # Load configuration
 def load_config() -> Dict:
@@ -57,9 +51,29 @@ def load_config() -> Dict:
 
 CONFIG = load_config()
 
-# FFmpeg and FFSubSync paths (Change this!)
-FFMPEG_PATH = r"C:\Program Files\ffmpeg\bin\ffmpeg.exe"
-FFPROBE_PATH = r"C:\Program Files\ffmpeg\bin\ffprobe.exe"
+# Update BASE_DIR from config if present
+if 'directories' in CONFIG and 'base_dir' in CONFIG['directories']:
+    BASE_DIR = Path(CONFIG['directories']['base_dir'])
+
+# Define other directories
+dirs = CONFIG.get('directories', {})
+SHOWS_DIR = BASE_DIR / dirs.get('shows_dir', "Shows")
+FAN_SUBS_DIR = BASE_DIR / dirs.get('fan_subs_dir', "fan subs 0001-0757")
+BB_SUBS_DIR = BASE_DIR / dirs.get('bb_subs_dir', "[Fabre-RAW] Detective Conan Remastered [NetflixJP] [1080p]")
+TEMP_DIR = BASE_DIR / dirs.get('temp_dir', "temp_processing")
+
+# tmp directory
+TEMP_DIR.mkdir(exist_ok=True)
+
+# FFmpeg and FFSubSync paths
+ffmpeg_dir = CONFIG.get('directories', {}).get('ffmpeg_dir')
+
+if ffmpeg_dir:
+    FFMPEG_PATH = str(Path(ffmpeg_dir) / "ffmpeg.exe")
+    FFPROBE_PATH = str(Path(ffmpeg_dir) / "ffprobe.exe")
+else:
+    FFMPEG_PATH = r"C:\Program Files\ffmpeg\bin\ffmpeg.exe"
+    FFPROBE_PATH = r"C:\Program Files\ffmpeg\bin\ffprobe.exe"
 
 # Check if local ffmpeg exists
 if not os.path.exists(FFMPEG_PATH):
@@ -68,8 +82,10 @@ if not os.path.exists(FFMPEG_PATH):
         FFMPEG_PATH = str(local_ffmpeg)
         FFPROBE_PATH = str(BASE_DIR / "ffprobe.exe")
     else:
-        FFMPEG_PATH = "ffmpeg"
-        FFPROBE_PATH = "ffprobe"
+        # Fallback to system path if not found
+        if not ffmpeg_dir: # Only fallback if not explicitly set in config
+            FFMPEG_PATH = "ffmpeg"
+            FFPROBE_PATH = "ffprobe"
 
 
 def extract_episode_number(filename: str) -> Optional[int]:
@@ -466,5 +482,4 @@ if __name__ == "__main__":
         subprocess.run(["pip", "install", "pyyaml"], check=True)
         import yaml
     
-
     main()
