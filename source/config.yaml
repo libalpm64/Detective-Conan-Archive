@@ -106,7 +106,7 @@ subtitle_labels:
 # Base directory (auto-detected, but can override here)
 directories:
   # Base directory for the project
-  base_dir: "C:\\Users\\snoop\\Desktop\DC"
+  base_dir: "C:\\Users\\snoop\\Desktop\\Detective Conan (Fixing)"
   
   # Directory containing the show seasons/episodes
   shows_dir: "Shows"
