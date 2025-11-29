@@ -1,150 +1,36 @@
-# Detective Conan Archival Project - Configuration File
-
-# ============================================================
-# PROCESSING OPTIONS
-# ============================================================
-
-# Skip processing dubbed episodes (CR-USA releases)
-# Set to 'true' to skip dubbed episodes (they already have good subs)
-# Set to 'false' to process them anyway (add fan subs + BB subs)
 skip_dubbed_episodes: false
+dubbed_episodes: [1, 2, 3, 4, 5, 7, 10, 43, 48, 49, 57, 58, 76, 128, 129, 176, 177, 178, 230, 231, 286, 287, 288, 345, 425]
 
-# Dubbed episode numbers (CR-USA releases)
-dubbed_episodes:
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
-  - 7
-  - 10
-  - 43
-  - 48
-  - 49
-  - 57
-  - 58
-  - 76
-  - 128
-  - 129
-  - 176
-  - 177
-  - 178
-  - 230
-  - 231
-  - 286
-  - 287
-  - 288
-  - 345
-  - 425
-
-# ============================================================
-# SUBTITLE TRACK HANDLING
-# ============================================================
-
-# For episodes 1-123 (Crunchyroll Multi-Sub releases)
-# These have existing subtitle tracks in multiple languages
-episodes_1_123:
-  # Keep existing subtitle tracks
-  keep_existing_subs: true
-  
-  # Add fan subs
-  add_fan_subs: true
-  
-  # Add BB subs (not available for these episodes)
-  add_bb_subs: false
-
-# For episodes 124-723 (Fabre-RAW NetflixJP releases)
-episodes_124_723:
-  # Keep existing subtitle tracks
-  keep_existing_subs: true
-  
-  # Add fan subs
-  add_fan_subs: true
-  
-  # Add BB subs
-  add_bb_subs: true
-
-# For episodes 724-753 (Need subtitle track renaming)
-# These already have BB subs embedded, just need track renamed
-episodes_724_753:
-  # Keep existing subtitle tracks (BB subs are already there)
-  keep_existing_subs: true
-  
-  # Add fan subs
-  add_fan_subs: true
-  
-  # Add BB subs (already embedded, will rename existing track)
-  add_bb_subs: false
-  
-  # Rename existing subtitle track to "BB Subs [English]"
-  rename_existing_bb_track: true
-
-# For episodes 754-1132 (Erai-raws with CR subs)
-episodes_754_1132:
-  # Keep existing subtitle tracks (CR subs already embedded)
-  keep_existing_subs: true
-  
-  # Add fan subs (available up to 757)
-  add_fan_subs: true
-  
-  # Add BB subs (embeded, not an option)
-  add_bb_subs: false
-
-# ============================================================
-# SUBTITLE TRACK LABELS
-# ============================================================
-
-# Labels for subtitle tracks
 subtitle_labels:
   fan_subs: "Fan Subs [English]"
   bb_subs: "BB Subs [English]"
-  
-# ============================================================
-# FILE PATHS
-# ============================================================
 
-# Base directory (auto-detected, but can override here)
+episodes_1_123:
+  keep_existing: true
+  fan: true
+  bb: false
+
+episodes_124_753:
+  keep_existing: false
+  fan: true
+  bb: true
+
+episodes_754_1132:
+  keep_existing: true
+  fan: true
+  bb: false
+
 directories:
-  # Base directory for the project
   base_dir: "C:\\Users\\snoop\\Desktop\\Detective Conan (Fixing)"
-  
-  # Directory containing the show seasons/episodes
   shows_dir: "Shows"
-  
-  # Directory containing fan subtitles
   fan_subs_dir: "fan subs 0001-0757"
-  
-  # Directory containing BB subtitles
   bb_subs_dir: "[Fabre-RAW] Detective Conan Remastered [NetflixJP] [1080p]"
-  
-  # Temporary directory for processing
   temp_dir: "temp_processing"
-  
-  # Directory containing FFmpeg binaries (optional, if not in PATH)
   ffmpeg_dir: "C:\\Program Files\\ffmpeg\\bin"
 
-# ============================================================
-# PROCESSING BEHAVIOR
-# ============================================================
-
-# FFSubSync timeout per episode (seconds)
 ffsubsync_timeout: 45
-
-# FFmpeg muxing timeout per episode (seconds)
 ffmpeg_timeout: 300
-
-# Create backup of original files before processing
 create_backups: false
-
-# Clean up temporary files after processing
 cleanup_temp_files: true
-
-# ============================================================
-# LOGGING
-# ============================================================
-
-# Log level: DEBUG, INFO, WARNING, ERROR
-log_level: ERROR
-
-# Log file name
-log_file: "detective_conan_processing.log"
+log_level: INFO
+log_file: "processing.log"
