@@ -25,7 +25,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-BASE_DIR = Path(r"C:\Users\snoop\Desktop\Detective Conan (Fixing)")
+BASE_DIR = Path(r"C:\Users\xxxx\Desktop\Desktop)")
 CONFIG_FILE = BASE_DIR / "config.yaml"
 SHOWS_DIR = BASE_DIR / "Shows"
 FAN_SUBS_DIR = BASE_DIR / "fan subs 0001-0757"
@@ -466,4 +466,5 @@ if __name__ == "__main__":
         subprocess.run(["pip", "install", "pyyaml"], check=True)
         import yaml
     
+
     main()
