@@ -17,7 +17,7 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 - **ER** = Erai-Raws  
 
 ## Series Remasters
-### [Erai-Raws] Detective Conan Remastered 001-123
+### [ER] Detective Conan Remastered 001-123
 - Subs are high quality with no issues
   
 ### [NFJP] Detective Conan Remaster 124-723
