@@ -36,7 +36,7 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 There is a current English dub effort going on. The new episodes that are dubbed are:  
 1-5, 7, 10, 43, 48-49, 57-58, 76, 128-129, 176-178, 230-231, 286-288, 345, 425
 
-This option will be toggleable. If you are not a fan of the dub, avoid using the CR remaster releases. The file size is large and of a lower quality.
+This option will be toggleable. If you are not a fan of the dub, avoid using the CR remaster releases. The file size is large and lower quality.
 
 ## Sources / Credits
 
