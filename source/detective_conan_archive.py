@@ -721,7 +721,7 @@ def validate_directories() -> bool:
 def main():
     """Main processing function."""
     logger.info("="*60)
-    logger.info("Detective Conan Archival Project - Subtitle Processing V2")
+    logger.info("Detective Conan Archival Project - Subtitle Processing")
     logger.info("="*60)
     
     # Validate directories
@@ -770,4 +770,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
