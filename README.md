@@ -20,13 +20,9 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 ### [ER] Detective Conan Remastered 001-123
 - Subs are high quality with no issues
   
-### [NFJP] Detective Conan Remaster 124-723
+### [NFJP] Detective Conan Remaster 124-753
 - Fan subs, good translation with some minor issues  
-- BB resynced, poor translation quality  
-
-### [BB] Detective Conan Remaster 724-753
-- BB subs (no resync) decent quality.
-- Fan subs, major syncing issues and other issues (Do not use these).
+- BB resynced, poor translation quality
 
 ### [ER] Detective Conan (Netflix JP) 754-1188
 - Crunchyroll subs, good quality  
@@ -106,7 +102,7 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 - [Erai-Raws] 001-123 https://nyaa.si/view/1539508 (Great subs, no need to add any)
 - [Fabre-Raw-NFJP] 124-723 https://nyaa.si/view/1939397  
 - [Fabre-Raw-CR-USA] Dubbed EP https://nyaa.si/view/2040031  (Only watch if you like the dub. Aggressive vibrant colors)
-- [Fabre-Raw-BB] 0453-0753 https://nyaa.si/view/1502227 (Only 724-753 should be used)  
+- [Fabre-Raw-NFJP] 724-762 https://nyaa.si/view/1916924
 - [Erai-Raws] 754-1132 https://nyaa.si/view/1862421 (Great subs, no need to add any)
 
 ### Subtitles
@@ -118,7 +114,7 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 - [Case-Closed] 001-130 https://nyaa.si/view/645282 (The funimation dub, no need to modify anything, less aggressive colors)
 - [DVDRJ2] 001-502 https://nyaa.si/view/836765 (The OG broadcasts, though it's very dated, this is less vibrant but noticeable quality drop, still supported)
 - [Anonymous-CR] 001-123 https://nyaa.si/view/1421295  (High filesize warning, mid-quality, messed up AR 1920x1080 instead of 1440x1080, deprecated but still supported)
-
+- [Fabre-Raw-BB] 0453-0753 https://nyaa.si/view/1502227 (Decent quality, okay translations, recommended range 724-753)  
 
 ### Projects
 - [ffmpeg] https://git.ffmpeg.org/ffmpeg.git  
