@@ -1,0 +1,1888 @@
+﻿1
+00:00:02,229 --> 00:00:05,629
+Huh? You got a letter from a dead person?
+
+2
+00:00:05,629 --> 00:00:08,429
+-For Heiji? -Yeah.
+
+3
+00:00:08,429 --> 00:00:11,129
+That person is my mother's acquaintance.
+
+4
+00:00:11,129 --> 00:00:12,729
+A person named Wakamatsu
+
+5
+00:00:12,729 --> 00:00:15,995
+who is the president of a design company in Tokyo.
+
+6
+00:00:15,995 --> 00:00:18,429
+I've met him several times before too,
+
+7
+00:00:18,429 --> 00:00:23,129
+but it seems he was killed at a villa in Karuizawa.
+
+8
+00:00:23,129 --> 00:00:26,005
+-Killed? -Yeah.
+
+9
+00:00:26,005 --> 00:00:27,129
+But it just so happened that
+
+10
+00:00:27,129 --> 00:00:30,029
+we were having a birthday party for Mr. Wakamatsu's wife
+
+11
+00:00:30,029 --> 00:00:32,011
+that day at the villa.
+
+12
+00:00:32,011 --> 00:00:33,129
+The local police seems to think that
+
+13
+00:00:33,129 --> 00:00:37,329
+a robber who broke into the villa encountered Mr. Wakamatsu,
+
+14
+00:00:37,329 --> 00:00:40,529
+and as a result ended up killing him.
+
+15
+00:00:40,529 --> 00:00:44,029
+But, why would he send you a letter, Heiji?
+
+16
+00:00:44,029 --> 00:00:47,329
+Don't tell me that he sent it out before he was killed?
+
+17
+00:00:47,329 --> 00:00:48,329
+No.
+
+18
+00:00:48,329 --> 00:00:52,029
+That letter is post marked 10 days after the crime,
+
+19
+00:00:52,029 --> 00:00:54,429
+so I don't think he's the one who sent it out.
+
+20
+00:00:54,429 --> 00:00:57,629
+The name of the sender is Kohei Wakamatsu,
+
+21
+00:00:57,629 --> 00:00:59,229
+but the contents of the letter
+
+22
+00:00:59,229 --> 00:01:01,629
+seems to have been written by the culprit who killed him.
+
+23
+00:01:01,629 --> 00:01:03,729
+-The culprit? -Yeah.
+
+24
+00:01:03,729 --> 00:01:06,429
+This is what is written in the letter.
+
+25
+00:01:06,429 --> 00:01:09,429
+"Dear Heiji Hattori.
+
+26
+00:01:09,429 --> 00:01:12,929
+I would like to see you, Mr. High School Detective
+
+27
+00:01:12,929 --> 00:01:16,629
+and confess the crime that I have committed.
+
+28
+00:01:16,629 --> 00:01:18,729
+But, even if I were to meet you,
+
+29
+00:01:18,729 --> 00:01:22,429
+I feel slightly doubtful whether you'd be able to visibly see me or not.
+
+30
+00:01:22,429 --> 00:01:26,629
+Why? Because I am a warped entity
+
+31
+00:01:26,629 --> 00:01:28,329
+that you people have made up on your own.
+
+32
+00:01:28,329 --> 00:01:29,629
+I'm an illusionary figure
+
+33
+00:01:29,629 --> 00:01:32,071
+that one cannot visibly see under normal circumstances.
+
+34
+00:01:32,071 --> 00:01:33,829
+Despite this, if you'd still like to see me,
+
+35
+00:01:33,829 --> 00:01:36,929
+I'll be waiting for you at the residence of the man
+
+36
+00:01:36,929 --> 00:01:40,079
+that I have killed during the night of the next full moon.
+
+37
+00:01:40,079 --> 00:01:42,729
+And, at the end of the letter,
+
+38
+00:01:42,729 --> 00:01:46,729
+Mr. Wakamatsu's address in Osaka is written."
+
+39
+00:01:46,729 --> 00:01:48,429
+And along with...
+
+40
+00:01:50,729 --> 00:01:54,093
+the key of the house was inside, too!
+
+41
+00:02:15,029 --> 00:02:16,729
+If all cases were men,
+
+42
+00:02:16,729 --> 00:02:18,117
+all hidden mysteries are women.
+
+43
+00:02:18,329 --> 00:02:20,119
+Heiji receives a letter and a key.
+
+44
+00:02:20,329 --> 00:02:22,121
+The mystery of the word that is carved on the tile!
+
+45
+00:02:22,329 --> 00:02:23,929
+He sees through the one and only truth.
+
+46
+00:02:23,929 --> 00:02:25,729
+A child in appearance with the I.Q. of an adult.
+
+47
+00:02:25,729 --> 00:02:27,929
+His name is Detective Conan!
+
+48
+00:03:52,211 --> 00:03:57,966
+"Design of Poison and Illusion (Eye)"
+
+49
+00:03:59,766 --> 00:04:01,066
+And?
+
+50
+00:04:01,066 --> 00:04:02,221
+Did you go to the house
+
+51
+00:04:02,221 --> 00:04:04,223
+where that ghost-like guy was waiting for you?
+
+52
+00:04:04,223 --> 00:04:07,566
+Of course I was planning to go and disclose his identity.
+
+53
+00:04:07,566 --> 00:04:09,566
+But I caught a cold.
+
+54
+00:04:09,566 --> 00:04:12,231
+Then she, without my permission took the key.
+
+55
+00:04:12,231 --> 00:04:14,566
+I went there in your place, Heiji!
+
+56
+00:04:14,566 --> 00:04:16,235
+-What? -You mean you went to
+
+57
+00:04:16,235 --> 00:04:18,237
+the haunted house all by yourself, Kazuha?
+
+58
+00:04:18,237 --> 00:04:21,266
+No. I took three friends along with me!
+
+59
+00:04:21,266 --> 00:04:22,241
+I persuaded them to come
+
+60
+00:04:22,241 --> 00:04:24,243
+saying that it was a game to test their courage.
+
+61
+00:04:24,243 --> 00:04:27,366
+Besides, it wasn't anything like a haunted house!
+
+62
+00:04:27,366 --> 00:04:28,766
+It seems that the late president
+
+63
+00:04:28,766 --> 00:04:32,251
+used to return to the house when he came back to Osaka.
+
+64
+00:04:32,251 --> 00:04:34,566
+The house was clean and neat, too.
+
+65
+00:04:34,566 --> 00:04:36,766
+The electricity was usable, too.
+
+66
+00:04:36,766 --> 00:04:40,266
+And? Was somebody waiting at that house?
+
+67
+00:04:40,266 --> 00:04:43,266
+Nope, there was no answer when we rang the doorbell.
+
+68
+00:04:43,266 --> 00:04:45,466
+So having no choice, I opened the door using the key
+
+69
+00:04:45,466 --> 00:04:46,866
+that I had with me and went inside,
+
+70
+00:04:46,866 --> 00:04:49,466
+but it was really fancy inside.
+
+71
+00:04:49,466 --> 00:04:50,766
+So although we went there thinking that
+
+72
+00:04:50,766 --> 00:04:52,266
+we were going to be testing our courage,
+
+73
+00:04:52,266 --> 00:04:53,666
+it turned out to be a visit to a gorgeous villa!
+
+74
+00:04:53,666 --> 00:04:57,066
+We decided to check out what the bath room looked like
+
+75
+00:04:57,066 --> 00:04:59,566
+and went to see it.
+
+76
+00:04:59,566 --> 00:05:01,166
+You took a look and?
+
+77
+00:05:01,166 --> 00:05:03,866
+An eerie looking long-haired person
+
+78
+00:05:03,866 --> 00:05:06,966
+was leaning against the wall of the bath room and sitting down!
+
+79
+00:05:06,966 --> 00:05:08,287
+What?
+
+80
+00:05:08,287 --> 00:05:10,289
+Did you talk to that person?
+
+81
+00:05:10,466 --> 00:05:13,266
+Before I even got a chance to talk to that person,
+
+82
+00:05:13,266 --> 00:05:15,266
+the lights went out.
+
+83
+00:05:15,266 --> 00:05:16,966
+I was talking over with my friends
+
+84
+00:05:16,966 --> 00:05:19,566
+whether we should call the police or not.
+
+85
+00:05:19,566 --> 00:05:21,766
+Then, we heard an eerie rustling noise.
+
+86
+00:05:21,766 --> 00:05:25,066
+We got scared and decided to leave the house right away then,
+
+87
+00:05:25,066 --> 00:05:26,966
+the lights suddenly turned back on.
+
+88
+00:05:26,966 --> 00:05:30,566
+And the person who there a moment ago was gone!
+
+89
+00:05:33,666 --> 00:05:35,366
+I'm sure the guy got away
+
+90
+00:05:35,366 --> 00:05:37,466
+after turning the lights off with remote control or something.
+
+91
+00:05:37,466 --> 00:05:39,866
+Well, if he's the only one who disappeared,
+
+92
+00:05:39,866 --> 00:05:42,321
+I wouldn't have come all the way to Tokyo!
+
+93
+00:05:42,566 --> 00:05:44,066
+There was a letter left behind at the bath room
+
+94
+00:05:44,066 --> 00:05:45,866
+where the guy disappeared.
+
+95
+00:05:45,866 --> 00:05:47,166
+A letter?
+
+96
+00:05:47,166 --> 00:05:50,966
+This is what seems to have been typed by a word processor.
+
+97
+00:05:50,966 --> 00:05:53,266
+"The only thing that disappeared is your physical body
+
+98
+00:05:53,266 --> 00:05:55,666
+and not the words!"
+
+99
+00:05:55,666 --> 00:05:58,337
+Words? What do you mean?
+
+100
+00:05:58,337 --> 00:06:01,966
+On the tile wall that the guy was leaning against, near his head,
+
+101
+00:06:01,966 --> 00:06:04,866
+it seems that there was a carving by a knife of something.
+
+102
+00:06:04,866 --> 00:06:07,166
+-Isn't that right? -Yep.
+
+103
+00:06:07,166 --> 00:06:09,266
+It was written in three letter of the alphabet.
+
+104
+00:06:09,266 --> 00:06:12,866
+Spelled "E-Y-E" was written largely!
+
+105
+00:06:12,866 --> 00:06:16,366
+E-Y-E?
+
+106
+00:06:16,366 --> 00:06:18,357
+Eye.
+
+107
+00:06:18,357 --> 00:06:19,766
+Eye...
+
+108
+00:06:19,766 --> 00:06:22,361
+Those letters disappeared along with the person,
+
+109
+00:06:22,566 --> 00:06:23,566
+and yet on the piece of paper it was written
+
+110
+00:06:23,566 --> 00:06:25,466
+that the word didn't disappear.
+
+111
+00:06:25,466 --> 00:06:29,066
+Then, maybe the tile was switched with a tile
+
+112
+00:06:29,066 --> 00:06:31,366
+from another place where there was no carving?
+
+113
+00:06:31,366 --> 00:06:35,266
+There were a lot of scratches on the bottom part of the tile wall.
+
+114
+00:06:35,266 --> 00:06:37,766
+Although I thought the same thing at first...
+
+115
+00:06:37,766 --> 00:06:38,766
+As for that tile,
+
+116
+00:06:38,766 --> 00:06:41,066
+the more you go from the top of the wall to below,
+
+117
+00:06:41,066 --> 00:06:43,066
+the color gradually got paler.
+
+118
+00:06:43,066 --> 00:06:46,066
+So if you switched the top tiles to those below,
+
+119
+00:06:46,066 --> 00:06:48,666
+it'd be obvious because the color would be different!
+
+120
+00:06:48,666 --> 00:06:51,966
+Did you go to see the tile too, Heiji?
+
+121
+00:06:51,966 --> 00:06:53,166
+Yeah.
+
+122
+00:06:53,166 --> 00:06:56,395
+But that house was scheduled for rebuilding construction from that day
+
+123
+00:06:56,395 --> 00:06:59,266
+and there were a lot of workers there.
+
+124
+00:06:59,266 --> 00:07:01,666
+They wouldn't let me inside the house.
+
+125
+00:07:01,666 --> 00:07:05,666
+Then, how long were the lights out in that house?
+
+126
+00:07:05,666 --> 00:07:09,366
+I think it lasted only less than 5 minutes.
+
+127
+00:07:09,366 --> 00:07:12,166
+If so, maybe a tile of the same color as the one
+
+128
+00:07:12,166 --> 00:07:15,366
+with the word carved on it was prepared beforehand.
+
+129
+00:07:15,366 --> 00:07:17,266
+I guess it'd be appropriate to think that
+
+130
+00:07:17,266 --> 00:07:19,066
+the guy switched the tiles in the dark
+
+131
+00:07:19,066 --> 00:07:22,766
+and took the tile with the word on it away with him.
+
+132
+00:07:22,766 --> 00:07:25,866
+But, why try such a stupid trick?
+
+133
+00:07:25,866 --> 00:07:27,666
+It's only natural to think that way, right?
+
+134
+00:07:27,666 --> 00:07:30,429
+But now we're getting to the main issue.
+
+135
+00:07:30,429 --> 00:07:33,166
+Mr. Wakamatsu who was stabbed to death in Karuizawa
+
+136
+00:07:33,166 --> 00:07:35,866
+was also found in a bath room with the same kind of tile,
+
+137
+00:07:35,866 --> 00:07:38,437
+but when he was first found,
+
+138
+00:07:38,437 --> 00:07:42,441
+there was a dying message that he had written in his own blood.
+
+139
+00:07:42,441 --> 00:07:45,866
+However, it seems when the police got there, it was gone.
+
+140
+00:07:46,766 --> 00:07:50,066
+A dying message disappeared?
+
+141
+00:07:50,066 --> 00:07:52,766
+There was blood on Mr. Wakamatsu's fingers
+
+142
+00:07:52,766 --> 00:07:55,366
+and it's obvious that he had written something,
+
+143
+00:07:55,366 --> 00:07:57,166
+so don't you think it's strange?
+
+144
+00:07:57,166 --> 00:07:59,266
+Could it be that the culprit who noticed it,
+
+145
+00:07:59,266 --> 00:08:01,666
+snuck back and wiped it off?
+
+146
+00:08:01,666 --> 00:08:04,463
+If so, there luminol reaction should've been found from the tiles
+
+147
+00:08:04,463 --> 00:08:06,766
+around Mr. Wakamatsu's fingers, right?
+
+148
+00:08:06,766 --> 00:08:09,666
+Then, maybe like the person that Kazuha and her friends saw,
+
+149
+00:08:09,666 --> 00:08:12,471
+the tiles were switched with ones that had no blood on them?
+
+150
+00:08:12,471 --> 00:08:13,866
+Well, just at that time,
+
+151
+00:08:13,866 --> 00:08:17,866
+Mr. Wakamatsu was in the midst of redoing the tiles himself,
+
+152
+00:08:17,866 --> 00:08:20,479
+and the glue didn't seem to have dried completely yet.
+
+153
+00:08:20,479 --> 00:08:23,166
+So, the tiles could've been switched.
+
+154
+00:08:23,166 --> 00:08:25,266
+But there it was the same as what Kazuha saw,
+
+155
+00:08:25,266 --> 00:08:28,487
+and the tiles gradually got paler towards the bottom.
+
+156
+00:08:28,487 --> 00:08:32,491
+So, if they were switched, it would be readily visible.
+
+157
+00:08:32,491 --> 00:08:36,495
+If that culprit erased the word using the same trick that Kazuha saw,
+
+158
+00:08:36,495 --> 00:08:39,466
+-wouldn't that be of concern? -Yes! It would!
+
+159
+00:08:39,466 --> 00:08:43,566
+So, I had Mom get me to go to Mr. Wakamatsu's main house in Tokyo
+
+160
+00:08:43,566 --> 00:08:47,766
+to ask about the incident,
+
+161
+00:08:47,766 --> 00:08:49,466
+but would you guy like to come along too?
+
+162
+00:08:49,466 --> 00:08:51,666
+Then, can I come along too?
+
+163
+00:08:51,666 --> 00:08:55,066
+Sorry, I promised that only five of us would go!
+
+164
+00:08:55,066 --> 00:08:56,515
+What?
+
+165
+00:08:59,666 --> 00:09:01,666
+It's better for you this way, right?
+
+166
+00:09:01,666 --> 00:09:03,366
+Sort of.
+
+167
+00:09:03,366 --> 00:09:05,166
+-Shoots. -Sorry about that.
+
+168
+00:09:07,366 --> 00:09:08,866
+My...
+
+169
+00:09:08,866 --> 00:09:12,531
+So, you're Shizuka's son, Heiji?
+
+170
+00:09:12,531 --> 00:09:14,533
+Is this the first time we've met?
+
+171
+00:09:14,533 --> 00:09:15,766
+Yeah.
+
+172
+00:09:15,766 --> 00:09:19,566
+My husband's always told me about you.
+
+173
+00:09:19,566 --> 00:09:22,966
+He used to say that you're really sharp despite your age.
+
+174
+00:09:22,966 --> 00:09:25,466
+He said that you're probably a good match
+
+175
+00:09:25,466 --> 00:09:28,547
+with another high school detective called Shinichi Kudo!
+
+176
+00:09:32,266 --> 00:09:36,266
+Well, if you ask me, this famous Detective Kogoro Mouri,
+
+177
+00:09:36,266 --> 00:09:39,866
+their battle is like the kettle calling the black pot!
+
+178
+00:09:42,066 --> 00:09:44,066
+Hey, is dinner ready yet?
+
+179
+00:09:44,066 --> 00:09:45,366
+Ikuro.
+
+180
+00:09:45,366 --> 00:09:47,366
+I'm famished and on the verge of starving to death,
+
+181
+00:09:47,366 --> 00:09:50,266
+where's dinner?
+
+182
+00:09:50,266 --> 00:09:52,266
+I'm sorry.
+
+183
+00:09:52,266 --> 00:09:54,573
+The housekeeper went out to get some soy sauce,
+
+184
+00:09:54,573 --> 00:09:56,575
+so wait a little while more, okay?
+
+185
+00:09:56,575 --> 00:09:58,566
+Then, tell her this when she gets back!
+
+186
+00:09:58,566 --> 00:10:02,366
+To give me a bigger serving of dinner than the others!
+
+187
+00:10:03,866 --> 00:10:06,366
+-Is he your son? -Yes.
+
+188
+00:10:06,366 --> 00:10:10,166
+But I'm his step-mother, you see.
+
+189
+00:10:10,166 --> 00:10:12,591
+We remarried.
+
+190
+00:10:14,366 --> 00:10:16,966
+Oh? Guests?
+
+191
+00:10:16,966 --> 00:10:19,166
+He's the detective I told you about the other day
+
+192
+00:10:19,166 --> 00:10:21,266
+and his company.
+
+193
+00:10:21,266 --> 00:10:23,266
+I see.
+
+194
+00:10:23,266 --> 00:10:25,366
+But so many...
+
+195
+00:10:25,366 --> 00:10:26,866
+Is anything wrong?
+
+196
+00:10:26,866 --> 00:10:28,366
+Oh, no.
+
+197
+00:10:28,366 --> 00:10:32,611
+I bought some baumkuchen that's the president's favorite,
+
+198
+00:10:32,611 --> 00:10:34,613
+but I don't think there are enough pieces.
+
+199
+00:10:34,866 --> 00:10:36,615
+I guess it'll be fine,
+
+200
+00:10:36,615 --> 00:10:40,619
+because the president's dead and not here anymore.
+
+201
+00:10:40,619 --> 00:10:42,621
+I tasted a bit of it a while ago,
+
+202
+00:10:42,621 --> 00:10:44,066
+so I don't want any either.
+
+203
+00:10:44,066 --> 00:10:45,966
+Hey, Fujinami!
+
+204
+00:10:45,966 --> 00:10:48,266
+Uh, who are these people?
+
+205
+00:10:48,266 --> 00:10:50,366
+This is Mr. Masashige Shiina,
+
+206
+00:10:50,366 --> 00:10:52,631
+the head of our business affairs office
+
+207
+00:10:52,631 --> 00:10:56,635
+and chief designer, Mr. Sumio Fujinami!
+
+208
+00:10:56,635 --> 00:10:59,166
+Is Ms. Satake here?
+
+209
+00:10:59,166 --> 00:11:00,366
+Oh, yes.
+
+210
+00:11:00,366 --> 00:11:03,666
+Ikuro seems to be annoyed because he's hungry.
+
+211
+00:11:03,666 --> 00:11:06,266
+I think having some baumkuchen may calm him down,
+
+212
+00:11:06,266 --> 00:11:07,966
+so could you serve us some tea?
+
+213
+00:11:07,966 --> 00:11:09,666
+Sure.
+
+214
+00:11:09,666 --> 00:11:11,066
+Will the Prince of Wales brand
+
+215
+00:11:11,066 --> 00:11:14,653
+that the president used to like be all right?
+
+216
+00:11:14,866 --> 00:11:16,266
+Yes, that'll be fine.
+
+217
+00:11:16,266 --> 00:11:19,266
+I'll do so right away, ma'am.
+
+218
+00:11:19,266 --> 00:11:20,659
+Who is that woman?
+
+219
+00:11:20,659 --> 00:11:22,266
+She's Ms. Yoshimi Satake,
+
+220
+00:11:22,266 --> 00:11:24,066
+who used to be my husband's secretary.
+
+221
+00:11:24,066 --> 00:11:27,266
+But she works as my secretary now.
+
+222
+00:11:27,266 --> 00:11:31,066
+Since everyone who was at the villa
+
+223
+00:11:31,066 --> 00:11:34,066
+when my husband died is here except for the housekeeper,
+
+224
+00:11:34,066 --> 00:11:38,066
+so shall we talk over the day of the incident in the living room?
+
+225
+00:11:41,766 --> 00:11:44,966
+Did your husband like to do Sunday carpentry?
+
+226
+00:11:44,966 --> 00:11:47,866
+Yes. That's why despite my birthday party that day,
+
+227
+00:11:47,866 --> 00:11:51,366
+he said since they were tiles that he designed himself
+
+228
+00:11:51,366 --> 00:11:53,866
+and special ordered that he wanted to redo it himself.
+
+229
+00:11:53,866 --> 00:11:56,366
+Well, I don't think that president even imagined
+
+230
+00:11:56,366 --> 00:11:58,266
+something like that would happen to him, though.
+
+231
+00:11:58,266 --> 00:11:59,966
+Mr. Fujinami!
+
+232
+00:11:59,966 --> 00:12:01,666
+Yes, siree.
+
+233
+00:12:01,666 --> 00:12:05,166
+And, who first discovered his body?
+
+234
+00:12:05,166 --> 00:12:06,966
+That was...
+
+235
+00:12:06,966 --> 00:12:08,366
+Me!
+
+236
+00:12:08,366 --> 00:12:11,466
+I went to the bath room thinking to help master,
+
+237
+00:12:11,466 --> 00:12:14,713
+and found him lying on the floor smeared with blood.
+
+238
+00:12:14,713 --> 00:12:16,166
+I'm sorry.
+
+239
+00:12:16,166 --> 00:12:17,766
+I heard voices, so...
+
+240
+00:12:17,766 --> 00:12:19,866
+She's the housekeeper, Ms. Yonehara.
+
+241
+00:12:19,866 --> 00:12:23,566
+Then, you're the one who also saw the dying message in question?
+
+242
+00:12:23,566 --> 00:12:25,366
+Yes, sir.
+
+243
+00:12:25,366 --> 00:12:28,066
+And? What was written?
+
+244
+00:12:28,066 --> 00:12:30,729
+If you saw it before it disappeared, you remember, don't you?
+
+245
+00:12:30,729 --> 00:12:33,466
+Yes. If I remember correctly, it was written in alphabet.
+
+246
+00:12:33,466 --> 00:12:35,866
+Enough of that already!
+
+247
+00:12:35,866 --> 00:12:38,166
+It's going to spoil the taste of the baumkuchen!
+
+248
+00:12:38,166 --> 00:12:40,739
+Come on, cut it for me, will you?
+
+249
+00:12:40,739 --> 00:12:42,741
+Yes, sir.
+
+250
+00:12:42,741 --> 00:12:44,743
+I'm the one who should be doing the cutting!
+
+251
+00:12:44,743 --> 00:12:46,745
+Then, you cut the pieces, Ms. Yonehara.
+
+252
+00:12:46,745 --> 00:12:47,966
+And I'll put them on the plate.
+
+253
+00:12:47,966 --> 00:12:49,766
+-More than that... -Yes.
+
+254
+00:12:49,766 --> 00:12:52,751
+Since all the major members of the company are here,
+
+255
+00:12:52,966 --> 00:12:55,566
+let's talk about the next would-be president!
+
+256
+00:12:58,066 --> 00:12:59,366
+Right now, Mom,
+
+257
+00:12:59,366 --> 00:13:02,761
+the vice-president is serving as temporary substitute president,
+
+258
+00:13:02,966 --> 00:13:06,765
+but how about jumping a flight of stairs and appointing me as president?
+
+259
+00:13:06,765 --> 00:13:08,466
+Although I'm just an ordinary employee now,
+
+260
+00:13:08,466 --> 00:13:11,366
+I'm going to eventually take after my Dad
+
+261
+00:13:11,366 --> 00:13:14,266
+and become the president.
+
+262
+00:13:14,266 --> 00:13:18,266
+That's right, isn't it, Mother?
+
+263
+00:13:18,266 --> 00:13:20,779
+Yes.
+
+264
+00:13:20,966 --> 00:13:23,566
+No problem, then!
+
+265
+00:13:23,566 --> 00:13:26,566
+Make me president!
+
+266
+00:13:26,566 --> 00:13:30,366
+That's most likely what my late Dad wants too.
+
+267
+00:13:31,666 --> 00:13:35,366
+Hey! Don't eat it before it's put on the plate.
+
+268
+00:13:35,366 --> 00:13:38,166
+Idiot! Eating it like this is...
+
+269
+00:13:51,766 --> 00:13:52,811
+Ikuro!
+
+270
+00:13:53,566 --> 00:13:54,813
+Ikuro!
+
+271
+00:13:54,813 --> 00:13:56,815
+Don't move!
+
+272
+00:13:56,815 --> 00:13:59,966
+Until I, the famed Detective Kogoro Mouri tell you it's okay,
+
+273
+00:13:59,966 --> 00:14:02,266
+don't anybody move!
+
+274
+00:14:02,266 --> 00:14:03,666
+But...
+
+275
+00:14:03,666 --> 00:14:06,825
+these two young men have already...
+
+276
+00:14:06,825 --> 00:14:09,366
+No good. He's already dead.
+
+277
+00:14:09,366 --> 00:14:10,829
+-What? -What?
+
+278
+00:14:10,829 --> 00:14:13,666
+It seems to be a cyanide hydrogen type of toxin.
+
+279
+00:14:13,666 --> 00:14:14,833
+Which means that
+
+280
+00:14:14,833 --> 00:14:18,837
+it could've been in the baumkuchen that he ate a while ago.
+
+281
+00:14:18,837 --> 00:14:20,366
+Ran and the others!
+
+282
+00:14:20,366 --> 00:14:23,166
+Don't eat the baumkuchen that was served a while ago, okay?
+
+283
+00:14:23,166 --> 00:14:24,843
+Yeah.
+
+284
+00:14:25,066 --> 00:14:26,466
+Kazuha, get on the phone!
+
+285
+00:14:26,466 --> 00:14:29,266
+-And call the police? -Yeah!
+
+286
+00:14:29,266 --> 00:14:32,166
+Tell them that the idiot who had the nerve to kill a person
+
+287
+00:14:32,166 --> 00:14:34,166
+right in front of a detective is here!
+
+288
+00:14:41,150 --> 00:14:44,850
+The victim is Ikuro Wakamatsu, age 25.
+
+289
+00:14:44,850 --> 00:14:46,850
+He's the son of company president Kyohei Wakamatsu
+
+290
+00:14:46,850 --> 00:14:50,450
+of a design company who died last month in Karuizawa.
+
+291
+00:14:50,450 --> 00:14:52,871
+Is that correct?
+
+292
+00:14:52,871 --> 00:14:54,873
+Yes.
+
+293
+00:14:55,050 --> 00:14:58,650
+But, just when was the poison put into the baumkuchen?
+
+294
+00:14:58,650 --> 00:15:00,650
+I don't know when,
+
+295
+00:15:00,650 --> 00:15:03,350
+but it seems that the poison was put into a capsule.
+
+296
+00:15:03,350 --> 00:15:05,450
+-Huh? -See.
+
+297
+00:15:05,450 --> 00:15:09,250
+There's a capsule like thing at the bottom of the teacup!
+
+298
+00:15:09,250 --> 00:15:10,889
+Though it's pretty melted.
+
+299
+00:15:12,550 --> 00:15:15,750
+The culprit probably cracked the capsule
+
+300
+00:15:15,750 --> 00:15:18,450
+and sprinkled the poison onto the baumkuchen,
+
+301
+00:15:18,450 --> 00:15:20,899
+and while we were distracted by the corpse,
+
+302
+00:15:20,899 --> 00:15:23,250
+he sunk the capsule into the teacup.
+
+303
+00:15:23,250 --> 00:15:26,650
+Once it melts, you can't get fingerprints from it.
+
+304
+00:15:26,650 --> 00:15:27,950
+Which means that
+
+305
+00:15:27,950 --> 00:15:31,550
+the person who was near the teacup is the culprit?
+
+306
+00:15:31,550 --> 00:15:34,350
+But when everyone was told to stay away from the corpse,
+
+307
+00:15:34,350 --> 00:15:37,350
+everybody gathered over to this table.
+
+308
+00:15:37,350 --> 00:15:40,250
+So anybody who was in this room at that time
+
+309
+00:15:40,250 --> 00:15:44,450
+could've put the capsule with the poison inside the cup, no?
+
+310
+00:15:44,450 --> 00:15:46,450
+It... It's not me!
+
+311
+00:15:46,450 --> 00:15:50,450
+I didn't go near the baumkuchen even once.
+
+312
+00:15:50,450 --> 00:15:53,450
+Moreover, that teacup is mine.
+
+313
+00:15:54,350 --> 00:15:56,935
+Then, who cut the baumkuchen into divided pieces?
+
+314
+00:15:56,935 --> 00:15:59,850
+I'm the one who cut it.
+
+315
+00:15:59,850 --> 00:16:01,250
+As for putting the pieces on the plate,
+
+316
+00:16:01,250 --> 00:16:03,750
+I had Ms. Satake help me.
+
+317
+00:16:03,750 --> 00:16:06,945
+I cut the baumkuchen into 8 pieces as she told me.
+
+318
+00:16:06,945 --> 00:16:08,947
+Divide into eight?
+
+319
+00:16:09,150 --> 00:16:10,650
+I wanted it divided into eight because there are 5 guests,
+
+320
+00:16:10,650 --> 00:16:13,250
+Mrs. Wakamatsu, and her son Ikuro.
+
+321
+00:16:13,250 --> 00:16:18,957
+Plus Mr. Shiina, the managing director who loves sweets.
+
+322
+00:16:18,957 --> 00:16:21,950
+The managing director's the one who bought the baumkuchen,
+
+323
+00:16:21,950 --> 00:16:23,750
+and I thought that if we cut it into more pieces,
+
+324
+00:16:23,750 --> 00:16:26,550
+the pieces would be too small.
+
+325
+00:16:26,550 --> 00:16:28,450
+So you're the one who bought it?
+
+326
+00:16:28,450 --> 00:16:29,950
+Yes, sir.
+
+327
+00:16:29,950 --> 00:16:34,550
+The late president and I loved the baumkuchen of that shop,
+
+328
+00:16:34,550 --> 00:16:36,975
+so I always bring it along when I come here.
+
+329
+00:16:36,975 --> 00:16:39,350
+I had Mr. Fujinami stop by
+
+330
+00:16:39,350 --> 00:16:41,650
+at the shop on our way here by car today, too.
+
+331
+00:16:41,650 --> 00:16:42,981
+Come to think of it,
+
+332
+00:16:42,981 --> 00:16:46,750
+you were saying that you picked on the baumkuchen, didn't you?
+
+333
+00:16:46,750 --> 00:16:49,650
+I just took a really small piece!
+
+334
+00:16:49,650 --> 00:16:52,350
+I was in the car and waiting in front of the cake shop
+
+335
+00:16:52,350 --> 00:16:55,650
+when the managing director handed me the box of baumkuchen
+
+336
+00:16:55,650 --> 00:16:58,050
+saying that he forgot to get the receipt
+
+337
+00:16:58,050 --> 00:17:00,650
+and went back into the shop.
+
+338
+00:17:00,650 --> 00:17:03,001
+So, I just got a bit playful while waiting
+
+339
+00:17:03,001 --> 00:17:05,003
+-and picked on a little piece. -Right!
+
+340
+00:17:05,003 --> 00:17:07,350
+Mine was a little broken off!
+
+341
+00:17:07,350 --> 00:17:08,550
+In other words,
+
+342
+00:17:08,550 --> 00:17:13,850
+you could've sprinkled poison on the entire baumkuchen?
+
+343
+00:17:14,350 --> 00:17:16,250
+Then, are you saying that the poison
+
+344
+00:17:16,250 --> 00:17:18,250
+was sprinkled on the entire baumkuchen,
+
+345
+00:17:18,250 --> 00:17:21,850
+and that Ikuro just happened to eat it before the others?
+
+346
+00:17:21,850 --> 00:17:23,850
+No, it was a logical consequence!
+
+347
+00:17:23,850 --> 00:17:26,550
+It seems that Ikuro was really hungry, you see.
+
+348
+00:17:26,550 --> 00:17:29,027
+But even if it were to be so,
+
+349
+00:17:29,250 --> 00:17:33,550
+it wouldn't be necessary to drop the capsule into the teacup then.
+
+350
+00:17:33,550 --> 00:17:36,550
+-It's fake! -Fake?
+
+351
+00:17:36,550 --> 00:17:40,050
+It was set to make it look as if the poison was sprinkled on here,
+
+352
+00:17:40,050 --> 00:17:42,550
+so that the one who couldn't come near the baumkuchen
+
+353
+00:17:42,550 --> 00:17:44,050
+wouldn't be suspected.
+
+354
+00:17:44,050 --> 00:17:45,450
+Isn't that right?
+
+355
+00:17:45,450 --> 00:17:47,850
+If so, would I from my side go
+
+356
+00:17:47,850 --> 00:17:49,550
+and tell you that I picked on it?
+
+357
+00:17:49,550 --> 00:17:53,950
+Besides, after we got here and I was parking the car into the garage,
+
+358
+00:17:53,950 --> 00:17:56,350
+the managing director took the baumkuchen into the house first,
+
+359
+00:17:56,350 --> 00:18:00,050
+so he also had the chance to lace it with poison.
+
+360
+00:18:00,050 --> 00:18:01,059
+In the first place,
+
+361
+00:18:01,250 --> 00:18:04,650
+we didn't know that the stupid brat was hungry,
+
+362
+00:18:04,650 --> 00:18:06,350
+so why would we do something as crazy as
+
+363
+00:18:06,350 --> 00:18:08,750
+to sprinkle poison over the entire baumkuchen?
+
+364
+00:18:08,750 --> 00:18:10,550
+I mean, if someone else ate it first,
+
+365
+00:18:10,550 --> 00:18:12,550
+that person would die, right?
+
+366
+00:18:14,050 --> 00:18:17,075
+By the way, why was Ikuro so hungry?
+
+367
+00:18:17,075 --> 00:18:18,850
+I went out to buy soy sauce that we ran out of,
+
+368
+00:18:18,850 --> 00:18:21,350
+so dinner was delayed.
+
+369
+00:18:21,350 --> 00:18:24,150
+Who else knew that he was hungry?
+
+370
+00:18:24,150 --> 00:18:27,950
+The secretary Ms. Satake, Ms. Yonehara the housekeeper,
+
+371
+00:18:27,950 --> 00:18:29,950
+and I could've all figured out that he was hungry, no?
+
+372
+00:18:29,950 --> 00:18:31,650
+Yes.
+
+373
+00:18:31,650 --> 00:18:34,650
+If I remember correctly, Ikuro grabbed 1 piece of baumkuchen
+
+374
+00:18:34,650 --> 00:18:38,350
+out of the two that were on the tray and ate it.
+
+375
+00:18:38,350 --> 00:18:40,650
+-But does he always eat like that? -Yes.
+
+376
+00:18:40,650 --> 00:18:42,350
+He says that it tastes better that way.
+
+377
+00:18:42,350 --> 00:18:45,103
+So he doesn't use a fork even when he eats shortcake.
+
+378
+00:18:45,103 --> 00:18:47,105
+Don't tell me that somebody who wanted
+
+379
+00:18:47,105 --> 00:18:48,250
+to make Ikuro who was greedy over food,
+
+380
+00:18:48,250 --> 00:18:50,550
+take a big piece, cut a bit piece
+
+381
+00:18:50,550 --> 00:18:51,950
+and sprinkled poison on that piece?
+
+382
+00:18:51,950 --> 00:18:54,450
+I cut it into 8 even pieces!
+
+383
+00:18:54,450 --> 00:18:55,850
+The pieces that I served all of you
+
+384
+00:18:55,850 --> 00:18:59,117
+were cut into same size pieces, weren't they?
+
+385
+00:18:59,117 --> 00:19:02,150
+At any rate, we're going to be checking
+
+386
+00:19:02,150 --> 00:19:05,123
+the left-over baumkuchen and teacups in detail from now,
+
+387
+00:19:05,123 --> 00:19:07,550
+so after you're done having your body checked,
+
+388
+00:19:07,550 --> 00:19:10,250
+please wait in another room.
+
+389
+00:19:12,450 --> 00:19:14,650
+But, what shall I do?
+
+390
+00:19:14,650 --> 00:19:17,135
+The deadline for the orders of the designs we received
+
+391
+00:19:17,350 --> 00:19:19,550
+is at the end of this month,
+
+392
+00:19:19,550 --> 00:19:22,350
+and yet after what happened to Ikuro...
+
+393
+00:19:22,350 --> 00:19:25,850
+At this rate, I guess we won't be able to go home tonight.
+
+394
+00:19:25,850 --> 00:19:27,150
+No joke.
+
+395
+00:19:27,150 --> 00:19:29,450
+And I've still got unfinished work to take care of.
+
+396
+00:19:29,450 --> 00:19:31,149
+I also have a document
+
+397
+00:19:31,149 --> 00:19:33,550
+that I need you to sign and seal, vice-president.
+
+398
+00:19:33,550 --> 00:19:36,750
+And I sent the characters, colors and designs
+
+399
+00:19:36,750 --> 00:19:39,157
+that were chosen to the computer here,
+
+400
+00:19:39,350 --> 00:19:41,159
+but did you take a look at it?
+
+401
+00:19:41,159 --> 00:19:42,750
+I told you to print things like that out
+
+402
+00:19:42,750 --> 00:19:44,450
+and then show it to me, didn't I?
+
+403
+00:19:44,450 --> 00:19:46,050
+I'm sorry.
+
+404
+00:19:46,050 --> 00:19:49,550
+The president used to tell me to do so, that's why I...
+
+405
+00:19:49,550 --> 00:19:52,650
+The computer here has a different operating system from mine,
+
+406
+00:19:52,650 --> 00:19:54,850
+so I can't use it.
+
+407
+00:19:54,850 --> 00:19:56,350
+Well, I'll look at it on the monitor together
+
+408
+00:19:56,350 --> 00:19:57,850
+with the managing director later,
+
+409
+00:19:57,850 --> 00:19:59,177
+so let me know which file it is!
+
+410
+00:19:59,350 --> 00:20:02,250
+-Yes, ma'am. -Talking of the president...
+
+411
+00:20:02,250 --> 00:20:06,340
+What that stupid son of his said a while ago, was he serious?
+
+412
+00:20:06,340 --> 00:20:08,850
+About him taking over the company eventually
+
+413
+00:20:08,850 --> 00:20:10,750
+because he was blood related to the president?
+
+414
+00:20:10,750 --> 00:20:13,750
+-I was also surprised. -Me too.
+
+415
+00:20:13,750 --> 00:20:18,250
+I wonder... I think he just believed that it would be so.
+
+416
+00:20:18,250 --> 00:20:20,950
+Either way, I had no intention
+
+417
+00:20:20,950 --> 00:20:23,201
+to work under that stupid son, so thank God.
+
+418
+00:20:23,201 --> 00:20:24,850
+Hey, you guys!
+
+419
+00:20:24,850 --> 00:20:26,950
+Please, that's enough!
+
+420
+00:20:26,950 --> 00:20:30,450
+A person has passed away, you know!
+
+421
+00:20:30,450 --> 00:20:33,850
+It's true that Ikuro wasn't much liked by everyone,
+
+422
+00:20:33,850 --> 00:20:36,850
+but it's a fact that he was killed by someone!
+
+423
+00:20:36,850 --> 00:20:40,450
+Moreover, the one who killed him could be among us, do you get it?
+
+424
+00:20:40,450 --> 00:20:41,550
+Will you all please be more considerate of
+
+425
+00:20:41,550 --> 00:20:43,221
+the situation that we're under right now?
+
+426
+00:20:45,450 --> 00:20:47,650
+Do you understand the situation at all?
+
+427
+00:20:47,650 --> 00:20:49,227
+Serving everyone tea again
+
+428
+00:20:49,227 --> 00:20:51,229
+when somebody was poisoned to death.
+
+429
+00:20:51,450 --> 00:20:55,233
+I served the tea while the officer was looking on!
+
+430
+00:20:55,233 --> 00:20:58,350
+If you still think that there's poison in it, don't drink it!
+
+431
+00:20:58,350 --> 00:20:59,550
+Why you...
+
+432
+00:20:59,550 --> 00:21:03,241
+We were only part way through that story in question.
+
+433
+00:21:03,241 --> 00:21:04,350
+The story in question?
+
+434
+00:21:04,350 --> 00:21:07,250
+The one about the case last month where the president was killed
+
+435
+00:21:07,250 --> 00:21:09,650
+and found in the bath room of his villa in Karuizawa.
+
+436
+00:21:09,650 --> 00:21:12,450
+You were the first one to find him, weren't you?
+
+437
+00:21:12,450 --> 00:21:14,250
+Yes.
+
+438
+00:21:14,250 --> 00:21:17,255
+Back then, there should've been a dying message
+
+439
+00:21:17,255 --> 00:21:19,850
+that the president wrote with his own blood.
+
+440
+00:21:19,850 --> 00:21:23,250
+But when the police got there, it was gone, right?
+
+441
+00:21:23,250 --> 00:21:25,750
+If I remember correctly,
+
+442
+00:21:25,750 --> 00:21:28,250
+you said that you remember that word that disappeared.
+
+443
+00:21:28,250 --> 00:21:30,450
+I remember you said something about it being an alphabet.
+
+444
+00:21:30,450 --> 00:21:33,550
+Don't tell me that the alphabets were...
+
+445
+00:21:33,550 --> 00:21:35,950
+"E-Y-E"?
+
+446
+00:21:35,950 --> 00:21:37,950
+E-Y-E?
+
+447
+00:21:37,950 --> 00:21:40,350
+It's probably referring to "eyes"!
+
+448
+00:21:40,350 --> 00:21:41,850
+I saw it, too!
+
+449
+00:21:41,850 --> 00:21:44,350
+I was contacted by the culprit who said he killed the president,
+
+450
+00:21:44,350 --> 00:21:46,850
+who told me to come to the president's residence in Osaka.
+
+451
+00:21:46,850 --> 00:21:49,650
+That's when I saw the eerie three letters that disappeared!
+
+452
+00:21:49,650 --> 00:21:52,450
+My... At that house in Osaka?
+
+453
+00:21:52,450 --> 00:21:56,050
+That's why we came all the way out here to hear more about it.
+
+454
+00:21:56,050 --> 00:21:59,550
+But, what I saw was...
+
+455
+00:21:59,550 --> 00:22:01,750
+the alphabet "S"!
+
+456
+00:22:01,750 --> 00:22:03,750
+There seemed to be continuation of something else,
+
+457
+00:22:03,750 --> 00:22:06,250
+but it covered by his hand and I couldn't see it.
+
+458
+00:22:06,250 --> 00:22:08,150
+"S", was it?
+
+459
+00:22:08,150 --> 00:22:09,950
+Hey! Hold it!
+
+460
+00:22:09,950 --> 00:22:12,550
+The managing director Mr. Masashige Shiina
+
+461
+00:22:12,550 --> 00:22:15,313
+as well as Chief designer Mr. Masuo Fujinami,
+
+462
+00:22:15,313 --> 00:22:17,315
+the secretary Ms. Yoshiimi Satake,
+
+463
+00:22:17,550 --> 00:22:20,550
+and the president's wife Mrs. Serika Wakamatsu,
+
+464
+00:22:20,550 --> 00:22:23,950
+all have either names or last names
+
+465
+00:22:23,950 --> 00:22:26,850
+starting with the letter "S"!
+
+466
+00:22:26,850 --> 00:22:31,329
+My name is Sakurako, so it also starts with "S".
+
+467
+00:22:31,329 --> 00:22:32,850
+What?
+
+468
+00:22:32,850 --> 00:22:36,050
+The dying message that disappeared...
+
+469
+00:22:36,050 --> 00:22:37,750
+The letter "S" written with blood,
+
+470
+00:22:37,750 --> 00:22:40,450
+what on earth are they indicating?
+
+471
+00:24:01,780 --> 00:24:03,780
+Next Conan's Hint:
+
+472
+00:24:04,120 --> 00:24:05,423
+"Tile"
+

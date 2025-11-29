@@ -1,0 +1,1548 @@
+﻿1
+00:00:06,456 --> 00:00:07,987
+This is delicious.
+
+2
+00:00:10,156 --> 00:00:13,156
+Drinking beer in day time is exceptionally fantastic.
+
+3
+00:00:16,556 --> 00:00:19,556
+Are you Mr. Kogoro Mouri?
+
+4
+00:00:19,556 --> 00:00:21,756
+You want my autograph? Sure.
+
+5
+00:00:21,756 --> 00:00:25,056
+No, there's a call for you, Mr. Mouri.
+
+6
+00:00:25,056 --> 00:00:26,856
+Oh, thank you.
+
+7
+00:00:26,856 --> 00:00:28,556
+Yes, hello?
+
+8
+00:00:28,556 --> 00:00:32,011
+Hey there, famed detective. Long time no see.
+
+9
+00:00:32,956 --> 00:00:34,013
+Who are you?
+
+10
+00:00:34,256 --> 00:00:36,556
+How sad that you should forget me.
+
+11
+00:00:36,556 --> 00:00:39,056
+It's me. I'm Mr. Reiji Himuro.
+
+12
+00:00:39,056 --> 00:00:41,256
+Himuro?
+
+13
+00:00:41,256 --> 00:00:44,456
+Don't tell me that you're that Himuro.
+
+14
+00:00:44,456 --> 00:00:46,456
+Hey, you. Just what do you think you're doing?
+
+15
+00:00:47,656 --> 00:00:49,456
+It's so nice
+
+16
+00:00:49,456 --> 00:00:52,031
+to be with your children, so peaceful.
+
+17
+00:00:52,031 --> 00:00:53,656
+What do you want?
+
+18
+00:00:55,056 --> 00:00:58,356
+Thanks to you, somebody's going to die.
+
+19
+00:00:58,356 --> 00:01:00,039
+What?
+
+20
+00:01:12,656 --> 00:01:14,956
+Oh, no.
+
+21
+00:01:16,456 --> 00:01:18,356
+Aim for a 100% solution.
+
+22
+00:01:18,356 --> 00:01:20,756
+Clear all mysteries and codes.
+
+23
+00:01:20,756 --> 00:01:22,656
+A trap that was rigged with a weird alibi.
+
+24
+00:01:22,656 --> 00:01:24,856
+Kogoro Mouri is in dire straits.
+
+25
+00:01:24,856 --> 00:01:26,356
+He sees through the one and only truth.
+
+26
+00:01:26,356 --> 00:01:28,356
+A child in appearance with the I.Q. of an adult.
+
+27
+00:01:28,356 --> 00:01:30,656
+His name is Detective Conan!
+
+28
+00:03:11,651 --> 00:03:14,751
+"The Famed Detective is Framed".
+
+29
+00:03:24,183 --> 00:03:25,451
+Pops, over there!
+
+30
+00:03:25,451 --> 00:03:28,651
+Darn! Don't you dare move from there, Himuro!
+
+31
+00:03:28,651 --> 00:03:29,651
+Dad!
+
+32
+00:03:29,651 --> 00:03:31,751
+Excuse me, miss. Your bill.
+
+33
+00:03:43,351 --> 00:03:45,651
+"Reiji Himuro (40)" -I was looking outside
+
+34
+00:03:45,651 --> 00:03:48,207
+"Previously a bank robber" -when I happened to see you.
+
+35
+00:03:48,207 --> 00:03:50,551
+I felt nostalgic that I decided to call you.
+
+36
+00:03:50,551 --> 00:03:51,851
+Cut out the joke!
+
+37
+00:03:51,851 --> 00:03:53,851
+What was that call a while ago about?
+
+38
+00:03:53,851 --> 00:03:55,951
+Where and who's going to die?
+
+39
+00:03:56,851 --> 00:03:58,851
+If that's what you're concerned about, it's already too late.
+
+40
+00:03:58,851 --> 00:04:01,651
+What? What do you mean?
+
+41
+00:04:02,651 --> 00:04:04,223
+Dad, no!
+
+42
+00:04:04,223 --> 00:04:06,951
+-Hey, isn't that Kogoro Mouri? -Why you, what are you up to?
+
+43
+00:04:13,251 --> 00:04:15,951
+Darn! So, this is what he wants.
+
+44
+00:04:17,451 --> 00:04:20,751
+The victim is Mr. Shingo Numao, age 35.
+
+45
+00:04:20,751 --> 00:04:22,241
+He's an auto mechanic,
+
+46
+00:04:22,241 --> 00:04:24,851
+working at an auto repair factory called Taiyo Motors in 3-Beika-cho.
+
+47
+00:04:24,851 --> 00:04:26,651
+He died of an impact throughout his entire body
+
+48
+00:04:26,651 --> 00:04:28,247
+and virtually died on the spot.
+
+49
+00:04:29,851 --> 00:04:32,751
+-He fell from there? -Yes.
+
+50
+00:04:32,751 --> 00:04:34,251
+How about it, Chiba?
+
+51
+00:04:34,251 --> 00:04:35,751
+No mistake about it.
+
+52
+00:04:35,751 --> 00:04:38,257
+He fell from here.
+
+53
+00:04:38,257 --> 00:04:40,751
+The railing is corroded and part of it is missing.
+
+54
+00:04:40,751 --> 00:04:44,051
+But, there are no signs of a struggle.
+
+55
+00:04:44,051 --> 00:04:45,251
+I see.
+
+56
+00:04:46,551 --> 00:04:48,551
+"Morgue"
+
+57
+00:04:48,551 --> 00:04:50,851
+"Shingo Numao (35), Previously a bank robber" -Numao.
+
+58
+00:04:50,851 --> 00:04:53,151
+Is it you?
+
+59
+00:04:53,151 --> 00:04:55,551
+Do you know him, Dad?
+
+60
+00:04:55,551 --> 00:04:56,951
+Yeah.
+
+61
+00:04:56,951 --> 00:05:01,551
+I arrested that guy Himuro after getting info from Numao.
+
+62
+00:05:01,551 --> 00:05:03,451
+Reiji Himuro.
+
+63
+00:05:03,451 --> 00:05:08,287
+He was a notorious bank robber.
+
+64
+00:05:08,287 --> 00:05:10,751
+I see. If I remember correctly, Numao was...
+
+65
+00:05:10,751 --> 00:05:12,291
+Yes.
+
+66
+00:05:12,291 --> 00:05:15,551
+He used to be Himuro's accomplice, rather his henchman.
+
+67
+00:05:15,551 --> 00:05:18,297
+He was virtually a dogsbody.
+
+68
+00:05:18,297 --> 00:05:20,299
+He listened to my advice telling him
+
+69
+00:05:20,451 --> 00:05:26,305
+to quit being a yes man for such a scum.
+
+70
+00:05:28,307 --> 00:05:32,051
+Numao, I'm sure you can start over.
+
+71
+00:05:32,051 --> 00:05:33,251
+Believe me
+
+72
+00:05:33,251 --> 00:05:35,851
+and tell me what you know about Himuro.
+
+73
+00:05:35,851 --> 00:05:38,317
+I think that's right.
+
+74
+00:05:38,317 --> 00:05:43,351
+It's a bummer being used by that scum forever, right?
+
+75
+00:05:43,351 --> 00:05:47,751
+It doesn't worth to be made an accomplice of a homicide because of him.
+
+76
+00:05:47,751 --> 00:05:49,051
+Homicide?
+
+77
+00:05:49,051 --> 00:05:50,651
+No.
+
+78
+00:05:50,651 --> 00:05:52,331
+I just thought that if I continued doing what I'm doing now,
+
+79
+00:05:52,331 --> 00:05:54,951
+I'd eventually turn out that way.
+
+80
+00:05:57,551 --> 00:05:59,951
+So, where's Himuro now?
+
+81
+00:05:59,951 --> 00:06:01,551
+In the interrogation room.
+
+82
+00:06:01,551 --> 00:06:04,343
+Officer Sato is hearing him out now.
+
+83
+00:06:05,751 --> 00:06:09,851
+He used to be an easy mark, who fell for anything from before.
+
+84
+00:06:09,851 --> 00:06:13,151
+Therefore, he got away with probation,
+
+85
+00:06:13,151 --> 00:06:17,351
+while I was jailed for ages.
+
+86
+00:06:17,351 --> 00:06:19,451
+It's good to know that that he's not around anymore.
+
+87
+00:06:19,451 --> 00:06:20,851
+Cut it out!
+
+88
+00:06:20,851 --> 00:06:22,651
+Weren't you the one who did it?
+
+89
+00:06:23,651 --> 00:06:24,751
+According to Mr. Mouri...
+
+90
+00:06:24,751 --> 00:06:26,851
+How?
+
+91
+00:06:26,851 --> 00:06:30,369
+So, when did Numao die?
+
+92
+00:06:30,369 --> 00:06:32,151
+At about 3:40 PM.
+
+93
+00:06:32,151 --> 00:06:34,851
+3:40 PM?
+
+94
+00:06:34,851 --> 00:06:38,377
+If I remember correctly at that time, I was at Hokubu Department Store
+
+95
+00:06:38,377 --> 00:06:42,381
+and grabbed by the collar by a certain famous detective.
+
+96
+00:06:42,381 --> 00:06:46,385
+Then, embarrassed him in front of the public.
+
+97
+00:06:46,385 --> 00:06:47,951
+Just as would be expected of a famed detective.
+
+98
+00:06:47,951 --> 00:06:50,751
+He's really reliable.
+
+99
+00:06:50,751 --> 00:06:52,751
+I'm counting on you to testify my alibi.
+
+100
+00:06:54,751 --> 00:06:58,751
+If so, how'd you know that he was going to die?
+
+101
+00:06:58,751 --> 00:07:00,951
+I guess you can call it telepathy.
+
+102
+00:07:01,751 --> 00:07:02,751
+Darn!
+
+103
+00:07:02,751 --> 00:07:04,403
+-Wait. -Mr. Mouri!
+
+104
+00:07:05,651 --> 00:07:07,451
+Himuro! How dare you!
+
+105
+00:07:07,451 --> 00:07:08,751
+Mr. Mouri!
+
+106
+00:07:08,751 --> 00:07:10,409
+I'll bet you killed him beforehand
+
+107
+00:07:10,409 --> 00:07:12,751
+and set him up to somehow fall to his death. Isn't that right?
+
+108
+00:07:12,751 --> 00:07:15,051
+No, Mr. Mouri!
+
+109
+00:07:15,051 --> 00:07:19,651
+You... What right do you have to grab me by my collar?
+
+110
+00:07:19,651 --> 00:07:20,419
+What?
+
+111
+00:07:20,651 --> 00:07:22,421
+Mr. Mouri!
+
+112
+00:07:22,421 --> 00:07:25,851
+Hey, let me go, will you?
+
+113
+00:07:26,951 --> 00:07:28,951
+Enough, Mr. Mouri.
+
+114
+00:07:28,951 --> 00:07:30,951
+But Inspector...
+
+115
+00:07:30,951 --> 00:07:32,851
+Well then,
+
+116
+00:07:32,851 --> 00:07:37,951
+since this voluntary interrogation's over without hassle,
+
+117
+00:07:37,951 --> 00:07:40,439
+I guess I'll leave now.
+
+118
+00:07:56,455 --> 00:07:57,551
+"A Famed Detective Disgraces Himself"
+
+119
+00:07:58,651 --> 00:07:59,651
+"Detective Goes On A Rampage In Broad Daylight!"
+
+120
+00:08:00,651 --> 00:08:01,651
+"The Eyes Of A Lunatic"
+
+121
+00:08:11,551 --> 00:08:14,851
+What's this about the websites flooded with comments?
+
+122
+00:08:14,851 --> 00:08:16,051
+I don't care about it!
+
+123
+00:08:20,479 --> 00:08:23,951
+I'm an incompetent, fumbling detective!
+
+124
+00:08:23,951 --> 00:08:26,951
+What do you mean, Inspector?
+
+125
+00:08:26,951 --> 00:08:30,489
+I'm sure you know what I'm talking about, Mouri!
+
+126
+00:08:30,651 --> 00:08:33,551
+On what charges are we supposed to arrest him on?
+
+127
+00:08:33,551 --> 00:08:35,251
+That's...
+
+128
+00:08:35,251 --> 00:08:36,751
+Futhermore,
+
+129
+00:08:36,751 --> 00:08:41,051
+you publicly assaulted a person who's not even a suspect
+
+130
+00:08:41,051 --> 00:08:43,151
+and tried to charge him.
+
+131
+00:08:43,151 --> 00:08:44,251
+If things came to worse,
+
+132
+00:08:44,251 --> 00:08:47,651
+we have to arrest you, understand?
+
+133
+00:08:47,651 --> 00:08:50,851
+You mean you feel that way too, Inspector?
+
+134
+00:08:50,851 --> 00:08:52,851
+I don't feel that way.
+
+135
+00:08:52,851 --> 00:08:55,551
+Still, that's how society sees it.
+
+136
+00:08:55,551 --> 00:08:57,951
+He provoked you. You fell for it
+
+137
+00:08:57,951 --> 00:08:59,951
+and now you've lost your control.
+
+138
+00:08:59,951 --> 00:09:01,851
+Take time off for a while.
+
+139
+00:09:09,751 --> 00:09:12,051
+Dad.
+
+140
+00:09:12,051 --> 00:09:14,551
+I understand how you feel, but you're drinking too much.
+
+141
+00:09:20,951 --> 00:09:23,651
+There. That's the cafe where we were at.
+
+142
+00:09:23,651 --> 00:09:26,545
+It's much too far to find it coincidentally.
+
+143
+00:09:28,151 --> 00:09:29,651
+No doubt about it.
+
+144
+00:09:29,651 --> 00:09:32,851
+He was on his guard, watching for Pops from way before that.
+
+145
+00:09:34,751 --> 00:09:36,555
+Conan?
+
+146
+00:09:36,751 --> 00:09:37,851
+Where's Mr. Mouri?
+
+147
+00:09:37,851 --> 00:09:40,251
+He said that he had to go check somewhere else,
+
+148
+00:09:40,251 --> 00:09:43,151
+so he told me to tell you to check on this side.
+
+149
+00:09:43,151 --> 00:09:44,551
+I see.
+
+150
+00:09:44,551 --> 00:09:46,551
+I'm relieved to hear that.
+
+151
+00:09:46,551 --> 00:09:50,551
+I was worried because the media was really bashing him.
+
+152
+00:09:50,551 --> 00:09:52,051
+He's fine.
+
+153
+00:09:52,051 --> 00:09:55,251
+He's all out to clear his name.
+
+154
+00:09:55,251 --> 00:09:58,051
+By the way, will everything be okay on your side, Officer Takagi?
+
+155
+00:09:58,051 --> 00:10:00,351
+Cooperating with Pops.
+
+156
+00:10:00,351 --> 00:10:04,583
+Yeah. After all, Mr. Mouri's always helping us out.
+
+157
+00:10:04,751 --> 00:10:06,585
+So, doing this much is nothing.
+
+158
+00:10:11,151 --> 00:10:13,051
+Around here?
+
+159
+00:10:13,051 --> 00:10:14,851
+Yes.
+
+160
+00:10:14,851 --> 00:10:17,451
+A little more before would be better.
+
+161
+00:10:17,451 --> 00:10:19,651
+-Before? -Before, I see.
+
+162
+00:10:22,601 --> 00:10:23,551
+Right there.
+
+163
+00:10:23,551 --> 00:10:25,351
+Can you show me from a little before that?
+
+164
+00:10:32,611 --> 00:10:35,451
+Hey, can we look at the floor below here?
+
+165
+00:10:35,451 --> 00:10:36,615
+Yeah.
+
+166
+00:10:39,151 --> 00:10:40,619
+Around here?
+
+167
+00:10:42,851 --> 00:10:44,251
+It's Himuro.
+
+168
+00:10:47,551 --> 00:10:50,629
+-What lies beyond that? -It's the men's restroom.
+
+169
+00:10:52,651 --> 00:10:54,351
+He's coming back.
+
+170
+00:10:54,351 --> 00:10:56,251
+Hey, what's that?
+
+171
+00:10:56,251 --> 00:10:58,651
+The one to the right edge of the screen.
+
+172
+00:10:58,651 --> 00:11:01,751
+Oh, that? Probably a microphone.
+
+173
+00:11:01,751 --> 00:11:05,351
+They had a public radio recording there last night.
+
+174
+00:11:07,051 --> 00:11:08,651
+Over here?
+
+175
+00:11:08,651 --> 00:11:11,151
+I heard they're having a recording today too.
+
+176
+00:11:11,151 --> 00:11:14,151
+Yeah, but it doesn't look as if Himuro came here
+
+177
+00:11:14,151 --> 00:11:17,251
+because he had something to do.
+
+178
+00:11:17,251 --> 00:11:18,657
+Officer Takagi.
+
+179
+00:11:18,657 --> 00:11:21,851
+There's one more thing he asked me to ask you to check on.
+
+180
+00:11:21,851 --> 00:11:23,151
+One more thing?
+
+181
+00:11:26,665 --> 00:11:28,051
+Thank you for waiting.
+
+182
+00:11:28,051 --> 00:11:30,151
+I'm officer Eguchi from the Beika police station.
+
+183
+00:11:30,151 --> 00:11:31,251
+Good work.
+
+184
+00:11:31,251 --> 00:11:32,671
+And...
+
+185
+00:11:32,851 --> 00:11:33,951
+Conan?
+
+186
+00:11:35,251 --> 00:11:39,151
+Pops Kogoro told me to ask you again.
+
+187
+00:11:39,151 --> 00:11:40,351
+About what?
+
+188
+00:11:40,351 --> 00:11:43,151
+Why'd you come here to begin with?
+
+189
+00:11:44,351 --> 00:11:48,151
+The fact is, I got word while I was on patrol.
+
+190
+00:11:48,151 --> 00:11:51,551
+That a suspicious person was inside this building.
+
+191
+00:11:51,551 --> 00:11:53,651
+This building is under destruction
+
+192
+00:11:53,651 --> 00:11:56,151
+because there's danger of it coming down.
+
+193
+00:11:56,151 --> 00:11:58,697
+So, I rushed over here and found...
+
+194
+00:12:00,251 --> 00:12:03,051
+Hey, you! Watch out!
+
+195
+00:12:03,051 --> 00:12:04,251
+Gosh.
+
+196
+00:12:11,051 --> 00:12:13,151
+Who gave out this info?
+
+197
+00:12:13,151 --> 00:12:15,851
+It seems he didn't say his name.
+
+198
+00:12:15,851 --> 00:12:18,251
+And when his number was re-dialed, there was no answer.
+
+199
+00:12:18,251 --> 00:12:21,151
+I thought that it may be a prank.
+
+200
+00:12:21,151 --> 00:12:23,751
+The call is recorded, right?
+
+201
+00:12:23,751 --> 00:12:26,051
+So that maybe a voice check can be carried out?
+
+202
+00:12:26,051 --> 00:12:28,727
+I see! Maybe it was Himuro.
+
+203
+00:12:28,951 --> 00:12:32,151
+I'll contact the command and control center, as well as the forensics.
+
+204
+00:12:33,351 --> 00:12:37,551
+I wonder why Mr. Numao came to a place like this.
+
+205
+00:12:37,551 --> 00:12:41,351
+-You didn't see anyone else, did you? -No.
+
+206
+00:12:41,351 --> 00:12:43,251
+Yes, Takagi here.
+
+207
+00:12:43,251 --> 00:12:46,751
+There's something I want you to confirm for me.
+
+208
+00:12:46,751 --> 00:12:48,351
+Yes, that's right.
+
+209
+00:12:48,351 --> 00:12:49,851
+What I want you to confirm is
+
+210
+00:12:49,851 --> 00:12:54,753
+about a call from an informant that came in yesterday at around 13:30.
+
+211
+00:12:54,951 --> 00:12:57,651
+-A phone call! -A phone call?
+
+212
+00:12:57,651 --> 00:13:00,759
+Yes, I just remember it.
+
+213
+00:13:00,759 --> 00:13:04,551
+It did seem like he was talking to someone on the cell phone.
+
+214
+00:13:04,551 --> 00:13:06,051
+Strange.
+
+215
+00:13:06,051 --> 00:13:09,251
+Mr. Numao who fell didn't have a cell phone,
+
+216
+00:13:09,251 --> 00:13:11,651
+and there was none near the corpse either.
+
+217
+00:13:11,651 --> 00:13:14,151
+Maybe he disposed it before he fell.
+
+218
+00:13:14,151 --> 00:13:18,251
+Maybe he had some incoming call history that he didn't want anybody to see.
+
+219
+00:13:18,251 --> 00:13:21,351
+Okay. Let's expand the area of search and look for it.
+
+220
+00:13:21,351 --> 00:13:22,351
+Yes, sir.
+
+221
+00:13:29,451 --> 00:13:31,351
+It's all rusty.
+
+222
+00:13:41,151 --> 00:13:43,451
+That was close!
+
+223
+00:13:47,151 --> 00:13:48,551
+This is...
+
+224
+00:13:50,809 --> 00:13:52,151
+I get it.
+
+225
+00:13:52,151 --> 00:13:53,651
+That's how it is.
+
+226
+00:13:53,651 --> 00:13:55,851
+I found it! I found it!
+
+227
+00:13:56,815 --> 00:13:58,551
+I found it on the ground over here!
+
+228
+00:14:09,353 --> 00:14:13,853
+Even if we were able to get Mr. Numao's fingerprints from this cell phone,
+
+229
+00:14:13,853 --> 00:14:15,953
+being thrown over to such a distance,
+
+230
+00:14:15,953 --> 00:14:19,253
+it's questionable whether the data is left undamaged.
+
+231
+00:14:19,253 --> 00:14:20,253
+Right.
+
+232
+00:14:20,253 --> 00:14:22,841
+Just now Pops called to say
+
+233
+00:14:22,841 --> 00:14:27,453
+to check closer to the part where the railing broke off.
+
+234
+00:14:27,453 --> 00:14:28,847
+Okay!
+
+235
+00:14:30,053 --> 00:14:31,753
+Wait a second.
+
+236
+00:14:31,753 --> 00:14:33,653
+Himuro, back then...
+
+237
+00:14:34,653 --> 00:14:37,153
+If so, maybe he put it there.
+
+238
+00:14:39,053 --> 00:14:40,253
+Conan?
+
+239
+00:15:34,053 --> 00:15:34,913
+Found it!
+
+240
+00:15:38,917 --> 00:15:40,919
+Attention to all customers.
+
+241
+00:15:40,919 --> 00:15:42,053
+We will be having the public radio recording...
+
+242
+00:15:42,053 --> 00:15:44,923
+But the possibility of the incoming and outgoing calls history
+
+243
+00:15:44,923 --> 00:15:47,353
+being damaged are high.
+
+244
+00:15:47,353 --> 00:15:49,253
+Isn't there any other evidence?
+
+245
+00:15:49,253 --> 00:15:50,929
+It will be held on the second-floor event square of this store.
+
+246
+00:15:51,153 --> 00:15:52,653
+I repeat.
+
+247
+00:15:52,653 --> 00:15:55,353
+We will be having the public radio recording of Gogoraji
+
+248
+00:15:55,353 --> 00:15:58,053
+-that we also had yesterday. -Okay, when I give you the signal,
+
+249
+00:15:58,053 --> 00:16:00,939
+please applaud!
+
+250
+00:16:00,939 --> 00:16:02,253
+Maybe...
+
+251
+00:16:13,353 --> 00:16:15,553
+Yes, Megure here.
+
+252
+00:16:15,553 --> 00:16:18,753
+Hello, Inspector. This is Mouri.
+
+253
+00:16:18,753 --> 00:16:21,453
+I have a favor to ask you.
+
+254
+00:16:21,453 --> 00:16:25,453
+"Mouri Detective Agency" -Dad. You have a call from Inspector Megure.
+
+255
+00:16:27,253 --> 00:16:28,753
+Hello.
+
+256
+00:16:28,753 --> 00:16:30,969
+What can I do for you, Inspector?
+
+257
+00:16:32,453 --> 00:16:34,653
+Himuro?
+
+258
+00:16:34,653 --> 00:16:37,553
+Calling me out like this without a warrant.
+
+259
+00:16:37,553 --> 00:16:39,753
+Are you the one who did this?
+
+260
+00:16:39,753 --> 00:16:41,853
+No. I...
+
+261
+00:16:41,853 --> 00:16:43,953
+What is the meaning of this, Inspector?
+
+262
+00:16:43,953 --> 00:16:46,153
+What are you talking about?
+
+263
+00:16:46,153 --> 00:16:48,653
+You asked me to bring him in
+
+264
+00:16:48,653 --> 00:16:50,453
+because you'd prove the crime he committed.
+
+265
+00:16:52,453 --> 00:16:54,153
+-Mouri? -Dad!
+
+266
+00:16:55,353 --> 00:16:58,453
+So, this is the famous Sleeping Kogoro.
+
+267
+00:17:00,453 --> 00:17:02,253
+Let me start from the conclusion.
+
+268
+00:17:02,253 --> 00:17:05,753
+He used the cell phone to manipulate Shingo Numao,
+
+269
+00:17:05,753 --> 00:17:09,007
+and made him fall to his death from the emergency stairs.
+
+270
+00:17:10,153 --> 00:17:13,011
+Can you conclude that it wasn't an accident?
+
+271
+00:17:13,011 --> 00:17:15,653
+Yes, of course.
+
+272
+00:17:15,653 --> 00:17:17,353
+The emergency stairs of this building,
+
+273
+00:17:17,353 --> 00:17:21,353
+partway to the 4th floor has a large hole.
+
+274
+00:17:21,353 --> 00:17:23,021
+If you try to step over it,
+
+275
+00:17:23,021 --> 00:17:26,453
+your hand would naturally grab the railing on the left side.
+
+276
+00:17:26,453 --> 00:17:31,029
+However, if that railing were to be corroded and frail...
+
+277
+00:17:35,453 --> 00:17:37,653
+Here's a hole in your unfounded accusation.
+
+278
+00:17:37,653 --> 00:17:40,453
+Is it my fault that the railing was rusted?
+
+279
+00:17:40,453 --> 00:17:42,353
+Right, it's your fault.
+
+280
+00:17:42,353 --> 00:17:43,553
+What?
+
+281
+00:17:43,553 --> 00:17:46,153
+Officer Chiba, please explain it to him.
+
+282
+00:17:46,153 --> 00:17:47,553
+Yes, sir.
+
+283
+00:17:47,553 --> 00:17:51,049
+A corrosive agent was painted on the railing.
+
+284
+00:17:51,253 --> 00:17:52,653
+According to forensics,
+
+285
+00:17:52,653 --> 00:17:54,453
+if left as is for a week,
+
+286
+00:17:54,453 --> 00:17:57,053
+the railing should shatter to pieces.
+
+287
+00:17:57,053 --> 00:18:01,059
+Moreover, you mentally cornered Numao.
+
+288
+00:18:01,059 --> 00:18:02,553
+Officer Takagi.
+
+289
+00:18:02,553 --> 00:18:04,153
+Okay.
+
+290
+00:18:04,153 --> 00:18:07,065
+When Mr. Himuro was arrested previously,
+
+291
+00:18:07,253 --> 00:18:10,553
+there was one case that couldn't be proven.
+
+292
+00:18:10,553 --> 00:18:12,253
+It was the case of two robbers broke into
+
+293
+00:18:12,253 --> 00:18:15,073
+a cooperative bank in Beika 2 chome.
+
+294
+00:18:15,073 --> 00:18:17,553
+One of the security guards was killed.
+
+295
+00:18:17,553 --> 00:18:18,853
+Hey, hey.
+
+296
+00:18:18,853 --> 00:18:22,653
+Stop making it sound like I'm the culprit to everything that happened.
+
+297
+00:18:22,653 --> 00:18:25,083
+The two robbers who broke in back then
+
+298
+00:18:25,083 --> 00:18:27,653
+were Numao and you, weren't you?
+
+299
+00:18:27,653 --> 00:18:30,553
+You called Numao over to this building
+
+300
+00:18:30,553 --> 00:18:34,053
+and called him to tell that the murder of the security guard was exposed.
+
+301
+00:18:34,053 --> 00:18:36,353
+And what if a police officer came to the scene
+
+302
+00:18:36,353 --> 00:18:37,653
+and then shouting something out loud?
+
+303
+00:18:37,653 --> 00:18:41,099
+-Hey, you! Watch out! -I'm sure Numao panicked.
+
+304
+00:18:49,107 --> 00:18:51,109
+Numao's cell phone
+
+305
+00:18:51,109 --> 00:18:53,853
+and the cell phone you disposed in the toilet tank at the department store
+
+306
+00:18:53,853 --> 00:18:55,653
+were already retrieved.
+
+307
+00:18:57,115 --> 00:18:59,117
+If we check the incoming and outgoing calls history,
+
+308
+00:18:59,117 --> 00:19:01,119
+we can prove that you committed the crime.
+
+309
+00:19:02,653 --> 00:19:04,653
+Yes, this is Sato.
+
+310
+00:19:04,653 --> 00:19:07,653
+Yes. Yes, sir.
+
+311
+00:19:07,653 --> 00:19:09,753
+Is that right?
+
+312
+00:19:09,753 --> 00:19:11,129
+It didn't work out.
+
+313
+00:19:11,353 --> 00:19:13,953
+The data of both cell phones were damaged,
+
+314
+00:19:13,953 --> 00:19:16,253
+and it seems they can't confirm the incoming and outgoing calls history.
+
+315
+00:19:16,253 --> 00:19:17,553
+What about the voiceprint of the person
+
+316
+00:19:17,553 --> 00:19:19,553
+who called to inform that Numao was in the building?
+
+317
+00:19:19,553 --> 00:19:22,453
+It was changed mechanically.
+
+318
+00:19:24,753 --> 00:19:26,553
+Good work.
+
+319
+00:19:26,553 --> 00:19:29,147
+Great entertainment indeed.
+
+320
+00:19:29,147 --> 00:19:33,153
+I see. Your story falls right into place,
+
+321
+00:19:33,153 --> 00:19:36,053
+but with no proof what so ever,
+
+322
+00:19:36,053 --> 00:19:38,353
+you can't indict me, can you?
+
+323
+00:19:38,353 --> 00:19:39,753
+Hey, Inspector.
+
+324
+00:19:39,753 --> 00:19:40,853
+I think you should educate
+
+325
+00:19:40,853 --> 00:19:44,953
+that incompetent, fumbling detective of yours.
+
+326
+00:19:44,953 --> 00:19:47,165
+See you then.
+
+327
+00:19:47,165 --> 00:19:50,053
+-Dad. -What now, Mouri?
+
+328
+00:19:50,053 --> 00:19:52,053
+It's not over yet.
+
+329
+00:19:55,173 --> 00:19:56,653
+We are changing the schedule of today's Gogoraji
+
+330
+00:19:56,653 --> 00:20:01,179
+to the live broadcast of the famed Sleeping Kogoro.
+
+331
+00:20:01,353 --> 00:20:03,653
+He will be presenting his deductions
+
+332
+00:20:03,653 --> 00:20:05,183
+in order to clear his name.
+
+333
+00:20:05,183 --> 00:20:08,153
+What took you so long?
+
+334
+00:20:08,153 --> 00:20:09,653
+Let's start then.
+
+335
+00:20:09,653 --> 00:20:11,753
+At about 3:40 pm yesterday,
+
+336
+00:20:11,753 --> 00:20:13,753
+what were you doing?
+
+337
+00:20:13,753 --> 00:20:15,853
+I was at the Hokubu Department Store
+
+338
+00:20:15,853 --> 00:20:18,453
+preparing for the public radio recording.
+
+339
+00:20:18,453 --> 00:20:19,953
+I see.
+
+340
+00:20:19,953 --> 00:20:21,453
+Then, will you please let us hear
+
+341
+00:20:21,453 --> 00:20:26,053
+the recording you played for the child I sent over once again?
+
+342
+00:20:26,053 --> 00:20:27,205
+Yes, sir.
+
+343
+00:20:27,205 --> 00:20:29,653
+Mr. Takahashi, will you play it for us?
+
+344
+00:20:32,353 --> 00:20:33,211
+Test, test.
+
+345
+00:20:33,211 --> 00:20:36,253
+Mic test. Do you hear me?
+
+346
+00:20:36,253 --> 00:20:38,653
+-Tanaka, is everything okay? -Yes, sir.
+
+347
+00:20:38,653 --> 00:20:40,353
+What about the microphone in the rear?
+
+348
+00:20:40,353 --> 00:20:42,753
+Yes. It's perfect.
+
+349
+00:20:42,753 --> 00:20:45,223
+We can't hear anything, can we?
+
+350
+00:20:45,223 --> 00:20:48,453
+Well then, please mute the noise from the crowd in the background.
+
+351
+00:20:48,453 --> 00:20:49,227
+Got it.
+
+352
+00:20:50,753 --> 00:20:51,853
+Test, test.
+
+353
+00:20:51,853 --> 00:20:54,453
+Mic test. Do you hear me?
+
+354
+00:20:56,053 --> 00:20:57,553
+The police officer is after you.
+
+355
+00:20:57,553 --> 00:20:59,237
+They are right in front of that building now.
+
+356
+00:20:59,237 --> 00:21:00,553
+Tanaka, is everything okay?
+
+357
+00:21:00,553 --> 00:21:01,953
+Hurry up, Numao.
+
+358
+00:21:01,953 --> 00:21:02,953
+Yes, sir.
+
+359
+00:21:03,653 --> 00:21:04,953
+Hide on the roof!
+
+360
+00:21:04,953 --> 00:21:06,453
+What about the microphone in the rear?
+
+361
+00:21:06,453 --> 00:21:08,853
+Next time you're caught, you'll be sent to prison.
+
+362
+00:21:08,853 --> 00:21:11,753
+No, you'll be sentenced to death.
+
+363
+00:21:11,753 --> 00:21:14,553
+See you, traitor.
+
+364
+00:21:18,853 --> 00:21:21,253
+Darn! How dare you make a joke out of me?
+
+365
+00:21:25,053 --> 00:21:26,753
+You amateur!
+
+366
+00:21:28,553 --> 00:21:29,653
+What the...
+
+367
+00:21:29,653 --> 00:21:30,953
+Ran?
+
+368
+00:21:32,253 --> 00:21:33,753
+You scum!
+
+369
+00:21:39,277 --> 00:21:42,353
+Afterwards, Himura confessed to the murder he committed this time
+
+370
+00:21:42,353 --> 00:21:45,053
+and the previous accounts of his crime too.
+
+371
+00:21:45,053 --> 00:21:48,353
+Pops's name was successfully cleared.
+
+372
+00:23:08,953 --> 00:23:10,853
+"Mouri Detective Agency"
+
+373
+00:23:15,653 --> 00:23:18,553
+Come on, Dad.
+
+374
+00:23:18,553 --> 00:23:21,953
+I was about to throw a celebratory party and yet,
+
+375
+00:23:21,953 --> 00:23:26,053
+you've got the nerve to toast all by yourself.
+
+376
+00:23:26,053 --> 00:23:27,653
+Well, who cares?
+
+377
+00:23:27,653 --> 00:23:29,387
+Let's do it, just two of us, then?
+
+378
+00:23:29,387 --> 00:23:30,653
+Yes.
+
+379
+00:23:30,653 --> 00:23:34,453
+-To the famed detective. -To the famed detective.
+
+380
+00:23:34,453 --> 00:23:36,453
+To the famed detective.
+
+381
+00:23:41,399 --> 00:23:42,753
+-Cheers. -Cheers.
+
+382
+00:23:42,753 --> 00:23:44,453
+Cheers!
+
+383
+00:23:46,820 --> 00:23:48,600
+Next Conan's Hint:
+
+384
+00:23:49,100 --> 00:23:50,600
+"Veranda".
+
+385
+00:23:50,980 --> 00:23:52,816
+There's no case that I cannot solve!
+
+386
+00:23:52,816 --> 00:23:53,936
+It's already midnight.
+
+387
+00:23:53,936 --> 00:23:55,413
+Is this supposed to be a case too?
+

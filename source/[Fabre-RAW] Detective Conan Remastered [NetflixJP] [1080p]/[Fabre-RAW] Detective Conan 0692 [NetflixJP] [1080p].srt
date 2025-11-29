@@ -1,0 +1,1312 @@
+﻿1
+00:00:01,099 --> 00:00:04,939
+"Nihonbashi"
+
+2
+00:00:04,939 --> 00:00:06,839
+Confirmed M.
+
+3
+00:00:06,839 --> 00:00:08,139
+His cell phone is ringing.
+
+4
+00:00:09,539 --> 00:00:11,639
+Hello, Mouri's here.
+
+5
+00:00:13,139 --> 00:00:16,339
+Yeah, Nihonbashi Post Office.
+
+6
+00:00:16,339 --> 00:00:17,339
+I got it!
+
+7
+00:00:20,639 --> 00:00:21,939
+The man on the phone told me
+
+8
+00:00:21,939 --> 00:00:24,739
+to pick up the stuff at the post office.
+
+9
+00:00:24,739 --> 00:00:26,939
+And, he says I gotta make it there in 5 minutes.
+
+10
+00:00:26,939 --> 00:00:28,139
+Let me through.
+
+11
+00:00:29,739 --> 00:00:32,239
+M is going south down Chuo Boulevard.
+
+12
+00:00:38,239 --> 00:00:40,239
+I came to get my stuff that's supposed to be here.
+
+13
+00:00:40,239 --> 00:00:43,339
+Yes, sir, I.D. please.
+
+14
+00:01:01,139 --> 00:01:05,139
+This case started 5 days ago.
+
+15
+00:01:06,939 --> 00:01:08,739
+Repeated time after time, it's okay.
+
+16
+00:01:08,739 --> 00:01:10,739
+Love and crime occur today and tomorrow.
+
+17
+00:01:10,739 --> 00:01:12,439
+The culprit designates pops?
+
+18
+00:01:12,439 --> 00:01:14,539
+Cherry blossom viewing on a boat turns out to be a surprising case.
+
+19
+00:01:14,539 --> 00:01:16,139
+He sees through the one and only truth.
+
+20
+00:01:16,139 --> 00:01:18,039
+A child in appearance with the I.Q. of an adult.
+
+21
+00:01:18,039 --> 00:01:20,739
+His name is Detective Conan!
+
+22
+00:03:02,686 --> 00:03:08,086
+"Sumida River Night Cherry Blossom Route (Part 1)"
+
+23
+00:03:08,086 --> 00:03:12,586
+Bye! See you. Take care.
+
+24
+00:03:12,586 --> 00:03:15,886
+The employees of a company called New Image
+
+25
+00:03:15,886 --> 00:03:18,686
+that exclusively handles import of American cars,
+
+26
+00:03:18,686 --> 00:03:20,286
+are attacked one after the other
+
+27
+00:03:20,286 --> 00:03:22,786
+and are seriously injured.
+
+28
+00:03:24,086 --> 00:03:29,186
+And the president of New Image receives a threatening call.
+
+29
+00:03:30,486 --> 00:03:32,386
+24,000,000 yen?
+
+30
+00:03:32,386 --> 00:03:33,686
+You must be kidding.
+
+31
+00:03:38,586 --> 00:03:39,786
+I see.
+
+32
+00:03:39,786 --> 00:03:44,086
+So, 24,000,000 yen is the amount that fits just right into the briefcase.
+
+33
+00:03:44,086 --> 00:03:45,586
+Hey, Conan.
+
+34
+00:03:46,586 --> 00:03:48,886
+What're you doing in a place like this?
+
+35
+00:03:49,886 --> 00:03:52,086
+I went to the department store with Ran,
+
+36
+00:03:52,086 --> 00:03:55,086
+but happened to see pops running by.
+
+37
+00:03:55,086 --> 00:03:56,986
+Mr. Mouri is on duty right now,
+
+38
+00:03:56,986 --> 00:03:58,186
+so don't bother him, okay?
+
+39
+00:03:58,186 --> 00:03:59,186
+Okay.
+
+40
+00:04:03,986 --> 00:04:05,686
+Miwako. Did I keep you waiting?
+
+41
+00:04:05,686 --> 00:04:06,686
+I'm sorry.
+
+42
+00:04:06,686 --> 00:04:08,286
+I sure did.
+
+43
+00:04:08,286 --> 00:04:10,886
+I mean, it's your treat today, okay?
+
+44
+00:04:10,886 --> 00:04:13,786
+What? I mean, I always treat you, don't I?
+
+45
+00:04:13,786 --> 00:04:15,686
+Did you say something just now?
+
+46
+00:04:15,686 --> 00:04:17,486
+No, I didn't.
+
+47
+00:04:18,886 --> 00:04:21,886
+So shall we get going, then?
+
+48
+00:04:21,886 --> 00:04:22,886
+I guess so.
+
+49
+00:04:31,786 --> 00:04:34,486
+Put the money in this briefcase.
+
+50
+00:04:34,486 --> 00:04:35,786
+Throw away your cell phone.
+
+51
+00:04:35,786 --> 00:04:38,386
+I'll contact you with this transceiver.
+
+52
+00:04:38,386 --> 00:04:40,286
+Get on the Hanami Cruise Liner departing
+
+53
+00:04:40,286 --> 00:04:44,186
+at 05:45 pm from the foot of Nihonbashi.
+
+54
+00:04:44,186 --> 00:04:46,886
+Dispose of the microphone you're using to keep in touch with the police.
+
+55
+00:04:49,086 --> 00:04:52,886
+M is headed again north on Chuo Boulevard.
+
+56
+00:04:52,886 --> 00:04:53,886
+Roger.
+
+57
+00:04:56,486 --> 00:04:57,486
+Conan.
+
+58
+00:04:57,486 --> 00:04:59,386
+This is the memo that pops threw away.
+
+59
+00:04:59,386 --> 00:05:02,186
+I think it has something to do with your job.
+
+60
+00:05:02,186 --> 00:05:04,586
+Thank you. Be careful and go home.
+
+61
+00:05:07,986 --> 00:05:10,486
+Directions from the culprit are written on this memo.
+
+62
+00:05:11,586 --> 00:05:12,686
+Inspector Megure.
+
+63
+00:05:12,686 --> 00:05:14,586
+According to the culprit's memo,
+
+64
+00:05:14,586 --> 00:05:17,286
+they're going to be making contact using a transceiver from now on.
+
+65
+00:05:17,286 --> 00:05:21,086
+It says for him to get on a cruiser from Nihonbashi.
+
+66
+00:05:21,086 --> 00:05:23,886
+Well, I'm sorry to have kept you waiting.
+
+67
+00:05:26,486 --> 00:05:28,186
+Are you Mr. Ishida?
+
+68
+00:05:28,186 --> 00:05:29,386
+Yes.
+
+69
+00:05:29,386 --> 00:05:31,386
+We thought you weren't going to come anymore.
+
+70
+00:05:31,386 --> 00:05:32,886
+I'm so sorry.
+
+71
+00:05:35,386 --> 00:05:38,886
+I'm sorry everyone, for making you wait.
+
+72
+00:05:38,886 --> 00:05:41,186
+Okay, since everyone's on board,
+
+73
+00:05:41,186 --> 00:05:42,886
+we'll start off.
+
+74
+00:05:51,386 --> 00:05:53,486
+The cruiser that M is on board has departed.
+
+75
+00:05:56,486 --> 00:05:57,986
+Sir.
+
+76
+00:05:57,986 --> 00:06:01,386
+The boat that just left is a cherry blossom viewing cruiser, isn't it?
+
+77
+00:06:01,386 --> 00:06:03,286
+Where is it going?
+
+78
+00:06:03,286 --> 00:06:07,186
+That's going to Sumida River then to Ooyoko River.
+
+79
+00:06:07,186 --> 00:06:09,186
+Would you like a pamphlet?
+
+80
+00:06:09,186 --> 00:06:10,786
+Thank you.
+
+81
+00:06:10,786 --> 00:06:12,986
+"Spring Cherry Blossom Viewing Cruise"
+
+82
+00:06:15,886 --> 00:06:17,786
+But, inspector...
+
+83
+00:06:17,786 --> 00:06:21,386
+Why did the culprit designate me to bring him the money?
+
+84
+00:06:21,386 --> 00:06:23,786
+The thing is, I don't really know.
+
+85
+00:06:23,786 --> 00:06:26,386
+Don't you have any idea why?
+
+86
+00:06:26,386 --> 00:06:27,886
+No, not at all.
+
+87
+00:06:29,386 --> 00:06:32,686
+He's also demanding that the police pull out completely.
+
+88
+00:06:32,686 --> 00:06:33,986
+He saying that if we ignore his demand,
+
+89
+00:06:33,986 --> 00:06:36,086
+the life of the employees are at stake.
+
+90
+00:06:36,086 --> 00:06:39,986
+Since I got ready the 24,000,000 yen that he's demanding,
+
+91
+00:06:39,986 --> 00:06:41,986
+so I'll leave it to you now.
+
+92
+00:06:41,986 --> 00:06:44,686
+I can't afford to endanger the lives of my employees.
+
+93
+00:06:44,686 --> 00:06:46,186
+I understand.
+
+94
+00:06:46,186 --> 00:06:49,286
+You can count on me, Kogoro Mouri.
+
+95
+00:06:55,686 --> 00:06:58,886
+We will be entering Sumida River in about 10 minutes,
+
+96
+00:06:58,886 --> 00:07:00,386
+but the waves will be getting rough
+
+97
+00:07:00,386 --> 00:07:02,886
+so please take care not to fall off.
+
+98
+00:07:05,186 --> 00:07:06,986
+See, take a look at that.
+
+99
+00:07:06,986 --> 00:07:09,786
+Wow, it looks like something that would come out in the movies.
+
+100
+00:07:12,386 --> 00:07:17,086
+Tokyo viewed from the river is quite nice too, isn't it?
+
+101
+00:07:17,086 --> 00:07:19,586
+Sendai bori that is up ahead is called so
+
+102
+00:07:19,586 --> 00:07:23,286
+because the Sendai clan in the old days made it.
+
+103
+00:07:23,286 --> 00:07:25,786
+Is that right?
+
+104
+00:07:29,186 --> 00:07:33,186
+The cruiser that M is on board sailed under Minato Bridge just now.
+
+105
+00:07:33,186 --> 00:07:36,086
+The culprit's planning to get the money somewhere along the river.
+
+106
+00:07:36,086 --> 00:07:37,286
+Keep your eyes open.
+
+107
+00:07:37,286 --> 00:07:38,286
+Roger.
+
+108
+00:07:40,086 --> 00:07:42,286
+The waves of the transceiver
+
+109
+00:07:42,286 --> 00:07:43,886
+works only in a range of at most, 100 meters.
+
+110
+00:07:43,886 --> 00:07:46,586
+The culprit should be somewhere in this range.
+
+111
+00:07:46,586 --> 00:07:48,786
+Sato, where are you now?
+
+112
+00:07:48,786 --> 00:07:51,486
+We're waiting right across Eitai River.
+
+113
+00:07:51,486 --> 00:07:53,486
+We confirmed with the cruiser company
+
+114
+00:07:53,486 --> 00:07:57,386
+and found that it's supposed to go from Sumida River to Ooyoko River.
+
+115
+00:07:57,386 --> 00:08:00,686
+You two go on ahead to Ooyoko River.
+
+116
+00:08:00,686 --> 00:08:01,686
+Roger.
+
+117
+00:08:04,386 --> 00:08:05,686
+Wow. How wonderful.
+
+118
+00:08:05,686 --> 00:08:07,186
+Amazing.
+
+119
+00:08:10,586 --> 00:08:13,586
+It's about time you start working for me.
+
+120
+00:08:13,586 --> 00:08:16,686
+That cruiser is headed for Oojima water gate
+
+121
+00:08:16,686 --> 00:08:18,486
+and will be going into Ooyoko River.
+
+122
+00:08:18,486 --> 00:08:22,986
+Then, put the briefcase on the roof of the cruiser.
+
+123
+00:08:22,986 --> 00:08:25,386
+Put it in the center so that it doesn't fall.
+
+124
+00:08:25,386 --> 00:08:28,586
+Then, go back to your seat and wait for the next contact.
+
+125
+00:08:38,386 --> 00:08:40,186
+It's not rolling anymore.
+
+126
+00:08:40,186 --> 00:08:43,186
+Ooyoko River is a canal, that's why.
+
+127
+00:08:43,186 --> 00:08:46,486
+A local feudal lord made this by order of the Edo Shogunate.
+
+128
+00:08:52,586 --> 00:08:53,786
+Amazing.
+
+129
+00:08:57,286 --> 00:08:58,786
+That brat...
+
+130
+00:09:00,486 --> 00:09:01,886
+Don't you get in my way, brat!
+
+131
+00:09:01,886 --> 00:09:03,286
+Lower your head!
+
+132
+00:09:06,886 --> 00:09:07,886
+That was close!
+
+133
+00:09:08,886 --> 00:09:11,786
+During high tide, water level rises, that the bridge gets so low,
+
+134
+00:09:11,786 --> 00:09:14,886
+we can't go under it even on this cruiser.
+
+135
+00:09:14,886 --> 00:09:16,386
+I see.
+
+136
+00:09:16,386 --> 00:09:18,386
+Well, I guess you don't bow so often or lower your head really low
+
+137
+00:09:18,386 --> 00:09:21,086
+and turn it into a good experience while you're at it.
+
+138
+00:09:21,086 --> 00:09:22,086
+What did you say?
+
+139
+00:09:23,086 --> 00:09:25,586
+The briefcase is on the roof.
+
+140
+00:09:39,886 --> 00:09:41,286
+It's impossible to pull the briefcase
+
+141
+00:09:41,286 --> 00:09:43,686
+up from the bridge in this crowd people.
+
+142
+00:09:43,686 --> 00:09:44,886
+Besides...
+
+143
+00:09:48,886 --> 00:09:52,386
+With so many surveillance cameras all over the place, the more so.
+
+144
+00:10:10,086 --> 00:10:11,386
+Did you wait long?
+
+145
+00:10:15,086 --> 00:10:16,086
+That was close.
+
+146
+00:10:43,586 --> 00:10:45,686
+M has entered Heikyu River.
+
+147
+00:10:46,786 --> 00:10:49,686
+The briefcase is on the roof of the cruiser.
+
+148
+00:10:49,686 --> 00:10:52,186
+What? Keep your eyes on the cruiser!
+
+149
+00:10:52,186 --> 00:10:53,286
+Roger!
+
+150
+00:10:53,286 --> 00:10:54,786
+I'll go get the car.
+
+151
+00:11:34,286 --> 00:11:36,286
+The briefcase is gone!
+
+152
+00:11:43,301 --> 00:11:45,301
+The briefcase is gone!
+
+153
+00:11:47,301 --> 00:11:49,501
+Conan? What brings you here?
+
+154
+00:11:49,501 --> 00:11:51,001
+The briefcase is gone!
+
+155
+00:11:51,001 --> 00:11:52,301
+-What? -What?
+
+156
+00:11:52,301 --> 00:11:54,601
+Bad news! We've got to contact the inspector.
+
+157
+00:11:57,801 --> 00:11:58,801
+Darn!
+
+158
+00:12:00,101 --> 00:12:01,601
+Pops!
+
+159
+00:12:01,601 --> 00:12:04,401
+Pops! We've got trouble!
+
+160
+00:12:04,401 --> 00:12:06,201
+Shut up! Don't bother me!
+
+161
+00:12:06,201 --> 00:12:08,801
+The briefcase on the roof is gone!
+
+162
+00:12:08,801 --> 00:12:09,801
+What?
+
+163
+00:12:12,901 --> 00:12:15,601
+It's gone! It's gone! It's gone! It's gone!
+
+164
+00:12:15,601 --> 00:12:18,001
+Hey, look out, sir!
+
+165
+00:12:18,001 --> 00:12:21,201
+The briefcase is gone!
+
+166
+00:12:24,901 --> 00:12:26,001
+Mr. Mouri!
+
+167
+00:12:27,701 --> 00:12:29,601
+How'd he do it?
+
+168
+00:12:29,601 --> 00:12:33,801
+How on earth the culprit take the briefcase?
+
+169
+00:12:39,901 --> 00:12:42,401
+"Mouri Detective Agency"
+
+170
+00:12:44,101 --> 00:12:45,101
+In other words,
+
+171
+00:12:45,101 --> 00:12:47,901
+you got instructions over the transceiver?
+
+172
+00:12:47,901 --> 00:12:51,501
+To put the briefcase on the roof after entering Ooyoko River?
+
+173
+00:12:51,501 --> 00:12:52,501
+Yes...
+
+174
+00:12:55,601 --> 00:12:56,601
+Yes.
+
+175
+00:12:56,601 --> 00:12:59,001
+You got nothing, no directions, after that?
+
+176
+00:12:59,001 --> 00:13:00,001
+No.
+
+177
+00:13:02,001 --> 00:13:06,301
+And, by the time you realized it, the briefcase was gone?
+
+178
+00:13:06,301 --> 00:13:09,301
+Yes, sir. Because he told me to go back to my seat
+
+179
+00:13:09,301 --> 00:13:11,401
+and wait for further contact.
+
+180
+00:13:11,401 --> 00:13:12,801
+What a shame.
+
+181
+00:13:12,801 --> 00:13:14,401
+And, Conan...
+
+182
+00:13:14,401 --> 00:13:17,501
+When did you last see the briefcase?
+
+183
+00:13:17,501 --> 00:13:19,101
+Well...
+
+184
+00:13:19,101 --> 00:13:22,101
+Over here. Totomi Bridge here.
+
+185
+00:13:22,101 --> 00:13:26,801
+The last we saw of it was Shiomi Bridge here.
+
+186
+00:13:26,801 --> 00:13:32,501
+And you realized that the briefcase was gone at Hamazono Bridge here.
+
+187
+00:13:32,501 --> 00:13:37,001
+In other words, the culprit would have had to take the briefcase
+
+188
+00:13:37,001 --> 00:13:39,701
+from somewhere between Heikyu Bridge and Hamazono Bridge.
+
+189
+00:13:39,701 --> 00:13:42,801
+Mr. Mouri, was there anything you noticed?
+
+190
+00:13:44,901 --> 00:13:47,301
+I'm very sorry.
+
+191
+00:13:47,301 --> 00:13:49,801
+It seems like I've caught a cold
+
+192
+00:13:49,801 --> 00:13:51,901
+That's obvious.
+
+193
+00:13:51,901 --> 00:13:53,001
+Oh, right.
+
+194
+00:13:53,001 --> 00:13:56,901
+Bback then, I heard a metallic sound of something banging onto steel.
+
+195
+00:13:56,901 --> 00:13:59,201
+A metallic sound?
+
+196
+00:13:59,201 --> 00:14:03,001
+If I remember correctly, somewhere around here...
+
+197
+00:14:03,001 --> 00:14:05,601
+I think it was a small bridge.
+
+198
+00:14:05,601 --> 00:14:09,401
+There were two small boats anchored under the bridge.
+
+199
+00:14:09,401 --> 00:14:11,301
+Were there people on the boats?
+
+200
+00:14:11,301 --> 00:14:13,401
+No, no one.
+
+201
+00:14:13,401 --> 00:14:16,701
+I heard the sound when the skipper veered the cruiser to the right
+
+202
+00:14:16,701 --> 00:14:19,301
+to avoid the boats and sailed under the bridge
+
+203
+00:14:20,601 --> 00:14:22,001
+What was that?
+
+204
+00:14:22,001 --> 00:14:23,801
+Maybe we hit a bridge?
+
+205
+00:14:23,801 --> 00:14:25,201
+No way.
+
+206
+00:14:25,201 --> 00:14:27,401
+If so the cruiser should sway more.
+
+207
+00:14:27,401 --> 00:14:29,001
+I see.
+
+208
+00:14:30,001 --> 00:14:32,501
+That was probably Shigure Bridge.
+
+209
+00:14:32,501 --> 00:14:35,401
+When we were watching from Shiomi Bridge,
+
+210
+00:14:35,401 --> 00:14:37,801
+Heikyu Bridge was in sight,
+
+211
+00:14:37,801 --> 00:14:39,701
+but there were no boats.
+
+212
+00:14:39,701 --> 00:14:43,101
+Besides, Ishihama Bridge just ahead of Shigure Bridge
+
+213
+00:14:43,101 --> 00:14:45,301
+has a water gate right behind it.
+
+214
+00:14:45,301 --> 00:14:49,001
+I don't think you'll get the impression of it being a small bridge.
+
+215
+00:14:49,001 --> 00:14:50,501
+I see.
+
+216
+00:14:50,501 --> 00:14:53,101
+The next bridge is already Hamazono Bridge
+
+217
+00:14:53,101 --> 00:14:55,001
+so I'm sure that there's no doubt that the metallic sound
+
+218
+00:14:55,001 --> 00:14:58,001
+was heard at Shigure Bridge.
+
+219
+00:14:58,001 --> 00:15:00,801
+But, I wonder if that metallic sound
+
+220
+00:15:00,801 --> 00:15:03,101
+has anything to do with the case we're dealing with now?
+
+221
+00:15:03,101 --> 00:15:05,101
+Inspector Megure.
+
+222
+00:15:05,101 --> 00:15:08,501
+This was found near the water of Heikyu Bridge.
+
+223
+00:15:09,701 --> 00:15:10,901
+That's...
+
+224
+00:15:13,101 --> 00:15:14,401
+Mr. Mouri,
+
+225
+00:15:14,401 --> 00:15:17,101
+is this the briefcase?
+
+226
+00:15:18,101 --> 00:15:19,901
+No mistake, that's it!
+
+227
+00:15:19,901 --> 00:15:22,701
+Open it and confirm the inside too.
+
+228
+00:15:22,701 --> 00:15:24,301
+May take a look?
+
+229
+00:15:31,801 --> 00:15:36,901
+Pops, the cloth of the lid of the briefcase is ripped.
+
+230
+00:15:36,901 --> 00:15:38,101
+What?
+
+231
+00:15:39,101 --> 00:15:40,601
+According to forensics,
+
+232
+00:15:40,601 --> 00:15:42,001
+just as Conan has mentioned,
+
+233
+00:15:42,001 --> 00:15:44,001
+the inside of the lid has been ripped off,
+
+234
+00:15:44,001 --> 00:15:45,401
+and further inside,
+
+235
+00:15:45,401 --> 00:15:48,801
+there seems to be a trace of something having been rigged onto it.
+
+236
+00:15:48,801 --> 00:15:49,801
+What?
+
+237
+00:15:49,801 --> 00:15:52,301
+Then, does that mean that the culprit used whatever it was
+
+238
+00:15:52,301 --> 00:15:54,501
+that was rigged on to it, to take the briefcase?
+
+239
+00:15:54,501 --> 00:15:57,701
+No, we don't know that yet...
+
+240
+00:16:00,101 --> 00:16:01,501
+Mr. Mouri?
+
+241
+00:16:01,501 --> 00:16:02,901
+Dad.
+
+242
+00:16:02,901 --> 00:16:04,101
+Inspector.
+
+243
+00:16:04,101 --> 00:16:07,601
+I've figured out how the culprit had taken the briefcase.
+
+244
+00:16:07,601 --> 00:16:08,701
+Mouri.
+
+245
+00:16:08,701 --> 00:16:11,001
+He's not nasal anymore?
+
+246
+00:16:11,001 --> 00:16:12,201
+Rats.
+
+247
+00:16:12,201 --> 00:16:15,101
+It flashed upon me, that my nose suddenly unplugged.
+
+248
+00:16:16,401 --> 00:16:18,801
+Never mind that, but inspector...
+
+249
+00:16:18,801 --> 00:16:21,701
+The culprit probably used a strong magnet.
+
+250
+00:16:21,701 --> 00:16:23,401
+Magnet?
+
+251
+00:16:23,401 --> 00:16:25,201
+The characteristic of Ooyoko River
+
+252
+00:16:25,201 --> 00:16:28,301
+is that the water level greatly changes during high and low tide.
+
+253
+00:16:28,301 --> 00:16:31,701
+The distance between the bridge becomes very narrow.
+
+254
+00:16:31,701 --> 00:16:33,501
+The culprit probably checked the time
+
+255
+00:16:33,501 --> 00:16:37,101
+that the water level rises beforehand
+
+256
+00:16:37,101 --> 00:16:41,601
+and rigged a strong magnet onto the lid of the briefcase.
+
+257
+00:16:41,601 --> 00:16:43,801
+By doing so, when the cruiser sails
+
+258
+00:16:43,801 --> 00:16:46,101
+under the extremely narrow space of the bridge...
+
+259
+00:16:47,801 --> 00:16:49,401
+Wait a minute.
+
+260
+00:16:49,401 --> 00:16:51,101
+There are many bridges,
+
+261
+00:16:51,101 --> 00:16:53,301
+so there's no way of telling which bridge it would attach too, no?
+
+262
+00:16:53,301 --> 00:16:59,101
+No. So the culprit used an electromagnet
+
+263
+00:16:59,101 --> 00:17:01,201
+that would generates magnetic force at his convenience.
+
+264
+00:17:02,801 --> 00:17:05,701
+The electromagnet that is made by wrapping
+
+265
+00:17:05,701 --> 00:17:08,001
+a coil around a magnetic material generates magnetic force
+
+266
+00:17:08,001 --> 00:17:10,301
+only when electric current is applied to the coil.
+
+267
+00:17:10,301 --> 00:17:13,501
+The culprit probably embedded in the lid of the briefcase
+
+268
+00:17:13,501 --> 00:17:16,101
+an iron bar wrapped with coil and a battery.
+
+269
+00:17:16,101 --> 00:17:20,801
+Then, he installed a remote control switch that enables remote operation.
+
+270
+00:17:43,001 --> 00:17:45,601
+Finally, after everyone left,
+
+271
+00:17:45,601 --> 00:17:48,301
+he switched off the power and retrieved the briefcase.
+
+272
+00:17:51,201 --> 00:17:54,401
+Okay! Based on Mouri's deduction,
+
+273
+00:17:54,401 --> 00:17:58,001
+re-investigate the vicinity of Ooyoko River and Heikyu River.
+
+274
+00:17:58,001 --> 00:17:59,101
+-Yes, sir. -Yes sir.
+
+275
+00:18:02,101 --> 00:18:03,901
+Geez, dad...
+
+276
+00:18:03,901 --> 00:18:07,601
+Your cold will get worse if you sleep in a place like this.
+
+277
+00:18:07,601 --> 00:18:11,601
+I wonder why the culprit designated pops?
+
+278
+00:18:11,601 --> 00:18:13,101
+I wonder...
+
+279
+00:18:13,101 --> 00:18:16,801
+The papers of the cases that pops handled are still here, aren't they?
+
+280
+00:18:16,801 --> 00:18:19,801
+Yeah, I think they're filed.
+
+281
+00:18:19,801 --> 00:18:22,901
+Maybe we'll be able to figure something out by looking at those files.
+
+282
+00:18:25,001 --> 00:18:30,301
+Maybe that culprit is somebody who has a grudge against dad?
+
+283
+00:18:32,101 --> 00:18:33,701
+Could be.
+
+284
+00:18:44,801 --> 00:18:48,701
+Is anything wrong, Ran?
+
+285
+00:18:48,701 --> 00:18:51,001
+No, it's nothing.
+
+286
+00:18:52,701 --> 00:18:54,401
+I was just thinking that if it were Shinichi,
+
+287
+00:18:54,401 --> 00:18:57,301
+he would immediately solve a problem like this.
+
+288
+00:18:59,201 --> 00:19:00,801
+Don't worry.
+
+289
+00:19:00,801 --> 00:19:02,901
+I'll solve it for you.
+
+290
+00:19:04,301 --> 00:19:06,601
+Just as would be expected of a member of the Youth Detective Squad.
+
+291
+00:19:06,601 --> 00:19:09,901
+Then, shall we solve it, the two of us, in place of dad?
+
+292
+00:19:09,901 --> 00:19:10,901
+Yes.
+
+293
+00:19:12,101 --> 00:19:14,801
+The keyword is New Image.
+
+294
+00:19:14,801 --> 00:19:18,701
+I'm sure that it has something to do with New Image and pops.
+
+295
+00:20:19,701 --> 00:20:23,601
+"Mouri Detective Agency"
+
+296
+00:20:39,801 --> 00:20:41,001
+I found it.
+
+297
+00:20:41,001 --> 00:20:43,601
+Isn't this it?
+
+298
+00:20:43,601 --> 00:20:45,301
+This.
+
+299
+00:20:45,301 --> 00:20:48,101
+Satoshi Nishizawa, 32 years old.
+
+300
+00:20:48,101 --> 00:20:53,001
+Mechanic engineer for New Image, an import car dealer.
+
+301
+00:20:53,001 --> 00:20:56,701
+There is a request from Kaori Ida, 37 years old,
+
+302
+00:20:56,701 --> 00:21:00,201
+to find the person who has been stalking her.
+
+303
+00:21:00,201 --> 00:21:01,601
+As a result of the investigation,
+
+304
+00:21:01,601 --> 00:21:03,601
+it becomes apparent that the stalker is Nishizawa.
+
+305
+00:21:03,601 --> 00:21:06,901
+There was a court order prohibiting him from going close to her.
+
+306
+00:21:06,901 --> 00:21:10,101
+Thus, he was fired.
+
+307
+00:21:10,101 --> 00:21:12,601
+This is a case of 2 months ago.
+
+308
+00:21:12,601 --> 00:21:13,801
+What's his address?
+
+309
+00:21:13,801 --> 00:21:15,801
+Fukagawa, Koto ward.
+
+310
+00:21:15,801 --> 00:21:17,701
+Isn't this near Ooyoko River?
+
+311
+00:21:17,701 --> 00:21:18,701
+Yes.
+
+312
+00:22:53,101 --> 00:22:54,101
+This way.
+
+313
+00:22:58,701 --> 00:23:00,501
+It's that apartment, isn't it?
+
+314
+00:23:00,501 --> 00:23:01,501
+Yes.
+
+315
+00:23:06,201 --> 00:23:09,501
+Mr. Nishizawa. Are you in?
+
+316
+00:23:09,501 --> 00:23:11,101
+Mr. Nishizawa!
+
+317
+00:23:14,101 --> 00:23:15,701
+It seems he's not in.
+
+318
+00:23:15,701 --> 00:23:16,701
+Yes.
+
+319
+00:23:20,001 --> 00:23:21,101
+It's open.
+
+320
+00:23:24,401 --> 00:23:27,201
+Mr. Nishizawa, aren't you home?
+
+321
+00:23:28,301 --> 00:23:30,001
+Mr. Nishizawa!
+
+322
+00:23:34,601 --> 00:23:35,801
+Conan.
+
+323
+00:23:44,901 --> 00:23:46,901
+No, Conan.
+
+324
+00:23:46,901 --> 00:23:49,201
+You shouldn't go into other people's houses without permission.
+
+325
+00:24:01,860 --> 00:24:03,620
+Next Conan's Hint:
+
+326
+00:24:03,800 --> 00:24:05,760
+"Flower viewing boat".
+
+327
+00:24:06,060 --> 00:24:07,900
+Dad, are you okay?
+
+328
+00:24:08,500 --> 00:24:56,001
+I guess he'd like to run to see cherry blossoms, but the only thing that's running is his nose.
+
