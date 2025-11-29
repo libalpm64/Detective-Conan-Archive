@@ -25,8 +25,8 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 - BB resynced, poor translation quality  
 
 ### [BB] Detective Conan Remaster 724-753
-- Fan subs, good translations  
-- BB resync, poor translation quality  
+- BB subs (no resync) decent quality.
+- Fan subs, major syncing issues.
 
 ### [ER] Detective Conan (Netflix JP) 754-1188
 - Crunchyroll subs, good quality  
