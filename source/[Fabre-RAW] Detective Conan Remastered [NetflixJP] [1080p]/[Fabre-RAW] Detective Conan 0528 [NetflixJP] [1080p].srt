@@ -1,0 +1,1608 @@
+﻿1
+00:00:03,983 --> 00:00:07,987
+What? You have an appointment with someone?
+
+2
+00:00:07,987 --> 00:00:09,273
+Right now?
+
+3
+00:00:09,273 --> 00:00:11,373
+Yes, that's right.
+
+4
+00:00:11,373 --> 00:00:13,573
+Since you called for us to come at this hour,
+
+5
+00:00:13,573 --> 00:00:17,173
+I was sure we were going out to have dinner.
+
+6
+00:00:17,173 --> 00:00:18,473
+Dad just happens to be out
+
+7
+00:00:18,473 --> 00:00:21,573
+drinking with the master of Poirot and the others.
+
+8
+00:00:21,573 --> 00:00:24,003
+Well, it can't be helped.
+
+9
+00:00:24,003 --> 00:00:26,973
+There's someone I wanted you to meet.
+
+10
+00:00:28,473 --> 00:00:32,011
+"Mouri Detective Agency" -All right, looks like it's time to go.
+
+11
+00:00:36,473 --> 00:00:38,373
+It's fax.
+
+12
+00:00:40,173 --> 00:00:42,373
+What's this about?
+
+13
+00:00:45,573 --> 00:00:48,027
+No way!
+
+14
+00:00:50,029 --> 00:00:51,773
+A catch-22 crisis is gracefully revived.
+
+15
+00:00:51,773 --> 00:00:54,033
+The table is turned and the mystery solved!
+
+16
+00:00:54,033 --> 00:00:57,573
+A three-way battle among a woman judo champion, Kogoro and Eri.
+
+17
+00:00:57,573 --> 00:00:59,273
+He sees through the one and only truth.
+
+18
+00:00:59,273 --> 00:01:01,273
+A child in appearance with the I.Q. of an adult.
+
+19
+00:01:01,273 --> 00:01:03,373
+No case is left unsolved with Detective Conan.
+
+20
+00:02:40,139 --> 00:02:46,145
+"Might Over Mystery (Part 1)"
+
+21
+00:02:46,926 --> 00:02:48,926
+Troubled by a stalker?
+
+22
+00:02:48,926 --> 00:02:51,426
+Your acquaintance, Mom?
+
+23
+00:02:51,426 --> 00:02:55,526
+Well... Her husband was taken to court in the past,
+
+24
+00:02:55,526 --> 00:02:59,826
+in order to settle a traffic accident.
+
+25
+00:02:59,826 --> 00:03:03,426
+Oh, remember the judo player Yuko Arisawa!
+
+26
+00:03:03,426 --> 00:03:05,726
+You know her, don't you?
+
+27
+00:03:05,726 --> 00:03:07,326
+I do, I do!
+
+28
+00:03:07,326 --> 00:03:08,726
+They say that, if she hadn't got injured,
+
+29
+00:03:08,726 --> 00:03:11,726
+she would have won a gold medal at the Olympics!
+
+30
+00:03:11,726 --> 00:03:15,626
+She's the former All-Japan champion for the 70kg class, right?
+
+31
+00:03:15,626 --> 00:03:19,426
+But if it's her, wouldn't the stalker be the one running away?
+
+32
+00:03:19,426 --> 00:03:22,826
+No. Even though she was the one who approached me,
+
+33
+00:03:22,826 --> 00:03:25,126
+it was her husband that was concerned.
+
+34
+00:03:25,126 --> 00:03:26,185
+What?
+
+35
+00:03:26,185 --> 00:03:27,926
+He was suddenly on edge,
+
+36
+00:03:27,926 --> 00:03:31,526
+and noted that ever since the traffic accident,
+
+37
+00:03:31,526 --> 00:03:33,226
+it seemed like someone was always watching him.
+
+38
+00:03:33,226 --> 00:03:35,626
+It seems he isn't sleeping at night, either.
+
+39
+00:03:35,626 --> 00:03:40,199
+Then, maybe the stalker's the victim of the traffic accident?
+
+40
+00:03:40,199 --> 00:03:42,201
+I'm not convinced that's the case.
+
+41
+00:03:42,426 --> 00:03:44,826
+The victim came to a mutual understanding
+
+42
+00:03:44,826 --> 00:03:48,207
+that it had been his own fault, and settled privately.
+
+43
+00:03:48,207 --> 00:03:52,626
+Also, it seems the victim has completely recovered from his injuries.
+
+44
+00:03:52,626 --> 00:03:55,426
+Then, who is the stalker?
+
+45
+00:03:55,426 --> 00:03:57,826
+She tried to convince him otherwise,
+
+46
+00:03:57,826 --> 00:04:01,326
+and even told him, "It's probably your imagination",
+
+47
+00:04:01,326 --> 00:04:04,223
+but he won't listen to her.
+
+48
+00:04:04,223 --> 00:04:06,826
+That's why she wants me to come.
+
+49
+00:04:06,826 --> 00:04:09,726
+If there aren't any wiretaps or cameras,
+
+50
+00:04:09,726 --> 00:04:13,326
+we can prove there isn't a stalker.
+
+51
+00:04:13,326 --> 00:04:16,526
+But why are you going, Ms. Kisaki?
+
+52
+00:04:16,526 --> 00:04:18,826
+I wonder. Her husband seemed very grateful
+
+53
+00:04:18,826 --> 00:04:21,626
+during the settlement proceedings before,
+
+54
+00:04:21,626 --> 00:04:25,726
+so she probably thought that he would believe what I tell him.
+
+55
+00:04:25,726 --> 00:04:28,247
+No, that's not what I mean.
+
+56
+00:04:28,247 --> 00:04:29,426
+Huh?
+
+57
+00:04:29,426 --> 00:04:33,426
+I mean, why didn't you ask Pops to handle the case?
+
+58
+00:04:33,426 --> 00:04:35,726
+-What? -That's right...
+
+59
+00:04:35,726 --> 00:04:39,326
+Mom is a lawyer! Dad is a detective!
+
+60
+00:04:39,326 --> 00:04:41,726
+If it's a stalker case, a detective is...
+
+61
+00:04:41,726 --> 00:04:44,726
+Because I didn't want to!
+
+62
+00:04:44,726 --> 00:04:46,826
+Isn't that reason enough?
+
+63
+00:04:46,826 --> 00:04:49,726
+Of course that's not "enough" at all!
+
+64
+00:04:49,726 --> 00:04:53,326
+Well, considering the things Pops usually does...
+
+65
+00:04:53,326 --> 00:04:55,126
+Strike!
+
+66
+00:04:55,126 --> 00:04:57,426
+Oh, no!
+
+67
+00:04:57,426 --> 00:04:58,826
+Jackpot!
+
+68
+00:04:59,826 --> 00:05:01,226
+It may just be a waste of time asking him to do the job.
+
+69
+00:05:01,226 --> 00:05:03,426
+What's this?
+
+70
+00:05:03,426 --> 00:05:05,526
+While you have no problem coming to another's defense,
+
+71
+00:05:05,526 --> 00:05:09,526
+you won't intercede when it comes to your personal affairs, huh.
+
+72
+00:05:09,526 --> 00:05:10,826
+"Yuko Arisawa (37)" -Don't you think it's time
+
+73
+00:05:10,826 --> 00:05:14,026
+"Judo player" -for you to forgive your husband, Ms. Kisaki?
+
+74
+00:05:15,026 --> 00:05:17,326
+Yuko Arisawa! It's really her!
+
+75
+00:05:17,326 --> 00:05:20,299
+I'm afraid that's impossible for the time being.
+
+76
+00:05:20,299 --> 00:05:25,926
+Before I do, I'll wait for him to demonstrate his sincerity.
+
+77
+00:05:25,926 --> 00:05:28,826
+Then, why not go on and divorce him?
+
+78
+00:05:28,826 --> 00:05:30,826
+No, well, that's...
+
+79
+00:05:30,826 --> 00:05:33,126
+Well, at least he was able to give you a lovely daughter.
+
+80
+00:05:33,126 --> 00:05:35,826
+I guess it's not that easy.
+
+81
+00:05:35,826 --> 00:05:39,126
+Oh, my. Did you have a son as well?
+
+82
+00:05:39,126 --> 00:05:42,826
+No, he's a boy of our acquaintance who's staying with us for now.
+
+83
+00:05:42,826 --> 00:05:47,026
+Well, at any rate, shall we head over to your house?
+
+84
+00:05:47,026 --> 00:05:49,926
+I'm sure your husband is waiting, too.
+
+85
+00:05:49,926 --> 00:05:52,126
+Yes, you're right.
+
+86
+00:05:52,126 --> 00:05:54,333
+Since it's about time for him to return from the office,
+
+87
+00:05:54,333 --> 00:05:56,335
+so I'll give him a call.
+
+88
+00:06:05,726 --> 00:06:07,326
+That's strange.
+
+89
+00:06:07,326 --> 00:06:09,126
+No answer.
+
+90
+00:06:09,126 --> 00:06:11,726
+Could he be taking a bath?
+
+91
+00:06:11,726 --> 00:06:13,726
+Oh, dear.
+
+92
+00:06:13,726 --> 00:06:15,526
+Where are you?
+
+93
+00:06:15,526 --> 00:06:16,826
+I'm at a wake.
+
+94
+00:06:16,826 --> 00:06:19,026
+What? A wake?
+
+95
+00:06:19,026 --> 00:06:22,026
+Yeah, someone I know passed away,
+
+96
+00:06:22,026 --> 00:06:24,363
+so I came to his wake.
+
+97
+00:06:24,363 --> 00:06:26,926
+You can hear the chanting, can't you?
+
+98
+00:06:26,926 --> 00:06:28,726
+The speaker phone?
+
+99
+00:06:28,726 --> 00:06:32,826
+So yeah, I'll be home late so go to bed ahead of me.
+
+100
+00:06:32,826 --> 00:06:35,926
+Ahead of you? It's tonight, you know!
+
+101
+00:06:35,926 --> 00:06:40,126
+Lawyer Kisaki is coming over now to discuss the stalker problem.
+
+102
+00:06:40,126 --> 00:06:42,381
+Was that today?
+
+103
+00:06:42,381 --> 00:06:44,383
+I'm at Lawyer Kisaki's office right now.
+
+104
+00:06:44,626 --> 00:06:47,626
+I'll put her on!
+
+105
+00:06:47,626 --> 00:06:51,726
+Yes, this is Kisaki speaking.
+
+106
+00:06:51,726 --> 00:06:53,426
+Well, no...
+
+107
+00:06:53,426 --> 00:06:54,726
+If it's truly an inconvenience,
+
+108
+00:06:54,726 --> 00:06:58,397
+we can meet on a more suitable day.
+
+109
+00:06:59,426 --> 00:07:02,426
+Yes.
+
+110
+00:07:02,426 --> 00:07:06,126
+Is that so? We will review the situation then.
+
+111
+00:07:08,626 --> 00:07:10,126
+How was he?
+
+112
+00:07:10,126 --> 00:07:12,411
+He said he'll be arriving home at 9:25,
+
+113
+00:07:12,411 --> 00:07:14,413
+so I'll meet with him then.
+
+114
+00:07:14,413 --> 00:07:17,826
+25 minutes later... That's really peculiar, isn't it?
+
+115
+00:07:17,826 --> 00:07:20,926
+Normally, wouldn't you say 9:00 or 9:30?
+
+116
+00:07:20,926 --> 00:07:24,026
+He's just really punctual.
+
+117
+00:07:24,026 --> 00:07:27,726
+He's rarely late for anything without a reason.
+
+118
+00:07:27,726 --> 00:07:30,726
+It does seem like he completely forgot
+
+119
+00:07:30,726 --> 00:07:32,431
+about Lawyer Kisaki coming over tonight, though.
+
+120
+00:07:32,626 --> 00:07:36,126
+Furthermore, we still have another two hours until 9:30.
+
+121
+00:07:36,126 --> 00:07:40,439
+Then, how about if we have dinner at a nearby hotel restaurant?
+
+122
+00:07:40,626 --> 00:07:43,726
+Actually, while I were killing time in the cafe until the appointment,
+
+123
+00:07:43,726 --> 00:07:48,726
+my car was in the parking lot of the hotel.
+
+124
+00:07:48,726 --> 00:07:51,326
+Not to mention, the parking fee will be cheaper.
+
+125
+00:07:51,326 --> 00:07:54,453
+In that case, is it all right if these two come along?
+
+126
+00:07:54,453 --> 00:07:56,126
+Why, of course!
+
+127
+00:07:59,026 --> 00:08:01,726
+You won the karate tournament championship!
+
+128
+00:08:01,726 --> 00:08:04,026
+That's amazing, Ran!
+
+129
+00:08:04,026 --> 00:08:05,926
+Thank you very much.
+
+130
+00:08:05,926 --> 00:08:08,467
+But didn't you do so, as well?
+
+131
+00:08:08,626 --> 00:08:12,471
+No. My talent developed later on!
+
+132
+00:08:12,471 --> 00:08:15,926
+I was first crowned a champion in university.
+
+133
+00:08:15,926 --> 00:08:18,477
+Given the comparatively high injury rate,
+
+134
+00:08:18,477 --> 00:08:21,226
+my peak lasted only two, three years.
+
+135
+00:08:21,226 --> 00:08:24,126
+And after retiring, I got married.
+
+136
+00:08:24,126 --> 00:08:27,926
+I still haven't been able to achieve my dream of earning the gold medal
+
+137
+00:08:27,926 --> 00:08:30,126
+in front of the superior I admired so much.
+
+138
+00:08:30,126 --> 00:08:32,491
+The superior you admired?
+
+139
+00:08:32,491 --> 00:08:36,495
+He's currently the coach for the all Japan team, Hajime Kajimoto.
+
+140
+00:08:36,495 --> 00:08:40,499
+At one time, he was an unrivalled gold medalist in the 81kg class.
+
+141
+00:08:41,026 --> 00:08:46,505
+I took up judo after seeing him on TV.
+
+142
+00:08:46,505 --> 00:08:48,507
+It's the same as me, then.
+
+143
+00:08:48,507 --> 00:08:53,626
+I admire the karate champion of Japan.
+
+144
+00:08:53,626 --> 00:08:56,515
+But admiration is admiration.
+
+145
+00:08:56,515 --> 00:08:59,426
+It's the same as viewing flower from afar.
+
+146
+00:08:59,426 --> 00:09:01,326
+When you get too close,
+
+147
+00:09:01,326 --> 00:09:03,326
+it becomes like Icarus who lost his wings
+
+148
+00:09:03,326 --> 00:09:06,126
+and plunged to the earth after flying too close to the sun.
+
+149
+00:09:06,126 --> 00:09:08,527
+Disaster befalls oneself.
+
+150
+00:09:10,529 --> 00:09:13,426
+I'm sorry to drop that remark.
+
+151
+00:09:13,426 --> 00:09:14,533
+No.
+
+152
+00:09:14,533 --> 00:09:18,537
+-But I'm glad I brought Ran with me. -What?
+
+153
+00:09:18,537 --> 00:09:22,541
+I called you to my office so that you could see her.
+
+154
+00:09:22,541 --> 00:09:25,026
+Since you both practice martial arts,
+
+155
+00:09:25,026 --> 00:09:28,547
+I figured you'd both have something in common.
+
+156
+00:09:28,547 --> 00:09:32,326
+I didn't think we'd be having dinner together though.
+
+157
+00:09:32,326 --> 00:09:35,026
+Then, why didn't you call Dad as well?
+
+158
+00:09:35,026 --> 00:09:37,326
+Dad actually practiced judo!
+
+159
+00:09:37,326 --> 00:09:39,726
+Now that you mentioned it, I suppose he did.
+
+160
+00:09:39,726 --> 00:09:42,326
+The truth is, I was worried.
+
+161
+00:09:42,326 --> 00:09:43,326
+What?
+
+162
+00:09:43,326 --> 00:09:45,626
+I wasn't sure whether or not he was on a case,
+
+163
+00:09:45,626 --> 00:09:49,526
+so I decided against using the hand of such a renowned detective.
+
+164
+00:09:49,526 --> 00:09:52,326
+Is that so?
+
+165
+00:09:52,326 --> 00:09:55,326
+If that's the case, you should have mentioned it from the start!
+
+166
+00:09:55,326 --> 00:09:57,726
+Well, didn't I mention it?
+
+167
+00:09:57,726 --> 00:09:59,326
+-Say? -Yes, what?
+
+168
+00:09:59,326 --> 00:10:02,126
+Isn't it about time to go?
+
+169
+00:10:02,126 --> 00:10:04,583
+You said it would take ten minutes
+
+170
+00:10:04,583 --> 00:10:06,585
+to get to your house by car, right?
+
+171
+00:10:06,585 --> 00:10:07,926
+That's true.
+
+172
+00:10:07,926 --> 00:10:10,126
+But before we go, I need to go to the bathroom.
+
+173
+00:10:15,226 --> 00:10:18,226
+Wasn't it delicious, that blend of western and Japanese style food?
+
+174
+00:10:18,226 --> 00:10:19,926
+Yes, absolutely.
+
+175
+00:10:19,926 --> 00:10:21,826
+Do you come here often?
+
+176
+00:10:21,826 --> 00:10:24,626
+Yeah, I make sure I come once a week!
+
+177
+00:10:24,626 --> 00:10:26,326
+With your husband, right?
+
+178
+00:10:26,326 --> 00:10:29,626
+Nope, I come alone without telling him.
+
+179
+00:10:29,626 --> 00:10:32,026
+My husband has zero tolerance for new food.
+
+180
+00:10:32,026 --> 00:10:34,126
+Oh, yeah?
+
+181
+00:10:34,126 --> 00:10:37,326
+Let's see, where did I park?
+
+182
+00:10:38,617 --> 00:10:42,621
+Isn't it that white car?
+
+183
+00:10:42,621 --> 00:10:44,623
+When I saw you with your husband before,
+
+184
+00:10:44,623 --> 00:10:47,626
+that's the car you were driving, right?
+
+185
+00:10:47,626 --> 00:10:49,626
+Yep, yep! That's it!
+
+186
+00:10:52,226 --> 00:10:54,626
+Then, I'll give Ran and the boy a ride as well.
+
+187
+00:10:54,626 --> 00:10:58,226
+We'll pass right by the detective agency on the way home.
+
+188
+00:10:58,226 --> 00:11:00,226
+Thank you very much.
+
+189
+00:11:03,026 --> 00:11:05,826
+You know how to adjust the seat, don't you?
+
+190
+00:11:05,826 --> 00:11:07,326
+There's a lever on the right side of the seat.
+
+191
+00:11:07,326 --> 00:11:08,647
+And if you pull it...
+
+192
+00:11:08,826 --> 00:11:12,651
+See, like this, the seat will move.
+
+193
+00:11:12,651 --> 00:11:16,026
+No need to worry, my car has the same thing.
+
+194
+00:11:20,226 --> 00:11:21,526
+Well, sonny,
+
+195
+00:11:21,526 --> 00:11:24,326
+we'll get there right away so stay put, okay?
+
+196
+00:11:34,926 --> 00:11:38,026
+Huh? The parking ticket...
+
+197
+00:11:38,026 --> 00:11:40,126
+Where did I put it?
+
+198
+00:11:40,126 --> 00:11:44,126
+I'm afraid you'll have to pay the daily maximum of 3,000 yen.
+
+199
+00:11:44,126 --> 00:11:45,926
+Guess it can't be helped.
+
+200
+00:11:45,926 --> 00:11:48,426
+If you don't mind, I'll gladly pay half.
+
+201
+00:11:48,426 --> 00:11:51,426
+It's fine, because it's my fault.
+
+202
+00:11:57,026 --> 00:11:59,126
+I'm sorry.
+
+203
+00:11:59,126 --> 00:12:01,326
+The children are truly being an inconvenience.
+
+204
+00:12:01,326 --> 00:12:02,701
+Not at all.
+
+205
+00:12:02,926 --> 00:12:06,705
+It's because you insisted on having it your way, Conan.
+
+206
+00:12:06,705 --> 00:12:09,626
+Because, if she's the former All-Japan champion,
+
+207
+00:12:09,626 --> 00:12:12,426
+she must have a lot of trophies and plaques, right?
+
+208
+00:12:12,426 --> 00:12:15,126
+Don't you wanna see them too, Ran?
+
+209
+00:12:15,126 --> 00:12:17,626
+Well, I suppose so, but...
+
+210
+00:12:18,717 --> 00:12:20,026
+I'm home!
+
+211
+00:12:20,026 --> 00:12:22,426
+Oh, my husband's shoes!
+
+212
+00:12:23,826 --> 00:12:25,926
+It's just 9:30.
+
+213
+00:12:25,926 --> 00:12:29,626
+I guess he really punctual.
+
+214
+00:12:29,626 --> 00:12:32,326
+Well, I'll go get my husband.
+
+215
+00:12:32,326 --> 00:12:34,733
+You can wait in our living room here.
+
+216
+00:12:34,733 --> 00:12:38,026
+Dear! Lawyer Kisaki is here!
+
+217
+00:12:38,926 --> 00:12:41,726
+No matter how you look at it, this is something.
+
+218
+00:12:41,726 --> 00:12:43,926
+Look at the number of these trophies and plaques!
+
+219
+00:12:43,926 --> 00:12:45,326
+Yeah, I know!
+
+220
+00:12:45,326 --> 00:12:48,026
+When she was in her prime, she never lost.
+
+221
+00:12:48,026 --> 00:12:50,749
+She was even said to be invincible!
+
+222
+00:12:50,749 --> 00:12:52,751
+Say, this picture...
+
+223
+00:12:52,926 --> 00:12:57,126
+See the tall man standing to the far right?
+
+224
+00:12:57,126 --> 00:13:01,326
+I think that's the gold medalist that she mentioned earlier.
+
+225
+00:13:01,326 --> 00:13:05,026
+Right, right. That's Hajime Kajimoto of the 81kg class.
+
+226
+00:13:05,026 --> 00:13:07,226
+Oh, and the other one, standing to her left.
+
+227
+00:13:07,226 --> 00:13:11,826
+That's Yuko's husband, Shiro Arisawa.
+
+228
+00:13:13,526 --> 00:13:18,126
+Then, the boy making the peace sign, is Arisawa's son?
+
+229
+00:13:18,126 --> 00:13:22,781
+No, that's Kajimoto's son, Kouta!
+
+230
+00:13:22,781 --> 00:13:27,126
+He would come along to the judo dojo where I worked as a coach.
+
+231
+00:13:27,126 --> 00:13:30,526
+He is really cute.
+
+232
+00:13:30,526 --> 00:13:32,791
+And, your husband?
+
+233
+00:13:32,791 --> 00:13:35,626
+The thing is, I can't find him anywhere.
+
+234
+00:13:35,626 --> 00:13:37,926
+He's not in the bath or bathroom either.
+
+235
+00:13:37,926 --> 00:13:42,226
+He might have gone out for cigarettes after getting home.
+
+236
+00:13:42,226 --> 00:13:44,803
+I'll try to get him on his cell.
+
+237
+00:13:50,426 --> 00:13:51,826
+A ringtone...
+
+238
+00:13:51,826 --> 00:13:53,426
+You hear it, too?
+
+239
+00:13:54,826 --> 00:13:56,126
+Don't cut the phone!
+
+240
+00:13:56,126 --> 00:13:57,726
+Conan!
+
+241
+00:14:01,326 --> 00:14:03,226
+Could it be inside this closet?
+
+242
+00:14:10,526 --> 00:14:14,326
+Dear!
+
+243
+00:14:22,841 --> 00:14:26,845
+The victim is Shiro Arisawa, age 37.
+
+244
+00:14:27,380 --> 00:14:30,849
+He was a businessman that worked for Haido Co.
+
+245
+00:14:30,849 --> 00:14:33,280
+This is his residence.
+
+246
+00:14:33,280 --> 00:14:36,580
+And Yuko Arisawa.
+
+247
+00:14:36,580 --> 00:14:40,280
+Are you sure he is your husband?
+
+248
+00:14:40,280 --> 00:14:41,280
+Yes, very sure.
+
+249
+00:14:41,280 --> 00:14:45,580
+It appears that some sort of rope was used to strangle him to death.
+
+250
+00:14:45,580 --> 00:14:48,867
+Absolutely. We haven't found the weapon yet.
+
+251
+00:14:48,867 --> 00:14:52,080
+It was likely something along the line of a thin cloth.
+
+252
+00:14:52,080 --> 00:14:53,780
+Like a tie, right?
+
+253
+00:14:53,780 --> 00:14:54,880
+-What? -What?
+
+254
+00:14:54,880 --> 00:14:56,875
+Because before, on the phone...
+
+255
+00:14:56,875 --> 00:14:59,380
+He said, "I'm at a wake",
+
+256
+00:14:59,380 --> 00:15:01,180
+so shouldn't he have a tie?
+
+257
+00:15:01,180 --> 00:15:03,980
+Usually, when men go to a wake,
+
+258
+00:15:03,980 --> 00:15:06,080
+don't they wear suits with a black tie?
+
+259
+00:15:06,080 --> 00:15:08,280
+That's true.
+
+260
+00:15:08,280 --> 00:15:10,380
+This raises the possibility of the culprit
+
+261
+00:15:10,380 --> 00:15:12,891
+taking the victim's tie and using it as a weapon.
+
+262
+00:15:13,080 --> 00:15:15,880
+And, do you know whose wake it was?
+
+263
+00:15:15,880 --> 00:15:18,280
+Well, all my husband said on the phone
+
+264
+00:15:18,280 --> 00:15:21,680
+was that someone he knew passed away suddenly.
+
+265
+00:15:21,680 --> 00:15:26,480
+And I think I heard chanting in the background.
+
+266
+00:15:26,480 --> 00:15:30,480
+What? Ran, you spoke with the victim on the phone as well?
+
+267
+00:15:30,480 --> 00:15:34,280
+No. While I was speaking with my husband on the phone,
+
+268
+00:15:34,280 --> 00:15:37,780
+my fingers slipped and hit the speaker button.
+
+269
+00:15:37,780 --> 00:15:40,180
+That's why we heard it as well.
+
+270
+00:15:41,380 --> 00:15:45,580
+But why were you and the children with her
+
+271
+00:15:45,580 --> 00:15:47,580
+while she was speaking to the victim?
+
+272
+00:15:47,580 --> 00:15:49,580
+Actually...
+
+273
+00:15:49,580 --> 00:15:53,780
+The victim was her husband, Shiro, who had consulted with me
+
+274
+00:15:53,780 --> 00:15:58,180
+on settling a traffic accident in the past.
+
+275
+00:15:58,180 --> 00:16:03,380
+Ever since the accident, he had been plagued by a stalker,
+
+276
+00:16:03,380 --> 00:16:05,480
+which led her to consulting with me again.
+
+277
+00:16:05,480 --> 00:16:06,945
+Her husband had been saying that
+
+278
+00:16:06,945 --> 00:16:10,280
+he felt as if "someone was always watching him".
+
+279
+00:16:10,280 --> 00:16:11,980
+But personally,
+
+280
+00:16:11,980 --> 00:16:14,680
+I never felt there was any indication of anything like that
+
+281
+00:16:14,680 --> 00:16:18,380
+so I had our old lawyer, Ms. Kisaki visit our us.
+
+282
+00:16:18,380 --> 00:16:22,280
+Since my husband has such great faith in Ms. Kisaki,
+
+283
+00:16:22,280 --> 00:16:23,880
+I thought that, if she could prove
+
+284
+00:16:23,880 --> 00:16:28,967
+there weren't any wire taps or cameras anywhere,
+
+285
+00:16:28,967 --> 00:16:33,780
+it might put his mind at rest.
+
+286
+00:16:33,780 --> 00:16:38,280
+Also, prior to leaving Ms. Kisaki's office by car,
+
+287
+00:16:38,280 --> 00:16:40,680
+as this boy said earlier,
+
+288
+00:16:40,680 --> 00:16:44,380
+my husband told me that he was at a wake.
+
+289
+00:16:44,380 --> 00:16:45,780
+And her husband told her over the phone
+
+290
+00:16:45,780 --> 00:16:49,780
+at time that he would be back around 9:30.
+
+291
+00:16:49,780 --> 00:16:52,780
+Until then, we were at a nearby restaurant,
+
+292
+00:16:52,780 --> 00:16:55,980
+with the children and ate there.
+
+293
+00:16:55,980 --> 00:16:58,080
+Then we came here in her car afterwards.
+
+294
+00:16:58,080 --> 00:16:59,980
+Do you know what time it was?
+
+295
+00:16:59,980 --> 00:17:02,180
+Let's see, it was...
+
+296
+00:17:02,180 --> 00:17:07,005
+She called her husband at around 7:30 in the evening,
+
+297
+00:17:07,005 --> 00:17:09,380
+and we went to the hotel immediately.
+
+298
+00:17:09,380 --> 00:17:14,180
+So, by the time we finished our meal and left, it was around 9:00.
+
+299
+00:17:14,180 --> 00:17:17,280
+When we got here, it was almost exactly 9:30.
+
+300
+00:17:18,480 --> 00:17:23,280
+And then, somehow, you came across the body in the closet?
+
+301
+00:17:23,280 --> 00:17:26,580
+Yeah, since I couldn't find him,
+
+302
+00:17:26,580 --> 00:17:29,027
+I called his cell phone and...
+
+303
+00:17:33,031 --> 00:17:35,980
+We heard ring tone from the closet.
+
+304
+00:17:35,980 --> 00:17:37,380
+Which amounts to...
+
+305
+00:17:37,380 --> 00:17:41,039
+Your husband claimed he wouldn't be home until 9:30,
+
+306
+00:17:41,280 --> 00:17:43,980
+but actually arrived thirty minutes early.
+
+307
+00:17:43,980 --> 00:17:47,380
+His estimated time of death is around 9:00 tonight.
+
+308
+00:17:47,380 --> 00:17:50,180
+So, at that time, he must have already been home.
+
+309
+00:17:51,880 --> 00:17:57,580
+That means, there's a chance that the stalker is still somewhere nearby.
+
+310
+00:17:57,580 --> 00:18:01,380
+The culprit had been lying in wait,
+
+311
+00:18:01,380 --> 00:18:05,063
+for her husband to return.
+
+312
+00:18:05,280 --> 00:18:07,680
+About your husband's stalker...
+
+313
+00:18:07,680 --> 00:18:10,580
+Did you have nothing of the situation?
+
+314
+00:18:10,580 --> 00:18:12,780
+No, at all.
+
+315
+00:18:12,780 --> 00:18:16,780
+Not being a fan of hers, it's unlikely that you'll understand.
+
+316
+00:18:16,780 --> 00:18:18,080
+What?
+
+317
+00:18:18,080 --> 00:18:20,480
+A fan of hers?
+
+318
+00:18:20,480 --> 00:18:23,380
+Oh, don't you recognize her?
+
+319
+00:18:23,380 --> 00:18:28,180
+She is the former All-Japan champion of judo in the 70kg class.
+
+320
+00:18:28,180 --> 00:18:30,880
+This is Yuko Arisawa.
+
+321
+00:18:30,880 --> 00:18:33,091
+It really is her!
+
+322
+00:18:33,091 --> 00:18:35,780
+I thought I'd seen her face somewhere!
+
+323
+00:18:35,780 --> 00:18:37,880
+Thanks.
+
+324
+00:18:37,880 --> 00:18:42,080
+But it's strange for a guy to be so worried about a stalker
+
+325
+00:18:42,080 --> 00:18:43,880
+when he has such an able-bodied bodyguard like her.
+
+326
+00:18:43,880 --> 00:18:45,780
+That's true.
+
+327
+00:18:45,780 --> 00:18:47,105
+After thinking about it,
+
+328
+00:18:47,280 --> 00:18:49,780
+it could be the victim from that traffic accident.
+
+329
+00:18:49,780 --> 00:18:51,880
+I'm not so sure that's the case.
+
+330
+00:18:51,880 --> 00:18:55,980
+They might have just been after the money.
+
+331
+00:18:55,980 --> 00:18:57,115
+Conan!
+
+332
+00:18:57,280 --> 00:18:59,117
+Cause look down here!
+
+333
+00:18:59,117 --> 00:19:01,580
+At this person's left ring finger!
+
+334
+00:19:01,580 --> 00:19:04,180
+It looks like one was there before.
+
+335
+00:19:04,180 --> 00:19:05,880
+But now there's no ring!
+
+336
+00:19:05,880 --> 00:19:07,125
+It's true.
+
+337
+00:19:07,125 --> 00:19:10,680
+Isn't the left finger for wedding bands?
+
+338
+00:19:10,680 --> 00:19:13,131
+Did your husband always wear his wedding ring?
+
+339
+00:19:13,131 --> 00:19:14,780
+Yeah.
+
+340
+00:19:14,780 --> 00:19:17,880
+But that's weird!
+
+341
+00:19:17,880 --> 00:19:19,780
+Even though the ring is gone,
+
+342
+00:19:19,780 --> 00:19:23,141
+this fancy-looking watch is still here!
+
+343
+00:19:23,141 --> 00:19:25,780
+Why is it?
+
+344
+00:19:25,780 --> 00:19:29,780
+I'm so sorry. I should be keeping a better eye on him.
+
+345
+00:19:29,780 --> 00:19:33,151
+Since it's still here, their motive wasn't money after all, huh?
+
+346
+00:19:33,151 --> 00:19:34,780
+Guess not.
+
+347
+00:19:34,780 --> 00:19:36,080
+At any rate,
+
+348
+00:19:36,080 --> 00:19:38,880
+for time being, we'll concentrate on inspecting the house.
+
+349
+00:19:38,880 --> 00:19:42,480
+While we do, will all of you please wait in another room.
+
+350
+00:19:45,680 --> 00:19:49,980
+To think all of this started while looking into a stalker...
+
+351
+00:19:49,980 --> 00:19:51,980
+I feel sorry for Yuko.
+
+352
+00:19:51,980 --> 00:19:54,080
+Yes, I guess so.
+
+353
+00:19:54,080 --> 00:19:58,380
+I don't want to conclude that she planned the murder already.
+
+354
+00:19:58,380 --> 00:19:59,680
+What?
+
+355
+00:20:02,980 --> 00:20:06,780
+Are you trying to say Yuko is the culprit?
+
+356
+00:20:06,780 --> 00:20:09,880
+Yeah, it's certainly a possibility, isn't it?
+
+357
+00:20:09,880 --> 00:20:13,780
+But her husband was killed around 9:00 tonight.
+
+358
+00:20:13,780 --> 00:20:17,195
+That's the same time we left the hotel restaurant.
+
+359
+00:20:17,195 --> 00:20:20,280
+Wasn't Yuko with us the entire time?
+
+360
+00:20:20,280 --> 00:20:24,080
+But she excused herself to the bathroom once, didn't she?
+
+361
+00:20:24,080 --> 00:20:26,080
+Just before we left the restaurant.
+
+362
+00:20:26,080 --> 00:20:28,980
+But it was only for around ten minutes.
+
+363
+00:20:28,980 --> 00:20:31,980
+Her husband was at a wake then.
+
+364
+00:20:31,980 --> 00:20:33,680
+Are you saying that she would tell him to come to the hotel
+
+365
+00:20:33,680 --> 00:20:35,213
+despite knowing what she did?
+
+366
+00:20:35,213 --> 00:20:37,215
+No, that's not it.
+
+367
+00:20:37,215 --> 00:20:42,380
+When Officer Takagi checked the call history on her phone,
+
+368
+00:20:42,380 --> 00:20:48,380
+it said that last call she made was at 7:30, which was from my office.
+
+369
+00:20:49,380 --> 00:20:52,680
+Then, how could Yuko be the culprit?
+
+370
+00:20:52,680 --> 00:20:56,580
+The call from my office could have been fabricated.
+
+371
+00:20:56,580 --> 00:20:57,780
+What?
+
+372
+00:20:57,780 --> 00:21:03,241
+By then, shouldn't he have already been home, normally?
+
+373
+00:21:03,241 --> 00:21:07,245
+But this time, when she called her husband,
+
+374
+00:21:07,245 --> 00:21:09,980
+she went for his cell instead of the home phone.
+
+375
+00:21:09,980 --> 00:21:12,780
+Isn't that suspicious?
+
+376
+00:21:12,780 --> 00:21:16,280
+What's more, I think she purposely put it on speaker,
+
+377
+00:21:16,280 --> 00:21:19,257
+just so we could hear the conversation.
+
+378
+00:21:20,180 --> 00:21:22,480
+What? A wake?
+
+379
+00:21:22,480 --> 00:21:25,780
+Yeah. Someone I know suddenly passed away.
+
+380
+00:21:26,580 --> 00:21:28,880
+You're thinking about it too much.
+
+381
+00:21:28,880 --> 00:21:33,271
+Because after that, didn't she let you speak to him?
+
+382
+00:21:33,271 --> 00:21:36,180
+The voice on the phone was that of her husband, right?
+
+383
+00:21:36,180 --> 00:21:40,480
+Yeah. I doubt there was a trick involved there.
+
+384
+00:21:40,480 --> 00:21:42,480
+That's true.
+
+385
+00:21:42,480 --> 00:21:45,680
+If his voice had been recorded beforehand
+
+386
+00:21:45,680 --> 00:21:48,380
+and it was just played back over the phone,
+
+387
+00:21:48,380 --> 00:21:52,280
+she could easily fake a conversation that way.
+
+388
+00:21:52,280 --> 00:21:54,880
+But it would've been 100% impossible
+
+389
+00:21:54,880 --> 00:21:57,295
+to hold a conversation with Ms. Kisaki after that.
+
+390
+00:21:57,295 --> 00:22:01,080
+Someone could have imitated his voice over the phone.
+
+391
+00:22:01,080 --> 00:22:06,280
+After meeting with her so many times during the settlement proceedings,
+
+392
+00:22:06,280 --> 00:22:08,580
+she would be hard to fool.
+
+393
+00:22:08,580 --> 00:22:12,380
+If she really did call her husband then...
+
+394
+00:22:13,580 --> 00:22:16,080
+I'm at a wake.
+
+395
+00:22:16,080 --> 00:22:18,780
+You can hear the chanting, can't you?
+
+396
+00:22:18,780 --> 00:22:22,480
+Without knowing where the wake was being held...
+
+397
+00:22:22,480 --> 00:22:25,980
+Could Arisawa really have planned to murder him?
+
+398
+00:23:51,840 --> 00:23:53,411
+Next Conan's Hint:
+
+399
+00:23:53,940 --> 00:23:56,194
+"The sound of Mahjong"
+
+400
+00:23:56,194 --> 00:23:58,178
+In the next episode, Dad is really on his toes!
+
+401
+00:23:58,178 --> 00:23:59,417
+No way! Seriously?
+
+402
+00:23:59,417 --> 00:24:00,840
+Ron!
+
