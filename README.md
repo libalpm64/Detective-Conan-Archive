@@ -46,9 +46,9 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 ### Subtitles (Main Collection)
 
 **Release Sources:**
-*   **Movies 1-25**: Ah-Le-Le (Sub only, no Dub)
-*   **Movie 26**: varyg1001 (Sub + Dub)
-*   **Movie 27**: An-Land (Sub)
+*   **Movies 1-25**: Ah-Le-Le
+*   **Movie 26**: varyg1001
+*   **Movie 27**: An-Land
 
 | No. | Title | Download | Recommended Watch Order | Alignment / Notes |
 | :---: | :--- | :--- | :--- | :--- |
@@ -77,7 +77,7 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 | 23 | **The Fist of Blue Sapphire** | [Nyaa Link](https://nyaa.si/view/1290297) | After Ep 935 | n/a |
 | 24 | **The Scarlet Bullet** | [Nyaa Link](https://nyaa.si/view/1600960) | After Ep 1002 | |
 | 25 | **The Bride of Halloween** | [Nyaa Link](https://nyaa.si/view/1600961) | After Ep 1040 | |
-| 26 | **Black Iron Submarine** | [Nyaa Link](https://nyaa.si/view/2010762) | After Ep 1080 | n/a (Sub + Dub) |
+| 26 | **Black Iron Submarine** | [Nyaa Link](https://nyaa.si/view/2010762) | After Ep 1080 | n/a |
 | 27 | **The Million-dollar Pentagram** | [Nyaa Link](https://nyaa.si/view/1907601) | After Ep 1120+ | n/a |
 | 28 | **One-eyed Flashback** | *Pending* | After Ep 1140+ | *Pending* |
 ### English Dubs
