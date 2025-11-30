@@ -4,8 +4,6 @@ Rather than providing videos, this is a comprehensive script to watch Detective 
 
 Note that these are all remasters. The remasters are significantly higher quality but come at the cost of file size. The file size is ~1.2 TB for the entire series.
 
-To see requirements please check `requirements.md`.
-
 ## Legal Notice
 To denote, this is for archival purposes only. We are not promoting piracy and it is illegal under international law. Please keep this in mind when running this script that you must have a license from the official sources and depending on that license from the streaming provider you may or may not distribute these EPs in any capacity.
 
