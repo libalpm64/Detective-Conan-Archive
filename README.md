@@ -18,15 +18,12 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 ### [ER] Detective Conan Remastered 001-123
 - Subs are high quality with no issues
   
-### [NFJP] Detective Conan Remaster 124-753
-- Fan subs, good translation with some minor issues  
-- BB resynced, poor translation quality
-- 724-753 need manual retiming.
+### [NFJP] Detective Conan Remaster 124-693
+- Fan subs, good translation with some timing issues.  
+- BB resynced, poor translation quality.
 
-### [BB] Detective Conan 453-753 
-- Decent quality, okay translations,
-- Recommended range is from 724-753.
-
+### [BB] Detective Conan 694-753
+- Decent quality, okay translations.
 
 ### [ER] Detective Conan (Netflix JP) 754-1188
 - Crunchyroll subs, good quality  
@@ -103,12 +100,11 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 ## Sources / Credits
 
 ### Videos
-- [Erai-Raws] 001-123 https://nyaa.si/view/1539508 (Great subs, no need to add any)
+- [Erai-Raws] 001-123 https://nyaa.si/view/1539508
 - [Fabre-Raw-NFJP] 124-723 https://nyaa.si/view/1939397  
-- [Fabre-Raw-CR-USA] Dubbed EP https://nyaa.si/view/2040031  (Only watch if you like the dub. Aggressive vibrant colors)
-- [Fabre-Raw-BB] 453-753 https://nyaa.si/view/1502227 (Decent quality subs, only recommended for ranges 724-753)  
+- [Fabre-Raw-BB] 453-753 https://nyaa.si/view/1502227  
 - [Fabre-Raw-NFJP] 724-762 https://nyaa.si/view/1916924
-- [Erai-Raws] 754-1132 https://nyaa.si/view/1862421 (Great subs, no need to add any)
+- [Erai-Raws] 754-1132 https://nyaa.si/view/1862421
 
 ### Subtitles
 - [Fabre-Raw-BB-Subs] 124-723 https://nyaa.si/view/1907075  
@@ -116,9 +112,11 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 - [DC-Fan-Subs-Pull-15] 0-757 https://github.com/SkinnerK/conan/tree/master  
 
 ## Honorable Mentions
-- [Case-Closed] 001-130 https://nyaa.si/view/645282 (The funimation dub, no need to modify anything, less aggressive colors)
-- [DVDRJ2] 001-502 https://nyaa.si/view/836765 (The OG broadcasts, though it's very dated, this is less vibrant but noticeable quality drop, still supported)
-- [Anonymous-CR] 001-123 https://nyaa.si/view/1421295  (High filesize warning, mid-quality, messed up AR 1920x1080 instead of 1440x1080, deprecated but still supported)
+- [Case-Closed] 001-130 https://nyaa.si/view/645282 (The funimation dub)
+- [DVDRJ2] 001-502 https://nyaa.si/view/836765 (The OG DVDs)
+- [Anonymous-CR] 001-123 https://nyaa.si/view/1421295  (High filesize warning, mid-quality, messed up AR 1920x1080 instead of 1440x1080)
+- [Fabre-Raw-CR-USA] Dubbed EP https://nyaa.si/view/2040031  (Only watch if you like the dub. Aggressive vibrant colors)
+
 
 ### Projects
 - [ffmpeg] https://git.ffmpeg.org/ffmpeg.git  
