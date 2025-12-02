@@ -16,23 +16,23 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 
 ## Series Remasters
 ### [ER] Detective Conan Remastered 001-123
-- Subs are high quality with no issues
+- CR subs, good quality.
   
 ### [NFJP] Detective Conan Remaster 124-693
-- Fan subs, good translation with some timing issues.  
-- BB resynced, poor translation quality.
+- BB resynced, decent translation quality.
+- Fan subs, varying quality usually less consistent than BB.
 
 ### [BB] Detective Conan 694-753
-- Decent quality, okay translations.
+- Decent quality/translations.
 
 ### [ER] Detective Conan (Netflix JP) 754-1188
-- Crunchyroll subs, good quality  
+- CR subs, good quality. 
 
 ## Notes on Remasters
 There is a current English dub effort going on. The new episodes that are dubbed are:  
 1-5, 7, 10, 43, 48-49, 57-58, 76, 128-129, 176-178, 230-231, 286-288, 345, 425
 
-This option is toggleable. If you are not a fan of the dub, avoid using the CR remaster releases. The video is lower quality.
+This option is toggleable. If you are not a fan of the dub, avoid using the CR remaster releases.
 
 ## Detective Conan Movies
 
