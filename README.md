@@ -111,10 +111,10 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 - [DC-Fan-Subs] 0-757 https://github.com/x-cord/conan 
 - [DC-Fan-Subs-Pull-15] 0-757 https://github.com/SkinnerK/conan/tree/master  
 
-## Honorable Mentions
+## Other Sources
 - [Case-Closed] 001-130 https://nyaa.si/view/645282 (The funimation dub)
 - [DVDRJ2] 001-502 https://nyaa.si/view/836765 (The OG DVDs)
-- [Anonymous-CR] 001-123 https://nyaa.si/view/1421295  (High filesize warning, mid-quality, messed up AR 1920x1080 instead of 1440x1080)
+- [Anonymous-CR] 001-123 https://nyaa.si/view/1421295  (Messed up AR 1920x1080 instead of 1440x1080)
 - [Fabre-Raw-CR-USA] Dubbed EP https://nyaa.si/view/2040031  (Only watch if you like the dub. Aggressive vibrant colors)
 
 
