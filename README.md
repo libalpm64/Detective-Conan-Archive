@@ -116,7 +116,11 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 - [DVDRJ2] 001-502 https://nyaa.si/view/836765 (The OG DVDs)
 - [Anonymous-CR] 001-123 https://nyaa.si/view/1421295  (Messed up AR 1920x1080 instead of 1440x1080)
 - [Fabre-Raw-CR-USA] Dubbed EP https://nyaa.si/view/2040031  (Only watch if you like the dub. Aggressive vibrant colors)
+- [Eva-Movies-01-23] https://nyaa.si/view/1573183 (Bili WEB-DL)
 
+## Specials
+- [Magic Kaito] https://nyaa.si/view/1623648
+- [Magic Kaito 1412] https://nyaa.si/view/1087618
 
 ### Projects
 - [ffmpeg] https://git.ffmpeg.org/ffmpeg.git  
