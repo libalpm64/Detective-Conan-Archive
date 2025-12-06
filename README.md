@@ -12,7 +12,8 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 - **CR** = Crunchyroll  
 - **NF** = Netflix  
 - **JP** = Japan  
-- **ER** = Erai-Raws  
+- **ER** = Erai-Raws
+- **Eva** = Known encoder for high-quality Detective Conan releases.
 
 ## Series Remasters
 ### [ER] Detective Conan Remastered 001-123
@@ -21,12 +22,24 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 ### [NFJP] Detective Conan Remaster 124-693
 - BB resynced, decent translation quality.
 - Fan subs, varying quality usually less consistent than BB.
+- Eva noted issues:
+  - AI Artifacts (Ep 284+): From episode 284 onwards, Netflix utilizes AI upscaling which introduces sharpening artifacts and haloing around lineart.
+  - Missing Content: These sources do not contain "Next Episode Previews."
+  - Ep 515-521: May contain "Anime 7" branding/logos in the intro or preview segments.
+  - Ep 520: Missing the "Final Joke" segment (contains only the hint).
+  - Broadcast Artifacts: Some episodes retain TV broadcast glitches at the very start or end of the file.
 
 ### [BB] Detective Conan 694-753
 - Decent quality/translations.
+- Eva noted issues:
+  - This source suffers from "wacky decimation" (frame pacing issues) and heavy compression.
+  - The top-right "Conan" station logo is masked using DVD or Catalan/Galician sources where possible.
 
 ### [ER] Detective Conan (Netflix JP) 754-1188
-- CR subs, good quality. 
+- CR subs, good quality.
+- Eva noted issues:
+  - The source has a noticeable green tint from 754-864. The script applies color correction to match the Bilibili color profile.
+  - Artifacts (Ep 880-904): Some episodes in this range suffer from horizontal bar artifacts.
 
 ## Notes on Remasters
 There is a current English dub effort going on. The new episodes that are dubbed are:  
