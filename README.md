@@ -71,12 +71,12 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 | 20 | **The Darkest Nightmare** | [Nyaa Link](https://nyaa.si/view/1287082) | After Ep 813 | |
 | 21 | **The Crimson Love Letter** | [Nyaa Link](https://nyaa.si/view/1288423) | After Ep 855 | |
 | 22 | **Zero the Enforcer** | [Nyaa Link](https://nyaa.si/view/1289908) | After Ep 898 | |
-| 23 | **The Fist of Blue Sapphire** | [Nyaa Link](https://nyaa.si/view/1290297) | After Ep 935 | n/a |
+| 23 | **The Fist of Blue Sapphire** | [Nyaa Link](https://nyaa.si/view/1290297) | After Ep 746 | n/a |
 | 24 | **The Scarlet Bullet** | [Nyaa Link](https://nyaa.si/view/1600960) | After Ep 1002 | |
 | 25 | **The Bride of Halloween** | [Nyaa Link](https://nyaa.si/view/1600961) | After Ep 1040 | |
 | 26 | **Black Iron Submarine** | [Nyaa Link](https://nyaa.si/view/2010762) | After Ep 1080 | n/a |
-| 27 | **The Million-dollar Pentagram** | [Nyaa Link](https://nyaa.si/view/1907601) | After Ep 1120+ | n/a |
-| 28 | **One-eyed Flashback** | *Pending* | After Ep 1140+ | *Pending* |
+| 27 | **The Million-dollar Pentagram** | [Nyaa Link](https://nyaa.si/view/1907601) | After Ep 863 | n/a |
+| 28 | **One-eyed Flashback** | [Nyaa Link](https://nyaa.si/view/2050063) | After Ep 850 | n/a |
 ### English Dubs
 
 **Release Sources:**
