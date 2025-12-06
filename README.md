@@ -74,7 +74,7 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 | 23 | **The Fist of Blue Sapphire** | [Nyaa Link](https://nyaa.si/view/1290297) | After Ep 746 | n/a |
 | 24 | **The Scarlet Bullet** | [Nyaa Link](https://nyaa.si/view/1600960) | After Ep 1002 | |
 | 25 | **The Bride of Halloween** | [Nyaa Link](https://nyaa.si/view/1600961) | After Ep 1040 | |
-| 26 | **Black Iron Submarine** | [Nyaa Link](https://nyaa.si/view/2010762) | After Ep 1080 | n/a |
+| 26 | **Black Iron Submarine** | [Nyaa Link](https://nyaa.si/view/2010762) | After Ep 1080 | |
 | 27 | **The Million-dollar Pentagram** | [Nyaa Link](https://nyaa.si/view/1907601) | After Ep 863 | n/a |
 | 28 | **One-eyed Flashback** | [Nyaa Link](https://nyaa.si/view/2050063) | After Ep 850 | n/a |
 ### English Dubs
