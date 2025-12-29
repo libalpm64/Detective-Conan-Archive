@@ -56,39 +56,41 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 ### Subtitles (Main Collection)
 
 **Release Sources:**
-*   **Movies 1-25**: Ah-Le-Le
-*   **Movie 26**: varyg1001
-*   **Movie 27**: An-Land
-
+*   **Movies 1-23**: Eva + Wave
+*   **Movie 24**: Ah-le-le
+*   **Movie 25**: Anonymous
+*   **Movie 26**: Silverbullet + Fabre + Eva
+*   **Movie 27**: Wave + BTT
+*   **Movie 28**: Eva + Rudy + Wave + Avico + SOFCJ 
 | No. | Title | Download | Recommended Watch Order | Alignment / Notes |
 | :---: | :--- | :--- | :--- | :--- |
-| 01 | **The Time-Bombed Skyscraper** | [Nyaa Link](https://nyaa.si/view/1316812) | After Ep 54 | n/a |
-| 02 | **The Fourteenth Target** | [Nyaa Link](https://nyaa.si/view/1333260) | After Ep 97 | n/a |
-| 03 | **The Last Wizard of the Century** | [Nyaa Link](https://nyaa.si/view/1600959) | After Ep 218 | |
-| 04 | **Captured in Her Eyes** | [Nyaa Link](https://nyaa.si/view/1610615) | After Ep 186 | n/a |
-| 05 | **Countdown to Heaven** | [Nyaa Link](https://nyaa.si/view/1625121) | After Ep 231 | |
-| 06 | **The Phantom of Baker Street** | [Nyaa Link](https://nyaa.si/view/1627837) | After Ep 275 | n/a |
-| 07 | **Crossroad in the Ancient Capital** | [Nyaa Link](https://nyaa.si/view/1107215) | After Ep 315 | |
-| 08 | **Magician of the Silver Sky** | [Nyaa Link](https://nyaa.si/view/1109433) | After Ep 356 | |
-| 09 | **Strategy Above the Depths** | [Nyaa Link](https://nyaa.si/view/1114541) | After Ep 396 | n/a |
-| 10 | **The Private Eyes' Requiem** | [Nyaa Link](https://nyaa.si/view/1126779) | After Ep 434 | n/a |
-| 11 | **Jolly Roger in the Deep Azure** | [Nyaa Link](https://nyaa.si/view/1140394) | After Ep 470 | n/a |
-| 12 | **Full Score of Fear** | [Nyaa Link](https://nyaa.si/view/1148534) | After Ep 504 | n/a |
-| 13 | **The Raven Chaser** | [Nyaa Link](https://nyaa.si/view/1184682) | After Ep 530 | |
-| 14 | **The Lost Ship in the Sky** | [Nyaa Link](https://nyaa.si/view/1188727) | After Ep 570 | |
-| 15 | **Quarter of Silence** | [Nyaa Link](https://nyaa.si/view/1272608) | After Ep 610 | n/a |
-| 16 | **The Eleventh Striker** | [Nyaa Link](https://nyaa.si/view/1280565) | After Ep 651 | n/a |
-| 17 | **Private Eye in the Distant Sea** | [Nyaa Link](https://nyaa.si/view/1283257) | After Ep 694 | n/a |
-| 18 | **Dimensional Sniper** | [Nyaa Link](https://nyaa.si/view/1284804) | After Ep 783 | |
-| 19 | **Sunflowers of Inferno** | [Nyaa Link](https://nyaa.si/view/1286640) | After Ep 774 | n/a |
-| 20 | **The Darkest Nightmare** | [Nyaa Link](https://nyaa.si/view/1287082) | After Ep 813 | |
-| 21 | **The Crimson Love Letter** | [Nyaa Link](https://nyaa.si/view/1288423) | After Ep 855 | n/a |
-| 22 | **Zero the Enforcer** | [Nyaa Link](https://nyaa.si/view/1289908) | After Ep 898 | |
-| 23 | **The Fist of Blue Sapphire** | [Nyaa Link](https://nyaa.si/view/1290297) | After Ep 746 | n/a |
+| 01 | **The Time-Bombed Skyscraper** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 54 | n/a |
+| 02 | **The Fourteenth Target** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 97 | n/a |
+| 03 | **The Last Wizard of the Century** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 218 | |
+| 04 | **Captured in Her Eyes** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 186 | n/a |
+| 05 | **Countdown to Heaven** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 231 | |
+| 06 | **The Phantom of Baker Street** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 275 | n/a |
+| 07 | **Crossroad in the Ancient Capital** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 315 | |
+| 08 | **Magician of the Silver Sky** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 356 | |
+| 09 | **Strategy Above the Depths** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 396 | n/a |
+| 10 | **The Private Eyes' Requiem** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 434 | n/a |
+| 11 | **Jolly Roger in the Deep Azure** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 470 | n/a |
+| 12 | **Full Score of Fear** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 504 | n/a |
+| 13 | **The Raven Chaser** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 530 | |
+| 14 | **The Lost Ship in the Sky** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 570 | |
+| 15 | **Quarter of Silence** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 610 | n/a |
+| 16 | **The Eleventh Striker** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 651 | n/a |
+| 17 | **Private Eye in the Distant Sea** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 694 | n/a |
+| 18 | **Dimensional Sniper** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 783 | |
+| 19 | **Sunflowers of Inferno** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 774 | n/a |
+| 20 | **The Darkest Nightmare** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 813 | |
+| 21 | **The Crimson Love Letter** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 855 | n/a |
+| 22 | **Zero the Enforcer** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 898 | |
+| 23 | **The Fist of Blue Sapphire** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 746 | n/a |
 | 24 | **The Scarlet Bullet** | [Nyaa Link](https://nyaa.si/view/1600960) | After Ep 1002 | |
-| 25 | **The Bride of Halloween** | [Nyaa Link](https://nyaa.si/view/1600961) | After Ep 1040 | |
-| 26 | **Black Iron Submarine** | [Nyaa Link](https://nyaa.si/view/2010762) | After Ep 1080 | |
-| 27 | **The Million-dollar Pentagram** | [Nyaa Link](https://nyaa.si/view/1907601) | After Ep 863 | n/a |
+| 25 | **The Bride of Halloween** | [Nyaa Link](https://nyaa.si/view/1864836) | After Ep 1040 | |
+| 26 | **Black Iron Submarine** | [Nyaa Link](https://nyaa.si/view/1748824) | After Ep 1080 | |
+| 27 | **The Million-dollar Pentagram** | [Nyaa Link](https://nyaa.si/view/1904388) | After Ep 863 | n/a |
 | 28 | **One-eyed Flashback** | [Nyaa Link](https://nyaa.si/view/2050063) | After Ep 850 | n/a |
 | 29 | **Fallen Angel of the Highway** | TBD | After Ep 1045 | |
 
