@@ -61,7 +61,9 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 *   **Movie 25**: Anonymous
 *   **Movie 26**: Silverbullet + Fabre + Eva
 *   **Movie 27**: Wave + BTT
-*   **Movie 28**: Eva + Rudy + Wave + Avico + SOFCJ 
+*   **Movie 28**: Eva + Rudy + Wave + Avico + SOFCJ
+
+
 | No. | Title | Download | Recommended Watch Order | Alignment / Notes |
 | :---: | :--- | :--- | :--- | :--- |
 | 01 | **The Time-Bombed Skyscraper** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 54 | n/a |
@@ -92,7 +94,7 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 | 26 | **Black Iron Submarine** | [Nyaa Link](https://nyaa.si/view/1748824) | After Ep 1080 | |
 | 27 | **The Million-dollar Pentagram** | [Nyaa Link](https://nyaa.si/view/1904388) | After Ep 863 | n/a |
 | 28 | **One-eyed Flashback** | [Nyaa Link](https://nyaa.si/view/2050063) | After Ep 850 | n/a |
-| 29 | **Fallen Angel of the Highway** | TBD | After Ep 1045 | |
+| 29 | **Fallen Angel of the Highway** | TBD | After Ep 1045 |
 
 ### English Dubs
 
