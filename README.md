@@ -28,7 +28,8 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
   - Ep 515-521: May contain "Anime 7" branding/logos in the intro or preview segments.
   - Ep 520: Missing the "Final Joke" segment (contains only the hint).
   - Broadcast Artifacts: Some episodes retain TV broadcast glitches at the very start or end of the file.
-
+  - Do not use 515 of NFJP. Use the BB source.
+   
 ### [BB] Detective Conan 515, 694-753
 - Decent quality/translations.
 - Eva noted issues:
