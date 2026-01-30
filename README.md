@@ -29,7 +29,7 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
   - Ep 520: Missing the "Final Joke" segment (contains only the hint).
   - Broadcast Artifacts: Some episodes retain TV broadcast glitches at the very start or end of the file.
 
-### [BB] Detective Conan 694-753
+### [BB] Detective Conan 515, 694-753
 - Decent quality/translations.
 - Eva noted issues:
   - This source suffers from "wacky decimation" (frame pacing issues) and heavy compression.
