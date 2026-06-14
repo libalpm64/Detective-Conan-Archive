@@ -1,1595 +1,1819 @@
 1
-00:00:05,230 --> 00:00:06,830
-Stars are for some reason attractive.
+00:00:05,297 --> 00:00:08,592
+Stars are somehow fascinating.
+Sometimes a criminal, sometimes an actor...
 
 2
-00:00:06,830 --> 00:00:08,730
-They can be the culprit or an actor.
+00:00:08,676 --> 00:00:10,261
+A strange code from the Professor.
 
 3
-00:00:08,730 --> 00:00:10,430
-Dr. Agasa's weird code
+00:00:10,344 --> 00:00:11,512
+The Detective Boys face an unexpected struggle.
 
 4
-00:00:10,430 --> 00:00:11,930
-is tough for the Youth Detective Squad.
+00:00:11,887 --> 00:00:13,597
+Who will be the first to solve it?
 
 5
-00:00:11,930 --> 00:00:13,930
-Who's going to be the first to solve it?
+00:00:13,848 --> 00:00:15,266
+See through the one and only truth.
 
 6
-00:00:13,930 --> 00:00:15,330
-He sees through the one and only truth.
+00:00:15,349 --> 00:00:16,976
+Looks like a kid, but has the mind of an adult.
 
 7
-00:00:15,330 --> 00:00:17,030
-A child in appearance with the I.Q. of an adult.
-
-8
-00:00:17,030 --> 00:00:19,430
+00:00:17,059 --> 00:00:19,103
 His name is Detective Conan!
 
+8
+00:03:24,000 --> 00:03:29,000
+The Surprising Shrine Torii Gate Code (Part 2)
+
 9
-00:01:57,522 --> 00:01:59,122
-One hot summer day,
+00:00:19,186 --> 00:00:25,192
+♪~♪
 
 10
-00:01:59,122 --> 00:02:02,022
-we came to collect insects.
+00:01:49,944 --> 00:01:55,950
+♪~♪
 
 11
-00:02:02,022 --> 00:02:04,822
-Doc gave us a code quiz "pill bug and a tent",
+00:01:57,326 --> 00:02:01,247
+One hot summer day, we came to collect insects.
 
 12
-00:02:04,822 --> 00:02:08,322
-which would lead us to where the treasure is hidden.
+00:02:01,831 --> 00:02:04,416
+The Professor gave us a code quiz
+indicating the location of a treasure—
 
 13
-00:02:08,322 --> 00:02:10,522
-But I couldn't solve the code either.
+00:02:04,500 --> 00:02:07,294
+called "Marumushini Tento."
 
 14
-00:02:11,822 --> 00:02:14,922
-Meanwhile, I get a call from Ran and Sonoko who are at the beach
+00:02:08,045 --> 00:02:10,673
+Even I couldn't solve it.
 
 15
-00:02:14,922 --> 00:02:19,722
-saying that there was a murder at the hotel that they're staying at.
+00:02:11,507 --> 00:02:14,593
+Meanwhile, from Ran and Sonoko,
+who were spending time at the beach—
 
 16
-00:02:21,422 --> 00:02:25,822
-Sonoko remembered that there was something written on the window
+00:02:14,677 --> 00:02:16,345
+at the hotel where they were staying—
 
 17
-00:02:25,822 --> 00:02:29,622
-of the hotel room where the man was killed.
+00:02:16,428 --> 00:02:19,473
+we received word that a murder had occurred.
 
 18
-00:02:29,622 --> 00:02:30,622
-What kind of writing?
+00:02:21,308 --> 00:02:25,479
+Sonoko said that on the window glass
+of the hotel room where that man was murdered—
 
 19
-00:02:32,122 --> 00:02:33,522
-Something like a code.
+00:02:25,563 --> 00:02:28,566
+there were strange characters written.
 
 20
-00:02:33,522 --> 00:02:36,322
-And who found the body?
+00:02:28,649 --> 00:02:30,359
+Huh? Strange characters?
 
 21
-00:02:36,322 --> 00:02:39,822
-The three friends of Mr. Miyama who was killed.
+00:02:30,442 --> 00:02:33,070
+Yeah, like a code...
 
 22
-00:02:40,822 --> 00:02:43,322
-Mr. Miyama and the three of them were planning to have dinner together.
+00:02:33,153 --> 00:02:35,698
+So, who found the body?
 
 23
-00:02:43,322 --> 00:02:45,922
-So they went to his room to get him because he didn't come.
+00:02:36,031 --> 00:02:39,702
+The three friends of the murdered man,
+Miyama-san.
 
 24
-00:02:45,922 --> 00:02:51,922
-They found the door was unlocked and the window was broken.
+00:02:40,536 --> 00:02:43,038
+They all had a dinner appointment, but
 
 25
-00:02:51,922 --> 00:02:54,922
-Mr. Miyama was found on the floor near the window.
+00:02:43,122 --> 00:02:44,206
+Miyama-san didn't
 
 26
-00:02:54,922 --> 00:02:57,122
-This is what they testified to the police.
+00:02:44,290 --> 00:02:45,583
+show up,
 
 27
-00:02:58,222 --> 00:02:59,622
-Then we...
+00:02:45,666 --> 00:02:47,835
+so the three went to his room.
 
 28
-00:03:00,822 --> 00:03:05,822
-Then, is the "tent" in the code points to the Tento festival?
+00:02:47,918 --> 00:02:49,461
+The key was left in the lock,
 
 29
-00:03:05,822 --> 00:03:10,322
-Even so, I still don't understand the pill bug part.
+00:02:49,545 --> 00:02:51,589
+and when they went inside,
+the window glass was broken,
 
 30
-00:03:10,322 --> 00:03:12,422
-That's where...
+00:02:51,672 --> 00:02:54,758
+and Miyama-san was collapsed beside it—
 
 31
-00:03:12,422 --> 00:03:14,822
-Marumushi Hot Spring is located.
+00:02:54,842 --> 00:02:57,052
+that's what they testified to the police.
 
 32
-00:03:15,822 --> 00:03:17,922
-"Pill bug and tent..."
+00:02:57,970 --> 00:02:59,722
+After that, we...
 
 33
-00:03:17,922 --> 00:03:19,422
-Does that mean to light it up?
+00:03:00,598 --> 00:03:01,807
+Then, could it be—
 
 34
-00:03:24,622 --> 00:03:30,222
-"Shrine Torii Gate Surprising Code (Part 2)"
+00:03:01,891 --> 00:03:04,977
+that "Tento" in this code
+means the Tento (Floating Lantern) Festival?
 
 35
-00:03:34,922 --> 00:03:36,822
-Huh?
+00:03:05,561 --> 00:03:09,440
+Even if that's it, the meaning
+of "Marumushi" before it is still...
 
 36
-00:03:36,822 --> 00:03:38,922
-There are a lot of people.
+00:03:10,065 --> 00:03:14,862
+That area does have a hot spring
+called Marumushi Hot Spring.
 
 37
-00:03:38,922 --> 00:03:41,622
-There must be some kind of a gathering, don't you think?
+00:03:15,571 --> 00:03:17,740
+Light the Marumushi... Huh?
 
 38
-00:03:41,622 --> 00:03:44,422
-Stupid! Take a closer look.
+00:03:17,823 --> 00:03:19,199
+Does it mean turn on the light?
 
 39
-00:03:44,422 --> 00:03:46,822
-Everyone is holding a basin.
+00:03:34,632 --> 00:03:38,552
+Hey? There are a lot of people.
 
 40
-00:03:46,822 --> 00:03:48,922
-It's true!
+00:03:38,636 --> 00:03:41,013
+Maybe there's a gathering.
 
 41
-00:03:48,922 --> 00:03:51,822
-The villagers probably bought the closed down inn
+00:03:41,430 --> 00:03:44,058
+No way, take a good look.
 
 42
-00:03:51,822 --> 00:03:54,422
-and are using it as a public bath.
+00:03:44,141 --> 00:03:45,935
+Everyone's holding a washbowl, right?
 
 43
-00:03:54,422 --> 00:03:56,122
-I see.
+00:03:46,518 --> 00:03:48,270
+Ah, you're right.
 
 44
-00:03:56,122 --> 00:03:59,822
-Sento (Public bath)?
+00:03:48,729 --> 00:03:51,523
+Probably, the village bought the ruined inn
 
 45
-00:03:59,822 --> 00:04:04,122
-Maybe this "tento" (tent) means "sento" (public bath).
+00:03:51,607 --> 00:03:53,776
+and they're using it as a public bath.
 
 46
-00:04:04,122 --> 00:04:05,822
-No matter how you look at it, Genta,
+00:03:54,193 --> 00:03:55,569
+I see.
 
 47
-00:04:05,822 --> 00:04:09,122
-this "te" doesn't look like "se".
+00:03:55,903 --> 00:03:58,781
+Public bath? Public bath...
 
 48
-00:04:09,122 --> 00:04:11,322
-And it can't be "tentou"
+00:03:59,448 --> 00:04:01,617
+Could this "Tento"—
 
 49
-00:04:11,322 --> 00:04:13,822
-because there's no "u" after the "tento".
+00:04:01,700 --> 00:04:03,911
+actually mean public bath?
 
 50
-00:04:13,822 --> 00:04:15,922
-"U"?
+00:04:03,994 --> 00:04:05,496
+Um, Genta-kun,
 
 51
-00:04:15,922 --> 00:04:18,622
-Darn it!
+00:04:05,579 --> 00:04:08,624
+no matter how you look at it,
+this "Te" doesn't look like "Se."
 
 52
-00:04:18,622 --> 00:04:20,222
-I don't get it!
+00:04:08,916 --> 00:04:11,043
+And it's not about lighting either.
 
 53
-00:04:20,222 --> 00:04:24,122
-Genta, don't lie down in despair.
+00:04:11,126 --> 00:04:13,045
+There's no "U" after "Tento."
 
 54
-00:04:24,122 --> 00:04:26,122
-I'm not in despair.
+00:04:13,587 --> 00:04:15,214
+Ugh.
 
 55
-00:04:26,122 --> 00:04:30,622
-Doc told us to lie down and think it through,
+00:04:15,673 --> 00:04:17,716
+Ah, damn it!
 
 56
-00:04:30,622 --> 00:04:32,722
-and I just might get it.
+00:04:18,425 --> 00:04:19,635
+I don't get it anymore.
 
 57
-00:04:32,722 --> 00:04:34,222
-But...
+00:04:19,969 --> 00:04:23,305
+Hey, Genta, don't lie down in frustration.
 
 58
-00:04:34,222 --> 00:04:38,822
-Ai was saying that if we still don't get it,
+00:04:23,847 --> 00:04:25,891
+I'm not frustrated.
 
 59
-00:04:38,822 --> 00:04:41,622
-we should wash our faces and start anew.
+00:04:25,975 --> 00:04:27,726
+The Professor said,
 
 60
-00:04:41,622 --> 00:04:44,222
-Since there's a public bath,
+00:04:27,810 --> 00:04:32,314
+if you lie down and think carefully,
+you might figure it out.
 
 61
-00:04:44,222 --> 00:04:47,222
-why don't we go and wash our faces and our bodies?
+00:04:32,398 --> 00:04:33,899
+Even so...
 
 62
-00:04:47,222 --> 00:04:48,622
-That's a great idea!
+00:04:33,983 --> 00:04:36,527
+Come to think of it, Ai-chan also said,
 
 63
-00:04:49,922 --> 00:04:51,822
-It's no use.
+00:04:36,610 --> 00:04:40,948
+if you absolutely can't figure it out,
+wash your face and start over.
 
 64
-00:04:51,822 --> 00:04:53,022
-Ai.
+00:04:41,490 --> 00:04:43,909
+Well, since there's a public bath,
 
 65
-00:04:53,022 --> 00:04:56,522
-It's no use going to that inn. There's nothing there.
+00:04:43,993 --> 00:04:46,954
+shall we wash our faces and bodies
+and refresh ourselves?
 
 66
-00:04:56,522 --> 00:04:58,622
-You guys have to try and think a little bit more.
+00:04:47,037 --> 00:04:48,288
+Ah... that sounds good.
 
 67
-00:04:58,622 --> 00:05:00,522
-Then tell us!
+00:04:49,415 --> 00:04:50,416
+It's useless.
 
 68
-00:05:00,522 --> 00:05:02,622
-Where is the treasure?
+00:04:50,708 --> 00:04:52,418
+Huh? Ai-chan.
 
 69
-00:05:02,622 --> 00:05:04,622
-Please tell us.
+00:04:52,751 --> 00:04:56,171
+Going to that inn is pointless.
+There's nothing there.
 
 70
-00:05:04,622 --> 00:05:08,022
-Sure, I can tell you.
+00:04:56,255 --> 00:04:58,257
+Hey, do something about it.
 
 71
-00:05:08,022 --> 00:05:09,822
-Only if someone here gives up.
+00:04:58,340 --> 00:05:00,217
+Come on, Professor, just tell us.
 
 72
-00:05:13,622 --> 00:05:15,022
-I'm not giving up!
+00:05:00,300 --> 00:05:02,344
+Where is the treasure?
 
 73
-00:05:16,422 --> 00:05:17,422
-A mail.
+00:05:02,428 --> 00:05:03,887
+Please, tell us.
 
 74
-00:05:19,522 --> 00:05:21,122
-It's from Sonoko.
+00:05:04,388 --> 00:05:07,808
+Well, I suppose I could tell you.
 
 75
-00:05:21,122 --> 00:05:22,222
-Huh?
+00:05:07,891 --> 00:05:09,643
+If someone gives up.
 
 76
-00:05:22,222 --> 00:05:25,522
-I thought her cell phone was in the bag that was stolen.
+00:05:09,893 --> 00:05:11,186
+Eh?
 
 77
-00:05:28,322 --> 00:05:30,822
-I found this bag on the street
+00:05:11,729 --> 00:05:12,730
+Eh?
 
 78
-00:05:30,822 --> 00:05:33,622
-and since there was no ID,
+00:05:13,313 --> 00:05:14,314
+Who would do that?
 
 79
-00:05:33,622 --> 00:05:37,322
-I mailed the most recent person
+00:05:14,398 --> 00:05:15,983
+Ah.
 
 80
-00:05:37,322 --> 00:05:41,322
-the cell phone listed to have sent a mail to.
+00:05:16,275 --> 00:05:17,317
+A mail.
 
 81
-00:05:41,322 --> 00:05:43,222
-I want to send this bag to you,
+00:05:19,236 --> 00:05:20,654
+From Sonoko.
 
 82
-00:05:43,222 --> 00:05:47,622
-so can you please give me your address and name?
+00:05:20,904 --> 00:05:25,492
+Huh? I thought her phone and bag
+were snatched by a bag-snatcher...
 
 83
-00:05:47,622 --> 00:05:50,022
-It seems like the purse-snatcher just took the purse
+00:05:26,285 --> 00:05:27,411
+Hmm?
 
 84
-00:05:50,022 --> 00:05:51,722
-and threw the bag away.
+00:05:28,078 --> 00:05:30,497
+"I found a bag on the roadside—"
 
 85
-00:05:53,722 --> 00:05:58,722
-Wouldn't you usually ask for the address and name of the owner of the bag?
+00:05:30,581 --> 00:05:33,000
+"There's nothing inside
+to identify the owner,"
 
 86
-00:05:58,722 --> 00:06:01,222
-Why did this person send a mail?
+00:05:33,459 --> 00:05:35,044
+"so for the time being,
+I'm emailing the—"
 
 87
-00:06:01,222 --> 00:06:02,422
-Wouldn't it be quicker to look at the record of calls made
+00:05:35,127 --> 00:05:37,087
+"most recent recipient recorded—"
 
 88
-00:06:02,422 --> 00:06:04,622
-and call someone from that list?
+00:05:37,171 --> 00:05:40,632
+"in the cell phone that was in the bag."
 
 89
-00:06:04,622 --> 00:06:06,522
-Huh?
+00:05:41,133 --> 00:05:42,926
+"I would like to return this bag,"
 
 90
-00:06:06,522 --> 00:06:08,522
-You give up, right?
+00:05:43,010 --> 00:05:47,056
+"so I would appreciate it
+if you could tell me your address and name."
 
 91
-00:06:10,022 --> 00:06:11,622
-Time out!
+00:05:47,389 --> 00:05:48,974
+Seems like that bag-snatcher
 
 92
-00:06:13,722 --> 00:06:17,422
-Take the bag to the police if you found it.
+00:05:49,058 --> 00:05:51,935
+took the wallet and threw away the bag.
 
 93
-00:06:18,422 --> 00:06:20,222
-Hello, Ran?
+00:05:53,353 --> 00:05:54,646
+But if they're going to do that,
 
 94
-00:06:20,222 --> 00:06:23,822
-I just got mail from the person who found Sonoko's bag.
+00:05:54,730 --> 00:05:58,067
+why not just ask for the owner's
+address and name?
 
 95
-00:06:23,822 --> 00:06:25,822
-Oh, really?
+00:05:58,484 --> 00:06:00,861
+And why specifically email?
 
 96
-00:06:25,822 --> 00:06:30,422
-You'll probably receive a mail, too.
+00:06:00,944 --> 00:06:02,112
+Check the call log—
 
 97
-00:06:30,422 --> 00:06:33,122
--So you can do something about it. -I'm sorry.
+00:06:02,196 --> 00:06:04,823
+wouldn't it be faster to call someone?
 
 98
-00:06:33,122 --> 00:06:34,122
-What's up?
+00:06:06,325 --> 00:06:07,868
+It's surrender, right?
 
 99
-00:06:34,122 --> 00:06:36,422
-My cell phone's battery is low.
+00:06:07,951 --> 00:06:08,952
+Eh?
 
 100
-00:06:36,422 --> 00:06:38,722
-I'm at the police station right now.
+00:06:09,495 --> 00:06:11,330
+Ah, hey... hey, wait a minute.
 
 101
-00:06:38,722 --> 00:06:41,122
-I'll get back to you when I return to the hotel.
+00:06:13,415 --> 00:06:17,252
+More importantly, if you find a bag,
+you should turn it in to the police first!
 
 102
-00:06:41,122 --> 00:06:45,422
-Then did you tell them that the letters might mean "tel shite"?
+00:06:18,128 --> 00:06:19,922
+Ah... hello, Ran?
 
 103
-00:06:45,422 --> 00:06:51,922
-The police and Mr. Miyama's three friends are saying that it makes sense.
+00:06:20,005 --> 00:06:22,007
+I just got an email from someone
+who found Sonoko's bag,
 
 104
-00:06:51,922 --> 00:06:55,622
-But that doesn't help to specify the killer,
+00:06:22,091 --> 00:06:23,509
+but...
 
 105
-00:06:55,622 --> 00:06:58,422
-so we're going back to the hotel for now.
+00:06:23,592 --> 00:06:25,594
+Eh, really?
 
 106
-00:06:58,422 --> 00:07:00,822
-Hey, be careful.
+00:06:25,677 --> 00:06:30,140
+Yeah. I think you'll probably get
+a call or email too, so you handle it—
 
 107
-00:07:00,822 --> 00:07:03,522
-The purse-snatcher is probably still roaming the streets.
+00:06:30,224 --> 00:06:30,849
+You handle it—
 
 108
-00:07:03,522 --> 00:07:05,722
-We'll be all right!
+00:06:30,849 --> 00:06:31,850
+Ah, sorry.
 
 109
-00:07:07,022 --> 00:07:08,822
-I just asked Mr. Kanou
+00:06:31,934 --> 00:06:33,560
+Ah... what's wrong?
 
 110
-00:07:08,822 --> 00:07:12,822
--to take me and your wife back to the hotel! -Wife?
+00:06:33,644 --> 00:06:36,188
+Well, my phone battery is dying.
 
 111
-00:07:12,822 --> 00:07:15,022
-Who's Kanou?
+00:06:36,271 --> 00:06:38,357
+I'm at the police station now,
 
 112
-00:07:15,022 --> 00:07:17,122
-Ran was just talking to you about him.
+00:06:38,440 --> 00:06:40,567
+but I'll call again
+when I get back to the hotel.
 
 113
-00:07:17,122 --> 00:07:19,322
-Mr. Miyama's good looking friend.
+00:06:40,818 --> 00:06:45,155
+So you said those characters
+might mean "call"?
 
 114
-00:07:19,322 --> 00:07:20,522
-A good looking guy!
+00:06:45,239 --> 00:06:49,451
+Yeah. The police and
+Miyama-san's three friends
 
 115
-00:07:20,522 --> 00:07:24,122
--Sonoko. -What's the big deal? It's true.
+00:06:49,535 --> 00:06:51,662
+said they could understand that.
 
 116
-00:07:24,122 --> 00:07:26,822
-The other two friends are with him, right?
+00:06:51,745 --> 00:06:55,457
+But since that message
+can't identify the culprit,
 
 117
-00:07:26,822 --> 00:07:29,222
-It seems like he's alone.
+00:06:55,541 --> 00:06:57,918
+we decided to go back
+to the hotel for now.
 
 118
-00:07:29,222 --> 00:07:32,522
-Mr. Miyama's girlfriend, Miss Yanuma
+00:06:58,001 --> 00:07:00,629
+Hey hey, be careful.
 
 119
-00:07:32,522 --> 00:07:34,922
-is still being questioned by the police,
+00:07:00,712 --> 00:07:03,173
+The bag-snatcher might
+still be lurking around...
 
 120
-00:07:34,922 --> 00:07:39,322
-so Mr. Kanou was planning to wait for her in his car until she finished.
+00:07:03,257 --> 00:07:05,759
+It's fine, it's fine.
 
 121
-00:07:39,322 --> 00:07:42,122
-But Mr. Bito seems to have returned to the hotel already.
+00:07:06,593 --> 00:07:08,512
+Ah... This time, I asked Kanou-san
 
 122
-00:07:42,122 --> 00:07:46,822
-Since Miss Yanuma's questioning is taking time,
+00:07:08,595 --> 00:07:10,597
+to drive me and your wife
+back to the hotel.
 
 123
-00:07:46,822 --> 00:07:49,622
-Mr. Kanou will be taking us back to the hotel
+00:07:10,597 --> 00:07:12,182
+Wife...
 
 124
-00:07:49,622 --> 00:07:51,322
-and return again to pick her up.
+00:07:12,266 --> 00:07:14,685
+Wh... who's this Kanou?
 
 125
-00:07:51,322 --> 00:07:52,722
-Okay.
+00:07:14,935 --> 00:07:16,728
+You heard Ran mention him earlier,
 
 126
-00:07:52,722 --> 00:07:55,822
-I'm hanging up now. My cell phone is really running out of battery.
+00:07:16,812 --> 00:07:20,065
+Miyama-san's handsome friend. Handsome!
 
 127
-00:07:57,322 --> 00:07:59,022
-Come on.
+00:07:20,149 --> 00:07:21,191
+Sonoko.
 
 128
-00:07:59,022 --> 00:08:01,922
-I should have gone to the beach, too.
+00:07:21,275 --> 00:07:23,610
+It's fine, it's the truth.
 
 129
-00:08:01,922 --> 00:08:03,222
-Beach?
+00:07:23,902 --> 00:07:26,405
+The other two friends
+are together too, right?
 
 130
-00:08:03,222 --> 00:08:06,722
-Talking about the beach, I found a jellyfish.
+00:07:26,488 --> 00:07:28,574
+Ah... it seems like it's just Kanou-san.
 
 131
-00:08:06,722 --> 00:08:08,822
-What are you talking about, Ayumi?
+00:07:28,991 --> 00:07:32,161
+The deceased Miyama-san's lover,
+Yanuma-san,
 
 132
-00:08:08,822 --> 00:08:12,122
-There are no jellyfish in the mountains.
+00:07:32,244 --> 00:07:34,288
+is taking a long time for questioning,
 
 133
-00:08:12,122 --> 00:08:13,522
-Yes, there are.
+00:07:34,663 --> 00:07:38,750
+and Kanou-san was just waiting
+in his car for that to finish.
 
 134
-00:08:15,422 --> 00:08:16,722
-See! Over there!
+00:07:39,084 --> 00:07:41,753
+It seems Bito-san went back
+to the hotel first.
 
 135
-00:08:19,322 --> 00:08:21,022
-Really?
+00:07:41,837 --> 00:07:46,592
+Yanuma-san's questioning seems
+like it'll take more time, so—
 
 136
-00:08:22,722 --> 00:08:25,122
-See. A jellyfish!
+00:07:46,675 --> 00:07:51,013
+Kanou-san said he'd drop us
+at the hotel and then come back.
 
 137
-00:08:27,422 --> 00:08:29,022
-True.
+00:07:51,096 --> 00:07:52,306
+Ah, I see.
 
 138
-00:08:29,022 --> 00:08:32,922
-Turn the hot spring mark upside down and it looks like a jellyfish.
+00:07:52,389 --> 00:07:55,309
+Well, I'll hang up.
+My battery is really dying.
 
 139
-00:08:32,922 --> 00:08:34,722
--Right? -A jellyfish.
+00:07:55,392 --> 00:07:56,435
+Ah...
 
 140
-00:08:34,722 --> 00:08:36,422
-I can see it.
+00:07:56,768 --> 00:07:57,769
+...geez.
 
 141
-00:08:40,122 --> 00:08:44,522
-Turn the hot spring mark upside down and it looks like a jellyfish.
+00:07:58,729 --> 00:08:01,481
+I should have gone to the beach too.
 
 142
-00:08:50,622 --> 00:08:53,222
-So that's it. That's what it is.
+00:08:01,565 --> 00:08:02,566
+Beach?
 
 143
-00:08:55,922 --> 00:08:59,022
-Lie down and wash you face.
+00:08:03,066 --> 00:08:06,320
+Speaking of the beach, Ayumi,
+I found a jellyfish!
 
 144
-00:09:02,022 --> 00:09:03,622
-How stupid of me.
+00:08:06,403 --> 00:08:08,488
+What are you saying, Ayumi-chan?
 
 145
-00:09:04,622 --> 00:09:08,322
-Having trouble with a code like this.
+00:08:08,572 --> 00:08:11,783
+There's no way there are jellyfish
+in the mountains like this.
 
 146
-00:09:08,322 --> 00:09:12,322
-Well, sometimes easy codes are difficult to solve.
+00:08:11,867 --> 00:08:13,577
+There are! Huh?
 
 147
-00:09:14,722 --> 00:09:15,922
-Doc!
+00:08:15,162 --> 00:08:16,580
+Look, over there.
 
 148
-00:09:15,922 --> 00:09:20,522
-It's about time. Tell us the answer.
+00:08:19,166 --> 00:08:21,168
+Really?
 
 149
-00:09:20,522 --> 00:09:22,822
-What is the meaning behind the code?
+00:08:21,418 --> 00:08:24,922
+Huh? See, a jellyfish.
 
 150
-00:09:24,522 --> 00:09:25,822
-Alright.
+00:08:26,465 --> 00:08:28,258
+I... indeed.
 
 151
-00:09:25,822 --> 00:09:29,822
-No! I won't tell you until everyone gives up.
+00:08:28,717 --> 00:08:32,679
+If you turn the hot spring mark
+upside down, it looks like a jellyfish.
 
 152
-00:09:29,822 --> 00:09:33,022
-I'll give up so just tell me.
+00:08:32,763 --> 00:08:34,431
+See? Oh, it's a jellyfish!
 
 153
-00:09:33,022 --> 00:09:35,022
-That's not fair, Genta.
+00:08:34,514 --> 00:08:36,308
+I can see it.
 
 154
-00:09:35,022 --> 00:09:36,322
-Why Ran?
+00:08:39,853 --> 00:08:43,440
+If you turn the hot spring mark
+upside down, it looks like a jellyfish.
 
 155
-00:09:36,322 --> 00:09:37,922
-Conan!
+00:08:50,364 --> 00:08:53,283
+I see. So that's it.
 
 156
-00:09:39,122 --> 00:09:41,222
-Can't you solve it?
+00:08:55,786 --> 00:08:58,789
+So it means lie down and wash your face.
 
 157
-00:09:43,822 --> 00:09:46,722
-It's totally Greek to me, I haven't got a clue.
+00:09:01,625 --> 00:09:03,543
+I can't believe I
 
 158
-00:09:46,722 --> 00:09:49,122
-Then hurry up and give up!
+00:09:04,419 --> 00:09:07,297
+was stumped by such a simple code.
 
 159
-00:09:49,122 --> 00:09:52,822
-Conan, just admit your defeat already!
+00:09:08,131 --> 00:09:11,885
+Well, sometimes these simple codes
+are unexpectedly harder to solve...
 
 160
-00:09:52,822 --> 00:09:55,222
-You guys give up too easily.
+00:09:14,471 --> 00:09:20,227
+Professor, isn't it fine now?
+Please tell us the answer to the code.
 
 161
-00:09:57,522 --> 00:10:00,422
-It seems like Shinichi can't solve it either.
+00:09:20,310 --> 00:09:22,688
+What is "Marumushini Tento"?
 
 162
-00:10:02,422 --> 00:10:04,922
-Anyway, let's think it over from the very beginning.
+00:09:22,938 --> 00:09:25,440
+Hahahaha, well...
 
 163
-00:10:06,822 --> 00:10:10,222
-First, all these codes are written only in Katakana.
+00:09:25,524 --> 00:09:29,736
+No. I can't tell you
+until everyone gives up.
 
 164
-00:10:10,222 --> 00:10:13,522
-It's understandable that pill bug and tent are written in Katakana.
+00:09:29,820 --> 00:09:32,739
+Then I give up,
+so secretly tell only me.
 
 165
-00:10:13,522 --> 00:10:17,222
-Don't you think its weird for the "ni" in between is in Katakana, too?
+00:09:32,823 --> 00:09:34,324
+That's cheating, Genta-kun.
 
 166
-00:10:17,222 --> 00:10:18,822
-That's true.
+00:09:34,783 --> 00:09:35,951
+Why is Ran...
 
 167
-00:10:18,822 --> 00:10:23,922
-Secondly, if you look closely, the letters are not balanced.
+00:09:36,034 --> 00:09:38,245
+Hey, Conan-kun. Huh?
 
 168
-00:10:23,922 --> 00:10:25,022
-That's true!
+00:09:38,829 --> 00:09:40,330
+You still haven't solved it?
 
 169
-00:10:25,022 --> 00:10:28,322
-Isn't that because Doc's handwriting is messy?
+00:09:42,040 --> 00:09:46,336
+Ah... yeah, I'm completely clueless.
 
 170
-00:10:30,922 --> 00:10:32,622
-And thirdly,
+00:09:46,420 --> 00:09:48,839
+Then just give up already.
 
 171
-00:10:32,622 --> 00:10:35,022
-the hint Dr and Haibara was talking about.
+00:09:48,922 --> 00:09:51,842
+Conan-kun, you're being a sore loser.
 
 172
-00:10:36,422 --> 00:10:38,822
-Did they give us a hint?
+00:09:52,551 --> 00:09:55,095
+You guys give up too easily.
 
 173
-00:10:38,822 --> 00:10:43,322
-Yes. "Lie down and think carefully",
+00:09:55,387 --> 00:09:57,180
+Hahahaha.
 
 174
-00:10:43,322 --> 00:10:46,822
-and "if you still don't get it, wash your face and start anew"
+00:09:57,264 --> 00:10:00,309
+It seems even Shinichi
+hasn't solved it yet.
 
 175
-00:10:46,822 --> 00:10:49,822
-are things Doc and Haibara don't usually say.
+00:10:02,185 --> 00:10:04,813
+Anyway, let's think carefully
+from the start.
 
 176
-00:10:49,822 --> 00:10:51,522
-It's obviously a hint!
+00:10:06,565 --> 00:10:09,443
+First, these characters
+written only in katakana.
 
 177
-00:10:51,522 --> 00:10:55,722
-Maybe it means to lie down and look at these letters.
+00:10:10,027 --> 00:10:12,904
+I understand "Marumushi" and "Tento"
+being in katakana,
 
 178
-00:10:55,722 --> 00:10:56,722
-Okay!
+00:10:13,238 --> 00:10:16,908
+but don't you think it's strange that
+the "Ni" in between is also in katakana?
 
 179
-00:10:58,222 --> 00:11:00,922
-Lie down, right?
+00:10:16,992 --> 00:10:18,410
+Th... that's true.
 
 180
-00:11:05,022 --> 00:11:07,822
-I don't see anything different.
+00:10:18,493 --> 00:10:23,457
+Second, if you look closely,
+the balance of each character is oddly off.
 
 181
-00:11:09,822 --> 00:11:11,222
-What happened, Genta?
+00:10:23,540 --> 00:10:24,666
+You're right.
 
 182
-00:11:11,222 --> 00:11:13,522
-Did you get something?
+00:10:24,750 --> 00:10:28,045
+But isn't that just because
+the Professor's handwriting is bad?
 
 183
-00:11:18,022 --> 00:11:19,022
-What?
+00:10:28,378 --> 00:10:29,880
+Hahahahaha...
 
 184
-00:11:19,022 --> 00:11:22,122
-Genta, what's going on?
+00:10:30,714 --> 00:10:31,923
+And thirdly—
 
 185
-00:11:22,122 --> 00:11:25,422
-No, I thought I almost got it.
+00:10:32,424 --> 00:10:34,801
+the hints from the Professor and Haibara.
 
 186
-00:11:25,422 --> 00:11:28,522
--Almost? -Which is it?
+00:10:34,885 --> 00:10:36,136
+Eh?
 
 187
-00:11:28,522 --> 00:11:29,622
-Shut up!
+00:10:36,219 --> 00:10:38,221
+Did they give hints?
 
 188
-00:11:29,622 --> 00:11:32,222
-I thought I could almost read it when I lied down.
+00:10:38,597 --> 00:10:42,642
+Yeah. Saying "think carefully
+while lying down" and—
 
 189
-00:11:33,222 --> 00:11:34,822
-Close call, close call.
+00:10:43,101 --> 00:10:46,104
+"if you don't get it, wash your face
+and start over"—
 
 190
-00:11:34,822 --> 00:11:36,322
-No.
+00:10:46,605 --> 00:10:49,358
+are things the Professor and Haibara
+don't usually say.
 
 191
-00:11:36,322 --> 00:11:40,322
-That smile, that provoking annoying look.
+00:10:49,441 --> 00:10:51,318
+They're clearly hints.
 
 192
-00:11:41,522 --> 00:11:43,822
-He probably already knows it.
+00:10:51,401 --> 00:10:55,364
+Maybe it means to lie down
+and look at these characters.
 
 193
-00:11:47,322 --> 00:11:50,722
-Nothing comes to mind even if I look at it from the side.
+00:10:55,447 --> 00:10:56,448
+Ah... Okay!
 
 194
-00:11:52,322 --> 00:11:56,322
-Then let's look at the other hint.
+00:10:57,991 --> 00:11:00,160
+So we just lie down, right?
 
 195
-00:11:56,322 --> 00:12:00,122
-You mean the "go wash your face"?
+00:11:01,995 --> 00:11:03,580
+Hmm...
 
 196
-00:12:00,122 --> 00:12:04,922
-But to wash your face in the middle of the woods...
+00:11:04,831 --> 00:11:08,585
+Nothing different... ah!
 
 197
-00:12:04,922 --> 00:12:06,222
-Maybe...
+00:11:09,127 --> 00:11:10,962
+Wh... what is it, Genta-kun?
 
 198
-00:12:06,222 --> 00:12:10,122
-Does it mean to go take a bath in the inn?
+00:11:11,046 --> 00:11:12,631
+Did you figure something out?
 
 199
-00:12:10,122 --> 00:12:11,122
-Stupid.
+00:11:12,714 --> 00:11:13,840
+Ah...
 
 200
-00:12:11,122 --> 00:12:15,422
-Didn't Haibara and Doc said there was nothing at the inn?
+00:11:14,841 --> 00:11:18,345
+Ah... ah? Ah... oh?
 
 201
-00:12:15,422 --> 00:12:17,622
-Then where do you say we should wash?
+00:11:18,637 --> 00:11:21,348
+Oh, Genta-kun, what is it?
 
 202
-00:12:17,622 --> 00:12:18,822
-That's right!
+00:11:21,431 --> 00:11:25,185
+Ah... no, I feel like I almost got it...
 
 203
-00:12:18,822 --> 00:12:22,722
-I don't know. Maybe it doesn't mean to actually wash your face.
+00:11:25,268 --> 00:11:26,353
+"Almost"?
 
 204
-00:12:22,722 --> 00:12:25,722
-Maybe it has something to do with what you do when you wash your face.
+00:11:26,436 --> 00:11:28,063
+Be clear!
 
 205
-00:12:27,122 --> 00:12:29,222
-First of all, turn the faucet on.
+00:11:28,146 --> 00:11:31,900
+Shut up! When I laid down,
+I felt like I could read it.
 
 206
-00:12:29,222 --> 00:12:31,522
-Splash water on your face.
+00:11:31,983 --> 00:11:34,486
+Whew, close, close.
 
 207
-00:12:31,522 --> 00:12:33,922
-Wipe your face with a towel.
+00:11:34,569 --> 00:11:35,654
+No.
 
 208
-00:12:33,922 --> 00:12:35,622
-And then, after that?
+00:11:36,029 --> 00:11:40,409
+That hateful, smug face
+with the loosening lips.
 
 209
-00:12:35,622 --> 00:12:36,922
-After that is...
+00:11:41,284 --> 00:11:43,495
+Probably, he has already...
 
 210
-00:12:36,922 --> 00:12:38,122
-Let's see...
-
-211
-00:12:40,822 --> 00:12:42,822
-Let's eat!
-
-212
-00:12:42,822 --> 00:12:44,422
-Hey, Genta.
-
-213
-00:12:44,422 --> 00:12:46,422
-We're talking about when we are washing our faces.
-
-214
-00:12:46,422 --> 00:12:48,922
-You eat after you wash your face, don't you?
-
-215
-00:12:48,922 --> 00:12:50,722
-Mirror!
-
-216
-00:12:50,722 --> 00:12:52,822
-After that, I look in the mirror!
-
-217
-00:12:52,822 --> 00:12:54,122
-Mirror?
-
-218
-00:12:54,122 --> 00:12:57,422
-You can only see your face in it.
-
-219
-00:12:57,422 --> 00:12:59,722
-I'm getting more mixed up!
-
-220
-00:12:59,722 --> 00:13:02,522
-I think the mirror is on the right track.
-
-221
-00:13:02,522 --> 00:13:03,722
-Look.
-
-222
-00:13:03,722 --> 00:13:07,422
-Turn it upside down like that hot spring mark
-
-223
-00:13:07,422 --> 00:13:10,222
-and it looks like something totally different, like the jellyfish.
-
-224
-00:13:11,622 --> 00:13:13,022
-Even if I hold it upside down,
-
-225
-00:13:13,022 --> 00:13:15,722
-it doesn't look like a porgy or a flounder.
-
-226
-00:13:15,722 --> 00:13:17,922
-I can't even read what it says.
-
-227
-00:13:17,922 --> 00:13:19,622
-Wait a minute.
-
-228
-00:13:19,622 --> 00:13:23,822
-Could it be to wash your face while lying down?
-
-229
-00:13:23,822 --> 00:13:25,322
-To look at the mirror with the letters written downwards
-
-230
-00:13:25,322 --> 00:13:27,522
-by turning it sideways?
-
-231
-00:13:27,522 --> 00:13:28,822
-Turn it sideways,
-
-232
-00:13:28,822 --> 00:13:32,322
-reverse the paper and look at it through the mirror.
-
-233
-00:13:47,622 --> 00:13:51,322
-"Mura matsuri no torii."
-
-234
-00:13:52,722 --> 00:13:54,722
-The shrine gate of the village festival...
-
-235
-00:13:55,722 --> 00:13:57,322
-It's that shrine!
-
-236
-00:13:57,322 --> 00:14:00,222
-Isn't that right, Doc, Ai?
-
-237
-00:14:00,222 --> 00:14:02,722
-Correct!
-
-238
-00:14:02,722 --> 00:14:04,522
-You're correct!
-
-239
-00:14:05,722 --> 00:14:07,122
-We did it...
-
-240
-00:14:07,122 --> 00:14:09,122
--We did it! -We did it!
-
-241
-00:14:10,622 --> 00:14:12,722
-Let's hurry and go there!
-
-242
-00:14:12,722 --> 00:14:14,022
-Treasure!
-
-243
-00:14:16,022 --> 00:14:17,322
-Oh, my.
-
-244
-00:14:17,322 --> 00:14:22,522
-You look like you taught the kids that they can do it if they try.
-
-245
-00:14:23,822 --> 00:14:25,522
-Don't I look great?
-
-246
-00:14:28,822 --> 00:14:31,422
-Shinichi, aren't you going to go see what the treasure is?
-
-247
-00:14:31,422 --> 00:14:34,222
-I bet you want to see it, too.
-
-248
-00:14:34,222 --> 00:14:36,722
-I don't have to see it to know what it is.
-
-249
-00:14:36,722 --> 00:14:38,222
-The place of the code
-
-250
-00:14:38,222 --> 00:14:42,922
-is the torii gate of the shrine that's lit up even late at night.
-
-251
-00:14:49,422 --> 00:14:52,522
-If we put sap on the pole of the torii gate...
-
-252
-00:14:53,922 --> 00:14:56,722
-I'll bet a lot will come.
-
-253
-00:14:56,722 --> 00:14:57,922
-I found it!
-
-254
-00:14:59,322 --> 00:15:01,322
-Amazing!
-
-255
-00:15:01,322 --> 00:15:03,522
-Unicorn beetles and stag beetles.
-
-256
-00:15:04,522 --> 00:15:06,722
-That's right!
-
-257
-00:15:07,722 --> 00:15:09,122
-Anyway...
-
-258
-00:15:10,722 --> 00:15:14,022
-you did a great job with the code.
-
-259
-00:15:14,022 --> 00:15:16,522
-This can be read from the front and back.
-
-260
-00:15:16,522 --> 00:15:19,222
-Thanks to Ai.
-
-261
-00:15:19,222 --> 00:15:23,222
-First, we were going to make it an animal code.
-
-262
-00:15:23,222 --> 00:15:29,722
-We thought of sticking paper with animal names on the window!
-
-263
-00:15:29,722 --> 00:15:33,922
-Watching that from the outside, Ai told me...
-
-264
-00:15:33,922 --> 00:15:37,722
-Isn't "sanso" (oxygen) a little bit hard for the kids?
-
-265
-00:15:37,722 --> 00:15:39,222
-Like that.
-
-266
-00:15:39,222 --> 00:15:44,022
-I see. The letters "kirin" (giraffe) looked like "sanso"
-
-267
-00:15:44,022 --> 00:15:46,222
-from the back and you thought of the code.
-
-268
-00:15:48,422 --> 00:15:49,622
-Shinichi?
-
-269
-00:15:50,622 --> 00:15:53,322
-Glass?
-
-270
-00:15:53,322 --> 00:15:55,222
-Back?
-
-271
-00:15:55,222 --> 00:15:57,222
-See through...
-
-272
-00:15:57,222 --> 00:15:58,922
-Wait a minute.
-
-273
-00:15:58,922 --> 00:16:00,722
-This is...
-
-274
-00:16:02,722 --> 00:16:05,422
-Darn it! That's it!
-
-275
-00:16:05,422 --> 00:16:07,422
--Shinichi? -Kudo?
-
-276
-00:16:07,422 --> 00:16:08,922
-So that was it!
-
-277
-00:16:08,922 --> 00:16:11,822
-That's why Ran's face crossed my mind.
-
-278
-00:16:11,822 --> 00:16:15,122
-Ran's in danger!
-
-279
-00:16:25,723 --> 00:16:27,923
-Shinichi?
-
-280
-00:16:27,923 --> 00:16:29,423
-Where am I?
-
-281
-00:16:29,423 --> 00:16:30,923
-Didn't I told you earlier?
-
-282
-00:16:30,923 --> 00:16:33,623
-We're returning to the hotel in Mr. Kanou's car.
-
-283
-00:16:33,623 --> 00:16:36,423
-What? Get out of the car now?
-
-284
-00:16:36,423 --> 00:16:39,423
-I got what "t, e, i, u" really means!
-
-285
-00:16:40,423 --> 00:16:46,523
-There was a little punctuation before the "t" in "t, e, i, u"!
-
-286
-00:16:46,523 --> 00:16:49,323
-Put that vertical and reverse it!
-
-287
-00:16:49,323 --> 00:16:51,023
-It's the killer's name.
-
-288
-00:16:52,123 --> 00:16:54,223
-Hey, Ran?
-
-289
-00:16:54,223 --> 00:16:56,223
-Ran! Ran!
-
-290
-00:16:58,423 --> 00:17:00,123
-The battery's dead.
-
-291
-00:17:00,123 --> 00:17:01,723
-What did your husband say?
-
-292
-00:17:01,723 --> 00:17:04,223
-Hey, Sonoko!
-
-293
-00:17:04,223 --> 00:17:07,223
-Get out of the car, make it vertical and reverse it?
-
-294
-00:17:07,223 --> 00:17:08,623
-What is it?
-
-295
-00:17:09,823 --> 00:17:12,023
-Maybe he's just jealous?
-
-296
-00:17:13,523 --> 00:17:15,223
-No way.
-
-297
-00:17:17,423 --> 00:17:20,923
-Ran and Sonoko are in trouble?
-
-298
-00:17:20,923 --> 00:17:23,923
-Yes. Sonoko saw it!
-
-299
-00:17:23,923 --> 00:17:26,923
-The letters written by the person murdered in the hotel room.
-
-300
-00:17:26,923 --> 00:17:28,623
-Letters?
-
-301
-00:17:28,623 --> 00:17:32,623
-It was in lower case alphabet written horizontally!
-
-302
-00:17:32,623 --> 00:17:33,823
-To be more accurate,
-
-303
-00:17:33,823 --> 00:17:37,523
-there's a comma before the "t" and a dot on "i" which supposed to be "l",
-
-304
-00:17:37,523 --> 00:17:40,323
-and the "u" is the "shi" in Hiragana.
-
-305
-00:17:40,323 --> 00:17:43,023
-It's the same as "mura matsuri no torii",
-
-306
-00:17:43,023 --> 00:17:45,923
-turn the horizontally written letters vertical,
-
-307
-00:17:45,923 --> 00:17:48,423
-and read it from the back.
-
-308
-00:17:48,423 --> 00:17:50,323
-It's "Maru mushi ni tento".
-
-309
-00:17:50,323 --> 00:17:52,923
-Make "sanso" vertical and read it from the back.
-
-310
-00:17:52,923 --> 00:17:54,223
-It's "kirin".
-
-311
-00:17:54,223 --> 00:17:56,123
-Then, what about "t, e, i, u"?
-
-312
-00:17:57,723 --> 00:17:59,823
-That is...
-
-313
-00:17:59,823 --> 00:18:02,023
-It becomes "Kanou".
-
-314
-00:18:03,823 --> 00:18:05,523
-Kanou.
-
-315
-00:18:08,223 --> 00:18:13,923
-Why did he leave such a difficult code as a dying message?
-
-316
-00:18:13,923 --> 00:18:16,723
-It's not a code!
-
-317
-00:18:16,723 --> 00:18:19,223
-The victim fell on the floor
-
-318
-00:18:19,223 --> 00:18:22,023
-and wrote the words on the window from the inside.
-
-319
-00:18:22,023 --> 00:18:25,623
-And Sonoko saw the letters from the outside.
-
-320
-00:18:25,623 --> 00:18:29,823
-Then we have to hurry and tell Ran.
-
-321
-00:18:29,823 --> 00:18:33,123
-Ran's phone is dead.
-
-322
-00:18:33,123 --> 00:18:38,423
-And the thing is, Ran and Sonoko are both in that Kanou's car!
-
-323
-00:18:46,723 --> 00:18:50,623
-Hey. This is not the way to the hotel.
-
-324
-00:18:50,623 --> 00:18:53,723
-Don't worry, it's a short cut.
-
-325
-00:18:53,723 --> 00:18:57,723
-Where's the hotel those two are staying at?
-
-326
-00:18:57,723 --> 00:19:01,423
-If I knew, I would call the police!
-
-327
-00:19:01,423 --> 00:19:03,123
-They told me they were going to the beach,
-
-328
-00:19:03,123 --> 00:19:04,723
-but I don't know where.
-
-329
-00:19:04,723 --> 00:19:08,023
-Darn it! I should've realized this earlier.
-
-330
-00:19:08,023 --> 00:19:10,623
-When I received the weird mail from Sonoko's cell phone
-
-331
-00:19:10,623 --> 00:19:14,523
-which was thought to be mugged!
-
-332
-00:19:14,523 --> 00:19:18,323
-The picture sent to my cell phone, he wanted to delete the picture
-
-333
-00:19:18,323 --> 00:19:20,623
-with the dying message.
-
-334
-00:19:20,623 --> 00:19:23,223
-That's why he asked for my address and name.
-
-335
-00:19:24,623 --> 00:19:26,623
-Wait a minute, then it must mean...
-
-336
-00:19:28,223 --> 00:19:30,123
-The guy you were talking about, Shinichi,
-
-337
-00:19:30,123 --> 00:19:32,323
-he's only in high school, yet he's a detective?
-
-338
-00:19:32,323 --> 00:19:33,923
-Yes, sort of.
-
-339
-00:19:33,923 --> 00:19:36,823
-It's great to have a detective boyfriend.
-
-340
-00:19:36,823 --> 00:19:40,023
-No, he's not my boyfriend.
-
-341
-00:19:40,023 --> 00:19:42,323
-They're so lovey-dovey.
-
-342
-00:19:42,323 --> 00:19:48,723
-That's why I sent her boyfriend a picture of her in her bathing suit.
-
-343
-00:19:48,723 --> 00:19:50,123
-Hey, Sonoko!
-
-344
-00:19:52,023 --> 00:19:53,723
-That's so unfortunate.
-
-345
-00:19:53,723 --> 00:19:56,023
-Shinichi is not here, right?
-
-346
-00:19:56,023 --> 00:20:00,023
-I would have liked to meet the detective.
-
-347
-00:20:00,023 --> 00:20:04,223
--He must be devouring that photo right now. -Sonoko!
-
-348
-00:20:04,223 --> 00:20:05,523
-Nonsense!
-
-349
-00:20:09,523 --> 00:20:12,323
-If the killer is waiting for me to contact him,
-
-350
-00:20:12,323 --> 00:20:16,323
-he should be carrying Sonoko's cell phone around with it switched on.
-
-351
-00:20:16,323 --> 00:20:17,423
-Please realize it.
-
-352
-00:20:17,423 --> 00:20:20,423
-That's the man. He's the killer!
-
-353
-00:20:22,323 --> 00:20:26,023
-Huh? That tune is the same as Sonoko's.
-
-354
-00:20:26,023 --> 00:20:29,223
-Or rather, that is mine.
-
-355
-00:20:30,923 --> 00:20:32,323
-You're right!
-
-356
-00:20:32,323 --> 00:20:34,523
-Really? But why?
-
-357
-00:20:35,523 --> 00:20:37,423
-Of course.
-
-358
-00:20:37,423 --> 00:20:41,223
-I'm the one who snatched the purse from you.
-
-359
-00:20:44,523 --> 00:20:47,423
-To erase the evidence of the killing.
-
-360
-00:20:47,423 --> 00:20:48,723
--What? - Huh?
-
-361
-00:20:48,723 --> 00:20:54,023
-When we go a little farther, I want you to talk to me.
-
-362
-00:20:54,023 --> 00:20:57,123
-And give me the address of the kid Shinichi, too!
-
-363
-00:21:00,623 --> 00:21:02,123
-He still won't answer?
-
-364
-00:21:02,123 --> 00:21:03,923
-Be quiet!
-
-365
-00:21:03,923 --> 00:21:05,023
-Okay.
-
-366
-00:21:07,423 --> 00:21:08,923
-He answered?
-
-367
-00:21:08,923 --> 00:21:11,123
-Hello? Hello?
-
-368
-00:21:12,123 --> 00:21:13,823
-Hello?
-
-369
-00:22:39,723 --> 00:22:42,023
-What do you mean hello?
-
-370
-00:22:42,023 --> 00:22:44,823
-Where were you when Ran needed you?
-
-371
-00:22:44,823 --> 00:22:46,623
-Hey, are you listening?
-
-372
-00:22:46,623 --> 00:22:48,823
--Where... -Are you listening?
-
-373
-00:22:48,823 --> 00:22:53,223
-The car crashed into a tree, and it was so much trouble!
-
-374
-00:22:53,223 --> 00:22:55,723
-The car? Why'd it ram into a tree?
-
-375
-00:22:55,723 --> 00:22:58,323
-Don't ask me why. It just happened.
-
-376
-00:22:58,323 --> 00:23:01,823
-Ran side kicked the face of the killer
-
-377
-00:23:01,823 --> 00:23:05,323
-who was driving the car.
-
-378
-00:23:05,323 --> 00:23:07,523
-Is that right?
-
-379
-00:23:09,723 --> 00:23:13,023
-After that, the police that Sonoko called arrived
-
-380
-00:23:13,023 --> 00:23:15,023
-and the killer was taken into custody.
-
-381
-00:23:16,423 --> 00:23:20,423
-His motive for committing the murder was because his friend found out
-
-382
-00:23:20,423 --> 00:23:22,623
-about his illegal enrolment to the university and he was being blackmailed.
-
-383
-00:23:22,623 --> 00:23:26,323
-He committed a more serious crime to hide his first criminal act
-
-384
-00:23:26,323 --> 00:23:28,623
-which was a typical pattern for cases like these.
-
-385
-00:23:30,023 --> 00:23:31,523
-Then...
-
-386
-00:23:31,523 --> 00:23:32,923
+00:11:43,870 --> 00:11:45,580
 Huh?
 
+211
+00:11:45,664 --> 00:11:50,085
+Hmm, even sideways,
+I can't think of anything.
+
+212
+00:11:50,168 --> 00:11:51,586
+Yeah...
+
+213
+00:11:51,962 --> 00:11:55,382
+Well then, let's try the other hint.
+
+214
+00:11:55,465 --> 00:11:59,845
+Hmm? The other one,
+the "wash your face" one?
+
+215
+00:11:59,928 --> 00:12:03,682
+But telling us to wash our faces
+in the mountains...
+
+216
+00:12:03,765 --> 00:12:09,396
+Ah, could it mean to soak
+in the hot water of that inn?
+
+217
+00:12:09,896 --> 00:12:13,024
+No way. Both Haibara and
+the Professor said it:
+
+218
+00:12:13,108 --> 00:12:14,901
+there's nothing at that inn.
+
+219
+00:12:15,235 --> 00:12:17,279
+Then where are we supposed to wash?
+
+220
+00:12:17,362 --> 00:12:18,363
+That's right.
+
+221
+00:12:18,655 --> 00:12:22,492
+Beats me. Maybe it's not actually
+washing your face—
+
+222
+00:12:22,576 --> 00:12:25,620
+but related to something
+you do when washing your face.
+
+223
+00:12:25,704 --> 00:12:28,915
+Huh? First, turn the faucet...
+
+224
+00:12:28,999 --> 00:12:31,126
+Splash water on your face...
+
+225
+00:12:31,209 --> 00:12:33,628
+Dry your face with a towel...
+
+226
+00:12:33,712 --> 00:12:35,338
+...and then?
+
+227
+00:12:35,422 --> 00:12:36,590
+And then...
+
+228
+00:12:36,673 --> 00:12:38,884
+Um... Hmm.
+
+229
+00:12:40,552 --> 00:12:42,262
+Let's eat!
+
+230
+00:12:42,596 --> 00:12:46,016
+Genta-kun, we're talking
+about washing your face!
+
+231
+00:12:46,475 --> 00:12:48,643
+After you wash your face, you eat, right?
+
+232
+00:12:48,727 --> 00:12:50,020
+A mirror. Huh?
+
+233
+00:12:50,437 --> 00:12:52,439
+After that, you look in the mirror.
+
+234
+00:12:52,522 --> 00:12:57,027
+A mirror? Looking at that,
+all you see is your own face.
+
+235
+00:12:57,110 --> 00:12:59,279
+It's getting more confusing.
+
+236
+00:12:59,362 --> 00:13:02,991
+But I think the mirror is a good clue. Look,
+
+237
+00:13:03,450 --> 00:13:06,870
+like that hot spring mark,
+if you turn it upside down,
+
+238
+00:13:07,204 --> 00:13:10,123
+it can look like
+a completely different jellyfish.
+
+239
+00:13:10,415 --> 00:13:12,709
+Eh? Even if you turn it upside down—
+
+240
+00:13:12,792 --> 00:13:14,961
+it doesn't look like
+a sea bream or flounder.
+
+241
+00:13:15,587 --> 00:13:17,631
+And I can't read the characters.
+
+242
+00:13:17,714 --> 00:13:18,798
+Wait a minute.
+
+243
+00:13:19,382 --> 00:13:23,094
+Could it be that
+"lie down and wash your face" means...
+
+244
+00:13:23,637 --> 00:13:27,140
+turn the vertical characters sideways
+and reflect them in a mirror?
+
+245
+00:13:27,224 --> 00:13:31,061
+Lay them sideways, flip them,
+instead of reflecting them in a mirror...
+
+246
+00:13:43,615 --> 00:13:44,908
+Ah.
+
+247
+00:13:44,991 --> 00:13:46,826
+Ah...
+
+248
+00:13:47,410 --> 00:13:51,331
+"Mura Matsuri no Torii."
+
+249
+00:13:52,499 --> 00:13:54,459
+Village festival's shrine gate.
+
+250
+00:13:54,793 --> 00:13:56,670
+Oh? That shrine.
+
+251
+00:13:57,045 --> 00:13:59,673
+Right? Professor, Ai-chan.
+
+252
+00:14:00,006 --> 00:14:01,967
+Ding dong.
+
+253
+00:14:02,509 --> 00:14:05,428
+Correct! Hahahaha!
+
+254
+00:14:05,512 --> 00:14:07,639
+Alright! We did it!
+
+255
+00:14:07,722 --> 00:14:10,308
+We did it! Ahahahaha!
+
+256
+00:14:10,392 --> 00:14:11,851
+Let's go right away.
+
+257
+00:14:11,935 --> 00:14:13,853
+Okay. Yeah! The treasure!
+
+258
+00:14:15,855 --> 00:14:18,191
+Oh my, a self-satisfied look,
+
+259
+00:14:18,275 --> 00:14:22,279
+as if to say they taught the children
+that they can do it if they try.
+
+260
+00:14:22,571 --> 00:14:25,198
+Ah, pretty handsome, right?
+
+261
+00:14:25,407 --> 00:14:27,534
+Hmm? Phew.
+
+262
+00:14:28,577 --> 00:14:31,288
+More importantly,
+aren't you going to see, Shinichi?
+
+263
+00:14:31,371 --> 00:14:33,540
+I'm sure you want to know
+what the treasure is.
+
+264
+00:14:33,999 --> 00:14:36,418
+I don't need to see something like that.
+
+265
+00:14:36,501 --> 00:14:40,880
+The location indicated by the code
+is the shrine gate that's lit up at night—
+
+266
+00:14:40,964 --> 00:14:43,216
+that shrine's torii gate.
+
+267
+00:14:49,264 --> 00:14:52,559
+If they smear tree sap
+on the pillars of that torii gate...
+
+268
+00:14:53,727 --> 00:14:55,895
+they'll come swarming.
+
+269
+00:14:55,979 --> 00:14:57,689
+Ah, found them!
+
+270
+00:14:57,772 --> 00:15:00,692
+Wow! Amazing!
+
+271
+00:15:01,151 --> 00:15:03,153
+Beetles and stag beetles.
+
+272
+00:15:03,236 --> 00:15:06,072
+Hah, that's right.
+
+273
+00:15:07,532 --> 00:15:08,950
+Still,
+
+274
+00:15:10,535 --> 00:15:12,954
+this code was well thought out.
+
+275
+00:15:13,913 --> 00:15:16,082
+It can be read both forwards and backwards.
+
+276
+00:15:16,333 --> 00:15:18,543
+It's thanks to Ai-kun.
+
+277
+00:15:18,960 --> 00:15:22,672
+At first, I thought about
+making it an animal code.
+
+278
+00:15:23,048 --> 00:15:27,260
+I was thinking of various things,
+like putting paper with animal names
+
+279
+00:15:27,344 --> 00:15:29,220
+on a windowpane.
+
+280
+00:15:29,512 --> 00:15:33,433
+Ai-kun, watching from outside,
+said to me,
+
+281
+00:15:33,516 --> 00:15:36,770
+"Isn't 'Sanso' too difficult for children?"
+
+282
+00:15:37,479 --> 00:15:38,772
+...he said.
+
+283
+00:15:38,855 --> 00:15:40,148
+I see.
+
+284
+00:15:40,231 --> 00:15:43,693
+When you look at the characters "Kirin"
+from the back, they look like "Sanso"—
+
+285
+00:15:43,777 --> 00:15:46,071
+and that's how I came up with the code...
+
+286
+00:15:46,696 --> 00:15:47,697
+Eh?
+
+287
+00:15:48,198 --> 00:15:49,532
+Shinichi?
+
+288
+00:15:50,408 --> 00:15:51,785
+Glass...
+
+289
+00:15:53,203 --> 00:15:54,245
+Back...
+
+290
+00:15:54,829 --> 00:15:56,206
+Transparent...
+
+291
+00:15:57,040 --> 00:15:58,500
+Wait a minute.
+
+292
+00:15:58,583 --> 00:16:00,585
+Th... this is...
+
+293
+00:16:02,587 --> 00:16:04,589
+Damn... is that it?
+
+294
+00:16:06,966 --> 00:16:08,677
+So that's how it was.
+
+295
+00:16:08,760 --> 00:16:11,471
+That's why Ran's face
+crossed my mind earlier.
+
+296
+00:16:11,554 --> 00:16:14,516
+Ran is... Ran is in danger!
+
+297
+00:16:22,023 --> 00:16:25,151
+♪~ (cell phone ringing) ~♪
+
+298
+00:16:26,069 --> 00:16:29,531
+Ah, Shinichi? Where are you now...
+
+299
+00:16:29,614 --> 00:16:31,157
+I told you earlier.
+
+300
+00:16:31,241 --> 00:16:33,535
+We're heading back to the hotel
+in Kanou-san's car.
+
+301
+00:16:33,910 --> 00:16:36,454
+Eh? Get out of this car right now?
+
+302
+00:16:36,746 --> 00:16:39,958
+I figured out the real meaning of "teiu."
+
+303
+00:16:40,750 --> 00:16:43,253
+Before the "t" in "teiu,"
+
+304
+00:16:43,336 --> 00:16:46,464
+there was actually a small dot
+like a punctuation mark written.
+
+305
+00:16:46,798 --> 00:16:49,175
+Turn it vertically and flip it over.
+
+306
+00:16:49,259 --> 00:16:51,261
+The culprit's name...
+
+307
+00:16:52,429 --> 00:16:56,599
+Hey, Ran! Ran... Ran!
+
+308
+00:16:57,392 --> 00:17:00,353
+Ah... the battery died.
+
+309
+00:17:00,437 --> 00:17:01,813
+What did he say, dear?
+
+310
+00:17:01,896 --> 00:17:04,441
+Oh, Sonoko. Ah...
+
+311
+00:17:04,524 --> 00:17:09,028
+What does "get out of the car,
+turn it vertically, and flip it over" mean?
+
+312
+00:17:10,155 --> 00:17:12,198
+He's not lying, is he?
+
+313
+00:17:12,282 --> 00:17:14,576
+Fufufu. No way...
+
+314
+00:17:16,661 --> 00:17:21,166
+Eh? Ran and Sonoko
+are caught up in an incident?
+
+315
+00:17:21,249 --> 00:17:24,169
+Yeah, Sonoko saw it.
+
+316
+00:17:24,252 --> 00:17:27,213
+The characters written by the man
+murdered in the hotel room.
+
+317
+00:17:27,297 --> 00:17:28,798
+Ch... characters?
+
+318
+00:17:28,882 --> 00:17:32,427
+They were written horizontally
+in lowercase letters: "teiu."
+
+319
+00:17:33,011 --> 00:17:36,097
+To be precise, there was a dot
+before the "t,"
+
+320
+00:17:36,181 --> 00:17:37,682
+the "i" was closer to an "l,"
+
+321
+00:17:37,766 --> 00:17:39,851
+and the "u" was closer
+to the hiragana "shi."
+
+322
+00:17:40,602 --> 00:17:42,812
+It's the same as the village festival's
+shrine gate.
+
+323
+00:17:43,271 --> 00:17:47,776
+If you take those horizontally written
+characters, turn them vertically,
+and look from the back?
+
+324
+00:17:48,818 --> 00:17:50,445
+It becomes "Marumushini Tento."
+
+325
+00:17:50,528 --> 00:17:52,822
+If you take "Sanso" vertically
+and look from the back?
+
+326
+00:17:53,156 --> 00:17:54,157
+It becomes "Kirin."
+
+327
+00:17:54,491 --> 00:17:56,409
+So what about "teiu"?
+
+328
+00:17:58,036 --> 00:17:59,412
+Ah, that is...
+
+329
+00:18:00,121 --> 00:18:02,248
+It becomes "Kanou."
+
+330
+00:18:02,540 --> 00:18:03,750
+Ah.
+
+331
+00:18:04,209 --> 00:18:05,710
+Kanou?
+
+332
+00:18:07,003 --> 00:18:08,004
+Oh!
+
+333
+00:18:08,463 --> 00:18:10,465
+But why leave such a hard-to-understand—
+
+334
+00:18:10,548 --> 00:18:14,219
+dying message like a code?
+
+335
+00:18:14,302 --> 00:18:16,012
+It's not a code or anything.
+
+336
+00:18:17,096 --> 00:18:19,307
+The victim, lying on the floor,
+
+337
+00:18:19,390 --> 00:18:22,060
+wrote those characters
+on the window glass from inside the room,
+
+338
+00:18:22,143 --> 00:18:25,772
+and Sonoko just saw them
+from outside the window.
+
+339
+00:18:26,022 --> 00:18:29,526
+Then we need to tell Ran and the others
+about this right away.
+
+340
+00:18:30,193 --> 00:18:33,238
+Even if we want to tell them,
+Ran's phone is dead.
+
+341
+00:18:33,321 --> 00:18:38,368
+And on top of that, Ran and Sonoko
+are in that man Kanou's car right now.
+
+342
+00:18:47,043 --> 00:18:50,964
+Hey, isn't this different from
+the road to the hotel?
+
+343
+00:18:51,047 --> 00:18:53,883
+It's fine. It's a shortcut.
+
+344
+00:18:54,133 --> 00:18:57,887
+Hey, where is the hotel
+those two are staying at?
+
+345
+00:18:57,971 --> 00:19:01,599
+If I knew that,
+I'd contact the nearby police.
+
+346
+00:19:01,683 --> 00:19:04,894
+I heard they went to the beach,
+but I don't know where...
+
+347
+00:19:04,978 --> 00:19:07,897
+Damn. I should have realized sooner.
+
+348
+00:19:08,231 --> 00:19:10,817
+When I received that strange email
+from Sonoko's phone,
+
+349
+00:19:10,900 --> 00:19:13,987
+which should have been snatched,
+
+350
+00:19:14,863 --> 00:19:18,408
+the photo email sent to my phone
+showed that dying message.
+
+351
+00:19:18,491 --> 00:19:20,410
+He wanted to erase it,
+
+352
+00:19:20,910 --> 00:19:23,788
+so he emailed me to ask
+for my address and name.
+
+353
+00:19:24,914 --> 00:19:26,916
+Wait, that means...
+
+354
+00:19:27,000 --> 00:19:28,334
+Hee~
+
+355
+00:19:28,418 --> 00:19:32,422
+So that Shinichi-kun you mentioned
+is a high school detective?
+
+356
+00:19:32,505 --> 00:19:33,923
+Yes, I suppose.
+
+357
+00:19:34,007 --> 00:19:36,759
+Amazing. Having a detective as a boyfriend.
+
+358
+00:19:37,093 --> 00:19:40,138
+Ah... no, he's not my boyfriend or...
+
+359
+00:19:40,221 --> 00:19:42,557
+They're so lovey-dovey, it's embarrassing.
+
+360
+00:19:42,640 --> 00:19:44,225
+That's why earlier today,
+
+361
+00:19:44,309 --> 00:19:48,521
+she sent him a photo mail
+of her in her swimsuit.
+
+362
+00:19:48,813 --> 00:19:50,273
+Hey, Sonoko.
+
+363
+00:19:50,356 --> 00:19:52,233
+Fufufu.
+
+364
+00:19:52,317 --> 00:19:53,776
+But that's too bad.
+
+365
+00:19:53,860 --> 00:19:55,987
+Shinichi-kun isn't here, is he?
+
+366
+00:19:56,279 --> 00:19:59,657
+I wanted to meet that famous detective.
+
+367
+00:20:00,000 --> 00:20:02,243
+Sonoko... Right about now,
+
+368
+00:20:02,327 --> 00:20:05,204
+he's probably rubbing his cheek
+against that photo mail, isn't he?
+
+369
+00:20:05,288 --> 00:20:09,208
+♪~ (cell phone ringing) ~♪
+
+370
+00:20:09,792 --> 00:20:12,211
+If the culprit is waiting
+for me to contact him,
+
+371
+00:20:12,545 --> 00:20:15,965
+he should be carrying Sonoko's phone
+with the power on.
+
+372
+00:20:16,507 --> 00:20:20,720
+Please realize it. That man is the murderer.
+
+373
+00:20:20,803 --> 00:20:22,555
+♪~ (cell phone ringing) ~♪
+
+374
+00:20:22,639 --> 00:20:26,184
+Huh? That ringtone
+is the same as Sonoko's phone.
+
+375
+00:20:26,267 --> 00:20:30,063
+Come to think of it, that's my...
+
+376
+00:20:31,105 --> 00:20:32,523
+You're right.
+
+377
+00:20:32,607 --> 00:20:34,734
+Huh? But... why?
+
+378
+00:20:34,817 --> 00:20:36,945
+Heh. That's right.
+
+379
+00:20:37,695 --> 00:20:41,449
+Because I snatched it from you earlier.
+
+380
+00:20:41,532 --> 00:20:42,784
+Eh?
+
+381
+00:20:44,661 --> 00:20:47,455
+To erase the evidence of the murder.
+
+382
+00:20:47,538 --> 00:20:48,957
+Ehh?
+
+383
+00:20:49,040 --> 00:20:53,836
+Now, let's go further in
+and have a nice, long talk.
+
+384
+00:20:54,420 --> 00:20:57,340
+And also about where that kid Shinichi is.
+
+385
+00:21:00,426 --> 00:21:01,135
+Still not connecting?
+
+386
+00:21:01,135 --> 00:21:02,428
+♪~ (phone ringing) ~♪
+
 387
-00:23:32,923 --> 00:23:35,723
-I thought I saved it here.
+00:21:02,512 --> 00:21:03,554
+Just be quiet.
 
 388
-00:23:37,123 --> 00:23:39,023
-If it's the picture of the lady in the bathing suit,
+00:21:03,638 --> 00:21:05,264
+Ah, well...
 
 389
-00:23:39,023 --> 00:23:40,723
-I've deleted it for you!
+00:21:06,516 --> 00:21:07,517
+(Connection sound)
 
 390
-00:23:41,823 --> 00:23:43,123
-Why?
+00:21:07,600 --> 00:21:08,851
+Connected.
 
 391
-00:23:43,123 --> 00:23:46,523
-What do you mean by why? It's against the law!
+00:21:09,227 --> 00:21:11,270
+Hello? Hello?
 
 392
-00:23:46,523 --> 00:23:49,923
-Sorry. I asked Ai to delete it.
+00:21:12,438 --> 00:21:13,898
+Hello?
 
 393
-00:23:50,923 --> 00:23:52,423
-Haibara?
+00:21:15,316 --> 00:21:21,322
+♪~♪
 
 394
-00:23:54,223 --> 00:23:55,823
-You...
+00:22:33,811 --> 00:22:39,817
+♪~♪
 
 395
-00:23:55,823 --> 00:23:57,823
-Darn it!
+00:22:39,901 --> 00:22:42,070
+Don't "hello" me.
 
 396
-00:24:31,950 --> 00:24:33,850
-Next Conan's Hint:
+00:22:42,153 --> 00:22:44,947
+What were you doing
+while Ran was in danger?
 
 397
-00:24:33,850 --> 00:24:36,150
-"The two cups"
+00:22:45,156 --> 00:22:47,617
+Hey, are you listening? You...
 
 398
-00:24:36,150 --> 00:24:37,550
-What's title of the next episode?
+00:22:47,700 --> 00:22:48,951
+Ah, no, what do you mean...
 
 399
-00:24:37,550 --> 00:24:40,650
-It's half of the complete, so if eel over rice is used as analogy.
+00:22:49,035 --> 00:22:52,497
+We had a hard time over here
+when the car crashed into a tree!
+
+400
+00:22:52,580 --> 00:22:55,833
+Huh? The car hit a tree? Why?
+
+401
+00:22:55,917 --> 00:22:58,377
+What do you mean, why? We had no choice.
+
+402
+00:22:58,461 --> 00:23:01,964
+Ran's side kick exploded
+right in the face of the murderer
+
+403
+00:23:02,048 --> 00:23:05,343
+who was driving!
+
+404
+00:23:05,593 --> 00:23:07,637
+Ah... I see.
+
+405
+00:23:09,931 --> 00:23:13,184
+After that, the police Sonoko called arrived,
+
+406
+00:23:13,267 --> 00:23:15,561
+and the culprit was apprehended.
+
+407
+00:23:16,646 --> 00:23:22,068
+The motive for the murder was that
+his friends found out he bought his way
+into university and threatened him.
+
+408
+00:23:22,819 --> 00:23:24,278
+To cover up his crime,
+
+409
+00:23:24,362 --> 00:23:28,658
+he committed an even greater crime—
+a classic pattern.
+
+410
+00:23:30,326 --> 00:23:31,661
+And...
+
+411
+00:23:31,869 --> 00:23:32,870
+Huh?
+
+412
+00:23:33,162 --> 00:23:35,665
+I thought I saved it here...
+
+413
+00:23:35,748 --> 00:23:37,291
+Hmm? Oh.
+
+414
+00:23:37,375 --> 00:23:40,586
+I deleted that woman's swimsuit photo.
+
+415
+00:23:40,670 --> 00:23:42,964
+Huh... huh? Why?
+
+416
+00:23:43,339 --> 00:23:46,676
+Why? Because it's against the law.
+
+417
+00:23:46,759 --> 00:23:50,304
+Sorry. I asked Ai-chan to delete it.
+
+418
+00:23:51,097 --> 00:23:52,723
+Ha... Haibara?
+
+419
+00:23:53,307 --> 00:23:54,308
+(Yawn)
+
+420
+00:23:54,392 --> 00:23:55,518
+You little...
+
+421
+00:23:55,893 --> 00:23:58,187
+Damn!
+
+422
+00:24:01,774 --> 00:24:05,187
+Next Conan's Hint: "The two cups"
+
+423
+00:24:05,818 --> 00:24:07,686
+What's the title of the next episode?
+
+424
+00:24:07,770 --> 00:24:10,430
+It's half of the complete,
+so if eel over rice is used as an analogy...
+
+425
+00:24:10,514 --> 00:24:11,514
+Huh?
