@@ -1,1760 +1,1647 @@
 1
-00:00:05,640 --> 00:00:07,440
+00:00:05,543 --> 00:00:07,296
 Dad.
 
 2
-00:00:07,440 --> 00:00:09,440
-Are you sure this is the right road?
+00:00:07,380 --> 00:00:10,010
+Is this really the road? Yeah.
 
 3
-00:00:09,440 --> 00:00:10,440
-Yeah.
+00:00:10,344 --> 00:00:12,432
+You got lost, didn't you?
 
 4
-00:00:10,440 --> 00:00:12,940
-Don't tell me you're lost?
+00:00:12,974 --> 00:00:17,316
+Shut up! The roads in the countryside
+are way too dark.
 
 5
-00:00:12,940 --> 00:00:17,340
-Shut up. Rural roads are too dark to begin with!
+00:00:17,400 --> 00:00:18,777
+Hahahaha...
 
 6
-00:00:19,440 --> 00:00:21,140
-Dad! In front!
+00:00:18,861 --> 00:00:20,489
+Ah, Dad! Look out!
 
 7
-00:00:27,240 --> 00:00:30,340
-Gosh! Who parked in a place like this?
+00:00:20,573 --> 00:00:24,372
+Whoa! (Brakes screech)
 
 8
-00:00:30,340 --> 00:00:31,540
-I'll get the guy!
+00:00:27,128 --> 00:00:30,259
+...Geez. Who parked here?
 
 9
-00:00:31,540 --> 00:00:33,840
-Come on, Dad. Cut it out.
+00:00:30,342 --> 00:00:31,636
+I'll give them a piece of my mind.
 
 10
-00:00:33,840 --> 00:00:35,640
-Pops, over there!
+00:00:31,720 --> 00:00:33,766
+Stop it, Dad.
 
 11
-00:00:43,140 --> 00:00:45,540
-No good, she's dead.
+00:00:33,849 --> 00:00:35,478
+Uncle, over there. Hmm?
 
 12
-00:00:48,140 --> 00:00:49,940
-This is...
+00:00:43,202 --> 00:00:44,997
+No good. She's dead.
 
 13
-00:00:51,440 --> 00:00:53,440
-A dying message?
+00:00:45,080 --> 00:00:46,416
+Huh...
 
 14
-00:01:07,340 --> 00:01:09,140
-The black of shadow and the density of darkness
+00:00:46,917 --> 00:00:49,047
+Ah, this is...
 
 15
-00:01:09,140 --> 00:01:10,840
-are slashed by the light of deduction.
+00:00:49,130 --> 00:00:50,216
+Huh?
 
 16
-00:01:10,840 --> 00:01:12,340
-An unexpected reaction to text mail
+00:00:51,510 --> 00:00:53,639
+A dying message.
 
 17
-00:01:12,340 --> 00:01:14,640
-disclose the full picture of the alibi trick.
+00:00:54,390 --> 00:01:00,402
+♪~♪
 
 18
-00:01:14,640 --> 00:01:16,140
-He sees through the one and only truth.
+00:01:07,375 --> 00:01:10,840
+The blackness of shadows, the density of darkness—
+the light of reasoning cuts right through them.
 
 19
-00:01:16,140 --> 00:01:18,040
-A child in appearance with the I.Q. of an adult.
+00:01:10,923 --> 00:01:14,556
+An unexpected reaction to the mail.
+Expose the whole alibi trick.
 
 20
-00:01:18,040 --> 00:01:20,740
-His name is Detective Conan!
+00:01:14,639 --> 00:01:16,309
+See through the one and only truth.
 
 21
-00:02:53,094 --> 00:02:58,894
-"The Mail of Happiness Brings Misfortune"
+00:01:16,393 --> 00:01:18,063
+Looks like a kid, but has the mind of an adult.
 
 22
-00:03:03,094 --> 00:03:07,394
-The victim is Ms. Nana Hirose, age 27.
+00:01:18,146 --> 00:01:21,069
+His name is Detective Conan!
 
 23
-00:03:07,394 --> 00:03:10,394
-She is an insurance lady who lives nearby.
+00:02:45,752 --> 00:02:51,764
+♪~♪
 
 24
-00:03:10,394 --> 00:03:13,194
-It seems that she was attacked
+00:03:03,036 --> 00:03:06,878
+Um, the victim is Hirose Nana-san, 27 years old.
 
 25
-00:03:13,194 --> 00:03:15,594
-when she dropped by after work in this park.
+00:03:07,462 --> 00:03:10,217
+She's an insurance saleswoman living nearby.
 
 26
-00:03:15,594 --> 00:03:18,694
-The cause of death is strangulation of the carotid artery.
+00:03:10,301 --> 00:03:13,140
+On her way home from work,
+she stopped by this park,
 
 27
-00:03:18,694 --> 00:03:20,394
-The perp seems to have choked her many times
+00:03:13,223 --> 00:03:15,144
+and it seems she was attacked.
 
 28
-00:03:20,394 --> 00:03:23,594
-to make sure she died.
+00:03:15,561 --> 00:03:17,023
+Cause of death is asphyxiation
 
 29
-00:03:23,594 --> 00:03:26,994
-She had many strangulation marks on her neck, you see.
+00:03:17,106 --> 00:03:18,484
+due to neck compression.
 
 30
-00:03:26,994 --> 00:03:30,294
-And what was the estimate time of death?
+00:03:18,567 --> 00:03:19,945
+The culprit carefully—
 
 31
-00:03:30,294 --> 00:03:33,294
-Between 22:00 and 22:30.
+00:03:20,279 --> 00:03:22,951
+strangled the victim's neck multiple times.
 
 32
-00:03:33,294 --> 00:03:36,294
-It was just slightly earlier than when we arrived here.
+00:03:23,452 --> 00:03:26,918
+There were multiple overlapping
+strangulation marks on her neck.
 
 33
-00:03:36,294 --> 00:03:39,194
-Are you sure you didn't witness anything?
+00:03:27,001 --> 00:03:29,130
+And the estimated time of death?
 
 34
-00:03:39,194 --> 00:03:41,494
-No, I'm sorry.
+00:03:29,214 --> 00:03:33,013
+Ah, between 10:00 PM and 10:30 PM.
 
 35
-00:03:41,494 --> 00:03:44,294
-If we witnessed anything, we would've told you long ago.
+00:03:33,347 --> 00:03:35,852
+That was shortly before we came here.
 
 36
-00:03:44,294 --> 00:03:46,794
-I guess so. But no need to worry.
+00:03:36,311 --> 00:03:39,108
+Are you sure you didn't see anything?
 
 37
-00:03:46,794 --> 00:03:51,894
-The victim made sure she wrote a dying message, you see!
+00:03:39,192 --> 00:03:41,154
+Yes, sorry.
 
 38
-00:03:51,894 --> 00:03:53,794
-The perp is someone whose name begins with
+00:03:41,488 --> 00:03:44,077
+If we had seen something,
+we would've said so by now.
 
 39
-00:03:53,794 --> 00:03:55,894
-the katakana character "na".
+00:03:44,160 --> 00:03:45,579
+That's true.
 
 40
-00:03:57,294 --> 00:03:58,894
-Come to think of it, the name of the victim
+00:03:45,663 --> 00:03:48,168
+But it's okay. The victim conveniently
 
 41
-00:03:58,894 --> 00:04:00,094
-is also "nana" written in Katakana.
+00:03:48,252 --> 00:03:51,341
+left us a dying message.
 
 42
-00:04:00,094 --> 00:04:02,994
-I get it! The perp is herself!
+00:03:52,051 --> 00:03:55,809
+So the culprit's name starts with "Na."
 
 43
-00:04:02,994 --> 00:04:04,594
-In other words, she committed suicide!
+00:03:56,351 --> 00:03:59,859
+Ah, come to think of it,
+the victim's name is also Nana.
 
 44
-00:04:04,594 --> 00:04:07,694
-I'm sure the victim had a dual personality.
+00:03:59,942 --> 00:04:04,617
+Ah, I see! The culprit is herself.
+So it's suicide.
 
 45
-00:04:08,794 --> 00:04:12,794
-But there's something strange about it.
+00:04:04,702 --> 00:04:07,415
+The victim must have had a split personality.
 
 46
-00:04:14,894 --> 00:04:16,994
-Besides, this smell...
+00:04:07,498 --> 00:04:08,751
+Hahaha...
 
 47
-00:04:16,994 --> 00:04:19,994
-No, Conan. Don't go near the corpse.
+00:04:08,835 --> 00:04:12,926
+But still, this character looks strange.
 
 48
-00:04:19,994 --> 00:04:24,294
-There's a strange smell coming from this lady's clothes.
+00:04:14,972 --> 00:04:16,934
+And this smell...
 
 49
-00:04:24,294 --> 00:04:26,194
-What?
+00:04:17,018 --> 00:04:19,815
+No, Conan-kun. Don't get close to the body.
 
 50
-00:04:26,194 --> 00:04:28,294
-True.
+00:04:20,149 --> 00:04:22,445
+Hey, from this lady's clothes—
 
 51
-00:04:28,294 --> 00:04:29,594
-It smells like gunpowder.
+00:04:22,528 --> 00:04:25,117
+There's a strange smell. Huh?
 
 52
-00:04:29,594 --> 00:04:32,894
-Why don't you have forensics check on it?
+00:04:25,200 --> 00:04:27,455
+(Sniffing sound) Ah, you're right.
 
 53
-00:04:32,894 --> 00:04:34,394
-I was just thinking that.
+00:04:27,538 --> 00:04:29,584
+(Sniffing sound) It smells like gunpowder.
 
 54
-00:04:34,394 --> 00:04:36,694
-Huh? Her hair's wet
+00:04:29,667 --> 00:04:31,714
+Why don't you have the forensics team check it?
 
 55
-00:04:36,694 --> 00:04:39,394
-and a bit of her make-up has come off.
+00:04:31,797 --> 00:04:34,260
+Ugh, I was just about to...
 
 56
-00:04:39,394 --> 00:04:41,094
-I was just about to check on that, too.
+00:04:34,344 --> 00:04:38,686
+Huh? Her face is wet,
+and her makeup is a little smeared.
 
 57
-00:04:41,094 --> 00:04:42,794
-Nana!
+00:04:39,395 --> 00:04:41,024
+I was just about to check that too...
 
 58
-00:04:42,794 --> 00:04:45,494
-Nana! Please let me go!
+00:04:41,107 --> 00:04:42,652
+Nana! Huh?
 
 59
-00:04:45,494 --> 00:04:46,994
-Nana!
+00:04:42,736 --> 00:04:46,409
+Nana! Please let go... Nana!
 
 60
-00:04:46,994 --> 00:04:48,894
--Who is it? -I wonder.
+00:04:46,994 --> 00:04:48,038
+Who might you be?
 
 61
-00:04:48,894 --> 00:04:51,394
-He looks to be an acquaintance of the victim, though.
+00:04:48,121 --> 00:04:51,586
+Well... he seems to know the victim.
 
 62
-00:04:55,894 --> 00:04:58,394
-"Osamu Samon (27)" -I'm Osamu Samon.
+00:04:56,388 --> 00:04:58,350
+My name is Samon Osamu.
 
 63
-00:04:58,394 --> 00:05:01,494
-I'm an elementary school teacher and teach Japanese.
+00:04:58,433 --> 00:05:01,356
+I work as an primary school teacher.
 
 64
-00:05:01,494 --> 00:05:04,694
-And what is your connection with the victim Ms. Hirose?
+00:05:01,732 --> 00:05:04,404
+And what is your relationship
+with the victim, Hirose-san?
 
 65
-00:05:04,694 --> 00:05:06,394
+00:05:04,487 --> 00:05:05,489
 Yes.
 
 66
-00:05:06,394 --> 00:05:09,794
+00:05:06,408 --> 00:05:09,497
 She and I were engaged.
 
 67
-00:05:09,794 --> 00:05:11,294
+00:05:09,915 --> 00:05:11,251
 I see.
 
 68
-00:05:11,294 --> 00:05:12,994
-Then, do you know if there were any changes
+00:05:11,334 --> 00:05:15,426
+So, has Hirose-san shown
+any unusual behavior lately?
 
 69
-00:05:12,994 --> 00:05:15,494
-that you noticed about Ms. Hirose?
+00:05:15,509 --> 00:05:20,019
+Actually, Nana and I had plans
+to have dinner together tonight,
 
 70
-00:05:15,494 --> 00:05:20,294
-The thing is, I was supposed to have dinner with Nana tonight,
+00:05:20,436 --> 00:05:23,684
+and then I received this email from Nana.
 
 71
-00:05:20,294 --> 00:05:24,194
-but I got this text mail from Nana.
+00:05:23,684 --> 00:05:29,000
+"I'm going to be a little late
+because I'm talking with Migita at the park. — Nana"
 
 72
-00:05:24,194 --> 00:05:25,794
-"I'm going to be a bit late.
+00:05:29,000 --> 00:05:32,794
+The received time is 9:45 PM.
 
 73
-00:05:25,794 --> 00:05:29,694
-I'm going to be seeing Migita at the park. Nana."
+00:05:32,878 --> 00:05:35,800
+That's a little before the estimated time of death.
 
 74
-00:05:29,694 --> 00:05:32,694
-Mail receipt is at 21:45.
+00:05:35,884 --> 00:05:37,763
+And who is this "Migita"?
 
 75
-00:05:32,694 --> 00:05:35,694
-A little before her estimated time of death.
+00:05:38,723 --> 00:05:41,812
+He's a man who dated Nana before me.
 
 76
-00:05:35,694 --> 00:05:38,694
-Who's this "Migita" person?
+00:05:42,146 --> 00:05:46,571
+Migita kept pestering her,
+trying to get back together with Nana.
 
 77
-00:05:38,694 --> 00:05:41,994
-The man who was going with Nana before me.
+00:05:46,654 --> 00:05:50,662
+So I thought, maybe...
 
 78
-00:05:41,994 --> 00:05:44,294
-Migita was trying to get Nana back
+00:05:50,662 --> 00:05:59,305
+I see! I've got it! That's "Migita" written with the "migi" of "migi-hidari"
+and the "ta" of "tambo", right?
 
 79
-00:05:44,294 --> 00:05:46,594
-and persistently bugging her.
+00:05:59,388 --> 00:06:01,936
+Huh? Yes, that's right, but...
 
 80
-00:05:46,594 --> 00:05:49,194
-That's why... maybe...
+00:06:02,353 --> 00:06:06,444
+So the victim wasn't writing
+the katakana character "Na."
 
 81
-00:05:50,594 --> 00:05:52,794
-I see! I get it!
+00:06:02,353 --> 00:06:06,444
+So the victim wasn't writing
+the katakana character "Na."
 
 82
-00:05:52,794 --> 00:05:53,794
-Mr. Samon.
+00:06:06,987 --> 00:06:11,538
+She was trying to write the kanji
+character for "right" and ran out of strength.
 
 83
-00:05:53,794 --> 00:05:55,394
-The name Migita, is it written "migi" meaning right,
+00:06:11,914 --> 00:06:14,585
+I see. As expected of Mouri-san.
 
 84
-00:05:55,394 --> 00:05:56,394
-as in right and "hidari" left?
+00:06:14,669 --> 00:06:16,548
+Neeheeheeheehee!
 
 85
-00:05:56,394 --> 00:05:59,894
-Then followed by the next kanji character, "ta" meaning field?
+00:06:19,512 --> 00:06:22,101
+Anyway, let's go to Migita's place.
 
 86
-00:05:59,894 --> 00:06:02,294
-Yes, that's correct.
+00:06:22,184 --> 00:06:24,272
+Please let me come along too.
 
 87
-00:06:02,294 --> 00:06:03,794
-In other words,
+00:06:24,355 --> 00:06:26,025
+Well, but...
 
 88
-00:06:03,794 --> 00:06:06,894
-the victim did not write the katakana character "na".
+00:06:26,401 --> 00:06:29,825
+Please. I want to help with the investigation
+as much as I can.
 
 89
-00:06:06,894 --> 00:06:08,894
-Rather, she tried to write the kanji character "migi"
+00:06:31,077 --> 00:06:32,580
+Oh, all right.
 
 90
-00:06:08,894 --> 00:06:11,794
-but died before doing so.
+00:06:32,998 --> 00:06:36,045
+Just please don't get in the way
+of the investigation.
 
 91
-00:06:11,794 --> 00:06:15,094
-I see! Just as would be expected of you, Mr. Mouri!
+00:06:36,129 --> 00:06:37,590
+Got it.
 
 92
-00:06:19,294 --> 00:06:22,094
-At any rate, let's go to Migita's place.
+00:06:44,980 --> 00:06:46,942
+Are those your students, Sensei?
 
 93
-00:06:22,094 --> 00:06:24,294
-Please let me go with you.
+00:06:47,026 --> 00:06:51,451
+Yeah. Today, they threw me
+an engagement party.
 
 94
-00:06:24,294 --> 00:06:26,094
-No, but...
+00:06:51,785 --> 00:06:53,455
+They're good kids, aren't they?
 
 95
-00:06:26,094 --> 00:06:28,194
-Please. No matter how small,
-
-96
-00:06:28,194 --> 00:06:30,994
-I'd like to help out with the investigation.
-
-97
-00:06:30,994 --> 00:06:32,794
-I've got no choice.
-
-98
-00:06:32,794 --> 00:06:36,094
-Promise me that you won't get in the way of the investigation, then.
-
-99
-00:06:36,094 --> 00:06:37,694
-I understand.
-
-100
-00:06:44,894 --> 00:06:46,894
-Are they your students?
-
-101
-00:06:46,894 --> 00:06:48,094
-That's right.
-
-102
-00:06:48,094 --> 00:06:51,594
-They held a wedding party for me today.
-
-103
-00:06:51,594 --> 00:06:53,494
-What good students.
-
-104
-00:06:53,494 --> 00:06:54,794
+00:06:53,538 --> 00:06:54,833
 Yes.
 
+96
+00:06:54,917 --> 00:06:57,964
+I don't know what to tell them either...
+
+97
+00:06:58,048 --> 00:07:00,803
+Ah. You noticed?
+
+98
+00:07:00,887 --> 00:07:05,270
+Yes. If I tried to write my name, "Samon,"
+
+99
+00:07:05,730 --> 00:07:08,276
+it would also become that dying message.
+
+100
+00:07:08,652 --> 00:07:11,324
+Huh? (Clears throat)
+
+101
+00:07:11,407 --> 00:07:14,330
+Of course. I was well aware of that.
+
+102
+00:07:14,413 --> 00:07:16,794
+That you are also a suspect.
+
+103
+00:07:16,877 --> 00:07:18,798
+Hahahaha...
+
+104
+00:07:22,400 --> 00:07:26,521
+Ugh!?! Are you serious?
+
 105
-00:06:54,794 --> 00:06:57,894
-I don't know what to say to them, too.
+00:07:26,897 --> 00:07:30,697
+Yes, in the park where you were
+supposed to meet her tonight.
 
 106
-00:06:59,194 --> 00:07:00,794
-Did you notice?
+00:07:31,364 --> 00:07:34,620
+Don't screw with me! We never made plans to meet.
 
 107
-00:07:00,794 --> 00:07:01,894
-That's correct.
+00:07:35,122 --> 00:07:37,668
+Then what is this email?
 
 108
-00:07:01,894 --> 00:07:05,594
-My name is written "Samon" in kanji.
+00:07:38,128 --> 00:07:40,215
+I don't know anything about that.
 
 109
-00:07:05,594 --> 00:07:08,094
-So, it also could be a part of the dying message.
+00:07:40,299 --> 00:07:44,181
+She probably used it as an excuse
+to meet some other guy.
 
 110
-00:07:11,194 --> 00:07:14,194
-Yes, of course, I've already noticed that
+00:07:44,598 --> 00:07:46,436
+That's not all.
 
 111
-00:07:14,194 --> 00:07:17,094
-you could be a suspect, too.
+00:07:46,519 --> 00:07:49,860
+The victim left us something.
 
 112
-00:07:18,594 --> 00:07:21,794
-"Migita Bookstore"
+00:07:49,943 --> 00:07:52,448
+It's called a dying message.
 
 113
-00:07:21,794 --> 00:07:23,194
-Huh?
+00:07:52,991 --> 00:07:56,414
+The victim was trying to write your name,
+Migita-san,
 
 114
-00:07:23,194 --> 00:07:25,394
-"Toshihiko Migita (32), Bookstore Owner" -Nana was killed?
+00:07:56,749 --> 00:07:58,919
+but ran out of strength.
 
 115
-00:07:25,394 --> 00:07:26,694
-Is that true?
+00:07:59,963 --> 00:08:02,426
+No, that's not necessarily true.
 
 116
-00:07:26,694 --> 00:07:31,094
-Yes, at the park that she was scheduled to see you at tonight.
+00:08:02,886 --> 00:08:06,434
+Nana might have been trying
+to write "migi" (右),
 
 117
-00:07:31,094 --> 00:07:32,294
-Cut out the joke!
+00:08:06,517 --> 00:08:07,603
+Ah.
 
 118
-00:07:32,294 --> 00:07:34,894
-I wasn't scheduled to see her at all!
+00:08:08,021 --> 00:08:10,902
+But it could also be the katakana "na" (ナ),
 
 119
-00:07:34,894 --> 00:07:37,994
-But, what's with this mail?
+00:08:11,361 --> 00:08:14,408
+or the kanji for "big" (大) or "dog" (犬).
 
 120
-00:07:37,994 --> 00:07:39,994
-I have no idea.
+00:08:14,868 --> 00:08:16,287
+Hmm, that's true.
 
 121
-00:07:39,994 --> 00:07:42,694
-She probably used it as an excuse
+00:08:16,621 --> 00:08:20,087
+Yeah, yeah. If she was trying to write
+that Samon guy's name,
 
 122
-00:07:42,694 --> 00:07:44,294
-to go see another man or something.
+00:08:20,797 --> 00:08:22,007
+it would look like this too.
 
 123
-00:07:44,294 --> 00:07:46,294
-That's not the only thing.
+00:08:22,132 --> 00:08:24,220
+Oh, you're right. Hmm...
 
 124
-00:07:46,294 --> 00:07:49,694
-The victim left behind a dying message.
+00:08:24,971 --> 00:08:28,771
+Besides, it's impossible for me
+to have committed the crime.
 
 125
-00:07:49,694 --> 00:07:56,494
-The victim tried to write your name Mr. Migita
+00:08:28,854 --> 00:08:30,983
+I have a perfect alibi.
 
 126
-00:07:56,494 --> 00:07:59,594
-and died in the process.
+00:08:31,401 --> 00:08:32,486
+Hmm...
 
 127
-00:07:59,594 --> 00:08:02,694
-No, it's doesn't necessarily have to be so.
+00:08:35,868 --> 00:08:38,999
+I was working here all night.
 
 128
-00:08:02,694 --> 00:08:06,194
-Maybe it's true that Nana tried to write the character "migi".
+00:08:39,583 --> 00:08:42,297
+That should be recorded
+on the security cameras too.
 
 129
-00:08:07,894 --> 00:08:11,094
-But it could be "na" written in katakana
+00:08:44,552 --> 00:08:48,143
+It's around here. I'm glad I had the security system installed.
 
 130
-00:08:11,094 --> 00:08:12,694
-or the kanji character "dai"
+00:08:48,643 --> 00:08:51,065
+It's true. You're on camera the whole time.
 
 131
-00:08:12,694 --> 00:08:15,194
-or it could even be "inu".
+00:08:51,149 --> 00:08:53,319
+Ah, you left the frame.
 
 132
-00:08:15,194 --> 00:08:17,394
--True. -Right, right.
+00:08:55,240 --> 00:08:56,325
+Ah.
 
 133
-00:08:17,394 --> 00:08:20,494
-Even if you were to try to write his name "Samon",
+00:08:56,409 --> 00:08:59,331
+What? You came right back.
 
 134
-00:08:20,494 --> 00:08:21,894
-it would turn out this way, wouldn't it?
+00:08:59,415 --> 00:09:01,502
+Even I need to go to the bathroom sometimes.
 
 135
-00:08:21,894 --> 00:08:24,694
-Oh my, true.
+00:09:01,586 --> 00:09:03,674
+...Geez. That's confusing.
 
 136
-00:08:24,694 --> 00:08:25,894
-In the first place,
+00:09:09,143 --> 00:09:13,401
+I see. So the only time Migita-san
+wasn't on camera
 
 137
-00:08:25,894 --> 00:08:28,494
-it was impossible for me to commit the crime.
+00:09:13,485 --> 00:09:16,199
+was the single time he went to the bathroom.
 
 138
-00:08:28,494 --> 00:08:31,194
-Because I've got a perfect alibi.
+00:09:16,574 --> 00:09:21,459
+It's about a 20-minute round trip by car
+from here to the crime scene.
 
 139
-00:08:35,594 --> 00:08:39,294
-I was working all night here.
+00:09:21,542 --> 00:09:23,588
+So committing the crime would be impossible.
 
 140
-00:08:39,294 --> 00:08:42,494
-I'm sure I can prove that using the surveillance camera.
+00:09:23,671 --> 00:09:26,427
+Hmph. See? I told you so.
 
 141
-00:08:44,294 --> 00:08:45,994
-I think it's right around here.
+00:09:26,511 --> 00:09:27,931
+I have a perfect alibi.
 
 142
-00:08:45,994 --> 00:08:48,394
-I'm glad I had it installed.
+00:09:28,014 --> 00:09:29,391
+I do. Hmph.
 
 143
-00:08:48,394 --> 00:08:51,494
-It's true that he's displayed on the surveillance camera right through.
+00:09:29,809 --> 00:09:33,358
+At first glance, it certainly looks
+like a perfect alibi.
 
 144
-00:08:51,494 --> 00:08:52,994
-He's gone!
+00:09:33,441 --> 00:09:35,153
+But what about that earlier?
 
 145
-00:08:56,094 --> 00:08:59,094
-But he came back right away.
+00:09:35,654 --> 00:09:40,330
+I see. Then the culprit is Samon-san.
 
 146
-00:08:59,094 --> 00:09:01,294
-I mean, I gotta go to the john too, you know.
+00:09:40,413 --> 00:09:41,792
+It's you.
 
 147
-00:09:01,294 --> 00:09:04,094
-I mean, that brings on confusion.
+00:09:41,875 --> 00:09:46,092
+Why would you say that?
+There's no way I would kill Nana.
 
 148
-00:09:08,794 --> 00:09:10,194
-I see.
+00:09:46,467 --> 00:09:50,600
+I didn't even meet with Nana at all today.
 
 149
-00:09:10,194 --> 00:09:13,094
-So, the only time you, Mr. Migita, went out of view of the camera
+00:09:50,685 --> 00:09:52,814
+Then do you have an alibi?
 
 150
-00:09:13,094 --> 00:09:16,294
-was when you went to the restroom.
+00:09:52,897 --> 00:09:54,108
+Well, that's...
 
 151
-00:09:16,294 --> 00:09:18,594
-From here to the site of the crime,
+00:09:54,441 --> 00:09:57,907
+It's also possible that you faked that email
 
 152
-00:09:18,594 --> 00:09:21,294
-even if you were to go by car, it would take about 2 hours round trip.
+00:09:57,991 --> 00:10:00,453
+to frame Migita-san.
 
 153
-00:09:21,294 --> 00:09:24,494
-It would have been impossible for him to commit the crime.
+00:10:00,537 --> 00:10:02,457
+Huh? That's...
 
 154
-00:09:24,494 --> 00:09:26,094
-So now you know.
+00:10:02,834 --> 00:10:07,467
+No. The dying message points to Migita-san.
 
 155
-00:09:26,094 --> 00:09:29,494
-I have a perfect alibi, you see.
+00:10:07,551 --> 00:10:11,977
+And there's that footage too...
+But that alone isn't enough evidence.
 
 156
-00:09:29,494 --> 00:09:33,094
-It's true that at first glance, it looks to be a perfect alibi,
+00:10:16,068 --> 00:10:17,404
+Hmm...
 
 157
-00:09:33,094 --> 00:09:35,394
-but what happened a while ago?
+00:10:19,826 --> 00:10:20,870
+Ah.
 
 158
-00:09:35,394 --> 00:09:36,994
-I see.
+00:10:25,587 --> 00:10:28,593
+Could this be...
 
 159
-00:09:36,994 --> 00:09:41,594
-So, the perp is you, Mr. Samon!
+00:10:38,948 --> 00:10:43,082
+Anyway, we'll hear the details at the station.
 
 160
-00:09:41,594 --> 00:09:43,294
-Why?
+00:10:43,416 --> 00:10:45,879
+But... I didn't do it.
 
 161
-00:09:43,294 --> 00:09:46,194
-There's no reason for me killing Nana, is there?
+00:10:45,962 --> 00:10:48,802
+There, there. All the culprits say that.
 
 162
-00:09:46,194 --> 00:09:50,394
-To begin with, I didn't even get to see Nana today!
+00:10:49,303 --> 00:10:50,722
+N... no, I...
 
 163
-00:09:50,394 --> 00:09:52,594
-Then, do you have an alibi?
+00:10:50,806 --> 00:10:52,184
+Hmph. Let's go, let's go.
 
 164
-00:09:52,594 --> 00:09:53,994
-Well...
+00:10:52,267 --> 00:10:55,649
+No, so I...
 
 165
-00:09:53,994 --> 00:09:57,594
-It's possible that you made that mail up
+00:10:56,400 --> 00:11:01,034
+Whoa! Wahoo! Hohaha~
 
 166
-00:09:57,594 --> 00:10:00,994
-to frame Mr. Migita, too.
+00:11:01,119 --> 00:11:03,790
+Oh my. Could this be...
 
 167
-00:10:00,994 --> 00:10:02,494
-No way.
+00:11:04,375 --> 00:11:06,254
+Sleeping Kogoro!
 
 168
-00:10:02,494 --> 00:10:07,194
-No. The dying message points to Mr. Migita.
+00:11:06,337 --> 00:11:07,422
+Dad.
 
 169
-00:10:07,194 --> 00:10:09,094
-Besides, that image...
+00:11:08,006 --> 00:11:13,640
+The victim's dying message was not pointing to Samon
 
 170
-00:10:09,094 --> 00:10:11,494
-But just that, wouldn't serve as evidence.
+00:11:14,110 --> 00:11:16,005
+It was pointing to you, Migita-san.
 
 171
-00:10:25,294 --> 00:10:26,894
-What's this?
+00:11:16,190 --> 00:11:19,780
+Huh? Hmph. How can you say that for sure?
 
 172
-00:10:26,894 --> 00:10:28,594
-This is maybe...
+00:11:20,115 --> 00:11:23,078
+M... Mouri-san.
+It's true that with just this,
 
 173
-00:10:37,728 --> 00:10:39,328
-"Migita Bookstore"
+00:11:23,163 --> 00:11:26,294
+we can't tell if she was trying
+to write "right" or "left."
 
 174
-00:10:39,328 --> 00:10:43,928
-Anyway, we'll get the details from you at the station.
+00:11:26,377 --> 00:11:29,300
+You can tell exactly which one it was. Hey, Conan.
 
 175
-00:10:43,928 --> 00:10:46,228
-Why? I didn't do it.
+00:11:29,633 --> 00:11:31,052
+Okay!
 
 176
-00:10:46,228 --> 00:10:49,628
-Yes, yes, all perps say that!
+00:11:31,137 --> 00:11:33,308
+Samon-san, here. Hmm?
 
 177
-00:10:49,628 --> 00:10:51,328
-No, I...
+00:11:33,683 --> 00:11:36,981
+Samon-san, you're an primary school teacher, right?
 
 178
-00:10:51,328 --> 00:10:53,428
-Let's go, let's.
+00:11:37,064 --> 00:11:39,987
+So write "right" so everyone can see.
 
 179
-00:10:53,428 --> 00:10:55,828
-No...
+00:11:40,070 --> 00:11:42,117
+Huh? Ah...
 
 180
-00:11:01,428 --> 00:11:02,728
-Oh, my...
+00:11:46,041 --> 00:11:50,550
+Oh, so for "right," the stroke order
+is the diagonal stroke first, then the horizontal.
 
 181
-00:11:02,728 --> 00:11:04,728
-Don't tell me that...
+00:11:50,634 --> 00:11:52,554
+Wha... Ah.
 
 182
-00:11:04,728 --> 00:11:06,628
-You've become the Sleeping Kogoro!
+00:11:52,638 --> 00:11:55,185
+Ah... Huh?
 
 183
-00:11:06,628 --> 00:11:08,228
-Dad?
+00:11:55,936 --> 00:11:59,652
+Look at the part where the diagonal stroke
+and the horizontal stroke intersect.
 
 184
-00:11:08,228 --> 00:11:11,928
-The person that the dying message of the victim is pointing to
+00:11:59,735 --> 00:12:04,245
+You can clearly see that the horizontal stroke
+was written after the diagonal one.
 
 185
-00:11:11,928 --> 00:11:14,128
-is not Mr. Samon.
+00:12:04,578 --> 00:12:07,209
+I... indeed. That's exactly what happened.
 
 186
-00:11:14,128 --> 00:11:16,728
-Mr. Migita, it's you.
+00:12:07,626 --> 00:12:10,548
+It's not the katakana "Na" or the kanji for "left."
 
 187
-00:11:18,328 --> 00:11:20,228
-How can you say something like that?
+00:12:10,632 --> 00:12:14,431
+That stroke order is only possible
+when writing the kanji for "right."
 
 188
-00:11:20,228 --> 00:11:22,228
-Mr. Mouri.
+00:12:14,765 --> 00:12:17,688
+Th... that alone isn't evidence.
 
 189
-00:11:22,228 --> 00:11:23,428
-It's true that it's hard to tell
+00:12:17,771 --> 00:12:19,775
+And did you forget?
 
 190
-00:11:23,428 --> 00:11:26,828
-whether the perp wanted to write "migi" or "hidari".
+00:12:19,858 --> 00:12:21,904
+I have a perfect alibi.
 
 191
-00:11:26,828 --> 00:11:28,528
-The thing is you can tell...
+00:12:22,239 --> 00:12:24,451
+That's right. Migita-san was
 
 192
-00:11:28,528 --> 00:11:31,428
--Hey, Conan. -Yes.
+00:12:24,535 --> 00:12:27,124
+on the security camera the whole time.
 
 193
-00:11:31,428 --> 00:11:33,728
-Mr. Samon, this.
+00:12:27,207 --> 00:12:30,422
+That's true, as long as the security camera
+was running.
 
 194
-00:11:33,728 --> 00:11:37,328
-You're an Elementary School teacher, aren't you?
+00:12:30,505 --> 00:12:32,091
+Huh? Ah.
 
 195
-00:11:37,328 --> 00:11:38,728
-Will you please write the character "migi" here
+00:12:32,175 --> 00:12:34,346
+Ah... Yes.
 
 196
-00:11:38,728 --> 00:11:41,328
-so that everyone can see?
+00:12:34,430 --> 00:12:35,890
+People tend to assume
 
 197
-00:11:41,328 --> 00:11:42,528
-Yeah.
+00:12:35,974 --> 00:12:39,732
+that a security camera is always
+running continuously.
 
 198
-00:11:47,228 --> 00:11:49,128
-So the character "migi" is written in the stroke order
+00:12:39,815 --> 00:12:42,237
+Migita-san took advantage of that.
 
 199
-00:11:49,128 --> 00:11:51,728
-of the first tapered part "no" followed by the horizontal line.
+00:12:42,696 --> 00:12:46,245
+That one time you said you went to the bathroom,
 
 200
-00:11:56,228 --> 00:11:57,928
-Please look at the part where the tapered line
+00:12:46,329 --> 00:12:49,000
+you actually turned off the security camera.
 
 201
-00:11:57,928 --> 00:11:59,928
-and the horizontal line intersects.
+00:12:51,630 --> 00:12:55,472
+Then you took 10 minutes to reach the crime scene
+on your scooter,
 
 202
-00:11:59,928 --> 00:12:01,128
-It is obvious that
+00:12:55,555 --> 00:12:57,517
+and killed Nana-san.
 
 203
-00:12:01,128 --> 00:12:04,728
-horizontal line was written after the tapered line.
+00:12:57,601 --> 00:13:00,982
+(Heavy breathing)
 
 204
-00:12:04,728 --> 00:12:07,728
-That's true.
+00:13:01,442 --> 00:13:04,782
+Then, after another 10 minutes,
+you came back, Migita-san,
 
 205
-00:12:07,728 --> 00:12:10,828
-It is neither the katakana character "na" nor "hidari".
+00:13:05,116 --> 00:13:08,247
+turned the security camera back on,
 
 206
-00:12:10,828 --> 00:12:12,628
-The way the character is written, the stroke order shows that
+00:13:08,831 --> 00:13:12,130
+and returned to the camera's field of view.
 
 207
-00:12:12,628 --> 00:12:14,928
-it is written in this order only when writing the character "migi".
+00:13:12,839 --> 00:13:13,966
+Hmm...
 
 208
-00:12:14,928 --> 00:12:18,028
-Only that can't possibly serve as proof.
+00:13:14,050 --> 00:13:18,267
+That's how you made a recording that was
+actually missing over 20 minutes
 
 209
-00:12:18,028 --> 00:12:20,028
-Besides, did you forget?
+00:13:18,351 --> 00:13:21,774
+look like it was continuous.
 
 210
-00:12:20,028 --> 00:12:22,428
-I've got a perfect alibi.
+00:13:22,192 --> 00:13:24,154
+This store's security camera
 
 211
-00:12:22,428 --> 00:12:23,928
-That's right.
+00:13:24,238 --> 00:13:26,951
+doesn't have a time stamp display.
 
 212
-00:12:23,928 --> 00:12:27,428
-Mr. Migita was displayed on the surveillance camera right through.
+00:13:27,076 --> 00:13:28,788
+So it was easy to fake.
 
 213
-00:12:27,428 --> 00:12:29,328
-It's true he was there
+00:13:29,248 --> 00:13:31,627
+So you really are the one who killed Nana...
 
 214
-00:12:29,328 --> 00:12:30,828
-while the surveillance camera was operating.
+00:13:31,710 --> 00:13:33,881
+Then... evidence?
 
 215
-00:12:30,828 --> 00:12:32,328
-What?
+00:13:33,965 --> 00:13:36,470
+Where is the evidence that I did it?
 
 216
-00:12:33,728 --> 00:12:36,228
-Right. We all have the stereotyped idea
+00:13:36,971 --> 00:13:39,476
+You can come in now.
 
 217
-00:12:36,228 --> 00:12:39,928
-that a surveillance camera is continuously operating.
+00:13:42,315 --> 00:13:45,155
+This is a student who lives nearby.
 
 218
-00:12:39,928 --> 00:12:42,928
-Mr. Migita used this to his advantage.
+00:13:45,905 --> 00:13:48,995
+Would you tell us what you witnessed?
 
 219
-00:12:42,928 --> 00:12:46,528
-Back then, when you said you went off to use the restroom,
+00:13:49,078 --> 00:13:53,003
+Ye... yes. It was around 10:30.
 
 220
-00:12:46,528 --> 00:12:49,128
-you switched off the surveillance camera.
+00:13:53,504 --> 00:13:56,469
+I was about to turn on the TV
+because my show was starting.
 
 221
-00:12:51,828 --> 00:12:53,728
-Then, you went to the scene of the crime
+00:13:56,552 --> 00:13:57,804
+(Brakes squeal) Then...
 
 222
-00:12:53,728 --> 00:12:55,828
-in 10 minutes on your scooter
+00:13:57,888 --> 00:14:00,058
+(Crash) Ah, huh?
 
 223
-00:12:55,828 --> 00:12:58,228
-and killed Nana.
+00:14:02,189 --> 00:14:03,274
+Ah!
 
 224
-00:13:01,628 --> 00:13:05,228
-Mr. Migita then returns in 10 minutes
+00:14:03,691 --> 00:14:04,735
+Huh?
 
 225
-00:13:05,228 --> 00:13:09,028
-and switches the surveillance camera back on,
+00:14:04,818 --> 00:14:06,947
+(Engine sound)
 
 226
-00:13:09,028 --> 00:13:12,028
-sitting within the visual range of the camera.
+00:14:09,411 --> 00:14:12,667
+I see. That's definitely 10:30 PM today.
 
 227
-00:13:14,328 --> 00:13:15,428
-In that way,
+00:14:13,084 --> 00:14:16,007
+Probably a drunk driver's car.
 
 228
-00:13:15,428 --> 00:13:18,528
-you actually made the image look to be one continuous take
+00:14:16,090 --> 00:14:18,763
+We should find it if we search around here.
 
 229
-00:13:18,528 --> 00:13:22,328
-although you were gone for more than 20 minutes.
+00:14:18,846 --> 00:14:22,437
+A white car with a broken headlight.
 
 230
-00:13:22,328 --> 00:13:24,328
-The surveillance camera of this store
+00:14:22,979 --> 00:14:26,654
+The sound would have been very loud
+inside the store too.
 
 231
-00:13:24,328 --> 00:13:27,228
-is the type that doesn't display time.
+00:14:26,737 --> 00:14:28,991
+But in that footage, you never reacted to it.
 
 232
-00:13:27,228 --> 00:13:29,428
-So, it would be easy to make up a story.
+00:14:28,991 --> 00:14:31,330
+But in that footage, you never reacted to it.
 
 233
-00:13:29,428 --> 00:13:31,928
-Then, it was you after all who...
+00:14:31,413 --> 00:14:32,874
+Why is that?
 
 234
-00:13:31,928 --> 00:13:34,028
-Where's the proof?
+00:14:33,251 --> 00:14:36,465
+Because the footage from that time is missing.
 
 235
-00:13:34,028 --> 00:13:37,028
-Where's the proof to support that I did something like that?
+00:14:36,549 --> 00:14:39,095
+10:30 is the time of the murder.
 
 236
-00:13:37,028 --> 00:13:40,328
-It's all right. Please come in.
+00:14:39,429 --> 00:14:44,606
+Migita-san, you weren't in this store
+at that time.
 
 237
-00:13:42,428 --> 00:13:46,028
-He's a student who lives nearby.
+00:14:44,845 --> 00:14:49,616
+Damn it. I thought I had fooled everyone.
 
 238
-00:13:46,028 --> 00:13:49,828
-Please tell us what you witnessed.
+00:14:50,075 --> 00:14:51,245
+It's your hair.
 
 239
-00:13:49,828 --> 00:13:50,928
-Yes, sir.
+00:14:51,328 --> 00:14:53,749
+Huh? My hair...
 
 240
-00:13:50,928 --> 00:13:53,628
-It was around 22:30.
+00:14:54,167 --> 00:14:58,008
+When you left the security camera's view,
+your curly hair was sticking up.
 
 241
-00:13:53,628 --> 00:13:55,528
-The program that I wanted to watch was about to start,
+00:14:58,091 --> 00:15:01,682
+But when you came back, it was flat.
 
 242
-00:13:55,528 --> 00:13:57,128
-so I was about to switch on the TV.
+00:15:01,765 --> 00:15:05,273
+Just like when you've been wearing a helmet.
 
 243
-00:13:57,128 --> 00:13:58,928
-Then...
+00:15:05,648 --> 00:15:09,781
+When I saw that, I realized the trick.
 
 244
-00:14:09,528 --> 00:14:13,128
-I see. It's true that it was 22:30 tonight.
+00:15:13,331 --> 00:15:15,793
+It's her fault... Nana's fault.
 
 245
-00:14:13,128 --> 00:14:16,128
-It was probably somebody driving under the influence of alcohol.
+00:15:16,337 --> 00:15:20,010
+She kept sending me images like this to harass me.
 
 246
-00:14:16,128 --> 00:14:18,828
-I'm sure we can find it if we look around this vicinity.
+00:15:20,762 --> 00:15:21,930
+Damn it.
 
 247
-00:14:18,828 --> 00:14:23,028
-It's a white car with a broke headlight.
+00:15:28,527 --> 00:15:32,494
+And on top of that, that woman would say,
+"I never did that,"
 
 248
-00:14:23,028 --> 00:14:25,128
-I'm sure that there was a pretty loud noise
+00:15:32,577 --> 00:15:35,124
+and make a fool of me.
 
 249
-00:14:25,128 --> 00:14:26,828
-echoing through inside the store, too.
+00:15:37,629 --> 00:15:40,008
+I knew it. Now the rest...
 
 250
-00:14:26,828 --> 00:14:29,028
-However, in the image we just saw,
+00:15:40,092 --> 00:15:42,389
+(Cell phone rings)
 
 251
-00:14:29,028 --> 00:14:31,828
-there was no part where you seemed to notice anything.
+00:15:42,472 --> 00:15:43,641
+Hello?
 
 252
-00:14:31,828 --> 00:14:33,428
-Why?
+00:15:44,101 --> 00:15:45,895
+Huh? Gunshot residue?
 
 253
-00:14:33,428 --> 00:14:36,628
-Because the scene from that time span is missing.
+00:15:45,978 --> 00:15:47,190
+Hmph.
 
 254
-00:14:36,628 --> 00:14:39,428
-22:30 is the time when the crime was committed.
+00:15:47,273 --> 00:15:51,532
+It's fine, it's fine. We've already
+arrested the culprit. Good work.
 
 255
-00:14:39,428 --> 00:14:44,528
-Mr. Migita, you weren't in this store at that time.
-
-256
-00:14:45,628 --> 00:14:47,328
-Darn it!
-
-257
-00:14:47,328 --> 00:14:50,028
-I thought I totally deceived everyone and yet...
-
-258
-00:14:50,028 --> 00:14:52,828
-It's your hair!
-
-259
-00:14:52,828 --> 00:14:54,128
-My hair?
-
-260
-00:14:54,128 --> 00:14:56,328
-Your naturally curly hair that you had
-
-261
-00:14:56,328 --> 00:14:58,228
-until you left to go to the restroom,
-
-262
-00:14:58,228 --> 00:15:01,828
-when you came back was flattened out.
-
-263
-00:15:01,828 --> 00:15:05,628
-Just as if you had worn a helmet or something.
-
-264
-00:15:05,628 --> 00:15:08,128
-When I saw that,
-
-265
-00:15:08,128 --> 00:15:10,428
-I realized what your trick was about.
-
-266
-00:15:13,328 --> 00:15:15,928
-She... Nana's to blame.
-
-267
-00:15:15,928 --> 00:15:17,928
-"I'm happy." -She kept sending me images like this
-
-268
-00:15:17,928 --> 00:15:20,028
-"I got engaged." -to get on my nerves.
-
-269
-00:15:20,728 --> 00:15:22,528
-Darn it!
-
-270
-00:15:28,528 --> 00:15:30,428
-Moreover, that woman had the nerve to say
-
-271
-00:15:30,428 --> 00:15:32,628
-she didn't do anything like that.
-
-272
-00:15:32,628 --> 00:15:35,028
-She dare made fun of me!
-
-273
-00:15:37,728 --> 00:15:40,828
-Just as I thought. The rest is...
-
-274
-00:15:42,428 --> 00:15:44,128
-Yes?
-
-275
-00:15:44,128 --> 00:15:47,428
-Huh? Gunpowder residue?
-
-276
-00:15:47,428 --> 00:15:48,728
-It's okay, okay already,
-
-277
-00:15:48,728 --> 00:15:51,528
-because we've already arrested the perp.
-
-278
-00:15:51,528 --> 00:15:53,328
+00:15:51,615 --> 00:15:53,202
 Good work.
 
-279
-00:15:53,328 --> 00:15:55,728
-Maybe gunpowder residue
+256
+00:15:53,536 --> 00:15:57,794
+Did gunshot residue come from the victim's clothes?
 
-280
-00:15:55,728 --> 00:15:57,728
-was detected on the clothing of the corpse?
+257
+00:15:57,877 --> 00:15:59,756
+Huh? How did you know?
 
-281
-00:15:57,728 --> 00:16:00,028
-Huh? I'm amazed, you know!
+258
+00:16:00,090 --> 00:16:02,721
+Good. Now it all fits together.
 
-282
-00:16:00,028 --> 00:16:02,928
-Okay! Everything fit in now.
+259
+00:16:02,804 --> 00:16:06,270
+That's the stuff that appears
+when you fire a gun, right?
 
-283
-00:16:02,928 --> 00:16:04,028
-Are you talking about
+260
+00:16:06,353 --> 00:16:09,943
+Yes, but? Hey, I never used a gun.
 
-284
-00:16:04,028 --> 00:16:06,328
-the thing that is detected when a gun is fired?
+261
+00:16:10,319 --> 00:16:14,619
+I know. The victim's cause of death
+was strangulation.
 
-285
-00:16:06,328 --> 00:16:10,228
--Yes. -Hey! I didn't use a gun!
+262
+00:16:14,703 --> 00:16:17,751
+But then why is there gunshot residue...
 
-286
-00:16:10,228 --> 00:16:12,028
-I know,
+263
+00:16:18,252 --> 00:16:22,886
+It must be some mistake.
+I don't think it's related to the case.
 
-287
-00:16:12,028 --> 00:16:14,628
-because the victim's cause of death was strangulation.
+264
+00:16:22,969 --> 00:16:26,518
+Hmm... Oh well, whatever.
 
-288
-00:16:14,628 --> 00:16:18,128
-But why was there gunpowder residue on her?
+265
+00:16:26,643 --> 00:16:28,898
+Well then, Migita-san, let's head to the station.
 
-289
-00:16:18,128 --> 00:16:20,528
-It must be some kind of mistake.
+266
+00:16:28,981 --> 00:16:30,693
+Wait, please.
 
-290
-00:16:20,528 --> 00:16:23,228
-I don't think it has anything to do with the case.
-
-291
-00:16:24,628 --> 00:16:26,528
-Oh, well.
-
-292
-00:16:26,528 --> 00:16:28,928
-Okay, Mr. Migita, let's go to the station.
-
-293
-00:16:28,928 --> 00:16:30,728
-Wait a minute, please.
-
-294
-00:16:30,728 --> 00:16:32,828
+267
+00:16:30,777 --> 00:16:32,781
 The case isn't over yet.
 
+268
+00:16:32,864 --> 00:16:35,244
+What are you talking about, Mouri-san?
+
+269
+00:16:35,703 --> 00:16:37,665
+The culprit is right here,
+
+270
+00:16:37,749 --> 00:16:43,427
+Of course, Migita-san is the culprit.
+He attempted to kill Nana-san.
+
+271
+00:16:43,511 --> 00:16:46,934
+Huh? "Attempted to kill"? Then...
+
+272
+00:16:47,017 --> 00:16:49,940
+Yes. The real culprit is someone else.
+
+273
+00:16:50,023 --> 00:16:51,360
+Huh?
+
+274
+00:16:51,443 --> 00:16:54,282
+The real culprit who killed Hirose Nana-san—
+
+275
+00:16:54,699 --> 00:16:58,707
+it's you, Samon Osamu-san.
+
+276
+00:16:59,167 --> 00:17:00,211
+Huh?
+
+277
+00:17:00,795 --> 00:17:04,553
+Detective, I'm not trying to protect him, but...
+
+278
+00:17:04,636 --> 00:17:06,557
+I did kill Nana with these hands.
+
+279
+00:17:07,183 --> 00:17:11,149
+That's right. Besides, the stroke order
+of the dying message
+
+280
+00:17:11,233 --> 00:17:12,986
+pointed to Migita-san.
+
+281
+00:17:13,320 --> 00:17:16,493
+That very stroke order is what indicates it.
+
+282
+00:17:16,577 --> 00:17:19,749
+It wasn't Nana-san who wrote the dying message—
+
+283
+00:17:19,833 --> 00:17:22,505
+it was you, Samon-san.
+
+284
+00:17:22,881 --> 00:17:25,344
+First, that dying message.
+
+285
+00:17:25,428 --> 00:17:28,559
+I highly doubt Nana-san wrote it.
+
+286
+00:17:29,018 --> 00:17:32,609
+Judging from the emails, she always referred
+to Migita-san as "Migita"
+
+287
+00:17:32,692 --> 00:17:35,448
+in katakana.
+
+288
+00:17:36,032 --> 00:17:39,164
+Would that same Nana-san, at death's door,
+suddenly decide to
+
+289
+00:17:39,247 --> 00:17:42,044
+write Migita-san's name in kanji?
+
+290
+00:17:42,503 --> 00:17:45,343
+I see. That is certainly unnatural.
+
+291
+00:17:45,426 --> 00:17:48,056
+But that doesn't mean I wrote it.
+
+292
+00:17:48,140 --> 00:17:51,813
+No, that possibility is extremely high.
+
+293
+00:17:51,897 --> 00:17:53,066
+Huh?
+
+294
+00:17:53,400 --> 00:17:58,118
+Recall the stroke order Migita-san used
+to write "right."
+
 295
-00:16:32,828 --> 00:16:35,628
-Just what're you talking about, Mr. Mouri?
+00:17:59,329 --> 00:18:03,837
+And the stroke order that the teacher,
+Samon-san, used.
 
 296
-00:16:35,628 --> 00:16:37,828
-The perp is right here.
+00:18:04,297 --> 00:18:05,341
+Ah!
 
 297
-00:16:37,828 --> 00:16:40,928
-Yes, of course Mr. Migita is the perp
+00:18:05,925 --> 00:18:07,804
+But I definitely...
 
 298
-00:16:40,928 --> 00:16:44,228
-that is for allegedly trying to kill Nana, right?
+00:18:08,222 --> 00:18:10,601
+Let me explain step by step.
 
 299
-00:16:44,228 --> 00:16:46,328
-Alleged homicide?
+00:18:10,685 --> 00:18:13,816
+First, Samon-san's plan began with him
 
 300
-00:16:46,328 --> 00:16:48,228
--Then... -Yeah.
+00:18:13,899 --> 00:18:17,907
+sending harassing emails from Nana-san's phone
+to Migita-san.
 
 301
-00:16:48,228 --> 00:16:50,128
-The real perp is another person!
+00:18:19,327 --> 00:18:20,955
+Knowing Migita-san's personality
 
 302
-00:16:50,128 --> 00:16:51,428
-Huh?
+00:18:21,038 --> 00:18:24,254
+and his twisted affection for Nana-san,
 
 303
-00:16:51,428 --> 00:16:54,728
-The real perp who killed Ms. Nana Hirose is...
+00:18:24,337 --> 00:18:29,054
+Samon-san manipulated him into killing her.
 
 304
-00:16:54,728 --> 00:16:56,028
-That is...
+00:18:29,723 --> 00:18:32,562
+That's outrageous. Why would you say that?
 
 305
-00:16:56,028 --> 00:16:59,328
-Mr. Osamu Samon, you, is it not?
+00:18:32,645 --> 00:18:34,566
+It's the email's writing style.
 
 306
-00:17:00,628 --> 00:17:04,528
-Detective. I'm not trying to protect him or anything,
+00:18:34,649 --> 00:18:36,570
+Wri... writing style?
 
 307
-00:17:04,528 --> 00:17:07,128
-but I killed Nana with my very hands.
+00:18:37,070 --> 00:18:39,576
+The emails that Nana-san herself typed
 
 308
-00:17:07,128 --> 00:17:08,428
-Right!
+00:18:39,659 --> 00:18:42,206
+had no punctuation like dots or circles,
 
 309
-00:17:08,428 --> 00:17:11,028
-Besides, the stroke order of the dying message
+00:18:42,290 --> 00:18:46,882
+and they always ended with the signature "Nana."
 
 310
-00:17:11,028 --> 00:17:13,228
-points to Mr. Migita, didn't you say?
+00:18:47,216 --> 00:18:51,224
+But the emails that angered Migita-san
+had punctuation
 
 311
-00:17:13,228 --> 00:17:16,628
-The stroke order is the very thing that is indicating
+00:18:51,308 --> 00:18:54,355
+and, conversely, no "Nana" signature.
 
 312
-00:17:16,628 --> 00:17:19,928
-that the one who wrote the dying message is not Nana,
+00:18:54,814 --> 00:18:58,906
+You can't easily change
+the writing style you always use.
 
 313
-00:17:19,928 --> 00:17:22,728
--but Mr. Samon. -What?
+00:18:58,989 --> 00:19:00,868
+Just like stroke order.
 
 314
-00:17:22,728 --> 00:17:25,328
-First, for that dying message...
+00:19:01,620 --> 00:19:04,083
+It's clear that someone else wrote them.
 
 315
-00:17:25,328 --> 00:17:28,928
-It's unthinkable that Nana would've written it.
+00:19:04,834 --> 00:19:07,882
+And the plan succeeded perfectly.
 
 316
-00:17:28,928 --> 00:17:30,228
-As far as I've read her mails,
+00:19:08,342 --> 00:19:09,886
+Just as you intended—
 
 317
-00:17:30,228 --> 00:17:35,928
-she always wrote Mr. Migita's name in katakana characters.
+00:19:09,969 --> 00:19:15,147
+Migita-san's hatred for Nana-san grew,
+and he killed her.
 
 318
-00:17:35,928 --> 00:17:39,228
-So, I wonder if she, at the verge of dying
+00:19:15,773 --> 00:19:17,944
+When you went to the park to check,
 
 319
-00:17:39,228 --> 00:17:42,328
-would suddenly write his name in kanji characters.
+00:19:18,027 --> 00:19:22,912
+and saw Nana-san collapsed,
+you must have been certain.
 
 320
-00:17:42,328 --> 00:17:45,328
-I see. It is unnatural.
+00:19:23,247 --> 00:19:25,668
+That your plan had succeeded.
 
 321
-00:17:45,328 --> 00:17:48,128
-But even so, you can't say that I wrote it.
+00:19:26,043 --> 00:19:29,175
+But then, something unexpected happened.
 
 322
-00:17:48,128 --> 00:17:51,928
-No. The possibility that you did is extremely high!
+00:19:29,926 --> 00:19:31,513
+When Migita-san left the scene,
 
 323
-00:17:51,928 --> 00:17:53,228
-What?
+00:19:32,181 --> 00:19:35,396
+she was probably still in a state of suspended animation.
 
 324
-00:17:53,228 --> 00:17:54,828
-Please recall the stroke order
+00:19:35,855 --> 00:19:38,025
+Nana-san regained consciousness.
 
 325
-00:17:54,828 --> 00:17:59,128
-of when Mr. Migita wrote the kanji character "migi"
+00:19:38,610 --> 00:19:41,867
+At that time, Nana-san washed her face with water
 
 326
-00:17:59,128 --> 00:18:02,628
-and the stroke order of when Mr. Samon who is a teacher,
+00:19:41,950 --> 00:19:44,037
+to remove the dirt that had gotten on it.
 
 327
-00:18:02,628 --> 00:18:05,728
-wrote the word.
+00:19:44,122 --> 00:19:45,583
+That's why the victim's face was wet
 
 328
-00:18:05,728 --> 00:18:08,028
-But I know what I did...
+00:19:45,666 --> 00:19:48,547
+and her makeup had come off.
 
 329
-00:18:08,028 --> 00:18:10,528
-Let me give you an orderly explanation.
+00:19:48,630 --> 00:19:51,553
+And shortly after, she was finished off.
 
 330
-00:18:10,528 --> 00:18:12,428
-First of all, Mr. Samon's plan was
+00:19:52,471 --> 00:19:54,434
+By your hand.
 
 331
-00:18:12,428 --> 00:18:14,628
-to keep sending Mr. Migita obnoxious mails
+00:19:54,517 --> 00:19:59,736
+Then, you tried to write "Migita" on the ground
+using the victim's finger.
 
 332
-00:18:14,628 --> 00:18:17,628
-from Nana's smart phone to start with.
+00:20:00,529 --> 00:20:04,245
+But in the middle of it, you noticed us approaching,
 
 333
-00:18:19,128 --> 00:18:20,928
-Mr. Samon, who was aware of Mr. Migita's personality,
+00:20:04,329 --> 00:20:07,293
+and had no choice but to leave in a hurry.
 
 334
-00:18:20,928 --> 00:18:24,128
-and his distorted love for her worked it out
+00:20:08,795 --> 00:20:10,966
+That is the truth of this case.
 
 335
-00:18:24,128 --> 00:18:28,928
-so that Mr. Migita would attempt to kill her.
+00:20:12,470 --> 00:20:15,392
+It's true that it might be consistent.
 
 336
-00:18:29,528 --> 00:18:31,128
-How unpleasant.
+00:20:15,476 --> 00:20:19,525
+But it's all circumstantial evidence.
+There's no physical evidence.
 
 337
-00:18:31,128 --> 00:18:32,528
-How can you say something like that?
+00:20:19,609 --> 00:20:22,448
+There is physical evidence
+— Huh?
 
 338
-00:18:32,528 --> 00:18:35,428
-The writing style.
+00:20:22,865 --> 00:20:26,206
+The gunshot residue found on the victim's clothes.
 
 339
-00:18:35,428 --> 00:18:36,928
-The writing style?
+00:20:26,623 --> 00:20:28,126
+Gunshot residue...
 
 340
-00:18:36,928 --> 00:18:39,528
-In the mail that Nana herself had written,
+00:20:28,627 --> 00:20:31,466
+Why would gunshot residue appear at a scene
 
 341
-00:18:39,528 --> 00:18:42,128
-there are no punctuation marks,
+00:20:31,549 --> 00:20:33,804
+where no gun was used?
 
 342
-00:18:42,128 --> 00:18:46,928
-and at the end of the mail, she always inserts her name "Nana."
+00:20:33,887 --> 00:20:37,853
+The answer was in the photo on your smartphone.
 
 343
-00:18:46,928 --> 00:18:49,828
-But in the mail that was written to get Mr. Migita angry
+00:20:37,937 --> 00:20:39,357
+What do you mean?
 
 344
-00:18:49,828 --> 00:18:51,128
-there were punctuation marks,
+00:20:39,440 --> 00:20:40,901
+In that photo,
 
 345
-00:18:51,128 --> 00:18:54,628
-but no signature "Nana."
+00:20:40,985 --> 00:20:44,450
+you were being celebrated with lots of party poppers.
 
 346
-00:18:54,628 --> 00:18:56,528
-The writing style that a person usually uses
+00:20:44,534 --> 00:20:47,248
+As you can tell from the sound,
+which is like a gunshot,
 
 347
-00:18:56,528 --> 00:18:58,728
-cannot be changed that easily.
+00:20:47,331 --> 00:20:51,631
+party poppers that explode gunpowder
+show a gunshot residue reaction.
 
 348
-00:18:58,728 --> 00:19:01,428
-Just like a person's stroke order.
+00:20:51,715 --> 00:20:54,762
+That residue got on your clothes at that time,
 
 349
-00:19:01,428 --> 00:19:04,628
-It's apparent that someone else wrote it.
+00:20:55,180 --> 00:20:59,772
+and when you strangled Nana-san,
+it also got onto her clothes.
 
 350
-00:19:04,628 --> 00:19:08,128
-And the plan actually worked out.
+00:21:00,316 --> 00:21:05,326
+If they check, the same gunshot residue
+that came from her clothes should appear.
 
 351
-00:19:08,128 --> 00:19:09,828
-As you had figured out it to be,
+00:21:05,951 --> 00:21:07,580
+You said earlier
 
 352
-00:19:09,828 --> 00:19:11,628
-Mr. Migita who was angered with the hate
+00:21:07,663 --> 00:21:10,294
+that you didn't even meet Nana-san today.
 
 353
-00:19:11,628 --> 00:19:15,628
-that built up inside of him, killed her.
+00:21:10,627 --> 00:21:12,340
+Can you explain that?
 
 354
-00:19:15,628 --> 00:19:17,928
-At the park you went to confirm the chain of events,
+00:21:12,423 --> 00:21:15,220
+Why would the same gunshot residue appear
 
 355
-00:19:17,928 --> 00:19:20,528
-when you found Nana lying on the ground,
+00:21:15,304 --> 00:21:18,268
+on the clothes of you, who didn't meet her,
+and on Nana-san's clothes?
 
 356
-00:19:20,528 --> 00:19:22,928
-I'm sure that you were convinced
-
-357
-00:19:22,928 --> 00:19:25,828
-that your scheme worked out.
-
-358
-00:19:25,828 --> 00:19:29,728
-However, something you didn't expect happened.
-
-359
-00:19:29,728 --> 00:19:31,928
-When Mr. Migita left the crime scene,
-
-360
-00:19:31,928 --> 00:19:35,628
-she was probably still just in a temporary state of apparent death.
-
-361
-00:19:35,628 --> 00:19:38,328
-Nana revived.
-
-362
-00:19:38,328 --> 00:19:41,728
-Back then, Nana in order to wash the soil off her face,
-
-363
-00:19:41,728 --> 00:19:43,928
-washed her face using the water from the faucet.
-
-364
-00:19:43,928 --> 00:19:45,428
-The face of the corpse was wet
-
-365
-00:19:45,428 --> 00:19:48,328
-and her make-up was removed because of this.
-
-366
-00:19:48,328 --> 00:19:52,128
-Then, immediately afterwards, she was finished off
-
-367
-00:19:52,128 --> 00:19:54,328
-by you.
-
-368
-00:19:54,328 --> 00:19:56,528
-Furthermore, you used the finger of the corpse
-
-369
-00:19:56,528 --> 00:19:59,428
-and tried to write the word "Migita" on the ground.
-
-370
-00:20:00,328 --> 00:20:01,928
-However, while you were in the process,
-
-371
-00:20:01,928 --> 00:20:04,128
-you noticed us approaching
-
-372
-00:20:04,128 --> 00:20:07,028
-and had no choice but to leave the scene.
-
-373
-00:20:08,528 --> 00:20:11,128
-This is the truth of what happened.
-
-374
-00:20:12,228 --> 00:20:15,328
-It's true that everything falls into place,
-
-375
-00:20:15,328 --> 00:20:17,728
-but all you mentioned is circumstantial evidence.
-
-376
-00:20:17,728 --> 00:20:19,528
-You have no concrete evidence.
-
-377
-00:20:19,528 --> 00:20:21,428
-I've got concrete proof.
-
-378
-00:20:21,428 --> 00:20:22,628
-Huh?
-
-379
-00:20:22,628 --> 00:20:26,428
-The gunpowder residue that was found on the clothes of the corpse.
-
-380
-00:20:26,428 --> 00:20:28,328
-Gunpowder residue?
-
-381
-00:20:28,328 --> 00:20:31,228
-Why was gunpowder residue found at the site
-
-382
-00:20:31,228 --> 00:20:33,628
-when no gun was used?
-
-383
-00:20:33,628 --> 00:20:37,528
-The answer was found in the image inside your smart phone.
-
-384
-00:20:37,528 --> 00:20:39,228
-Just what do you mean?
-
-385
-00:20:39,228 --> 00:20:42,328
-In the image you were being congratulated
-
-386
-00:20:42,328 --> 00:20:44,328
-with a lot of party crackers.
-
-387
-00:20:44,328 --> 00:20:47,028
-As you can tell from what sounds to be the sound of gun fire,
-
-388
-00:20:47,028 --> 00:20:51,428
-the party crackers leave gunpowder residue behind when used.
-
-389
-00:20:51,428 --> 00:20:54,828
-And this gunpowder residue that was left on your clothes back then
-
-390
-00:20:54,828 --> 00:20:56,828
-also ended up being on Nana's clothes
-
-391
-00:20:56,828 --> 00:21:00,028
-when you strangled her to death.
-
-392
-00:21:00,028 --> 00:21:02,328
-I'm sure that investigation will show
-
-393
-00:21:02,328 --> 00:21:05,528
-that the same gunpowder residue that was on her clothes,
-
-394
-00:21:05,528 --> 00:21:10,428
-would also be found on your clothes, too.
-
-395
-00:21:10,428 --> 00:21:12,128
-Can you explain this?
-
-396
-00:21:12,128 --> 00:21:13,328
-Why would the same gunpowder residue be found
-
-397
-00:21:13,328 --> 00:21:15,028
-on both your clothes and Nana's
-
-398
-00:21:15,028 --> 00:21:17,928
-when you didn't even see her?
-
-399
-00:21:20,128 --> 00:21:22,628
+00:21:20,356 --> 00:21:22,318
 How ironic.
 
-400
-00:21:22,628 --> 00:21:24,828
-To think that the children congratulating me
+357
+00:21:22,860 --> 00:21:27,077
+That the children's celebration of me
+would become evidence.
 
-401
-00:21:24,828 --> 00:21:27,028
-would serve as proof...
+358
+00:21:27,453 --> 00:21:30,292
+But why did you kill Nana-san?
 
-402
-00:21:27,028 --> 00:21:29,928
-But, why did you kill Nana?
+359
+00:21:30,376 --> 00:21:33,590
+You looked so happy in that photo.
 
-403
-00:21:29,928 --> 00:21:33,728
-You two looked so happy together.
+360
+00:21:34,133 --> 00:21:36,888
+The motive was Nana-san breaking off
+the engagement.
 
-404
-00:21:33,728 --> 00:21:37,128
-Your motive was that Nana had called off the engagement, no?
+361
+00:21:37,473 --> 00:21:38,767
+How did you know that?
 
-405
-00:21:37,128 --> 00:21:38,728
-How do you know?
-
-406
-00:21:38,728 --> 00:21:40,528
+362
+00:21:39,059 --> 00:21:40,729
 The ring.
 
-407
-00:21:40,528 --> 00:21:42,028
-You're wearing an engagement
-
-408
-00:21:42,028 --> 00:21:44,028
+363
+00:21:40,813 --> 00:21:44,278
+You're wearing an engagement ring
 on the middle finger of your right hand.
 
-409
-00:21:44,028 --> 00:21:47,828
-But there was no ring on Nana's finger.
+364
+00:21:44,362 --> 00:21:48,077
+But there was no ring on Nana-san's finger.
 
-410
-00:21:47,828 --> 00:21:49,928
-That's when I realized
+365
+00:21:48,161 --> 00:21:50,165
+That's when I realized.
 
-411
-00:21:49,928 --> 00:21:53,428
-that your feelings for her were just a one-sided thing.
+366
+00:21:50,249 --> 00:21:53,922
+That your feelings were one-sided.
 
-412
-00:21:55,728 --> 00:21:57,728
-I couldn't take it.
-
-413
-00:21:57,728 --> 00:21:59,928
+367
+00:21:56,177 --> 00:22:00,185
+I couldn't stand it.
 As long as Nana was alive,
 
-414
-00:21:59,928 --> 00:22:03,728
-I would continue to keep feeling miserable.
+368
+00:22:00,269 --> 00:22:03,065
+I would continue to feel miserable.
 
-415
-00:22:03,728 --> 00:22:06,628
-I just couldn't bear the thought.
+369
+00:22:04,193 --> 00:22:07,031
+I just couldn't bear it anymore.
 
-416
-00:23:33,428 --> 00:23:36,028
-I hope we're really supposed to take a right here?
+370
+00:22:07,116 --> 00:22:09,745
+(Sobbing)
 
-417
-00:23:36,028 --> 00:23:38,228
-I think so.
+371
+00:22:10,497 --> 00:22:16,509
+♪~♪
 
-418
-00:23:38,228 --> 00:23:40,128
-If you say so, I'm sure we should go left.
+372
+00:23:24,353 --> 00:23:30,115
+♪~♪
 
-419
-00:23:40,128 --> 00:23:41,228
-How rude!
+373
+00:23:33,913 --> 00:23:36,001
+Are you sure we turn right here?
 
-420
-00:23:41,228 --> 00:23:43,528
-It's a right, go right! It's definitely a right!
+374
+00:23:36,084 --> 00:23:38,214
+Yeah, I think it's right.
 
-421
-00:23:43,528 --> 00:23:45,928
-No, it's a left. Definitely a left, left it is.
+375
+00:23:38,298 --> 00:23:40,427
+Hmph. If you say so, then it's left.
 
-422
-00:23:45,928 --> 00:23:47,528
--Go right! -A left!
+376
+00:23:40,510 --> 00:23:43,933
+That's mean! It's right, right. Definitely right.
 
-423
-00:23:47,528 --> 00:23:49,228
-Who cares which way it is.
+377
+00:23:44,017 --> 00:23:46,230
+No, it's left. Definitely left.
 
-424
-00:23:49,228 --> 00:23:50,928
-I just want to get home quickly.
+378
+00:23:46,314 --> 00:23:47,941
+I said right! I said left!
 
-425
-00:23:52,028 --> 00:23:55,628
-"Next Episode" -Welcome to our Cooking Arena.
+379
+00:23:48,025 --> 00:23:52,033
+(Arguing) Just pick one already!
+I wanna go home!
 
-426
-00:23:57,328 --> 00:23:58,728
-How about it?
+380
+00:23:53,244 --> 00:23:56,083
+Welcome to my Cooking Arena!
 
-427
-00:23:58,728 --> 00:24:00,128
-We've gathered super quality choice items
+381
+00:23:56,542 --> 00:23:59,005
+Heheheh. How's that?
 
-428
-00:24:00,128 --> 00:24:03,228
-from throughout the nation,
+382
+00:23:59,089 --> 00:24:00,384
+This time too, we've brought in
 
-429
-00:24:03,228 --> 00:24:05,328
-so please rest assured.
+383
+00:24:00,467 --> 00:24:04,892
+carefully selected delicacies from all over
+the country, so rest assured.
 
-430
-00:24:05,328 --> 00:24:07,228
-The key!
+384
+00:24:05,811 --> 00:24:07,356
+It's the key.
 
-431
-00:24:08,628 --> 00:24:10,128
-You stay right here!
+385
+00:24:09,067 --> 00:24:10,237
+You're not coming in.
 
-432
-00:24:10,128 --> 00:24:13,328
-From here and beyond, it's our territory, you see.
+386
+00:24:10,654 --> 00:24:13,410
+Beyond here is our domain.
 
-433
-00:24:13,328 --> 00:24:16,728
-The fruit for today is...
+387
+00:24:13,868 --> 00:24:16,499
+Today's fruit is...
 
-434
-00:24:16,728 --> 00:24:18,228
-Next Conan,
+388
+00:24:17,251 --> 00:24:21,003
+Next Conan...
+"A Treasure Chest Filled with Fruit (Part 1)"
 
-435
-00:24:18,228 --> 00:24:22,028
-"A Treasure Box Full of Fruits (Part 1)"
-
-436
-00:24:37,428 --> 00:24:39,528
-Next Conan's Hint:
-
-437
-00:24:39,528 --> 00:24:42,128
+389
+00:24:37,535 --> 00:24:39,999
+Next! Conan's Hint:
 "Padlock"
 
-438
-00:24:42,128 --> 00:24:44,128
-An incident occurs at the TV station in the next episode?
+390
+00:24:42,128 --> 00:24:44,174
+Next time, an incident at the TV station.
 
-439
-00:24:44,128 --> 00:24:45,528
-All's fine if I get to see Yoko!
+391
+00:24:44,257 --> 00:24:45,551
+I hope I get to see Yoko-chan.
 
-440
-00:24:45,528 --> 00:24:47,028
-Whatevers.
-
+392
+00:24:45,634 --> 00:24:47,096
+Whatever you say.
