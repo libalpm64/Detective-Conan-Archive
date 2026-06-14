@@ -129,7 +129,10 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 ### Subtitles
 - [Fabre-Raw-BB-Subs] 124-723 https://nyaa.si/view/1907075  
 - [DC-Fan-Subs] 0-757 https://github.com/x-cord/conan 
-- [DC-Fan-Subs-Pull-15] 0-757 https://github.com/SkinnerK/conan/tree/master  
+- [DC-Fan-Subs-Pull-15] 0-757 https://github.com/SkinnerK/conan/tree/master
+
+### Manually done subs (ongoing)
+412
 
 ## Other Sources
 - [Case-Closed] 001-130 https://nyaa.si/view/645282 (The funimation dub)
