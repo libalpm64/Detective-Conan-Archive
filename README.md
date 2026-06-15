@@ -132,7 +132,7 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 - [DC-Fan-Subs-Pull-15] 0-757 https://github.com/SkinnerK/conan/tree/master
 
 ### Manually done subs (ongoing)
-412, 726, 727-728, 729
+412, 726, 727-728, 729, 730
 
 ## Other Sources
 - [Case-Closed] 001-130 https://nyaa.si/view/645282 (The funimation dub)
