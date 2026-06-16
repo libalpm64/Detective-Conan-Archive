@@ -1,1604 +1,1877 @@
 1
-00:00:00,257 --> 00:00:01,357
-Here!
+00:00:00,257 --> 00:00:01,551
+There!
 
 2
-00:00:03,257 --> 00:00:05,157
+00:00:03,138 --> 00:00:04,765
 Got it!
 
 3
-00:00:05,157 --> 00:00:06,957
+00:00:05,100 --> 00:00:06,728
 Nice catch!
 
 4
-00:00:06,957 --> 00:00:09,357
-Fantastic, Shinpei!
+00:00:06,811 --> 00:00:08,815
+Wow, Shinpei-san, you're amazing!
 
 5
-00:00:09,357 --> 00:00:10,457
-"Shinpei Asakawa (21)" -Okay.
+00:00:09,400 --> 00:00:12,406
+Alright, next up...
+Conan-kun!
 
 6
-00:00:10,457 --> 00:00:12,557
-Next, it's your turn, Conan!
+00:00:12,489 --> 00:00:14,160
+Here goes! There!
 
 7
-00:00:12,557 --> 00:00:14,557
-Here it comes.
+00:00:18,418 --> 00:00:19,795
+Huh? Whoa...
 
 8
-00:00:26,257 --> 00:00:30,457
-Come on, stop that...
+00:00:21,299 --> 00:00:22,676
+Ah...
+Huh?
 
 9
-00:00:30,457 --> 00:00:32,057
-Ma... Matsunosuke?
+00:00:23,470 --> 00:00:25,057
+Huh? Whoa, whoa!
 
 10
-00:00:32,057 --> 00:00:33,957
-Matsunosuke...
+00:00:26,184 --> 00:00:29,273
+H-Hey, come on...
+Cut it out!
 
 11
-00:00:33,957 --> 00:00:36,357
-Stop it, Matsunosuke.
+00:00:30,317 --> 00:00:31,945
+Huh... Matsunosuke?
 
 12
-00:00:41,157 --> 00:00:43,157
-Good morning, granny.
+00:00:32,029 --> 00:00:33,239
+Matsunosuke?
 
 13
-00:00:43,157 --> 00:00:44,657
-Granny...
+00:00:33,908 --> 00:00:35,577
+Stop that, Matsunosuke!
 
 14
-00:00:44,657 --> 00:00:45,657
-"Kanae Asakawa (65)" -Shinpei.
+00:00:37,999 --> 00:00:39,920
+(Matsunosuke barks)
 
 15
-00:00:45,657 --> 00:00:49,657
-You're playing from morning without working again?
+00:00:41,130 --> 00:00:42,926
+Good morning, Granny!
 
 16
-00:00:49,657 --> 00:00:52,257
-Playing? I'm not really.
+00:00:43,009 --> 00:00:44,095
+Granny?
 
 17
-00:00:52,257 --> 00:00:54,457
-He wasn't playing!
+00:00:44,595 --> 00:00:46,432
+Shinpei... You..
 
 18
-00:00:54,457 --> 00:00:58,357
-He teaches us how to throw frisbee here every week!
+00:00:46,516 --> 00:00:48,938
+Are you messing around again instead of working?
+First thing in the morning?
 
 19
-00:00:58,357 --> 00:01:01,257
-He is really kind!
+00:00:49,772 --> 00:00:52,111
+Messing around? I wasn't really...
 
 20
-00:01:01,257 --> 00:01:04,657
-It's the same as playing, isn't it? You're an adult.
+00:00:52,194 --> 00:00:54,365
+He isn't messing around.
 
 21
-00:01:04,657 --> 00:01:10,457
-Thanks to you, even Matsunosuke has learned to catch frisbees.
+00:00:54,448 --> 00:00:58,248
+He teaches us frisbee here every week!
 
 22
-00:01:10,457 --> 00:01:13,157
-Is that dog's name Matsunosuke?
+00:00:58,331 --> 00:01:00,962
+He's super nice!
+Heheh...
 
 23
-00:01:13,157 --> 00:01:14,357
-How cute.
+00:01:01,212 --> 00:01:04,635
+That's the same as messing around.
+A grown man like you...
 
 24
-00:01:14,357 --> 00:01:18,057
-Well... you're all soiled.
+00:01:04,719 --> 00:01:07,182
+Thanks to that, now even Matsunosuke...
 
 25
-00:01:18,057 --> 00:01:21,357
-I'll return it to you after it's cleaned.
+00:01:07,599 --> 00:01:09,019
+Tries to catch anything that looks like a frisbee.
 
 26
-00:01:21,357 --> 00:01:24,357
-It's okay, don't worry about it.
+00:01:09,103 --> 00:01:10,105
+(Matsunosuke barks)
 
 27
-00:01:24,357 --> 00:01:27,857
-No, this have to be taken care of nicely.
+00:01:10,397 --> 00:01:14,155
+That dog's name is Matsunosuke?
+So cute!
 
 28
-00:01:27,857 --> 00:01:31,757
-I don't want your parents complaining to me later.
+00:01:14,238 --> 00:01:16,659
+Oh dear, you're all covered in mud...
 
 29
-00:01:31,757 --> 00:01:34,357
-Granny, you're going to eat breakfast, aren't you?
+00:01:16,743 --> 00:01:17,996
+Hm?
+Ah...
 
 30
-00:01:34,357 --> 00:01:37,157
-Won't you serve me breakfast too?
+00:01:18,079 --> 00:01:20,125
+Let me clean this up properly...
+Huh?
 
 31
-00:01:37,157 --> 00:01:38,557
-Only after you start working
+00:01:20,208 --> 00:01:21,210
+Here, I'll give it back.
 
 32
-00:01:38,557 --> 00:01:41,357
-and repay me the money I lent you.
+00:01:21,294 --> 00:01:24,216
+Oh, it's fine... This is no big deal.
 
 33
-00:01:41,357 --> 00:01:43,857
-All right.
+00:01:24,300 --> 00:01:27,723
+No, I can't let it be.
+These things need to be done properly.
 
 34
-00:02:04,157 --> 00:02:06,057
-The black of shadow and the density of darkness
+00:01:27,806 --> 00:01:31,397
+I don't want your parents
+complaining at me later.
 
 35
-00:02:06,057 --> 00:02:08,057
-are slashed by the light of deduction.
+00:01:31,814 --> 00:01:36,073
+Granny, you're about to have breakfast, right?
+Let me eat too!
 
 36
-00:02:08,057 --> 00:02:10,057
-Walking the dog along the same route every morning.
+00:01:37,117 --> 00:01:41,042
+Once you do some proper work
+and pay back the money I lent you.
 
 37
-00:02:10,057 --> 00:02:12,057
-A slight difference causes an incident.
+00:01:41,459 --> 00:01:44,048
+Ugh... Fine... Sigh...
 
 38
-00:02:12,057 --> 00:02:13,657
-He sees through the one and only truth.
+00:01:51,270 --> 00:01:57,282
+♪~
 
 39
-00:02:13,657 --> 00:02:15,457
-A child in appearance with the I.Q. of an adult.
+00:02:04,296 --> 00:02:07,929
+Black shadows and pitch-black darkness...
+The light of deduction cuts right through.
 
 40
-00:02:15,457 --> 00:02:17,857
-His name is Detective Conan!
+00:02:08,012 --> 00:02:12,104
+Same morning walk with the beloved dog, day after day...
+A tiny difference sparks the beginning of a case.
 
 41
+00:02:12,187 --> 00:02:13,648
+Seeing through the one and only truth...
+
+42
+00:02:13,731 --> 00:02:15,443
+A child's appearance, an adult's mind...
+
+43
+00:02:15,527 --> 00:02:18,241
+His name is Detective Conan!
+
+44
+00:03:40,030 --> 00:03:46,042
+~♪
+
+45
 00:03:49,704 --> 00:03:53,704
 "Suspicious Promenade"
 
-42
-00:03:55,404 --> 00:03:58,004
-"Kanae Asakawa, Matsunosuke"
-
-43
-00:04:02,904 --> 00:04:05,704
-Granny, are you home?
-
-44
-00:04:05,704 --> 00:04:08,404
-We came to get Conan's clothes.
-
-45
-00:04:08,404 --> 00:04:10,004
-She doesn't seem to be home.
-
 46
-00:04:10,004 --> 00:04:12,004
-Maybe she's out walking the dog?
+00:03:53,704 --> 00:03:58,566
+(doorbell rings)
 
 47
-00:04:12,004 --> 00:04:14,504
-I guess so. We should come back again.
+00:04:00,891 --> 00:04:02,437
+(doorbell rings)
 
 48
-00:04:14,504 --> 00:04:18,404
-But, it seems like Matsunosuke's sleeping over there.
+00:04:02,520 --> 00:04:05,318
+Is Granny home?
 
 49
-00:04:18,404 --> 00:04:20,304
-You're right.
+00:04:05,401 --> 00:04:07,822
+We came to pick up Conan's clothes!
 
 50
-00:04:20,304 --> 00:04:23,104
-He is sleeping so soundly.
+00:04:08,072 --> 00:04:09,701
+Looks like she's not here.
 
 51
-00:04:23,104 --> 00:04:25,004
-He's not moving at all.
+00:04:09,784 --> 00:04:11,538
+Probably walking the dog, right?
 
 52
-00:04:25,004 --> 00:04:28,404
-Is Matsunosuke sleeping?
+00:04:11,621 --> 00:04:14,127
+Yeah... We'll come back later.
 
 53
-00:04:28,404 --> 00:04:31,404
-I was just thinking of giving him a snack.
+00:04:14,210 --> 00:04:17,550
+But it looks like Matsunosuke
+is sleeping over there.
 
 54
-00:04:31,404 --> 00:04:33,304
-Who are you?
+00:04:18,135 --> 00:04:19,596
+You're right.
 
 55
-00:04:33,304 --> 00:04:35,704
-"Tomoko Hirota (52)" -Friend of Kanae.
+00:04:19,971 --> 00:04:24,606
+Sleeping so peacefully...
+Not moving at all.
 
 56
-00:04:35,704 --> 00:04:38,104
-I own Matsunosuke's sibling.
+00:04:24,689 --> 00:04:27,487
+Oh my, is he sleeping? Matsunosuke!
 
 57
-00:04:38,104 --> 00:04:42,104
-What? Matsunosuke has siblings? Do they look alike?
+00:04:28,071 --> 00:04:30,868
+And here I was,
+about to give him a treat...
 
 58
-00:04:42,404 --> 00:04:45,404
-Of course. Exactly alike.
+00:04:30,951 --> 00:04:32,789
+Um, who's that lady?
 
 59
-00:04:50,904 --> 00:04:52,904
-Hey... Don't tell me...
+00:04:33,207 --> 00:04:35,461
+She's Kanae-san's dog friend.
+- Hirota Tomoko (52), Kanae's dog friend.
 
 60
-00:04:54,004 --> 00:04:55,604
-Conan?
+00:04:35,544 --> 00:04:37,632
+She owns one of Matsunosuke's
+siblings.
 
 61
-00:04:58,604 --> 00:05:00,104
-It's open?
+00:04:37,715 --> 00:04:42,015
+What?! Matsunosuke has siblings?
+Do they look alike?
 
 62
-00:05:06,004 --> 00:05:08,504
-Kanae.
+00:04:42,099 --> 00:04:44,103
+Of course. They're identical.
 
 63
-00:05:08,504 --> 00:05:10,704
-What's all the fuss about?
+00:04:50,658 --> 00:04:52,412
+Hey... Don't tell me...
 
 64
-00:05:10,704 --> 00:05:13,704
-It's so noisy that I can't concentrate.
+00:04:53,705 --> 00:04:54,791
+Hm?
+Conan-kun?
 
 65
-00:05:20,604 --> 00:05:23,704
-I told you, we came to get Conan's clothes,
+00:04:58,340 --> 00:04:59,634
+Is it unlocked?
 
 66
-00:05:23,704 --> 00:05:26,304
-and found that Matsunosuke asleep!
+00:05:01,346 --> 00:05:04,310
+Ah... Ugh...
+Kyaa!
 
 67
-00:05:26,304 --> 00:05:28,404
-He won't wake up no matter how much we call him.
+00:05:05,271 --> 00:05:06,690
+K-Kanae-san!
 
 68
-00:05:28,404 --> 00:05:31,004
-What? Matsunosuke?
+00:05:08,235 --> 00:05:10,448
+What on earth is all this racket?!
 
 69
-00:05:31,004 --> 00:05:32,204
-It's the dog!
+00:05:10,531 --> 00:05:11,992
+I can't concentrate with all this noise...
 
 70
-00:05:32,204 --> 00:05:35,404
-The one sleeping in the kennel outside.
+00:05:12,075 --> 00:05:13,704
+Ugh... Ahh!
 
 71
-00:05:35,404 --> 00:05:39,404
-According to the forensics, it seems to have been drugged.
+00:05:20,426 --> 00:05:23,390
+So when we came to get Conan's clothes...
 
 72
-00:05:39,404 --> 00:05:41,004
-Drugged?
+00:05:23,474 --> 00:05:26,020
+Matsunosuke was asleep.
 
 73
-00:05:41,004 --> 00:05:45,404
-You're Ms. Hirota, a friend of hers, aren't you?
+00:05:26,103 --> 00:05:28,024
+No matter how much we called, he wouldn't wake up.
 
 74
-00:05:45,404 --> 00:05:49,904
-Yes, I came to share snacks with the dog.
+00:05:28,107 --> 00:05:30,529
+Huh? M-Matsunosuke?
 
 75
-00:05:49,904 --> 00:05:52,404
-Then...
+00:05:30,905 --> 00:05:34,162
+He's a dog. Sleeping in the doghouse outside.
 
 76
-00:05:52,404 --> 00:05:55,704
-And you're Mr. Kitazawa who lives next door?
+00:05:34,245 --> 00:05:39,130
+Ah... Forensics says it looks like
+he was put to sleep with some kind of drug.
 
 77
-00:05:55,704 --> 00:05:59,404
-"Sokichi Kitazawa (54)" -Yes, I was wondering what's going on
+00:05:39,214 --> 00:05:40,549
+Drug?
 
 78
-00:05:59,404 --> 00:06:01,804
-because the doorbell kept ringing and I saw this.
+00:05:40,841 --> 00:05:44,891
+Now then... You're Hirota-san,
+the fellow dog owner, correct?
 
 79
-00:06:01,804 --> 00:06:05,604
-Do you two know each other?
+00:05:45,309 --> 00:05:49,567
+Yes. I came to share
+some dog treats, but...
 
 80
-00:06:05,604 --> 00:06:07,304
-Yes.
+00:05:49,651 --> 00:05:50,778
+And then this...
 
 81
-00:06:07,304 --> 00:06:12,104
-Ms. Hirota, I hear that you owed Kanae a lot of money.
+00:05:52,240 --> 00:05:55,287
+...And you are the neighbor, Kitazawa-san.
 
 82
-00:06:12,104 --> 00:06:17,304
-She was always complaining, saying that you wouldn't pay her back.
+00:05:55,704 --> 00:05:59,128
+Yeah. The doorbell next door kept ringing over and over...
+- Kitazawa Soukichi (54), Kanae's neighbor.
 
 83
-00:06:17,304 --> 00:06:20,104
-I'll bet you're the one who did it.
+00:05:59,212 --> 00:06:01,299
+So I came to see what was going on,
+and found this.
 
 84
-00:06:20,104 --> 00:06:24,004
-Speak for yourself. I've heard you were always complaining about her too!
+00:06:01,633 --> 00:06:04,764
+Are the two of you acquainted?
 
 85
-00:06:24,004 --> 00:06:26,604
-You told everyone her dog was too noisy.
+00:06:05,474 --> 00:06:06,601
+We know each other.
 
 86
-00:06:26,604 --> 00:06:29,304
-What? Are you saying that I'm the murderer?
+00:06:07,144 --> 00:06:09,148
+Hirota-san...
 
 87
-00:06:29,304 --> 00:06:30,604
-Cut out the joke!
+00:06:09,150 --> 00:06:11,820
+Didn't you borrow quite a bit of money
+from Kanae-san?
 
 88
-00:06:30,604 --> 00:06:32,104
-Speak for yourself!
+00:06:11,903 --> 00:06:13,949
+She was always complaining about it.
 
 89
-00:06:32,104 --> 00:06:34,504
-Well... calm down.
+00:06:14,032 --> 00:06:17,038
+Saying you never paid her back at all.
 
 90
-00:06:34,504 --> 00:06:39,104
-Inspector Megure, it seems that between 08:00 to 08:15 this morning,
+00:06:17,123 --> 00:06:19,752
+Maybe you're the culprit, hmm?
 
 91
-00:06:39,104 --> 00:06:42,004
-various people at the shopping arcade and park
+00:06:19,836 --> 00:06:23,802
+I heard you were always
+complaining too.
 
 92
-00:06:42,004 --> 00:06:45,904
-witnessed Mrs. Asakawa walking her dog.
+00:06:23,885 --> 00:06:26,015
+That the dog's yapping
+was too noisy.
 
 93
-00:06:45,904 --> 00:06:47,004
-Okay.
+00:06:26,433 --> 00:06:30,274
+What... Are you saying I'm the culprit?
+Don't be ridiculous!
 
 94
-00:06:47,004 --> 00:06:50,704
-Do you know the route that Mrs. Asakawa usually walks her dog?
+00:06:30,357 --> 00:06:31,901
+Right back at you!
 
 95
-00:06:50,704 --> 00:06:52,304
-I remember she mentioned that after she leaves home,
+00:06:31,985 --> 00:06:33,697
+Now, now, calm down.
 
 96
-00:06:52,304 --> 00:06:55,104
-she goes to the shopping arcade, then heads to the park.
+00:06:34,407 --> 00:06:38,915
+Inspector Megure. Between 8 AM
+and 8:15 AM...
 
 97
-00:06:55,104 --> 00:06:58,704
-Then, she walks along the street and returns home.
+00:06:38,999 --> 00:06:41,755
+Several people in the shopping district
+and the park...
 
 98
-00:06:58,704 --> 00:07:01,704
-Yes, she used to say it's best for her
+00:06:41,838 --> 00:06:45,638
+Reportedly saw Asakawa-san
+walking her dog.
 
 99
-00:07:01,704 --> 00:07:04,004
-to walk the dog about an hour.
+00:06:45,721 --> 00:06:50,356
+Hmm... Do you happen to know
+Asakawa-san's walking route?
 
 100
-00:07:04,004 --> 00:07:05,404
-If so...
+00:06:50,648 --> 00:06:53,320
+If I recall, she leaves the house,
+goes through the shopping district...
 
 101
-00:07:05,404 --> 00:07:08,304
-She left the house before 08:00 am,
+00:06:53,403 --> 00:06:54,947
+Then heads to the park.
 
 102
-00:07:08,304 --> 00:07:12,304
-and finished walking her dog and came home at about 09:00 am.
+00:06:55,031 --> 00:06:58,538
+After that, she said she comes back
+along the main road.
 
 103
-00:07:12,304 --> 00:07:15,904
-She would've been killed after that.
+00:06:58,622 --> 00:07:01,544
+Yes. She always said
+about an hour long walk...
 
 104
-00:07:15,904 --> 00:07:18,704
-What were the two of you doing during this time?
+00:07:01,628 --> 00:07:03,674
+Was the best routine for them.
 
 105
-00:07:18,704 --> 00:07:22,304
-I was at home playing shogi with an acquaintance.
+00:07:03,924 --> 00:07:05,219
+Which means...
 
 106
-00:07:22,304 --> 00:07:24,804
-I was at home too.
+00:07:05,302 --> 00:07:08,141
+She left the house a little before 8 AM...
 
 107
-00:07:24,804 --> 00:07:27,304
-I had the florist deliver me some flowers.
+00:07:08,225 --> 00:07:11,940
+Finished the walk, and returned home
+around 9 AM.
 
 108
-00:07:27,304 --> 00:07:30,604
-And, I asked them to arrange the flowers for me.
+00:07:12,191 --> 00:07:15,447
+So she was killed after that.
 
 109
-00:07:32,004 --> 00:07:36,004
-My jacket is back from the dry cleaners.
+00:07:15,823 --> 00:07:17,910
+What were you two doing during that time?
 
 110
-00:07:58,304 --> 00:08:00,504
-A beige spring coat.
+00:07:18,662 --> 00:07:21,793
+I was at home, playing shogi
+with an acquaintance.
 
 111
-00:08:00,504 --> 00:08:04,004
-It's the coat she was wearing when she died.
+00:07:22,211 --> 00:07:24,298
+I was at home too.
 
 112
-00:08:04,004 --> 00:08:07,404
-A pack of ready-made food. Is that for her breakfast?
+00:07:24,757 --> 00:07:27,053
+I had flowers delivered
+from the florist...
 
 113
-00:08:07,404 --> 00:08:10,404
-What? But didn't Shinpei say...
+00:07:27,138 --> 00:07:30,394
+And asked them to arrange them
+on the spot.
 
 114
-00:08:10,404 --> 00:08:12,604
-Inspector, please come.
+00:07:31,855 --> 00:07:35,571
+My jacket came back
+from the cleaners.
 
 115
-00:08:13,704 --> 00:08:15,004
-What's wrong?
+00:07:36,656 --> 00:07:37,658
+Hm?
 
 116
-00:08:15,004 --> 00:08:16,004
-Take a look at this.
+00:07:46,342 --> 00:07:48,513
+Hmm... Ah!
 
 117
-00:08:16,004 --> 00:08:18,404
-A bandana.
+00:07:58,241 --> 00:08:00,454
+A beige
+spring coat.
 
 118
-00:08:18,404 --> 00:08:20,704
-Is that a blood stain?
+00:08:00,537 --> 00:08:03,460
+The coat she was wearing
+when she died, huh... Hm?
 
 119
-00:08:20,704 --> 00:08:22,404
-Hey, isn't that?
+00:08:03,960 --> 00:08:07,218
+A pack of prepared food...
+Her breakfast?
 
 120
-00:08:22,404 --> 00:08:23,604
-Yes.
+00:08:07,301 --> 00:08:10,224
+Huh? But Shinpei-san, back then...
 
 121
-00:08:23,604 --> 00:08:26,104
-Shinpei's bandana!
+00:08:10,307 --> 00:08:12,561
+Inspector, come here!
+Hm...
 
 122
-00:08:26,104 --> 00:08:27,704
-Shinpei?
+00:08:13,688 --> 00:08:15,567
+What is it?
+Look at this.
 
 123
-00:08:27,704 --> 00:08:29,404
-Kanae's grandson.
+00:08:15,943 --> 00:08:17,655
+A bandana, huh?
 
 124
-00:08:29,404 --> 00:08:31,704
-Inspector Megure!
+00:08:17,738 --> 00:08:20,244
+Oh! Is that stain blood?
 
 125
-00:08:31,704 --> 00:08:35,304
-She says she saw a man flee from this house.
+00:08:20,619 --> 00:08:23,040
+Hey, isn't that...
+Yeah.
 
 126
-00:08:35,304 --> 00:08:36,604
-What?
+00:08:23,583 --> 00:08:25,712
+Shinpei-san's bandana.
 
 127
-00:08:36,604 --> 00:08:40,304
-I'm sorry, will you repeat what you told me a while ago?
+00:08:26,004 --> 00:08:27,675
+Shinpei-san?
 
 128
-00:08:40,304 --> 00:08:41,904
-Yes, sir.
+00:08:27,758 --> 00:08:29,345
+He's Kanae-san's grandson.
 
 129
-00:08:41,904 --> 00:08:44,604
-I think it was after 09:00 am,
+00:08:29,428 --> 00:08:31,224
+Inspector Megure!
+Hm?
 
 130
-00:08:44,604 --> 00:08:47,704
-a young man came out of this house.
+00:08:31,683 --> 00:08:35,148
+This person says she saw a man
+running out of this house...
 
 131
-00:08:47,704 --> 00:08:50,704
-He looked stark pale and fled.
+00:08:35,232 --> 00:08:37,570
+What?
+Sorry...
 
 132
-00:08:50,704 --> 00:08:54,904
-I remember that he is Mrs. Kanae's grandson.
+00:08:37,653 --> 00:08:40,284
+Could you tell us
+what you just said once more?
 
 133
-00:08:56,004 --> 00:08:59,104
-Do you know where he lives?
-
-134
-00:08:59,104 --> 00:09:02,704
-I heard that he was living on his own in an apartment nearby.
-
-135
-00:09:02,704 --> 00:09:06,004
-Okay, let's interrogate him right away.
-
-136
-00:09:06,004 --> 00:09:07,904
-Yes, sir.
-
-137
-00:09:07,904 --> 00:09:09,004
-Impossible!
-
-138
-00:09:09,004 --> 00:09:11,704
-Shinpei would never commit murder!
-
-139
-00:09:11,704 --> 00:09:14,304
-It's some kind of mistake!
-
-140
-00:09:16,604 --> 00:09:20,104
-How terrible to call Shinpei the murderer!
-
-141
-00:09:20,104 --> 00:09:24,404
-He was so passionate about teaching us how to throw frisbees...
-
-142
-00:09:24,404 --> 00:09:28,204
-It's not possible! No way!
-
-143
-00:09:28,204 --> 00:09:29,704
-Hey, Genta!
-
-144
-00:09:29,704 --> 00:09:32,104
-What's with you at a time like this?
-
-145
-00:09:32,104 --> 00:09:35,104
-It's not me.
-
-146
-00:09:37,304 --> 00:09:38,904
-Shinpei?
-
-147
-00:09:38,904 --> 00:09:40,504
-Conan?
-
-148
-00:09:40,504 --> 00:09:44,104
-Hey, you! The police are looking for you.
-
-149
-00:09:44,104 --> 00:09:46,404
-About granny, right?
-
-150
-00:09:46,404 --> 00:09:50,004
-Yes, they say you're the murderer.
-
-151
-00:09:51,704 --> 00:09:54,504
-No, I'm not! I didn't do it!
-
-152
-00:09:54,504 --> 00:09:58,104
-But, you fled from the site, didn't you?
-
-153
-00:09:58,104 --> 00:10:02,104
-Well, granny texted me to come over.
-
-154
-00:10:02,104 --> 00:10:03,704
-But when I got there, she was already...
-
-155
-00:10:03,704 --> 00:10:07,504
-I rushed outside and bumped into somebody.
-
-156
-00:10:07,504 --> 00:10:10,004
-I have no idea what happened after that.
-
-157
-00:10:10,004 --> 00:10:12,704
-Shinpei, you mentioned that granny will having breakfast
-
-158
-00:10:12,704 --> 00:10:15,404
-was after she finished walking Matsunosuke, didn't you?
-
-159
-00:10:15,404 --> 00:10:17,504
-What? Yes.
-
-160
-00:10:17,504 --> 00:10:20,704
-She used to say she felt better eating after exercising.
-
-161
-00:10:20,704 --> 00:10:22,704
-Here he is!
-
-162
-00:10:23,904 --> 00:10:26,604
-No! It's not me!
-
-163
-00:10:33,104 --> 00:10:35,704
-Shinpei got caught!
-
-164
-00:10:35,704 --> 00:10:37,404
-Hey, Conan!
-
-165
-00:10:37,404 --> 00:10:39,404
-Why aren't you doing anything about it?
-
-166
-00:10:39,404 --> 00:10:41,104
-I've got no choice, right?
-
-167
-00:10:41,104 --> 00:10:43,804
-Shinpei's bandana was at the site of the crime
-
-168
-00:10:43,804 --> 00:10:45,804
-and there's even a witness.
-
-169
-00:10:45,804 --> 00:10:47,404
-No way.
-
-170
-00:10:47,404 --> 00:10:50,904
-Do you think that Shinpei is the murderer, too?
-
-171
-00:10:50,904 --> 00:10:52,304
-I despise you!
-
-172
-00:10:52,304 --> 00:10:54,504
-But...
-
-173
-00:10:54,504 --> 00:10:57,904
-There's a continuation to your story, isn't there?
-
-174
-00:10:57,904 --> 00:10:59,504
-Sort of...
-
-175
-00:10:59,504 --> 00:11:01,704
-First of all, the bandana that was found at the site
-
-176
-00:11:01,704 --> 00:11:03,904
-is not something special
-
-177
-00:11:03,904 --> 00:11:06,904
-so anyone could get one if they wanted to.
-
-178
-00:11:06,904 --> 00:11:13,704
-I see. It could be the real murderer put it there to frame Shinpei.
-
-179
-00:11:13,704 --> 00:11:15,904
-But that won't be enough.
-
-180
-00:11:15,904 --> 00:11:18,004
-I found a plastic bag with a tag
-
-181
-00:11:18,004 --> 00:11:21,704
-from the dry cleaners in the trash box at the site.
-
-182
-00:11:21,704 --> 00:11:27,904
-"Woman's beige spring coat" is written on the tag.
-
-183
-00:11:27,904 --> 00:11:31,304
-A beige spring coat?
-
-184
-00:11:31,304 --> 00:11:34,304
-The coat that granny was wearing when she died!
-
-185
-00:11:34,304 --> 00:11:35,404
-Right.
-
-186
-00:11:35,404 --> 00:11:37,704
-And under that plastic bag,
-
-187
-00:11:37,704 --> 00:11:40,804
-a pack of ready-made food for breakfast was disposed.
-
-188
-00:11:40,804 --> 00:11:44,104
-A pack of ready-made food for breakfast under the plastic bag?
-
-189
-00:11:44,104 --> 00:11:47,404
-Which means she disposed of the pack of food for breakfast first, right?
-
-190
-00:11:47,404 --> 00:11:51,904
-So, she took Matsunosuke for a walk after she ate breakfast.
-
-191
-00:11:53,604 --> 00:11:55,004
-It's the other way around...
-
-192
-00:11:55,004 --> 00:11:56,404
-Exactly!
-
-193
-00:11:56,404 --> 00:12:01,404
-According to Shinpei, granny always eats breakfast
-
-194
-00:12:01,404 --> 00:12:03,104
-after finishing her walk with Matsunosuke,
-
-195
-00:12:03,104 --> 00:12:06,004
-but the circumstances at the site shows that it was the other way around.
-
-196
-00:12:06,004 --> 00:12:10,304
-In other words, there's a possibility that someone manipulated the scene.
-
-197
-00:12:10,304 --> 00:12:14,304
-But what if Shinpei's lying?
-
-198
-00:12:14,304 --> 00:12:16,104
-No way.
-
-199
-00:12:16,104 --> 00:12:20,504
-He talked about granny's breakfast last week too, didn't he?
-
-200
-00:12:20,504 --> 00:12:23,204
-Granny, you're going to eat breakfast, aren't you?
-
-201
-00:12:23,204 --> 00:12:25,204
-Won't you serve me breakfast too?
-
-202
-00:12:25,204 --> 00:12:28,004
-If that was a lie,
-
-203
-00:12:28,004 --> 00:12:29,704
-he must've planned the crime in advance.
-
-204
-00:12:29,704 --> 00:12:33,404
-So, he would never drop a blood stained bandana there, right?
-
-205
-00:12:33,404 --> 00:12:34,904
-You might be right.
-
-206
-00:12:34,904 --> 00:12:36,904
-Then who could've done it?
-
-207
-00:12:36,904 --> 00:12:40,104
-The only suspects we have right now are her friend, Ms. Hirota,
-
-208
-00:12:40,104 --> 00:12:41,704
-and her next door neighbour, Mr. Kitazawa.
-
-209
-00:12:41,704 --> 00:12:44,104
-But, both of them have alibis.
-
-210
-00:12:44,104 --> 00:12:47,404
-Then, why don't we investigate whether their alibis are true?
-
-211
-00:12:47,404 --> 00:12:52,004
-I see! If we do so, Shinpei may be able to come back!
-
-212
-00:12:52,004 --> 00:12:54,304
-It's showtime for the Youth Detective Squad!
-
-213
-00:12:54,304 --> 00:12:55,404
--Yes! -Yes!
-
-214
-00:12:55,404 --> 00:12:57,104
-I'll start with Mr. Kitazawa's house.
-
-215
-00:12:57,104 --> 00:13:00,104
-Then we'll go and ask around the shopping arcade.
-
-216
-00:13:12,121 --> 00:13:13,821
-No waiting, okay?
-
-217
-00:13:13,821 --> 00:13:16,321
-Shut up! I know!
-
-218
-00:13:16,321 --> 00:13:19,321
-Here it comes! There!
-
-219
-00:13:22,721 --> 00:13:24,321
-I'm sorry.
-
-220
-00:13:24,321 --> 00:13:27,421
-Our frisbee went inside, could you pick it up for us?
-
-221
-00:13:27,421 --> 00:13:28,721
-Geez...
-
-222
-00:13:28,721 --> 00:13:30,021
-I'm so sorry.
-
-223
-00:13:30,021 --> 00:13:31,321
-Okay...
-
-224
-00:13:31,321 --> 00:13:33,321
-Go around to the front door.
-
-225
-00:13:34,721 --> 00:13:37,821
-I'm sorry, sir. The frisbee...
-
-226
-00:13:37,821 --> 00:13:40,821
-You're playing shogi!
-
-227
-00:13:40,821 --> 00:13:42,421
-Good match!
-
-228
-00:13:42,421 --> 00:13:45,321
-Since when have you been playing?
-
-229
-00:13:45,321 --> 00:13:46,821
-From this morning!
-
-230
-00:13:46,821 --> 00:13:48,821
-Amazing!
-
-231
-00:13:48,821 --> 00:13:51,121
-I've won 99 games and lost 99 games
-
-232
-00:13:51,121 --> 00:13:52,421
-in the past 10 years!
-
-233
-00:13:52,421 --> 00:13:55,121
-Today is the day to decide who the stronger player is.
-
-234
-00:13:55,121 --> 00:13:57,121
-We've been playing against each other
-
-235
-00:13:57,121 --> 00:13:59,821
-from 06:00 in the morning non-stop.
-
-236
-00:13:59,821 --> 00:14:01,821
-You're on the verge of losing.
-
-237
-00:14:01,821 --> 00:14:04,621
-Shut up! Don't get in the way of our game!
-
-238
-00:14:04,621 --> 00:14:07,321
-I'm... I'm sorry!
-
-239
-00:14:08,321 --> 00:14:10,821
-Yes, at 08:30 am!
-
-240
-00:14:10,821 --> 00:14:15,821
-I was told by Ms. Hirota to deliver the flowers then.
-
-241
-00:14:15,821 --> 00:14:18,021
-Arrangement and all?
-
-242
-00:14:18,021 --> 00:14:20,821
-Yes, since there were a lot of flowers,
-
-243
-00:14:20,821 --> 00:14:23,321
-it took till about after 12:00 pm.
-
-244
-00:14:23,321 --> 00:14:25,121
-I see.
-
-245
-00:14:27,721 --> 00:14:30,821
-Their alibis were fully established after all.
-
-246
-00:14:30,821 --> 00:14:33,221
-So, what now, Conan?
-
-247
-00:14:33,221 --> 00:14:37,221
-They're going to make Shinpei the murderer.
-
-248
-00:14:37,221 --> 00:14:42,221
-Maybe the prerequisite circumstance was wrong to begin with.
-
-249
-00:14:42,221 --> 00:14:44,521
-Prerequisite circumstance?
-
-250
-00:14:44,521 --> 00:14:47,721
-I first thought that victim was killed
-
-251
-00:14:47,721 --> 00:14:52,021
-after she came back from her walk with Matsunosuke.
-
-252
-00:14:52,021 --> 00:14:53,521
-Just what do you mean?
-
-253
-00:14:53,521 --> 00:14:56,121
-Granny used to walk the dog along the same road
-
-254
-00:14:56,121 --> 00:14:59,021
-at the same time every morning.
-
-255
-00:14:59,021 --> 00:15:01,721
-That's why maybe...
-
-256
-00:15:01,721 --> 00:15:04,121
-I see! The people who witnessed her
-
-257
-00:15:04,121 --> 00:15:07,021
-may have thought they saw her like always today too!
-
-258
-00:15:07,021 --> 00:15:11,621
-Oh, the woman wearing the beige coat walking the dog, right?
-
-259
-00:15:11,621 --> 00:15:13,821
-I saw her this morning too.
-
-260
-00:15:13,821 --> 00:15:15,821
-Are you sure it was this morning?
-
-261
-00:15:15,821 --> 00:15:18,421
-Yes, It must've been after 08:00 am.
-
-262
-00:15:18,421 --> 00:15:22,021
-We always go pass each other when I walked my dog.
-
-263
-00:15:22,021 --> 00:15:26,121
-That dog always marks that pole.
-
-264
-00:15:26,121 --> 00:15:28,821
-But, it seems that she was in a rush today
-
-265
-00:15:28,821 --> 00:15:31,821
-and pulled forcibly on the dog then took him with her.
-
-266
-00:15:31,821 --> 00:15:32,821
+00:08:40,367 --> 00:08:41,536
 Yes.
 
+134
+00:08:41,911 --> 00:08:44,500
+I think it was just past 9 AM...
+
+135
+00:08:44,584 --> 00:08:47,256
+A young man
+came out of this house.
+
+136
+00:08:47,798 --> 00:08:50,262
+His face was deathly pale,
+like he was running away.
+
+137
+00:08:50,888 --> 00:08:54,562
+I'm pretty sure that person was
+Kanae-san's grandson...
+
+138
+00:08:54,645 --> 00:08:59,029
+Hmm. Do you know
+where he lives?
+
+139
+00:08:59,112 --> 00:09:02,661
+I heard he lives alone
+in an apartment nearby.
+
+140
+00:09:02,745 --> 00:09:05,500
+Right. Let's bring him in for questioning
+immediately.
+
+141
+00:09:05,584 --> 00:09:07,129
+R-Right.
+
+142
+00:09:07,880 --> 00:09:08,882
+No way...
+
+143
+00:09:08,965 --> 00:09:11,638
+There's no way Shinpei-san
+would commit murder.
+
+144
+00:09:11,721 --> 00:09:13,516
+It has to be some kind of mistake!
+
+145
+00:09:16,522 --> 00:09:19,946
+This is awful...
+Shinpei-san, a murderer?
+
+146
+00:09:20,029 --> 00:09:24,079
+Even though he teaches us frisbee
+so enthusiastically...
+
+147
+00:09:24,413 --> 00:09:26,501
+No way... Absolutely not.
+
+148
+00:09:26,584 --> 00:09:27,878
+(stomach growls)
+
+149
+00:09:28,254 --> 00:09:29,548
+Hey, Genta-kun!
+
+150
+00:09:29,632 --> 00:09:32,011
+What's wrong with you, at a time like this?
+
+151
+00:09:32,095 --> 00:09:34,225
+I-It wasn't me!
+
+152
+00:09:34,308 --> 00:09:36,896
+(stomach growls)
+Sigh... Huh?
+
+153
+00:09:37,272 --> 00:09:38,274
+Shinpei-san!
+
+154
+00:09:38,358 --> 00:09:40,069
+Ah, Conan-kun!
+
+155
+00:09:40,612 --> 00:09:43,576
+Hey, you...
+The police are looking for you.
+
+156
+00:09:44,286 --> 00:09:46,290
+This is about Granny, right?
+
+157
+00:09:46,582 --> 00:09:50,298
+Yeah. They're saying Shinpei-san
+is the culprit.
+
+158
+00:09:51,801 --> 00:09:54,055
+No... I didn't do it.
+
+159
+00:09:54,557 --> 00:09:57,563
+But Shinpei-san,
+you ran away from the scene, right?
+
+160
+00:09:58,148 --> 00:10:02,239
+Th-That's... Granny called me over
+with a text...
+
+161
+00:10:02,322 --> 00:10:03,825
+And when I got there, she was already...
+
+162
+00:10:03,908 --> 00:10:06,664
+I ran outside in a panic
+and bumped into someone...
+
+163
+00:10:06,748 --> 00:10:09,587
+After that, I just...
+I didn't know what was happening...
+
+164
+00:10:10,130 --> 00:10:12,676
+Shinpei-san... You said your grandmother
+has breakfast...
+
+165
+00:10:12,760 --> 00:10:15,265
+After walking Matsunosuke, right?
+
+166
+00:10:15,348 --> 00:10:17,478
+Huh? Ah... Yeah.
+
+167
+00:10:17,561 --> 00:10:20,734
+She always said eating after a little exercise
+felt better.
+
+168
+00:10:20,817 --> 00:10:22,111
+There he is!
+
+169
+00:10:23,907 --> 00:10:26,788
+No! It wasn't me!
+
+170
+00:10:28,333 --> 00:10:32,966
+(police siren)
+
+171
+00:10:33,050 --> 00:10:35,764
+They arrested Shinpei-san...
+
+172
+00:10:35,847 --> 00:10:37,392
+Hey, Conan-kun...
+
+173
+00:10:37,476 --> 00:10:39,146
+Why are you just letting this happen?!
+
+174
+00:10:39,480 --> 00:10:41,192
+There's nothing we can do.
+
+175
+00:10:41,275 --> 00:10:43,863
+Shinpei-san's bandana
+was found at the scene...
+
+176
+00:10:43,947 --> 00:10:45,659
+And there's even an eyewitness.
+
+177
+00:10:45,742 --> 00:10:47,412
+No way...
+
+178
+00:10:47,496 --> 00:10:50,836
+Conan-kun, you think
+Shinpei-san is the culprit too?
+
+179
+00:10:50,919 --> 00:10:52,297
+I misjudged you.
+
+180
+00:10:52,381 --> 00:10:53,967
+But...
+Hm?
+
+181
+00:10:54,677 --> 00:10:57,891
+There's more to what you're saying,
+isn't there? Edogawa-kun.
+
+182
+00:10:57,975 --> 00:10:58,977
+Well, yeah.
+
+183
+00:10:59,645 --> 00:11:03,945
+First, the bandana found at the scene
+isn't that rare of an item...
+
+184
+00:11:04,028 --> 00:11:06,993
+If someone wanted one,
+they could get one easily.
+
+185
+00:11:07,076 --> 00:11:11,252
+I see... So the real culprit
+might have prepared it...
+
+186
+00:11:11,335 --> 00:11:13,798
+To pin the crime on Shinpei-san.
+
+187
+00:11:13,882 --> 00:11:15,385
+But that alone isn't enough...
+
+188
+00:11:16,052 --> 00:11:18,015
+Inside the trash can at the scene...
+
+189
+00:11:18,098 --> 00:11:21,981
+There was a plastic bag
+with a dry cleaning tag on it.
+
+190
+00:11:22,064 --> 00:11:23,443
+On that tag...
+
+191
+00:11:23,526 --> 00:11:27,910
+It said "Women's beige spring coat."
+
+192
+00:11:27,993 --> 00:11:30,540
+A beige spring coat?
+
+193
+00:11:30,624 --> 00:11:34,088
+Ah! The coat Granny was wearing
+when she died!
+
+194
+00:11:34,381 --> 00:11:37,846
+Right. And then,
+underneath that plastic bag...
+
+195
+00:11:37,930 --> 00:11:40,810
+A breakfast prepared food pack
+had been thrown away.
+
+196
+00:11:40,894 --> 00:11:44,151
+The breakfast pack was under the plastic bag...
+
+197
+00:11:44,235 --> 00:11:47,574
+Which means the breakfast pack
+was thrown away first.
+
+198
+00:11:47,658 --> 00:11:51,958
+So she ate breakfast,
+then went to walk Matsunosuke.
+
+199
+00:11:52,876 --> 00:11:54,797
+Ah, that's backwards!
+Yes, it's reversed!
+
+200
+00:11:55,131 --> 00:11:59,390
+Exactly. According to Shinpei-san,
+the old lady always...
+
+201
+00:11:59,473 --> 00:12:03,356
+Had breakfast after coming back
+from walking Matsunosuke...
+
+202
+00:12:03,439 --> 00:12:06,111
+But the scene showed
+the opposite.
+
+203
+00:12:06,195 --> 00:12:10,161
+In other words, the scene
+may have been staged.
+
+204
+00:12:10,620 --> 00:12:14,545
+But what if Shinpei-san
+is the one lying?
+
+205
+00:12:14,628 --> 00:12:15,922
+No chance of that.
+
+206
+00:12:16,424 --> 00:12:20,390
+He talked about his grandmother's breakfast
+last week too, remember?
+
+207
+00:12:20,849 --> 00:12:25,107
+Granny, you're about to have breakfast, right?
+Let me eat too!
+
+208
+00:12:25,483 --> 00:12:28,113
+If he'd been lying
+since back then...
+
+209
+00:12:28,197 --> 00:12:29,825
+That'd be pretty premeditated.
+
+210
+00:12:29,908 --> 00:12:33,499
+A guy that calculating wouldn't
+drop a bloodstained bandana, right?
+
+211
+00:12:33,583 --> 00:12:34,835
+Good point.
+
+212
+00:12:35,128 --> 00:12:36,964
+Then who on earth...
+
+213
+00:12:37,048 --> 00:12:38,843
+As far as suspects go right now...
+
+214
+00:12:38,926 --> 00:12:41,849
+There's the dog friend Hirota-san
+and the neighbor Kitazawa-san.
+
+215
+00:12:41,932 --> 00:12:44,271
+But they both
+have alibis...
+
+216
+00:12:44,355 --> 00:12:47,486
+Then let's tear those alibis
+to shreds ourselves!
+
+217
+00:12:47,569 --> 00:12:49,406
+Right! If we do that...
+
+218
+00:12:49,490 --> 00:12:52,162
+Shinpei-san might be able
+to come back.
+
+219
+00:12:52,245 --> 00:12:54,500
+Time for the Detective Boys to shine!
+
+220
+00:12:54,583 --> 00:12:55,627
+Yes!
+Yeah!
+
+221
+00:12:55,710 --> 00:12:57,255
+First up, Kitazawa-san's place.
+
+222
+00:12:57,339 --> 00:12:59,718
+Then we'll ask around
+the shopping district.
+
+223
+00:12:59,802 --> 00:13:00,845
+Yeah!
+
+224
+00:13:10,460 --> 00:13:11,879
+Hmm...
+
+225
+00:13:11,963 --> 00:13:13,340
+No take-backs.
+
+226
+00:13:13,591 --> 00:13:16,221
+Shut up... I know that.
+
+227
+00:13:16,304 --> 00:13:18,058
+Here goes, Conan! There!
+
+228
+00:13:18,142 --> 00:13:19,352
+Ahh!
+
+229
+00:13:22,609 --> 00:13:23,945
+Sorry!
+
+230
+00:13:24,028 --> 00:13:27,160
+Our frisbee went in there...
+Could you get it for us?
+
+231
+00:13:27,243 --> 00:13:28,245
+Good grief...
+
+232
+00:13:28,580 --> 00:13:29,832
+Sorry!
+
+233
+00:13:29,915 --> 00:13:33,005
+Alright, alright.
+Go around to the front door.
+
+234
+00:13:33,506 --> 00:13:34,508
+Hmm...
+
+235
+00:13:34,592 --> 00:13:37,723
+Sorry about that, mister.
+Our frisbee...
+
+236
+00:13:37,806 --> 00:13:39,560
+Oh, shogi!
+
+237
+00:13:39,643 --> 00:13:42,356
+Hmm, looks like a close match.
+
+238
+00:13:42,441 --> 00:13:43,902
+How long have you been playing?
+
+239
+00:13:44,194 --> 00:13:46,323
+Heh... Since this morning.
+
+240
+00:13:46,574 --> 00:13:48,787
+Wow, that's amazing.
+
+241
+00:13:48,870 --> 00:13:52,251
+99 wins, 99 losses over 10 years.
+
+242
+00:13:52,335 --> 00:13:54,507
+Today's the day we settle it once and for all.
+
+243
+00:13:55,049 --> 00:13:59,642
+We've been battling since 6 AM
+without a single break, but...
+
+244
+00:13:59,725 --> 00:14:01,521
+Looks like you're losing.
+Ugh...
+
+245
+00:14:01,813 --> 00:14:04,234
+Shut up! Don't interrupt the match!
+
+246
+00:14:04,485 --> 00:14:07,658
+S-Sorry...
+Hmph!
+
+247
+00:14:08,158 --> 00:14:12,208
+Yes, 8:30.
+At that time, Hirota-san...
+
+248
+00:14:12,291 --> 00:14:15,715
+Asked me to deliver the flowers,
+so I went over.
+
+249
+00:14:15,799 --> 00:14:18,930
+And the arrangement as well?
+Yes.
+
+250
+00:14:19,013 --> 00:14:20,600
+There were so many flowers...
+
+251
+00:14:20,684 --> 00:14:23,021
+In the end, it took me
+until past noon.
+
+252
+00:14:23,272 --> 00:14:24,859
+Is that so...
+
+253
+00:14:27,656 --> 00:14:30,787
+In the end, we couldn't
+break the alibis.
+
+254
+00:14:30,871 --> 00:14:33,083
+What do we do now, Conan?
+
+255
+00:14:33,166 --> 00:14:35,547
+Shinpei-san's going to be framed for this.
+
+256
+00:14:35,881 --> 00:14:37,133
+Hmm...
+
+257
+00:14:37,216 --> 00:14:41,016
+Maybe our original premise
+was wrong.
+
+258
+00:14:41,266 --> 00:14:43,605
+Huh? original premise?
+
+259
+00:14:44,565 --> 00:14:46,192
+We've been thinking the victim,
+the old lady...
+
+260
+00:14:46,276 --> 00:14:50,619
+Was killed after returning
+from walking Matsunosuke, but...
+
+261
+00:14:50,911 --> 00:14:53,123
+Huh?
+What do you mean?
+
+262
+00:14:53,541 --> 00:14:58,425
+The old lady walked the same route
+at nearly the same time every morning.
+
+263
+00:14:59,010 --> 00:15:00,931
+So... maybe...
+
+264
+00:15:01,557 --> 00:15:04,062
+I see... The witnesses...
+
+265
+00:15:04,145 --> 00:15:06,651
+Just assumed they saw her
+this morning as well.
+
+266
+00:15:06,734 --> 00:15:08,111
+Yeah.
+
 267
-00:15:32,821 --> 00:15:35,821
-The lady that walks her dog every morning, right?
+00:15:08,195 --> 00:15:11,409
+An old lady in a beige coat
+walking a dog, right?
 
 268
-00:15:35,821 --> 00:15:36,921
-I saw her.
+00:15:11,494 --> 00:15:13,706
+I saw her this morning too.
 
 269
-00:15:36,921 --> 00:15:39,021
-They really had it out this morning.
+00:15:13,790 --> 00:15:15,292
+Was it really this morning?
 
 270
-00:15:39,021 --> 00:15:40,421
-Had it out?
+00:15:15,710 --> 00:15:18,340
+Yeah, a little past 8, I think.
 
 271
-00:15:40,421 --> 00:15:44,821
-That dog always fights with a cat in front of this store.
+00:15:18,423 --> 00:15:21,514
+I always pass her
+when I'm walking this guy.
 
 272
-00:15:44,821 --> 00:15:47,421
-This morning it was really bad.
+00:15:22,056 --> 00:15:25,772
+That dog always
+marks his territory right there...
 
 273
-00:15:47,421 --> 00:15:51,721
-She's been trying to keep the dog away from the cat these days
+00:15:26,106 --> 00:15:28,861
+But this morning, that person
+seemed to be in a hurry...
 
 274
-00:15:51,721 --> 00:15:54,321
-but it seems she was a bit off her guard.
+00:15:28,945 --> 00:15:31,199
+She just dragged the dog
+right past.
 
 275
-00:15:55,421 --> 00:15:58,121
-It takes 15 minutes to get here from her house.
+00:15:31,784 --> 00:15:35,667
+Ah, the lady who walks her dog
+every morning, right?
 
 276
-00:15:58,121 --> 00:16:00,821
-Everybody's saying that the she went by with the dog.
+00:15:35,750 --> 00:15:38,923
+I saw her. This morning
+was especially bad.
 
 277
-00:16:00,821 --> 00:16:05,721
-Which means they weren't just imagining.
+00:15:39,007 --> 00:15:40,175
+Especially bad?
 
 278
-00:16:10,721 --> 00:16:13,121
-Ma'am.
+00:15:40,468 --> 00:15:44,392
+That dog always gets in a fight
+with a cat in front of my shop.
 
 279
-00:16:13,121 --> 00:16:15,321
-Yes. What is it?
+00:15:44,810 --> 00:15:46,897
+This morning it was really awful.
 
 280
-00:16:15,321 --> 00:16:19,321
-Did you see a woman walking her dog around here this morning?
+00:15:47,441 --> 00:15:48,818
+Lately, that person...
 
 281
-00:16:19,321 --> 00:16:23,521
-What? The police asked me the same thing.
+00:15:48,901 --> 00:15:51,490
+Had been keeping the dog
+away from the cat, but...
 
 282
-00:16:23,521 --> 00:16:26,221
-I did, I'm sure of it.
+00:15:51,574 --> 00:15:53,870
+Seems like she got careless.
 
 283
-00:16:26,221 --> 00:16:29,821
-Was that woman pulling the dog along with force?
+00:15:55,498 --> 00:15:58,086
+So far, that's exactly 15 minutes
+from the house.
 
 284
-00:16:29,821 --> 00:16:31,621
-With force?
+00:15:58,170 --> 00:16:01,051
+Everyone said
+she passed by this morning.
 
 285
-00:16:31,621 --> 00:16:34,621
-Yes, it did seem like she was.
+00:16:01,134 --> 00:16:05,267
+Hmm... So that means
+it wasn't just an assumption.
 
 286
-00:16:34,621 --> 00:16:38,521
-She always goes left after leaving the park.
+00:16:05,560 --> 00:16:08,106
+Hmm... Huh?
 
 287
-00:16:38,521 --> 00:16:40,221
-But, this morning,
+00:16:10,779 --> 00:16:13,033
+Excuse me, ma'am.
 
 288
-00:16:40,221 --> 00:16:43,821
-she pulled her dog along as she turned right.
+00:16:13,116 --> 00:16:15,245
+Yes? What is it?
 
 289
-00:16:43,821 --> 00:16:45,721
-She pulled it to the right?
+00:16:15,329 --> 00:16:19,253
+Did you see a woman walking a dog
+around here this morning?
 
 290
-00:16:45,721 --> 00:16:47,521
-Hold on, Conan.
+00:16:19,337 --> 00:16:23,471
+Oh, the police asked me
+the same thing.
 
 291
-00:16:47,521 --> 00:16:50,121
-This is opposite the walking course.
+00:16:23,554 --> 00:16:25,934
+I saw her. Definitely.
 
 292
-00:16:50,121 --> 00:16:53,321
-There's no way we can find witnesses then.
+00:16:26,267 --> 00:16:29,817
+Was that person
+dragging the dog along?
 
 293
-00:16:58,021 --> 00:17:00,421
-This is...
+00:16:29,900 --> 00:16:34,200
+Dragging? Yes...
+Something like that.
 
 294
-00:17:00,421 --> 00:17:02,921
-Oh, it's you kids.
+00:16:34,785 --> 00:16:38,459
+When that person leaves the park,
+she always goes left.
 
 295
-00:17:02,921 --> 00:17:06,821
-Are you still looking for eye-witnesses?
+00:16:38,543 --> 00:16:40,170
+But this morning...
 
 296
-00:17:06,821 --> 00:17:09,321
-Oh, you're the one we saw a while ago.
+00:16:40,420 --> 00:16:42,968
+She pulled the dog and went right.
 
 297
-00:17:09,321 --> 00:17:13,321
-I couldn't tell who you were because you didn't have your dog with you.
+00:16:43,970 --> 00:16:45,473
+Pulled the dog... to the right?
 
 298
-00:17:13,321 --> 00:17:17,021
-I see! I get the picture.
+00:16:45,723 --> 00:16:47,351
+H-Hey, Conan-kun!
 
 299
-00:17:17,021 --> 00:17:19,421
-Everybody's made a mistake.
+00:16:47,602 --> 00:16:50,107
+This is the opposite direction
+from the walking route!
 
 300
-00:17:19,421 --> 00:17:21,121
-Even the witness...
+00:16:50,190 --> 00:16:52,612
+We won't find any witnesses
+this way!
 
 301
-00:17:21,121 --> 00:17:23,321
-and the murderer too.
+00:16:52,696 --> 00:16:54,407
+(dog barks)
+Ah!
 
 302
-00:17:24,321 --> 00:17:28,321
-Then there's one place the murderer will have to go...
+00:16:58,039 --> 00:16:59,877
+Th-This is...
 
 303
-00:17:29,721 --> 00:17:33,421
-in order to hide the vital evidence.
+00:17:00,545 --> 00:17:02,591
+Oh? You kids...
+Hm?
 
 304
-00:17:42,721 --> 00:17:44,721
-Good evening.
+00:17:03,091 --> 00:17:05,555
+Still looking for witnesses?
 
 305
-00:17:47,121 --> 00:17:49,921
-Why are you here so late?
+00:17:05,638 --> 00:17:06,724
+Hm?
 
 306
-00:17:49,921 --> 00:17:52,121
-You kids.
+00:17:06,807 --> 00:17:09,312
+Ah! That guy from earlier!
 
 307
-00:17:52,121 --> 00:17:57,421
-Ma'am. We figured out the real murderer
+00:17:09,395 --> 00:17:11,984
+Didn't recognize you
+without your dog.
 
 308
-00:17:57,421 --> 00:18:00,621
-that killed Mrs. Kanae.
+00:17:12,067 --> 00:17:13,153
+Ha...
 
 309
-00:18:00,621 --> 00:18:04,321
-The murderer killed Mrs. Kanae
+00:17:13,236 --> 00:17:16,493
+I see... So that's how it is.
 
 310
-00:18:04,321 --> 00:18:08,421
-who finished preparing her breakfast before 08:00 am.
+00:17:17,119 --> 00:17:19,415
+Everyone was mistaken.
 
 311
-00:18:08,421 --> 00:18:12,121
-After that, the murderer cleaned up the breakfast that was prepared
+00:17:19,499 --> 00:17:23,006
+The witnesses... and even the culprit.
 
 312
-00:18:12,121 --> 00:18:16,421
-and dressed her in the coat that had just came back from the dry cleaners
+00:17:24,425 --> 00:17:27,891
+If that's the case, the culprit
+will definitely show up there.
 
 313
-00:18:16,421 --> 00:18:20,121
-to make it look as if she was killed after she walking her dog.
+00:17:29,978 --> 00:17:33,151
+To destroy the crucial evidence.
 
 314
-00:18:20,121 --> 00:18:22,421
-Then the murderer put Shinpei's bandana
+00:17:42,837 --> 00:17:44,549
+Good evening.
 
 315
-00:18:22,421 --> 00:18:26,021
-that had prepared beforehand at the front entrance,
+00:17:47,346 --> 00:17:49,726
+What's the matter? At this hour...
 
 316
-00:18:26,021 --> 00:18:31,021
-disguised as Mrs. Kanae and took Matsunosuke for a walk.
+00:17:50,143 --> 00:17:51,855
+You children...
 
 317
-00:18:31,021 --> 00:18:35,721
-To create eye-witnesses believe that she was walking Matsunosuke,
+00:17:52,356 --> 00:17:57,241
+Lady, we've figured out
+who the real culprit is...
 
 318
-00:18:35,721 --> 00:18:38,821
-and establish the alibi...
+00:17:57,617 --> 00:17:59,161
+The one who killed Kanae-san.
 
 319
-00:18:38,821 --> 00:18:40,821
-Of course, it was a simple disguise,
+00:17:59,245 --> 00:18:00,414
+What...
 
 320
-00:18:40,821 --> 00:18:43,421
-so they might've been found out if someone paid attention,
+00:18:00,873 --> 00:18:04,297
+The culprit killed Kanae-san
+well before 8 AM this morning...
 
 321
-00:18:43,421 --> 00:18:47,821
-but they were all deceived by having Matsunosuke along.
+00:18:04,380 --> 00:18:08,013
+Right after she'd finished
+preparing breakfast.
 
 322
-00:18:47,821 --> 00:18:50,121
-The dog pees and marks the usual place,
+00:18:08,597 --> 00:18:12,229
+After that, they cleaned up
+the breakfast that had been set out...
 
 323
-00:18:50,121 --> 00:18:53,321
-fights with the cat as usual.
+00:18:12,313 --> 00:18:16,070
+Dressed the body in the coat
+that had just come back from the cleaners...
 
 324
-00:18:53,321 --> 00:18:58,321
-So, everyone believes it's the granny walking Matsunosuke as usual.
+00:18:16,572 --> 00:18:20,329
+And made it look like she was killed
+after returning from her walk.
 
 325
-00:18:59,621 --> 00:19:05,021
-But the murderer turned right after leaving the park.
+00:18:20,412 --> 00:18:23,961
+Then, they placed Shinpei-san's bandana,
+which they'd prepared beforehand...
 
 326
-00:19:05,021 --> 00:19:07,321
-Though granny's always turns left.
+00:18:24,378 --> 00:18:26,090
+At the entrance...
 
 327
-00:19:07,321 --> 00:19:11,421
-Of course, because if the murderer walking the dog as usual,
+00:18:26,174 --> 00:18:30,390
+Disguised themselves as Kanae-san,
+and went out walking with Matsunosuke.
 
 328
-00:19:11,421 --> 00:19:14,321
-she wouldn't be able to establish the alibi.
+00:18:31,225 --> 00:18:35,818
+To create witnesses who saw
+Kanae-san walking Matsunosuke...
 
 329
-00:19:14,321 --> 00:19:19,021
-The murderer who left the park, went home along with Matsunosuke,
+00:18:35,902 --> 00:18:38,406
+And to establish
+their own alibi.
 
 330
-00:19:19,021 --> 00:19:23,221
-met the person she had summoned and completed her alibi.
+00:18:39,075 --> 00:18:41,079
+Of course, it was an amateur disguise...
 
 331
-00:19:23,221 --> 00:19:25,821
-Hold it there. What about the dog?
+00:18:41,162 --> 00:18:43,584
+So if someone looked closely,
+they might have been found out, but...
 
 332
-00:19:25,821 --> 00:19:27,921
-What about Matsunosuke?
+00:18:43,667 --> 00:18:47,675
+Having Matsunosuke with them
+fooled everyone.
 
 333
-00:19:27,921 --> 00:19:30,621
-Back then, Matsunosuke was asleep over here, wasn't he?
+00:18:48,009 --> 00:18:50,347
+Marking territory in the usual spot...
 
 334
-00:19:30,621 --> 00:19:32,421
-The murderer couldn't have taken him.
+00:18:50,431 --> 00:18:53,228
+Picking a fight with a cat in the usual spot.
 
 335
-00:19:32,421 --> 00:19:34,621
-It was a fake.
+00:18:53,562 --> 00:18:57,946
+Everyone thought, "Oh, it's the same old lady
+with Matsunosuke, as always."
 
 336
-00:19:34,621 --> 00:19:37,421
-The dog that was drugged to sleep back then
+00:18:59,991 --> 00:19:02,914
+But when the culprit
+left the park...
 
 337
-00:19:37,421 --> 00:19:41,321
-was a fake Matsunosuke that the murderer got ready.
+00:19:02,997 --> 00:19:04,876
+They went to the right.
 
 338
-00:19:41,321 --> 00:19:43,621
-This means that the murderer owns a dog
+00:19:05,168 --> 00:19:07,089
+Even though she always goes left.
 
 339
-00:19:43,621 --> 00:19:46,121
-that looks like Matsunosuke!
+00:19:07,674 --> 00:19:11,723
+Makes sense. If they completed
+the entire walking route...
 
 340
-00:19:46,121 --> 00:19:50,621
-You said you own one of Matsunosuke's siblings, right?
+00:19:11,807 --> 00:19:13,978
+It would ruin the alibi setup.
 
 341
-00:19:50,621 --> 00:19:52,921
-One that looks exactly like Matsunosuke.
+00:19:14,479 --> 00:19:18,821
+After leaving the park, the culprit
+returned home with Matsunosuke...
 
 342
-00:19:52,921 --> 00:19:56,321
-In other words, you're the only one who could be the murderer,
+00:19:19,238 --> 00:19:23,539
+Met with the person they'd called over,
+and completed their alibi.
 
 343
-00:19:56,321 --> 00:19:58,321
-Ms. Tomoko Hirota!
+00:19:23,622 --> 00:19:27,755
+Wait a minute... The dog?
+What about Matsunosuke?
 
 344
-00:19:58,321 --> 00:20:00,621
-Conan.
+00:19:28,256 --> 00:19:30,887
+Back then, Matsunosuke
+was sleeping here, wasn't he?
 
 345
-00:20:00,621 --> 00:20:02,621
-Inspector!
+00:19:30,970 --> 00:19:32,599
+So the culprit couldn't have taken him...
 
 346
-00:20:02,621 --> 00:20:07,621
-Please help me. These kids suddenly saying strange things.
+00:19:32,682 --> 00:19:34,603
+It was a fake.
+Ha!
 
 347
-00:20:07,621 --> 00:20:10,921
-We came because Mr. Mouri contacted us.
+00:19:34,936 --> 00:19:37,650
+The one put to sleep with drugs
+back then...
 
 348
-00:20:10,921 --> 00:20:16,521
-Yes! He couldn't come because of something urgent
+00:19:37,734 --> 00:19:41,115
+Was a fake Matsunosuke
+prepared by the culprit.
 
 349
-00:20:16,521 --> 00:20:19,421
-so he told us to come and tell you instead.
+00:19:41,533 --> 00:19:42,994
+...Which means the culprit...
 
 350
-00:20:19,421 --> 00:20:23,721
-I see. I hope you have evidence though.
+00:19:43,077 --> 00:19:46,042
+Owns a dog
+that looks exactly like Matsunosuke.
 
 351
-00:20:23,721 --> 00:20:25,821
-That's right! Evidence!
+00:19:46,375 --> 00:19:50,843
+Lady, you said you own
+one of Matsunosuke's siblings.
 
 352
-00:20:25,821 --> 00:20:27,721
-Show the proof!
+00:19:50,927 --> 00:19:52,805
+Identical to Matsunosuke.
 
 353
-00:20:27,721 --> 00:20:30,721
-The proof is right there.
+00:19:53,181 --> 00:19:56,480
+In other words, the culprit
+can only be you.
 
 354
-00:20:30,721 --> 00:20:34,121
-The dog that you switched with your own,
+00:19:56,563 --> 00:19:58,233
+Hirota Tomoko-san.
 
 355
-00:20:34,121 --> 00:20:37,021
-the real Matsunosuke!!
+00:19:58,484 --> 00:20:00,362
+Conan-kun!
+What?!
 
 356
-00:20:37,021 --> 00:20:39,721
-How about it, Ms. Hirota?
+00:20:00,863 --> 00:20:04,161
+D-Detective! Please help me!
 
 357
-00:20:39,721 --> 00:20:42,421
-No, they're wrong!
+00:20:04,245 --> 00:20:07,042
+These children suddenly started
+saying the strangest things!
 
 358
-00:20:42,421 --> 00:20:44,321
-This is my dog!
+00:20:08,002 --> 00:20:10,925
+Mouri-kun contacted me,
+so I came over, but...
 
 359
-00:20:44,321 --> 00:20:46,421
-Matsunosuke is tied up over there.
+00:20:11,259 --> 00:20:13,179
+Yeah. Kogoro-san...
 
 360
-00:20:46,421 --> 00:20:48,421
-Hey, Matsunosuke!
+00:20:13,263 --> 00:20:16,687
+Had something urgent come up
+and couldn't make it, so...
 
 361
-00:20:48,421 --> 00:20:50,421
-Here it comes!
+00:20:16,770 --> 00:20:19,442
+He asked us to tell you
+in his place, Inspector.
 
 362
-00:20:58,621 --> 00:21:00,121
--He did it! -He did it!
+00:20:19,693 --> 00:20:23,366
+I see...
+...So, you have evidence, I take it?
 
 363
-00:21:03,421 --> 00:21:05,921
-Ma'am.
+00:20:23,450 --> 00:20:27,584
+Th-That's right! Evidence!
+Show me your evidence!
 
 364
-00:21:05,921 --> 00:21:09,921
-I'll bet you think that we got to the truth because of the dog?
+00:20:27,959 --> 00:20:29,963
+The evidence is right there.
 
 365
-00:21:09,921 --> 00:21:11,621
-But, that's what it is, right?
+00:20:30,046 --> 00:20:31,048
+What?
 
 366
-00:21:11,621 --> 00:21:14,321
-If that stupid dog didn't go after that frisbee...
+00:20:31,132 --> 00:20:33,512
+The real Matsunosuke...
 
 367
-00:21:14,321 --> 00:21:16,521
-You're wrong.
+00:20:34,472 --> 00:20:36,977
+That you swapped with your own dog.
 
 368
-00:21:16,521 --> 00:21:19,521
-After you killed Mrs. Kanae,
+00:20:37,311 --> 00:20:39,858
+What do you have to say,
+Hirota-san?
 
 369
-00:21:19,521 --> 00:21:22,421
-you cleaned up the breakfast and put the coat on her.
+00:20:39,941 --> 00:20:42,780
+N-No... You're wrong!
 
 370
-00:21:22,421 --> 00:21:24,421
-Then you set the place up to make it look as if she was killed
+00:20:42,864 --> 00:20:44,325
+This is my dog!
 
 371
-00:21:24,421 --> 00:21:26,721
-after she came back from walking her dog.
+00:20:44,659 --> 00:20:46,747
+Matsunosuke is
+tied up over there...
 
 372
-00:21:26,721 --> 00:21:31,121
-That was your biggest mistake.
+00:20:46,830 --> 00:20:50,337
+Hey, Matsunosuke! Let's go!
 
 373
-00:21:31,121 --> 00:21:34,121
-Mrs. Kanae always used to eat breakfast
+00:20:50,420 --> 00:20:51,673
+(dog barks)
 
 374
-00:21:34,121 --> 00:21:36,921
-after walking her dog.
+00:20:52,299 --> 00:20:53,301
+Got it!
 
 375
-00:21:36,921 --> 00:21:40,021
-That's why if she was killed right after she got home,
+00:20:54,053 --> 00:20:55,431
+Ah... Ahh...
 
 376
-00:21:40,021 --> 00:21:43,521
-the breakfast preparation would've had to be left as is.
+00:20:58,812 --> 00:21:00,315
+We did it!
 
 377
-00:21:43,521 --> 00:21:46,621
-And if she was killed after she ate breakfast,
+00:21:03,697 --> 00:21:05,200
+Hey, lady.
 
 378
-00:21:46,621 --> 00:21:50,721
-it would be strange for her to still be wearing the coat.
+00:21:06,410 --> 00:21:10,043
+You think the dog is the reason
+you got caught, don't you?
 
 379
-00:21:50,721 --> 00:21:52,721
-In other words, that site
+00:21:10,335 --> 00:21:11,963
+Because that's true, isn't it?
 
 380
-00:21:52,721 --> 00:21:56,721
-was a site full of awkward, unnatural settings.
+00:21:12,047 --> 00:21:14,636
+If that stupid dog hadn't
+gotten lured by a frisbee...
 
 381
-00:23:18,921 --> 00:23:22,121
-But I'm glad that we found the real murderer.
+00:21:14,719 --> 00:21:15,971
+Wrong.
 
 382
-00:23:22,121 --> 00:23:25,421
-We can have Shinpei teach us to throw frisbee again.
+00:21:16,932 --> 00:21:19,771
+After you killed Kanae-san...
 
 383
-00:23:25,421 --> 00:23:28,121
-That's right. I can't wait!
+00:21:19,854 --> 00:21:22,694
+You cleaned up the breakfast,
+dressed her in the coat...
 
 384
-00:23:28,121 --> 00:23:31,121
-You even got your jacket back all clean.
+00:21:22,777 --> 00:21:26,535
+And staged it to look like she was killed
+after returning from her walk...
 
 385
-00:23:31,121 --> 00:23:36,621
-Yes, Matsunosuke's footprints are all cleaned off...
+00:21:27,077 --> 00:21:29,582
+But you made
+a huge mistake.
 
 386
-00:23:41,421 --> 00:23:43,321
-I'm sorry, Conan.
+00:21:31,586 --> 00:21:33,005
+Kanae-san always...
 
 387
-00:23:43,321 --> 00:23:46,621
-I'll take it to the dry cleaners again.
+00:21:33,089 --> 00:21:36,011
+Had her breakfast after
+coming back from the walk.
 
 388
-00:23:46,621 --> 00:23:48,821
-No, don't bother already.
+00:21:36,095 --> 00:21:37,097
+What?
 
 389
-00:23:51,121 --> 00:23:53,421
-"Next Episode" -Here you go, detective!
+00:21:37,347 --> 00:21:40,395
+So if she'd been killed
+right after coming home...
 
 390
-00:23:53,421 --> 00:23:55,821
-Drink this for the time being.
+00:21:40,479 --> 00:21:43,652
+The breakfast setup should have been
+left as it was...
 
 391
-00:23:57,121 --> 00:23:59,621
-You'll soon lose track of what's real and what's not
+00:21:43,902 --> 00:21:46,950
+And if she'd been killed
+after eating breakfast...
 
 392
-00:23:59,621 --> 00:24:00,721
-and end up being cooped up,
+00:21:47,033 --> 00:21:49,956
+It makes no sense for her to be
+wearing her walking coat.
 
 393
-00:24:00,721 --> 00:24:03,321
-then eventually hang yourself to death!
+00:21:51,041 --> 00:21:53,004
+In other words, that scene...
 
 394
-00:24:09,121 --> 00:24:11,821
-Mr. Usuda's not moving as if he's dead!
+00:21:53,087 --> 00:21:56,762
+Was full of inconsistencies
+that didn't add up at all.
 
 395
-00:24:11,821 --> 00:24:15,021
-He's really dead.
+00:21:59,057 --> 00:22:05,069
+♪~
 
 396
+00:23:13,457 --> 00:23:18,759
+~♪
+
+397
+00:23:19,384 --> 00:23:22,265
+Still, I'm glad...
+They found the real culprit.
+
+398
+00:23:22,349 --> 00:23:25,814
+Now Shinpei-san can
+teach us frisbee again.
+
+399
+00:23:25,898 --> 00:23:28,277
+Yeah... I can't wait.
+
+400
+00:23:28,612 --> 00:23:31,283
+And your clothes came back
+all clean too.
+
+401
+00:23:31,743 --> 00:23:34,916
+Ah... Matsunosuke's paw prints
+got cleaned off...
+
+402
+00:23:34,999 --> 00:23:36,544
+Nice and clean, good as new...
+(Matsunosuke barks)
+
+403
+00:23:36,628 --> 00:23:37,964
+Gwah!
+
+404
+00:23:38,507 --> 00:23:39,968
+Ahh...
+
+405
+00:23:41,053 --> 00:23:43,767
+Ah... Sorry, Conan-kun!
+
+406
+00:23:43,850 --> 00:23:46,481
+I'll get it cleaned again!
+
+407
+00:23:47,148 --> 00:23:49,487
+No... that's quite alright.
+
+408
+00:23:52,325 --> 00:23:56,083
+Here, Detective.
+For now, please take this.
+
+409
+00:23:57,670 --> 00:24:01,051
+He lost the ability to distinguish reality
+and became a shut-in...
+
+410
+00:24:01,135 --> 00:24:03,389
+And in the end,
+he went and hanged himself.
+
+411
+00:24:03,473 --> 00:24:05,477
+Ah... Ahh...
+
+412
+00:24:09,610 --> 00:24:12,073
+Th-The chief... He won't wake up...
+He looks dead!
+
+413
+00:24:12,407 --> 00:24:15,246
+This one really is dead.
+
+414
 00:24:16,021 --> 00:24:17,421
 Next Conan,
 
-397
+415
 00:24:17,421 --> 00:24:20,421
 "Kogoro is at the Bar (Part 1)"
 
-398
+416
 00:24:37,021 --> 00:24:39,421
 Next Conan's Hint:
 
-399
+417
 00:24:39,421 --> 00:24:41,421
 "Champagne"
 
-400
-00:24:41,421 --> 00:24:42,721
-What's champagne?
+418
+00:24:41,635 --> 00:24:42,721
+What's
+champagne? 
 
-401
-00:24:42,721 --> 00:24:46,121
--It's bubbly wine. -It doesn't match Pops.
+419
+00:24:42,804 --> 00:24:44,808
+Champagne is something
+you drink to celebrate.
 
+420
+00:24:44,891 --> 00:24:46,478
+Way too fancy
+for the old man.
