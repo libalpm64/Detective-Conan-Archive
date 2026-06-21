@@ -1,1650 +1,1775 @@
 1
-00:00:04,340 --> 00:00:07,640
-You mean you're the strongest in the Karate club?
+00:00:03,156 --> 00:00:07,497
+What? Ran, you're the
+strongest in the karate club?
 
 2
-00:00:07,640 --> 00:00:09,840
-Yes, Yasuko!
+00:00:07,664 --> 00:00:09,835
+That's right, Yasuko.
 
 3
-00:00:09,840 --> 00:00:12,540
-She easily kicks over the guys too!
+00:00:09,919 --> 00:00:12,424
+She can send the boys
+flying with one kick.
 
 4
-00:00:12,540 --> 00:00:15,340
-Hey, Yayoi. That's taking it too far!
+00:00:12,507 --> 00:00:13,843
+Wait... hold on, Yayoi.
 
 5
-00:00:15,340 --> 00:00:18,540
--"Yasuko Kawakami (25)" -Wow! A master of Karate!
+00:00:13,927 --> 00:00:15,096
+That's going too far.
 
 6
-00:00:18,540 --> 00:00:20,440
-No. I'm not.
+00:00:15,180 --> 00:00:18,102
+Wow, a real karate master.
+- Yasuko Kawakami (25), sharehouse resident / office lady.
 
 7
-00:00:20,440 --> 00:00:22,840
--"Yayoi Yajima (21)" -Well, as a superior in the same Karate club
+00:00:18,186 --> 00:00:20,190
+No, not really.
 
 8
-00:00:22,840 --> 00:00:24,540
-that's something I can really boast about.
+00:00:20,523 --> 00:00:22,736
+As a fellow member of the karate club...
+- Yayoi Yajima (21), sharehouse resident / university student
 
 9
-00:00:25,640 --> 00:00:27,940
-Oh, no. It's already this late.
+00:00:22,819 --> 00:00:24,365
+I'm so proud.
 
 10
-00:00:27,940 --> 00:00:29,740
-I've got to take a bath.
+00:00:24,448 --> 00:00:27,454
+Oh no, look at the time.
 
 11
-00:00:29,740 --> 00:00:31,840
-I guess I'll be going too, then.
+00:00:27,997 --> 00:00:29,708
+I need to take my bath.
 
 12
-00:00:31,840 --> 00:00:35,940
-Stay a while longer now that you're here.
+00:00:29,792 --> 00:00:31,754
+Then I should be going too...
 
 13
-00:00:35,940 --> 00:00:37,540
-They're coming to pick you up too, aren't they?
+00:00:31,837 --> 00:00:34,426
+Aw, you came all this way
+to visit...
 
 14
-00:00:37,540 --> 00:00:39,240
-Yes. Well...
+00:00:34,510 --> 00:00:35,845
+Stay a little longer.
 
 15
-00:00:39,240 --> 00:00:40,840
-If so, why not?
+00:00:35,930 --> 00:00:37,474
+Someone's picking you up, right?
 
 16
-00:00:40,840 --> 00:00:42,740
-After all, we got to know each other too.
+00:00:37,557 --> 00:00:38,936
+Yes, well...
 
 17
-00:00:42,740 --> 00:00:44,040
-That's true.
+00:00:39,228 --> 00:00:42,776
+Then it's fine. We finally
+got to know each other.
 
 18
-00:00:44,040 --> 00:00:45,040
-I'm back.
-
-19
-00:00:45,040 --> 00:00:47,540
-Oh, Welcome back, Mr. Suzuki.
-
-20
-00:00:47,540 --> 00:00:48,740
-Thanks.
-
-21
-00:00:48,740 --> 00:00:51,740
-She's Ran Mouri, an underclassman.
-
-22
-00:00:51,740 --> 00:00:53,340
--"Hidehisa Suzuki (26)" -Hello.
-
-23
-00:00:53,340 --> 00:00:55,740
-Hi. I'm Suzuki.
-
-24
-00:00:55,740 --> 00:00:58,940
-That's right. Would you like some cake too, Mr. Suzuki?
-
-25
-00:01:00,140 --> 00:01:01,540
-Is it okay if I have some?
-
-26
-00:01:01,540 --> 00:01:04,840
-I'm a Peeping Tom, you know.
-
-27
-00:01:04,840 --> 00:01:07,640
-Nobody thinks you are.
-
-28
-00:01:07,640 --> 00:01:10,540
-It's better to eat it 15 minutes after it's taken out of the refrigerator,
-
-29
-00:01:10,540 --> 00:01:12,140
-so hold on a little while more, okay?
-
-30
-00:01:12,140 --> 00:01:13,540
+00:00:42,859 --> 00:00:44,822
+That's right.
 I'm home.
 
-31
-00:01:14,640 --> 00:01:16,140
-Welcome back.
+19
+00:00:45,115 --> 00:00:47,494
+Oh, welcome back, Suzuki.
 
-32
-00:01:20,940 --> 00:01:21,940
-My...
+20
+00:00:47,577 --> 00:00:48,705
+I'm back.
 
-33
-00:01:21,940 --> 00:01:23,840
--"Katsuko Kano (25)" -Mr. Suzuki, you're still here?
+21
+00:00:48,788 --> 00:00:51,335
+This is my junior from school,
+Ran Mouri.
 
-34
-00:01:23,840 --> 00:01:27,740
-The landlord told you to move out as soon as you can, right?
+22
+00:00:51,877 --> 00:00:53,339
+Sorry to intrude.
 
-35
-00:01:27,740 --> 00:01:29,840
-You're the one who lied and told him,
+23
+00:00:53,423 --> 00:00:55,260
+Hello, I'm Suzuki.
+- Hidehisa Suzuki (26), sharehouse resident / company employee.
 
-36
-00:01:29,840 --> 00:01:31,540
-I was peeping at you guys.
+24
+00:00:55,802 --> 00:00:58,808
+Oh, Suzuki, would you
+like some cake too?
 
-37
-00:01:31,540 --> 00:01:34,640
-Well, but it's much easier to do things with only girls around.
+25
+00:01:00,186 --> 00:01:03,276
+You sure? I'm the peeping tom,
+you know.
 
-38
-00:01:34,640 --> 00:01:35,740
-The nerve!
-
-39
-00:01:35,740 --> 00:01:38,140
-Hey! A guest is here!
-
-40
-00:01:38,140 --> 00:01:40,440
-Katsuko, please cut it out already.
-
-41
-00:01:40,440 --> 00:01:42,340
-Oh, Yayoi.
-
-42
-00:01:42,340 --> 00:01:45,240
-What makes you think you can say such things to me?
-
-43
-00:01:45,240 --> 00:01:46,840
-Well... It's fine.
-
-44
-00:01:46,840 --> 00:01:49,540
-I've got to practice tap dancing before taking a bath.
-
-45
-00:01:49,540 --> 00:01:51,740
-Katsuko...
-
-46
-00:01:51,740 --> 00:01:52,940
+26
+00:01:03,359 --> 00:01:04,361
 What?
 
+27
+00:01:04,946 --> 00:01:07,659
+Nobody believes that, you know.
+
+28
+00:01:07,743 --> 00:01:11,834
+It's best 15 minutes out of the
+fridge, so wait a little.
+
+29
+00:01:12,252 --> 00:01:13,713
+(Katsuko Kanou) I'm home.
+
+30
+00:01:14,840 --> 00:01:15,842
+Welcome back.
+
+31
+00:01:21,103 --> 00:01:23,942
+Oh, Suzuki, you're still here?
+- Katsuko Kano (25), sharehouse resident / dancer.
+
+32
+00:01:24,026 --> 00:01:25,905
+Didn't the landlord
+tell you something?
+
+33
+00:01:25,988 --> 00:01:27,491
+To get out, and soon?
+
+34
+00:01:27,909 --> 00:01:29,745
+You're the one who lied.
+
+35
+00:01:29,828 --> 00:01:31,624
+Saying I was a peeping tom.
+
+36
+00:01:31,707 --> 00:01:34,421
+Because it's easier in
+lots of ways with just us girls.
+
+37
+00:01:34,505 --> 00:01:35,507
+Don't be ridiculous.
+
+38
+00:01:35,840 --> 00:01:38,137
+We have a guest, you know.
+
+39
+00:01:38,221 --> 00:01:40,058
+Please stop, Katsuko.
+
+40
+00:01:40,558 --> 00:01:44,817
+Oh, Yayoi, dear.
+You're one to talk to me?
+
+41
+00:01:45,401 --> 00:01:46,695
+Well, never mind.
+
+42
+00:01:46,905 --> 00:01:49,660
+I need to practice my
+tap dancing before my bath.
+
+43
+00:01:49,743 --> 00:01:52,541
+Um, Katsuko...
+What?
+
+44
+00:01:53,042 --> 00:01:56,967
+I've said it before, but could you
+ease up on the tap practice?
+
+45
+00:01:57,634 --> 00:02:01,851
+My room is right below yours,
+remember? So...
+
+46
+00:02:02,435 --> 00:02:06,903
+Oh, there's cake.
+You like it, don't you, Katsuko?
+
 47
-00:01:52,940 --> 00:01:54,440
-Like I've been telling you from before,
+00:02:07,445 --> 00:02:09,825
+Oh, buttering me up?
+No, it's not that...
 
 48
-00:01:54,440 --> 00:01:57,540
-will you please lessen your tap dancing practice?
+00:02:09,909 --> 00:02:11,829
+I'll have some later, then.
 
 49
-00:01:57,540 --> 00:02:00,540
-My room's right below yours, you see?
+00:02:16,547 --> 00:02:18,885
+(door opens and closes)
 
 50
-00:02:00,540 --> 00:02:02,240
-That's why...
+00:02:18,969 --> 00:02:20,680
+Phew. Well then...
 
 51
-00:02:02,240 --> 00:02:05,040
-Oh... Your cake...
+00:02:20,763 --> 00:02:22,977
+- I'm off to the bath.
+- Okay.
 
 52
-00:02:05,040 --> 00:02:07,340
-You like cake, don't you, Katsuko?
+00:02:23,436 --> 00:02:27,444
+I'm sorry, Ran. You had to
+see us at our worst.
 
 53
-00:02:07,340 --> 00:02:08,940
-What? Trying to humour me?
+00:02:27,736 --> 00:02:30,617
+Oh... no.
+Hm?
 
 54
-00:02:08,940 --> 00:02:12,240
--No... -I guess later then.
+00:02:30,700 --> 00:02:32,621
+Oh, it's fine.
 
 55
-00:02:19,940 --> 00:02:22,040
-I'm going to take a bath then.
+00:02:32,955 --> 00:02:35,418
+Suzuki would never
+do any peeping.
 
 56
-00:02:22,040 --> 00:02:23,340
-Okay.
+00:02:36,128 --> 00:02:39,259
+Katsuko just spread that
+rumor on her own.
 
 57
-00:02:23,340 --> 00:02:25,340
-I'm sorry, Ran.
+00:02:39,343 --> 00:02:41,055
+Enough about that.
 
 58
-00:02:25,340 --> 00:02:27,540
-For making you feel uncomfortable.
+00:02:41,889 --> 00:02:46,023
+I'll settle things with
+that woman properly later.
 
 59
-00:02:27,540 --> 00:02:30,540
-Oh, don't be.
-
-60
-00:02:30,540 --> 00:02:32,840
-Oh, it's okay.
-
-61
-00:02:32,840 --> 00:02:35,940
-Mr. Suzuki is not a Peeping Tom.
-
-62
-00:02:35,940 --> 00:02:39,040
-Katsuko's just going around saying that.
-
-63
-00:02:39,040 --> 00:02:41,640
-Never mind that already.
-
-64
-00:02:41,640 --> 00:02:46,440
-I'll have a talk with her and settle things later.
-
-65
-00:02:46,440 --> 00:02:47,840
-Thank you for the cake!
-
-66
-00:02:47,840 --> 00:02:49,340
+00:02:46,690 --> 00:02:49,404
+Thanks for the cake.
 I'll eat it in my room.
 
+60
+00:02:49,488 --> 00:02:53,496
+- Take it easy, then.
+-  Oh, thanks.
+
+61
+00:02:59,216 --> 00:03:00,970
+A refreshing autumn breeze blows through
+
+62
+00:03:01,053 --> 00:03:02,722
+the gaiety of summer for a stylish and dashing display
+of deduction.
+
+63
+00:03:02,806 --> 00:03:06,230
+A shocking case in a shared house...
+What is this calculated alibi trick?
+
+64
+00:03:06,605 --> 00:03:08,025
+Seeing through the one and only truth.
+
+65
+00:03:08,109 --> 00:03:09,736
+Looks like a child but has the mind of an adult.
+
+66
+00:03:09,820 --> 00:03:12,367
+His name is Detective Conan!
+
 67
-00:02:49,340 --> 00:02:51,440
-Make yourself at home.
+00:03:14,120 --> 00:03:19,465
+♪~
 
 68
-00:02:51,440 --> 00:02:53,440
-Oh, thank you.
-
-69
-00:02:59,040 --> 00:03:00,740
-A refreshing autumn wind blows away the heat of summer.
-
-70
-00:03:00,740 --> 00:03:02,740
-A stylish and fashionable deduction show!
-
-71
-00:03:02,740 --> 00:03:04,440
-A shocking incident at a share house.
-
-72
-00:03:04,440 --> 00:03:06,440
-What is the premeditated alibi trick?
-
-73
-00:03:06,440 --> 00:03:07,940
-He sees through the one and only truth.
-
-74
-00:03:07,940 --> 00:03:09,640
-A child in appearance with the I.Q. of an adult.
-
-75
-00:03:09,640 --> 00:03:12,040
-His name is Detective Conan.
+00:04:47,641 --> 00:04:53,653
+~♪
 
 76
 00:04:55,819 --> 00:05:01,019
 "The Blind Spot in the Share House"
 
+69
+00:05:01,126 --> 00:05:04,508
+There's a lot to it,
+share houses too.
+
+70
+00:05:04,591 --> 00:05:07,597
+When I first came here,
+I thought it was so stylish.
+
+71
+00:05:08,181 --> 00:05:11,939
+Even the door to this common space
+is made of glass.
+
+72
+00:05:12,022 --> 00:05:14,611
+And there are potted
+plants set out.
+
+73
+00:05:15,028 --> 00:05:19,120
+It's been renovated so anyone can
+come in here without hesitation.
+
+74
+00:05:19,788 --> 00:05:22,627
+Well, we are living with
+complete strangers.
+
+75
+00:05:23,170 --> 00:05:25,382
+So there's plenty of stress too.
+
+76
+00:05:25,467 --> 00:05:27,303
+And there are all kinds of rules.
+
 77
-00:05:01,319 --> 00:05:04,719
-It's not all that easy living in a share house, is it?
+00:05:27,386 --> 00:05:29,348
+- Rules?
+- Yes.
 
 78
-00:05:04,719 --> 00:05:08,419
-When I first came here, I thought it was quite fashionable.
+00:05:29,600 --> 00:05:31,352
+Take a look at the back
+of the chair.
 
 79
-00:05:08,419 --> 00:05:12,219
-Because the door of this shared space is made of glass
+00:05:32,354 --> 00:05:33,356
+Oh.
 
 80
-00:05:12,219 --> 00:05:15,219
-and a foliage plant is decorated here too.
+00:05:33,733 --> 00:05:37,156
+Like putting name stickers
+on your own belongings.
 
 81
-00:05:15,219 --> 00:05:18,219
-It's been renovated so that anyone can come in here
+00:05:38,033 --> 00:05:39,661
+It's true.
+(door slides open)
 
 82
-00:05:18,219 --> 00:05:20,019
-and feel at home.
+00:05:39,870 --> 00:05:42,166
+Ah, that was a nice bath.
 
 83
-00:05:20,019 --> 00:05:23,319
-Well, after all, we're strangers living under the same roof.
+00:05:42,667 --> 00:05:45,507
+- Well, I'll go in now.
+- Okay.
 
 84
-00:05:23,319 --> 00:05:25,619
-So, we've got our worries too.
+00:05:46,049 --> 00:05:47,844
+So, what were you two talking about?
 
 85
-00:05:25,619 --> 00:05:27,519
-We've got a lot of rules to follow too.
+00:05:48,386 --> 00:05:52,729
+Gossip about you, Yayoi. Like how you
+always forget to take out the trash.
 
 86
-00:05:27,519 --> 00:05:28,619
-Rules?
+00:05:53,396 --> 00:05:55,150
+Ha, I just slip up sometimes.
 
 87
-00:05:28,619 --> 00:05:31,719
-Yes, take a look at the back of the chair.
+00:05:55,234 --> 00:05:59,535
+I hear there are set times for
+cleaning duty and baths too.
 
 88
-00:05:31,719 --> 00:05:33,819
-"Guest"
+00:05:59,868 --> 00:06:03,333
+And even a message board.
+Sounds tough.
 
 89
-00:05:33,819 --> 00:05:37,519
-Like posting seals on all our belongings.
+00:06:03,417 --> 00:06:08,218
+Yeah, but compared to the going rate,
+the rent here is really cheap.
 
 90
-00:05:37,519 --> 00:05:40,919
--"Guest" -True.
+00:06:08,301 --> 00:06:10,305
+So nobody wants to leave.
 
 91
-00:05:40,919 --> 00:05:42,819
-It was a nice bath.
+00:06:10,389 --> 00:06:13,938
+Huh.
+(phone ringing)
 
 92
-00:05:42,819 --> 00:05:44,719
-I'll go take a bath too then.
-
-93
-00:05:44,719 --> 00:05:46,119
-Okay.
-
-94
-00:05:46,119 --> 00:05:48,519
-And? What were you talking about?
-
-95
-00:05:48,519 --> 00:05:54,019
-About you, Yayoi, like you forget to throw out the garbage.
-
-96
-00:05:54,019 --> 00:05:55,419
-I don't mean to though.
-
-97
-00:05:55,419 --> 00:06:00,019
-You seem to have fixed schedules for cleaning chores and bath time.
-
-98
-00:06:00,019 --> 00:06:02,319
-There's even a whiteboard for messages too.
-
-99
-00:06:02,319 --> 00:06:03,519
-It seems like a lot of work.
-
-100
-00:06:03,519 --> 00:06:08,319
-Yes, but, compared to the average rental, it's much cheaper.
-
-101
-00:06:08,319 --> 00:06:10,919
-That's why nobody wants to leave.
-
-102
-00:06:14,919 --> 00:06:17,519
-Oh, Yasuko.
-
-103
-00:06:17,519 --> 00:06:20,119
+00:06:14,773 --> 00:06:19,323
+Ah, Yasuko?
 Katsuko's cake?
 
+93
+00:06:19,908 --> 00:06:22,747
+Yes, yes.
+
+94
+00:06:22,831 --> 00:06:25,587
+If she doesn't come within 15 minutes,
+I'll put it back.
+
+95
+00:06:25,670 --> 00:06:28,091
+(ticking of a clock)
+
+96
+00:06:29,720 --> 00:06:31,515
+Yayoi, let me help you.
+
+97
+00:06:31,599 --> 00:06:35,230
+It's fine, just the dishes.
+You're a guest.
+
+98
+00:06:36,483 --> 00:06:39,615
+- Huh?
+- Is something wrong?
+
+99
+00:06:39,698 --> 00:06:41,284
+No, nothing.
+
+100
+00:06:45,042 --> 00:06:49,885
+Um, did something happen
+with that Katsuko person?
+
+101
+00:06:50,344 --> 00:06:53,308
+She never came for the cake,
+Katsuko.
+
+102
+00:06:53,391 --> 00:06:55,312
+(ticking of a clock)
+
+103
+00:07:00,949 --> 00:07:04,623
+I owe that woman money.
+
 104
-00:06:20,119 --> 00:06:21,919
-Okay.
+00:07:04,957 --> 00:07:08,171
+- Money?
+- Yeah.
 
 105
-00:06:21,919 --> 00:06:24,519
-Okay, if she doesn't come down in 15 minutes,
+00:07:10,175 --> 00:07:11,512
+I see.
 
 106
-00:06:24,519 --> 00:06:26,419
-I'll put it back in the fridge.
-
-107
-00:06:29,919 --> 00:06:31,719
-I'll help you, Yayoi.
-
-108
-00:06:31,719 --> 00:06:33,719
-Don't worry about it. I'm just doing the dishes.
-
-109
-00:06:33,719 --> 00:06:35,519
-You're a guest, you know.
-
-110
-00:06:38,119 --> 00:06:39,819
-Is something the matter?
-
-111
-00:06:39,819 --> 00:06:41,819
-No. Not really.
-
-112
-00:06:46,719 --> 00:06:50,419
-Did something happen to that person called Katsuko?
-
-113
-00:06:50,419 --> 00:06:54,019
-Maybe, she didn't come to eat it.
-
-114
-00:07:00,919 --> 00:07:04,819
-I borrowed money from her...
-
-115
-00:07:04,819 --> 00:07:06,519
-Money?
-
-116
-00:07:10,119 --> 00:07:11,919
-Is that right?
-
-117
-00:07:11,919 --> 00:07:14,619
+00:07:11,804 --> 00:07:14,225
 Since your father suddenly passed away...
 
+107
+00:07:14,601 --> 00:07:18,316
+And my little brother's still in
+middle school, so it costs money.
+
+108
+00:07:18,401 --> 00:07:20,780
+I can't ask them to send
+me much from home.
+
+109
+00:07:21,364 --> 00:07:23,034
+But it's okay.
+
+110
+00:07:23,118 --> 00:07:26,207
+For now, I'm getting by with
+scholarships and part-time work.
+
+111
+00:07:26,290 --> 00:07:28,587
+Oh...
+(door slides open)
+
+112
+00:07:28,879 --> 00:07:31,802
+Oh... Katsuko never came.
+
+113
+00:07:31,885 --> 00:07:33,848
+Really? That woman...
+
+114
+00:07:33,931 --> 00:07:36,102
+So selfish.
+(doorbell)
+
+115
+00:07:36,185 --> 00:07:40,570
+Oh, could that be...
+Your ride. Coming.
+
+116
+00:07:40,903 --> 00:07:43,324
+(Kogoro Mouri)
+Sorry to trouble you.
+
+117
+00:07:43,409 --> 00:07:45,078
+Keeping her out this late.
+
 118
-00:07:14,619 --> 00:07:18,519
-My brother is still in Junior High School, so finances are needed.
+00:07:45,162 --> 00:07:46,582
+Ran, let's go home.
 
 119
-00:07:18,519 --> 00:07:21,419
-I didn't want to burden anyone to fend for me.
+00:07:47,166 --> 00:07:50,213
+Yayoi, Yasuko,
+thank you so much.
 
 120
-00:07:21,419 --> 00:07:23,119
-But, no problem.
+00:07:50,297 --> 00:07:52,259
+- Come visit again.
+- Okay.
 
 121
-00:07:23,119 --> 00:07:26,819
-I'm making do with my scholarship and part-time job, you see.
+00:07:52,342 --> 00:07:54,221
+Aaah!
 
 122
-00:07:29,819 --> 00:07:32,019
-Katsuko didn't come.
+00:07:57,729 --> 00:08:00,443
+What's wrong? What happened?
+Suzuki?
 
 123
-00:07:32,019 --> 00:07:33,119
-Is that so?
+00:08:01,445 --> 00:08:04,366
+Inside... Ka... Katsuko is...
 
 124
-00:07:33,119 --> 00:07:35,819
-She really does whatever she feels like, doesn't she?
+00:08:06,997 --> 00:08:10,505
+(three people screaming)
 
 125
-00:07:37,019 --> 00:07:38,419
-Maybe it's them.
+00:08:13,469 --> 00:08:16,809
+(Wataru Takagi)
+The victim is Katsuko Kanou, 25.
 
 126
-00:07:38,419 --> 00:07:39,919
-The two that came to get you, right?
+00:08:17,685 --> 00:08:21,401
+The weapon is the knife found at the
+scene, no doubt about it...
 
 127
-00:07:39,919 --> 00:07:40,919
-Yes!
+00:08:21,777 --> 00:08:24,115
+but there were no fingerprints on it.
 
 128
-00:07:40,919 --> 00:07:43,419
-Sorry.
+00:08:24,198 --> 00:08:29,250
+The estimated time of death is
+between 7:15 and 7:45 PM.
 
 129
-00:07:43,419 --> 00:07:45,219
-I couldn't get here any earlier.
+00:08:30,210 --> 00:08:32,214
+And on the floor at the scene...
 
 130
-00:07:45,219 --> 00:07:47,219
-Let's go home, Ran.
+00:08:32,297 --> 00:08:34,427
+from the contents of a plastic
+bottle that had rolled there...
 
 131
-00:07:47,219 --> 00:07:50,319
-Yayoi, Yasuko, thank you very much.
+00:08:34,761 --> 00:08:37,307
+sleeping pills were detected.
 
 132
-00:07:50,319 --> 00:07:51,819
-Please come again.
+00:08:37,391 --> 00:08:41,023
+I see. So she was
+stabbed after being knocked out.
 
 133
-00:07:51,819 --> 00:07:53,019
-Sure.
+00:08:41,692 --> 00:08:46,869
+Now, Suzuki, you found the body.
+Tell us how it happened.
 
 134
-00:07:57,719 --> 00:07:59,619
-What's wrong? What happened?
-
-135
-00:07:59,619 --> 00:08:00,919
-Mr. Suzuki?
-
-136
-00:08:00,919 --> 00:08:04,219
-Inside. Katsuko's...
-
-137
-00:08:13,419 --> 00:08:17,719
-The victim is Ms. Katsuko Kano, age 25.
-
-138
-00:08:17,719 --> 00:08:21,819
-The murder weapon is unmistakably the knife that was found on the site,
-
-139
-00:08:21,819 --> 00:08:24,219
-but there were no prints found.
-
-140
-00:08:24,219 --> 00:08:30,219
-The estimated time of death is between 7:15 pm and 7:45 pm.
-
-141
-00:08:30,219 --> 00:08:31,319
-And...
-
-142
-00:08:31,319 --> 00:08:34,819
-sleeping drug was found from the contents in the PET bottle
-
-143
-00:08:34,819 --> 00:08:37,219
-that was on the floor of the site.
-
-144
-00:08:37,219 --> 00:08:41,619
-I see. Putting her to sleep and then stabbing her to death.
-
-145
-00:08:41,619 --> 00:08:44,719
-Mr. Suzuki, since you were the first to discover the body,
-
-146
-00:08:44,719 --> 00:08:47,219
-please explain how you ended up finding it.
-
-147
-00:08:47,219 --> 00:08:48,519
+00:08:47,202 --> 00:08:48,414
 Oh, yes.
 
+135
+00:08:48,497 --> 00:08:52,212
+This morning, Katsuko left a
+message for me...
+
+136
+00:08:52,296 --> 00:08:54,801
+on that message board over there.
+
+137
+00:08:54,885 --> 00:08:58,308
+"Tonight before 8, I'll come
+to your room."
+
+138
+00:08:58,391 --> 00:09:00,395
+"Let's settle things," it said.
+
+139
+00:09:00,813 --> 00:09:04,404
+Hm? There's nothing
+written there at all.
+
+140
+00:09:04,487 --> 00:09:07,242
+Did anyone else
+see this message?
+
+141
+00:09:07,619 --> 00:09:10,332
+It said, "Keep it a secret."
+
+142
+00:09:10,416 --> 00:09:13,254
+So I erased it myself. 
+
+143
+00:09:13,589 --> 00:09:15,300
+And I'm always the last...
+
+144
+00:09:15,383 --> 00:09:19,058
+one to leave the house, so
+Katsuko probably...
+
+145
+00:09:19,141 --> 00:09:20,519
+waited until I'd be...
+
+146
+00:09:20,603 --> 00:09:23,233
+- alone before writing it.
+- And then?
+
+147
+00:09:23,984 --> 00:09:27,617
+Just like the message said, I waited
+in my room the whole time. But...
+
 148
-00:08:48,519 --> 00:08:51,019
-This morning there was a message
+00:09:28,619 --> 00:09:30,915
+even past 8, Katsuko
+didn't come...
 
 149
-00:08:51,019 --> 00:08:54,819
-written on that message board from Katsuko to me.
+00:09:31,708 --> 00:09:33,837
+so I went to her room...
 
 150
-00:08:54,819 --> 00:08:58,319
-I'll go over to your room before 8:00 pm tonight.
+00:09:34,714 --> 00:09:37,386
+and Katsuko was on the bed...
 
 151
-00:08:58,319 --> 00:09:01,419
-Let's get things settled.
+00:09:37,845 --> 00:09:39,139
+I see.
 
 152
-00:09:01,419 --> 00:09:04,419
-There's nothing like that written anywhere.
+00:09:39,223 --> 00:09:41,687
+It's true. Please believe me.
 
 153
-00:09:04,419 --> 00:09:07,519
-Has anyone else seen that message?
+00:09:51,707 --> 00:09:53,167
+No... that's wrong.
 
 154
-00:09:07,519 --> 00:09:10,419
-It was written on the message board to keep it a secret!
+00:09:53,794 --> 00:09:55,338
+I didn't do it.
 
 155
-00:09:10,419 --> 00:09:13,519
-That's why I erased it.
-
-156
-00:09:13,519 --> 00:09:17,319
-Besides, I'm always the last one out of the house,
-
-157
-00:09:17,319 --> 00:09:22,319
-so Katsuko probably wrote it knowing that I was alone in the house.
-
-158
-00:09:22,319 --> 00:09:23,819
-And?
-
-159
-00:09:23,819 --> 00:09:25,119
-Just as was written,
-
-160
-00:09:25,119 --> 00:09:27,119
-I was waiting in my room all the while,
-
-161
-00:09:27,119 --> 00:09:31,719
-but, Katsuko didn't come even after 8:00 pm so...
-
-162
-00:09:31,719 --> 00:09:34,619
-I went to her room
-
-163
-00:09:34,619 --> 00:09:37,719
-and found Katsuko on the bed.
-
-164
-00:09:37,719 --> 00:09:39,119
-I see.
-
-165
-00:09:39,119 --> 00:09:41,819
-It's true. Please believe me!
-
-166
-00:09:51,719 --> 00:09:53,719
-No!
-
-167
-00:09:53,719 --> 00:09:56,019
-I didn't do it!
-
-168
-00:09:56,019 --> 00:09:59,219
-Right, Yayoi, Yasuko?
-
-169
-00:10:01,219 --> 00:10:07,819
-Do you both have something in mind?
-
-170
-00:10:07,819 --> 00:10:12,319
-The fact is, recently Katsuko and Mr. Suzuki were always at each other.
-
-171
-00:10:12,319 --> 00:10:17,419
-Even tonight, before going back to their rooms had a slight argument.
-
-172
-00:10:17,419 --> 00:10:19,219
-Ran, is that right?
-
-173
-00:10:19,219 --> 00:10:21,419
--Yes. -Not only me!
-
-174
-00:10:21,419 --> 00:10:25,719
-Neither of you guys like Katsuko, did you?
-
-175
-00:10:25,719 --> 00:10:27,319
-Please wait!
-
-176
-00:10:27,319 --> 00:10:30,019
-I don't think they're involved with the case.
-
-177
-00:10:30,019 --> 00:10:32,919
-Ran, what makes you say that?
-
-178
-00:10:32,919 --> 00:10:34,919
-From between 7:00 pm to 8:00 pm,
-
-179
-00:10:34,919 --> 00:10:37,919
-both of them either took a bath as scheduled
-
-180
-00:10:37,919 --> 00:10:40,719
-or was taking with me here.
-
-181
-00:10:40,719 --> 00:10:42,019
-As scheduled?
-
-182
-00:10:42,019 --> 00:10:44,419
-It's fixed, isn't it?
-
-183
-00:10:44,419 --> 00:10:48,119
-Your bath time because this is a share house.
-
-184
-00:10:48,119 --> 00:10:52,319
-Right. Besides, I only got up once to use the restroom,
-
-185
-00:10:52,319 --> 00:10:55,219
-but sitting here right through otherwise.
-
-186
-00:10:55,219 --> 00:10:59,319
-From here, I can see the corridor through the glass door.
-
-187
-00:10:59,319 --> 00:11:01,819
-The sliding glass door...
-
-188
-00:11:01,819 --> 00:11:03,919
-It's true that you can see right through it.
-
-189
-00:11:03,919 --> 00:11:06,319
-In order to go upstairs from the bath tub...
-
-190
-00:11:06,319 --> 00:11:09,619
-You can't go there unless you walk along that corridor.
-
-191
-00:11:09,619 --> 00:11:12,419
-I'm sure that no one walked by
-
-192
-00:11:12,419 --> 00:11:15,019
-while Yasuko was taking a bath.
-
-193
-00:11:15,019 --> 00:11:19,219
-I see. So the two girls have alibis.
-
-194
-00:11:19,219 --> 00:11:21,219
-Then, Mr. Suzuki,
-
-195
-00:11:21,219 --> 00:11:24,219
-I hope you don't mind going upstairs once again
-
-196
-00:11:24,219 --> 00:11:28,819
-to explain how you found the corpse at the scene?
-
-197
-00:11:28,819 --> 00:11:30,619
-Yes, sir.
-
-198
-00:11:30,619 --> 00:11:35,119
-Names must be written on all personal belongings.
-
-199
-00:11:35,119 --> 00:11:36,119
-Come to think of it,
-
-200
-00:11:36,119 --> 00:11:40,419
-there's a name written on the PET bottle found on the floor of the site.
-
-201
-00:11:40,419 --> 00:11:42,219
-Would you like something to drink?
-
-202
-00:11:42,219 --> 00:11:44,219
-Oh, well, no thanks.
-
-203
-00:11:44,219 --> 00:11:46,319
-No need to be hesitant.
-
-204
-00:11:46,319 --> 00:11:49,419
-Is that cake Katsuko's?
-
-205
-00:11:49,419 --> 00:11:50,719
+00:09:56,048 --> 00:09:57,301
 That's right.
 
-206
-00:11:50,719 --> 00:11:53,919
-I took it out of the fridge and got it ready for her.
+156
+00:09:57,384 --> 00:09:59,305
+Yayoi, Yasuko.
 
-207
-00:11:53,919 --> 00:11:56,819
-Because Yasuko asked me to...
+157
+00:10:00,056 --> 00:10:04,356
+Oh, do you two have some
+idea about this?
 
-208
-00:11:56,819 --> 00:11:58,719
-I was naked, you see.
+158
+00:10:07,989 --> 00:10:12,415
+The truth is, Katsuko and Suzuki
+have been fighting nonstop lately.
 
-209
-00:11:58,719 --> 00:12:02,519
-But, she didn't come to eat it after all.
+159
+00:10:12,498 --> 00:10:16,923
+Tonight too, before they went to their
+rooms, they got into a bit of an argument.
 
-210
-00:12:02,519 --> 00:12:05,719
+160
+00:10:17,592 --> 00:10:19,929
+- Ran, is that true?
+- Yeah.
+
+161
+00:10:20,221 --> 00:10:21,433
+It's not just me.
+
+162
+00:10:21,516 --> 00:10:23,394
+Yasuko and Yayoi...
+
+163
+00:10:23,479 --> 00:10:25,524
+both hated Katsuko too.
+
+164
+00:10:25,941 --> 00:10:27,277
+Please wait.
+
+165
+00:10:27,361 --> 00:10:29,741
+I don't think those two
+are connected to this.
+
+166
+00:10:30,241 --> 00:10:32,955
+Ran, how do you know that?
+
+167
+00:10:33,039 --> 00:10:37,548
+Between 7 and 8, were those two
+in the bath right on schedule?
+
+168
+00:10:38,132 --> 00:10:40,261
+They were here with me.
+
+169
+00:10:40,596 --> 00:10:42,182
+On schedule?
+
+170
+00:10:42,265 --> 00:10:44,144
+- It's all set.
+- Huh?
+
+171
+00:10:44,604 --> 00:10:47,944
+The bath times.
+It's a share house, after all.
+
+172
+00:10:48,236 --> 00:10:52,327
+Right. And aside from getting
+up once for the bathroom...
+
+173
+00:10:52,412 --> 00:10:55,166
+I was sitting here the whole time.
+
+174
+00:10:55,250 --> 00:10:59,049
+From here, you can see the
+hallway through the glass door.
+
+175
+00:10:59,467 --> 00:11:01,471
+A sliding glass door.
+
+176
+00:11:01,888 --> 00:11:03,600
+You can see right through it.
+
+177
+00:11:04,101 --> 00:11:06,440
+To get from the bath
+to the second floor...
+
+178
+00:11:06,523 --> 00:11:09,654
+you absolutely have to pass
+through that hallway.
+
+179
+00:11:09,904 --> 00:11:12,493
+During the time Yasuko
+was in the bath...
+
+180
+00:11:12,577 --> 00:11:14,747
+nobody passed by, I'm sure of it.
+
+181
+00:11:15,165 --> 00:11:18,714
+I see. So both of them
+have alibis. 
+182
+00:11:19,424 --> 00:11:24,349
+Now, Suzuki, I'm sorry, but
+at the scene on the second floor...
+
+183
+00:11:24,434 --> 00:11:26,813
+could you explain once more...
+
+184
+00:11:26,897 --> 00:11:29,736
+- the situation when you found her?
+- Yes.
+
+185
+00:11:30,821 --> 00:11:34,077
+"Write your name on
+personal items," huh...
+
+186
+00:11:35,288 --> 00:11:39,506
+Come to think of it, the bottle at the
+scene had a name on it too.
+
+187
+00:11:40,591 --> 00:11:44,306
+- Want something to drink?
+- Oh... no, I'm fine.
+
+188
+00:11:44,389 --> 00:11:46,352
+Don't be shy.
+
+189
+00:11:46,436 --> 00:11:49,024
+Hey, was that cake Katsuko's?
+
+190
+00:11:49,859 --> 00:11:53,282
+That's right. I took it out of the
+fridge and got it ready.
+
+191
+00:11:54,201 --> 00:11:56,998
+Yasuko called from the bath...
+
+192
+00:11:57,082 --> 00:11:58,877
+since she was undressed.
+
+193
+00:11:59,044 --> 00:12:02,300
+But in the end she never
+came to eat it, Katsuko.
+
+194
+00:12:02,760 --> 00:12:05,306
 So I put it back in the fridge.
 
-211
-00:12:05,719 --> 00:12:08,519
-It's best 15 minutes after it's taken out of the fridge.
-
-212
-00:12:08,519 --> 00:12:13,419
-We wanted her to eat it when most delicious.
-
-213
-00:12:13,419 --> 00:12:15,319
-I get it.
-
-214
-00:12:15,319 --> 00:12:17,419
-What's up, Conan?
-
-215
-00:12:17,419 --> 00:12:18,919
-Nothing.
-
-216
-00:12:18,919 --> 00:12:21,419
-Was there anything else out of the ordinary?
-
-217
-00:12:21,419 --> 00:12:24,419
-Out of the ordinary?
-
-218
-00:12:24,419 --> 00:12:26,519
-Oh, now that you mentioned it.
-
-219
-00:12:26,519 --> 00:12:29,419
-Yayoi, you tilted your head
-
-220
-00:12:29,419 --> 00:12:32,119
-when you were washing dishes, didn't you?
-
-221
-00:12:32,119 --> 00:12:33,919
-I'll help you, Yayoi.
-
-222
-00:12:33,919 --> 00:12:36,019
-Don't worry about it. I'm just doing the dishes.
-
-223
-00:12:36,019 --> 00:12:39,919
-You're a guest, you know.
-
-224
-00:12:39,919 --> 00:12:44,319
-Oh... Usually when someone's taking a bath
-
-225
-00:12:44,319 --> 00:12:47,019
-the water doesn't flow as much but...
-
-226
-00:12:47,019 --> 00:12:49,919
-the water was flowing out as usual at that time.
-
-227
-00:12:49,919 --> 00:12:52,019
-The bath tub's that way, right?
-
-228
-00:12:52,019 --> 00:12:54,219
-Wait. Conan.
-
-229
-00:13:06,419 --> 00:13:08,019
-Over here too.
-
-230
-00:13:08,019 --> 00:13:10,619
-It's been wiped off and traces of it being stepped on?
-
-231
-00:13:10,619 --> 00:13:12,319
-What's the matter?
-
-232
-00:13:13,319 --> 00:13:16,319
-What's this?
-
-233
-00:13:17,419 --> 00:13:19,119
-Oh, darn it.
-
-234
-00:13:19,119 --> 00:13:20,519
-It's shampoo.
-
-235
-00:13:20,519 --> 00:13:24,519
-When I poured a new one in today, I spilled some.
-
-236
-00:13:24,519 --> 00:13:26,519
-I thought I wiped it clean
-
-237
-00:13:26,519 --> 00:13:28,519
-but I guess not.
-
-238
-00:13:33,019 --> 00:13:34,519
-A window.
-
-239
-00:13:36,319 --> 00:13:39,319
-The dining room's in clear view.
-
-240
-00:13:39,319 --> 00:13:43,219
-So that means...
-
-241
-00:13:43,219 --> 00:13:45,819
-Why is this area lighter than others?
-
-242
-00:13:45,819 --> 00:13:48,919
-Because there was a picture there before
-
-243
-00:13:48,919 --> 00:13:52,419
-but the landlord took it away yesterday.
-
-244
-00:13:52,419 --> 00:13:53,819
-This is?
-
-245
-00:13:53,819 --> 00:13:55,219
-Inspector Megure!
-
-246
-00:13:55,219 --> 00:13:57,219
-Please come here! Quick!
-
-247
-00:14:08,811 --> 00:14:11,211
-From inside Mr. Suzuki's shoe box,
-
-248
-00:14:11,211 --> 00:14:14,211
-we found this towel.
-
-249
-00:14:14,211 --> 00:14:17,811
-I see, so that's the story.
-
-250
-00:14:17,811 --> 00:14:21,111
-So as I thought. Mr. Suzuki, you are the killer!
-
-251
-00:14:21,911 --> 00:14:25,811
-You were on bad terms with Katsuko to begin with.
-
-252
-00:14:25,811 --> 00:14:31,511
-But, tonight you blew your top and killed Katsuko upstairs.
-
-253
-00:14:31,511 --> 00:14:34,811
-At that time, you wrapped the handle of the knife with this towel
-
-254
-00:14:34,811 --> 00:14:37,311
-to avoid getting your prints on it!
-
-255
-00:14:37,311 --> 00:14:41,811
-I'll bet you meant to keep this hidden and get rid of it later.
-
-256
-00:14:41,811 --> 00:14:43,711
-This is it, no, Inspector?
-
-257
-00:14:43,711 --> 00:14:46,311
-Yes. Mr. Katsuhiko Suzuki.
-
-258
-00:14:46,311 --> 00:14:50,211
-I would like you to come to the station with us as a prime suspect.
-
-259
-00:14:50,211 --> 00:14:51,611
-I didn't do it!
-
-260
-00:14:51,611 --> 00:14:53,711
-It's not me.
-
-261
-00:14:53,711 --> 00:14:56,911
-Wrong! He's not the killer!
-
-262
-00:14:56,911 --> 00:14:59,611
-The killer is one of these two.
-
-263
-00:15:06,211 --> 00:15:08,111
-So, that's it!
-
-264
-00:15:14,911 --> 00:15:17,411
-Please wait, everyone!
-
-265
-00:15:17,411 --> 00:15:20,211
-Mr. Mouri, don't tell me...
-
-266
-00:15:20,211 --> 00:15:24,311
-I think it's too early to conclude that Mr. Suzuki is the killer.
-
-267
-00:15:24,311 --> 00:15:27,511
-But, Mr. Mouri you just...
-
-268
-00:15:27,511 --> 00:15:30,511
-I'm totally ashamed of myself.
-
-269
-00:15:30,511 --> 00:15:34,911
-It's more than apparent just looking at Mr. Suzuki and yet...
-
-270
-00:15:34,911 --> 00:15:37,511
-Please recall the scene of the crime.
-
-271
-00:15:37,511 --> 00:15:40,611
-Katsuko was killed by a slashed artery
-
-272
-00:15:40,611 --> 00:15:43,911
-and there was blood splattered everywhere.
-
-273
-00:15:43,911 --> 00:15:45,611
-And yet please look at him.
-
-274
-00:15:45,611 --> 00:15:49,111
-Mr. Suzuki's sweatshirt is stark white.
-
-275
-00:15:49,111 --> 00:15:52,911
-Could the killer get away without any blood splattering?
-
-276
-00:15:52,911 --> 00:15:56,911
-Maybe he pretended to find the corpse after he changed?
-
-277
-00:15:56,911 --> 00:16:01,211
-If so, those clothes should've been found by now.
-
-278
-00:16:01,211 --> 00:16:03,411
-He didn't have time to get rid of them you see.
-
-279
-00:16:03,411 --> 00:16:05,111
-True.
-
-280
-00:16:05,111 --> 00:16:08,311
-If so, who on earth's the killer?
-
-281
-00:16:08,311 --> 00:16:10,511
-This what the killer did.
-
-282
-00:16:10,511 --> 00:16:13,011
-First, the killer pretends to be Katsuko,
-
-283
-00:16:13,011 --> 00:16:17,211
-and writes a message to Mr. Suzuki on the message board.
-
-284
-00:16:17,211 --> 00:16:21,211
-In order to nail Mr. Suzuki in his room during the time of the crime,
-
-285
-00:16:21,211 --> 00:16:24,211
-and get rid of his alibi.
-
-286
-00:16:24,211 --> 00:16:25,711
-Then the killer,
-
-287
-00:16:25,711 --> 00:16:30,311
-at the time of the crime sneaks out of the bath tub and goes upstairs.
-
-288
-00:16:30,311 --> 00:16:32,411
-Wait a minute there, Mr. Mouri.
-
-289
-00:16:32,411 --> 00:16:33,911
-According to Ran,
-
-290
-00:16:33,911 --> 00:16:37,811
-nobody passed the corridor during the time of the crime.
-
-291
-00:16:37,811 --> 00:16:39,111
-Conan!
-
-292
-00:16:39,111 --> 00:16:42,011
-Yes! Officer Takagi!
-
-293
-00:16:42,011 --> 00:16:45,711
-There's a large planter in front of that door over there, isn't there?
-
-294
-00:16:45,711 --> 00:16:47,511
-Try looking below, will you?
-
-295
-00:16:47,511 --> 00:16:49,411
-There's a trace of it having been moved, right?
-
-296
-00:16:49,411 --> 00:16:54,511
--Yes. -Can you move it a bit over towards the door?
-
-297
-00:16:54,511 --> 00:16:55,511
-Like this?
-
-298
-00:16:55,511 --> 00:16:58,511
-Then, will you go out to the corridor and close the door?
-
-299
-00:16:58,511 --> 00:17:00,111
-Roger.
-
-300
-00:17:00,111 --> 00:17:03,511
-Ran, please go over to the fridge
-
-301
-00:17:03,511 --> 00:17:07,211
-and open the door of the fridge when Pops signals you to.
-
-302
-00:17:07,211 --> 00:17:08,811
-Okay, I got it.
-
-303
-00:17:08,811 --> 00:17:10,811
-Please come here, everybody!
-
-304
-00:17:13,111 --> 00:17:16,711
-Please watch Officer Takagi closely.
-
-305
-00:17:16,711 --> 00:17:19,311
-Okay, Ran. Open the door of the fridge.
-
-306
-00:17:19,311 --> 00:17:20,611
-Okay.
-
-307
-00:17:22,011 --> 00:17:24,011
-This is...
-
-308
-00:17:24,011 --> 00:17:25,311
-How about it?
-
-309
-00:17:25,311 --> 00:17:27,311
-Officer Takagi disappeared from view
-
-310
-00:17:27,311 --> 00:17:30,911
-from where Ran was sitting.
-
-311
-00:17:30,911 --> 00:17:34,611
-I heard from Conan that during the time of the crime,
-
-312
-00:17:34,611 --> 00:17:37,911
-the fridge door was opened twice.
-
-313
-00:17:39,511 --> 00:17:43,711
-In order to take out and put back Katsuko's cake.
-
-314
-00:17:43,711 --> 00:17:45,611
-Before committing the crime,
-
-315
-00:17:45,611 --> 00:17:50,411
-the killer moved that planter when Ran got up to go to the restroom.
-
-316
-00:17:50,411 --> 00:17:53,711
-Then, snuck out of the bath tub.
-
-317
-00:17:53,711 --> 00:17:56,411
-I've got evidence of this too.
-
-318
-00:17:56,411 --> 00:18:01,511
-The killer stepped on the spilled shampoo in the bathroom.
-
-319
-00:18:01,511 --> 00:18:04,711
-Traces of this were left in the corridor.
-
-320
-00:18:04,711 --> 00:18:08,511
-Then during this short time that the fridge door was opened,
-
-321
-00:18:08,511 --> 00:18:11,911
-the killer head for Katsuko's room.
-
-322
-00:18:11,911 --> 00:18:15,211
-There, Katusko who was drugged with sleeping medicine,
-
-323
-00:18:15,211 --> 00:18:17,511
-was fast asleep.
-
-324
-00:18:17,511 --> 00:18:19,811
-The killer who snuck in.
-
-325
-00:18:24,311 --> 00:18:25,311
-After committing the crime
-
-326
-00:18:25,311 --> 00:18:26,411
-and putting the blood smeared towel
-
-327
-00:18:26,411 --> 00:18:28,911
-into Mr. Suzuki's shoe box.
-
-328
-00:18:28,911 --> 00:18:34,311
-Then the killer ran again when the cake was put back into the fridge.
-
-329
-00:18:34,311 --> 00:18:38,211
-All you had to do was put the planter back in place.
-
-330
-00:18:38,211 --> 00:18:41,011
-Wait, Dad, are you saying that I...
-
-331
-00:18:41,011 --> 00:18:45,811
-Ran, you were used to establish an alibi.
-
-332
-00:18:45,811 --> 00:18:48,811
-Because guests will always sit where you did.
-
-333
-00:18:48,811 --> 00:18:52,211
-Wait. I'm the one who opened the fridge door.
-
-334
-00:18:52,211 --> 00:18:54,311
-Which means that the killer is...
-
-335
-00:18:54,311 --> 00:18:55,811
-Yasuko?
-
-336
-00:18:57,111 --> 00:18:58,611
-I'm the killer?
-
-337
-00:18:58,611 --> 00:19:01,211
-Don't be ridiculous! Wrong!
-
-338
-00:19:01,211 --> 00:19:02,911
-Huh? Miss...
-
-339
-00:19:02,911 --> 00:19:05,011
-Did you hurt your shoulder?
-
-340
-00:19:05,011 --> 00:19:06,811
-Blood's coming out.
-
-341
-00:19:10,411 --> 00:19:11,511
-That is indeed the evidence
-
-342
-00:19:11,511 --> 00:19:14,511
-that proves you went up and down the stairs.
-
-343
-00:19:14,511 --> 00:19:18,011
-Take a look at that window facing the stairs.
-
-344
-00:19:19,211 --> 00:19:21,011
-Although it's situated in a high place,
-
-345
-00:19:21,011 --> 00:19:23,211
-when Yasuko committed the crime,
-
-346
-00:19:23,211 --> 00:19:25,811
-she didn't want to be seen.
-
-347
-00:19:25,811 --> 00:19:27,511
-That's why she sank down low
-
-348
-00:19:27,511 --> 00:19:30,711
-and when she tried to straighten up again.
-
-349
-00:19:32,411 --> 00:19:33,411
-Right.
-
-350
-00:19:33,411 --> 00:19:35,211
-On the wall right beyond the window,
-
-351
-00:19:35,211 --> 00:19:37,311
-there was a nail sticking out
-
-352
-00:19:37,311 --> 00:19:39,411
-just where her shoulder was.
-
-353
-00:19:39,411 --> 00:19:40,811
-Wait!
-
-354
-00:19:40,811 --> 00:19:44,911
-You said that Mr. Suzuki had no blood splattered on him, didn't you?
-
-355
-00:19:44,911 --> 00:19:49,811
-But, Katsuko's blood wasn't on my clothes either!
-
-356
-00:19:49,811 --> 00:19:53,211
-It dawned on me as soon as I saw that wound.
-
-357
-00:19:53,211 --> 00:19:56,111
-Your body was injured because of the nail.
-
-358
-00:19:56,111 --> 00:19:58,911
-But, your T-shirt now isn't torn.
-
-359
-00:19:58,911 --> 00:20:03,711
-The clothes that you were wearing before probably isn't torn either.
-
-360
-00:20:03,711 --> 00:20:06,511
-What is the meaning of this?
-
-361
-00:20:06,511 --> 00:20:11,811
-After going to the bath tub you took off all your clothes
-
-362
-00:20:11,811 --> 00:20:15,011
-and killed Katsuko naked!
-
-363
-00:20:22,611 --> 00:20:23,811
-After that,
-
-364
-00:20:23,811 --> 00:20:28,311
-you wipe of the blood using the towel that you wrapped the knife with,
-
-365
-00:20:28,311 --> 00:20:31,911
-then being very careful not to leave traces on the floor,
-
-366
-00:20:31,911 --> 00:20:35,911
-you return to the bath tub and shower everything off.
-
-367
-00:20:35,911 --> 00:20:38,311
-You're wrong! I...
-
-368
-00:20:38,311 --> 00:20:42,511
-If so, let's have the drain of the bath tub checked!
-
-369
-00:20:42,511 --> 00:20:46,111
-I'm sure that Katsuko's blood will be detected!
-
-370
-00:20:53,111 --> 00:20:55,811
-Yasuko. Why?
-
-371
-00:20:55,811 --> 00:20:57,211
-Tap...
-
-372
-00:20:57,211 --> 00:20:58,511
-All the time!
-
-373
-00:20:58,511 --> 00:21:01,011
-It comes echoing every night!
-
-374
-00:21:01,011 --> 00:21:03,511
-The sound of her shoes tap dancing!
-
-375
-00:21:03,511 --> 00:21:06,711
-She wouldn't stop no matter how many times I asked her to.
-
-376
-00:21:06,711 --> 00:21:09,811
-I couldn't take it anymore!
-
-377
-00:21:09,811 --> 00:21:13,211
-For something like that.
-
-378
-00:21:13,211 --> 00:21:15,411
-Then she said...
-
-379
-00:21:15,411 --> 00:21:18,111
-In fact, I feel really good.
-
-380
-00:21:18,111 --> 00:21:22,011
-It's like I'm stepping on the top of your head.
-
-381
-00:21:22,011 --> 00:21:24,411
-So, just put up with it.
-
-382
-00:21:24,411 --> 00:21:28,011
-Because a third rate, plain woman like you
-
-383
-00:21:28,011 --> 00:21:32,411
-can only be of use to me by doing so.
-
-384
-00:23:00,211 --> 00:23:02,611
--"Mouri Detective Agency" -Hey, Dad!
-
-385
-00:23:02,611 --> 00:23:06,111
-I thought up something good!
-
-386
-00:23:06,111 --> 00:23:08,311
-Why don't we turn our house into a share house?
-
-387
-00:23:08,311 --> 00:23:10,011
-It'll help make ends meet too.
-
-388
-00:23:10,011 --> 00:23:12,011
-Don't be silly.
-
-389
-00:23:12,011 --> 00:23:13,311
+195
+00:12:05,975 --> 00:12:08,689
+It's best 15 minutes out
+of the fridge.
+
+196
+00:12:08,772 --> 00:12:11,318
+I wanted her to eat it when
+it was tastiest.
+
+197
+00:12:13,615 --> 00:12:14,826
 I see.
 
+198
+00:12:15,494 --> 00:12:17,330
+Something wrong, Conan?
+
+199
+00:12:17,707 --> 00:12:19,084
+Oh, no.
+
+200
+00:12:19,167 --> 00:12:21,590
+Was there anything else strange?
+
+201
+00:12:21,673 --> 00:12:23,217
+Anything strange?
+
+202
+00:12:24,721 --> 00:12:26,140
+Oh, now that I mention it...
+
+203
+00:12:26,850 --> 00:12:29,439
+Yayoi, when you were
+doing the dishes...
+
+204
+00:12:29,522 --> 00:12:31,901
+- you tilted your head, didn't you?
+- Hm?
+
+205
+00:12:32,277 --> 00:12:34,156
+Yayoi, let me help.
+
+206
+00:12:34,239 --> 00:12:37,788
+It's fine, just the dishes.
+You're a guest.
+
+207
+00:12:38,790 --> 00:12:39,792
+Huh?
+
+208
+00:12:40,209 --> 00:12:44,469
+Ah, normally when someone's
+in the bath...
+
+209
+00:12:44,552 --> 00:12:49,311
+the water pressure gets weaker, but at
+that time it was running normally.
+
+210
+00:12:49,394 --> 00:12:52,025
+Oh, the bath was that way, right?
+
+211
+00:12:52,401 --> 00:12:54,029
+Hey, wait, Conan.
+
+212
+00:13:05,803 --> 00:13:07,682
+Oh, here too.
+
+213
+00:13:08,307 --> 00:13:10,854
+A wiped spot and a footprint.
+
+214
+00:13:10,938 --> 00:13:12,190
+What's the matter?
+
+215
+00:13:12,733 --> 00:13:15,823
+Hey, what's this?
+
+216
+00:13:15,906 --> 00:13:20,833
+Huh? Oh, no, that's shampoo.
+
+217
+00:13:20,916 --> 00:13:24,507
+When I refilled it with a new one today,
+I spilled some.
+
+218
+00:13:24,882 --> 00:13:28,473
+I thought I'd wiped it up nicely,
+but I guess I missed a spot.
+
+219
+00:13:33,357 --> 00:13:34,359
+The window.
+
+220
+00:13:36,740 --> 00:13:38,577
+You can see the
+dining room clearly.
+
+221
+00:13:39,662 --> 00:13:42,835
+Which means, doing it this way... hm?
+
+222
+00:13:43,545 --> 00:13:46,049
+Why is just this spot white?
+
+223
+00:13:46,133 --> 00:13:49,222
+There, a picture used to
+hang there...
+
+224
+00:13:49,306 --> 00:13:51,895
+but the landlord took it down
+and carried it off yesterday.
+
+225
+00:13:52,813 --> 00:13:55,234
+This is...
+Inspector Megure.
+
+226
+00:13:55,527 --> 00:13:56,946
+Come here, quickly.
+
+227
+00:14:08,685 --> 00:14:10,981
+From inside Suzuki's
+shoe cubby...
+
+228
+00:14:11,064 --> 00:14:13,027
+this towel was found.
+
+229
+00:14:14,029 --> 00:14:16,993
+I see, so that's how it was.
+
+230
+00:14:17,786 --> 00:14:20,416
+The culprit is Suzuki,
+just as I thought. It's you.
+
+231
+00:14:21,794 --> 00:14:25,468
+You and Katsuko were
+on bad terms to begin with.
+
+232
+00:14:25,719 --> 00:14:30,812
+And tonight's fight pushed it over the
+edge, so you killed Katsuko upstairs.
+
+233
+00:14:31,396 --> 00:14:34,612
+At that time, you wrapped the
+knife handle in this towel...
+
+234
+00:14:34,695 --> 00:14:36,448
+so no fingerprints
+would be left.
+
+235
+00:14:37,200 --> 00:14:41,166
+You hid this away, planning
+to dispose of it later.
+
+236
+00:14:41,751 --> 00:14:44,507
+- That settles it, Inspector.
+- Yes.
+
+237
+00:14:44,590 --> 00:14:49,934
+Hidehisa Suzuki, would you accompany us
+to the station as a person of interest?
+
+238
+00:14:50,101 --> 00:14:53,232
+It wasn't me. I didn't do it...
+
+239
+00:14:53,566 --> 00:14:54,610
+That's wrong.
+
+240
+00:14:54,694 --> 00:14:56,614
+This man is not the culprit.
+
+241
+00:14:56,864 --> 00:15:00,497
+The culprit is one of these two...
+Oh.
+
+242
+00:15:06,133 --> 00:15:07,970
+So that's how it is.
+
+243
+00:15:09,347 --> 00:15:12,938
+Ugh, ha-nyo, ha-hii-fuu...
+
+244
+00:15:14,692 --> 00:15:16,486
+Please wait, everyone.
+
+245
+00:15:16,821 --> 00:15:19,409
+M... Mr. Mouri? Could it be?
+
+246
+00:15:20,161 --> 00:15:22,583
+It's too early to declare
+Suzuki the culprit...
+
+247
+00:15:22,666 --> 00:15:23,918
+just yet.
+
+248
+00:15:24,210 --> 00:15:27,383
+B... but Mouri, just now you...
+
+249
+00:15:27,467 --> 00:15:30,056
+I'm truly ashamed
+of myself.
+
+250
+00:15:30,473 --> 00:15:33,938
+One look at Suzuki and
+it should've been obvious.
+
+251
+00:15:34,732 --> 00:15:37,028
+Recall the scene of the murder.
+
+252
+00:15:37,529 --> 00:15:40,535
+Katsuko died with her
+artery severed...
+
+253
+00:15:40,619 --> 00:15:43,457
+and blood was splattered
+all around the area.
+
+254
+00:15:43,875 --> 00:15:45,504
+And yet, take a look.
+
+255
+00:15:45,587 --> 00:15:47,883
+Suzuki's sweatshirt
+is pure white.
+
+256
+00:15:49,052 --> 00:15:52,391
+Could the culprit possibly
+have avoided getting any blood on them?
+
+257
+00:15:53,060 --> 00:15:56,483
+What if he changed clothes and then
+pretended to find the body?
+
+258
+00:15:56,901 --> 00:15:58,237
+If that were the case...
+
+259
+00:15:58,320 --> 00:16:00,909
+those clothes would have
+already been found.
+
+260
+00:16:01,243 --> 00:16:03,288
+He'd have had no time
+to go dispose of them.
+
+261
+00:16:03,581 --> 00:16:05,042
+You're... right.
+
+262
+00:16:05,126 --> 00:16:07,255
+Then who is the culprit...
+
+263
+00:16:08,298 --> 00:16:10,386
+The culprit's actions
+were these.
+
+264
+00:16:10,469 --> 00:16:12,933
+First, pretending to be Katsuko...
+
+265
+00:16:13,016 --> 00:16:16,481
+they wrote a message addressed
+to Suzuki on the message board.
+
+266
+00:16:17,233 --> 00:16:21,158
+To pin Suzuki down in his own
+room at the time of the crime...
+
+267
+00:16:21,241 --> 00:16:23,287
+and strip him of an alibi.
+
+268
+00:16:24,247 --> 00:16:27,003
+Then, at the time of the murder...
+
+269
+00:16:27,211 --> 00:16:29,884
+the culprit slipped out of the
+bath and went to the second floor.
+
+270
+00:16:30,384 --> 00:16:32,263
+Hold on a moment, Mouri.
+
+271
+00:16:32,346 --> 00:16:37,566
+By Ran's testimony, no one passed
+through the hallway at the time of the crime.
+
+272
+00:16:37,858 --> 00:16:40,237
+- Conan.
+- Yes.
+
+273
+00:16:40,321 --> 00:16:43,493
+Detective Takagi, in front
+of that door...
+
+274
+00:16:43,578 --> 00:16:45,749
+there's a large potted
+plant, right?
+
+275
+00:16:45,832 --> 00:16:49,380
+Look at the floor underneath.
+There's a mark where it was moved.
+
+276
+00:16:49,464 --> 00:16:50,884
+Ah.
+Just like that mark...
+
+277
+00:16:50,967 --> 00:16:53,388
+move it a little toward the door.
+
+278
+00:16:53,472 --> 00:16:56,979
+Ugh, like this?
+Then step out into the hallway...
+
+279
+00:16:57,063 --> 00:16:59,526
+and close the door for me?
+Got it.
+
+280
+00:17:00,236 --> 00:17:03,450
+Now, Ran, go over
+to the fridge...
+
+281
+00:17:03,534 --> 00:17:07,124
+and when I give the signal,
+open the fridge door.
+
+282
+00:17:07,208 --> 00:17:08,711
+Okay, got it.
+
+283
+00:17:08,795 --> 00:17:10,256
+Everyone, come over here.
+
+284
+00:17:13,136 --> 00:17:15,558
+Watch Detective Takagi closely.
+
+285
+00:17:16,769 --> 00:17:19,190
+All right, Ran, open
+the fridge door.
+
+286
+00:17:19,274 --> 00:17:20,276
+Okay.
+
+287
+00:17:22,029 --> 00:17:24,033
+Th... this is...
+
+288
+00:17:24,117 --> 00:17:25,369
+How about it?
+
+289
+00:17:25,452 --> 00:17:29,795
+From where Ran was sitting,
+Detective Takagi disappeared from view.
+
+290
+00:17:31,006 --> 00:17:34,429
+I heard from Conan that around
+the time of the crime...
+
+291
+00:17:34,638 --> 00:17:37,811
+the fridge door was opened twice.
+
+292
+00:17:39,606 --> 00:17:42,779
+To take out and put back
+Katsuko's cake.
+
+293
+00:17:43,781 --> 00:17:46,620
+Before the crime, the culprit
+shifted that potted plant...
+
+294
+00:17:46,704 --> 00:17:49,668
+while Ran was away
+in the bathroom.
+
+295
+00:17:50,419 --> 00:17:53,342
+And then quietly
+slipped out of the bath.
+
+296
+00:17:53,968 --> 00:17:55,555
+There's proof of that too.
+
+297
+00:17:56,515 --> 00:17:58,393
+In the changing room...
+
+298
+00:17:58,477 --> 00:18:00,815
+the culprit stepped in
+the spilled shampoo.
+
+299
+00:18:01,567 --> 00:18:04,322
+Those traces were left
+in the hallway.
+
+300
+00:18:04,740 --> 00:18:08,664
+Then, in the brief moment the
+fridge door was opened...
+
+301
+00:18:08,748 --> 00:18:10,794
+the culprit headed for
+Katsuko's room.
+
+302
+00:18:12,004 --> 00:18:15,094
+There, Katsuko, who'd been
+given sleeping pills...
+
+303
+00:18:15,177 --> 00:18:17,056
+was fast asleep.
+
+304
+00:18:17,682 --> 00:18:19,352
+The culprit crept in and...
+
+305
+00:18:24,445 --> 00:18:28,871
+After the crime, the culprit put the
+bloody towel in Suzuki's shoe cubby...
+
+306
+00:18:29,122 --> 00:18:33,548
+then, the next moment the cake was
+being returned to the fridge...
+
+307
+00:18:34,591 --> 00:18:38,056
+After that, they just had to
+return the pot when no one was looking.
+
+308
+00:18:38,306 --> 00:18:39,601
+Wait, Dad.
+
+309
+00:18:39,685 --> 00:18:41,020
+Then I was...
+
+310
+00:18:41,187 --> 00:18:43,108
+Ran, you...
+
+311
+00:18:43,191 --> 00:18:45,780
+were used to create the alibi.
+
+312
+00:18:45,947 --> 00:18:48,368
+The guest always sits there.
+
+313
+00:18:48,911 --> 00:18:52,334
+Wait. I'm the one who
+opened the fridge.
+
+314
+00:18:52,418 --> 00:18:55,884
+Which means... the culprit
+is Yasuko?
+
+315
+00:18:57,261 --> 00:19:01,019
+I'm the culprit? That's absurd.
+You're wrong.
+
+316
+00:19:01,436 --> 00:19:05,068
+Huh? Miss, isn't your
+shoulder injured?
+
+317
+00:19:05,152 --> 00:19:06,362
+There's blood
+seeping through.
+
+318
+00:19:10,497 --> 00:19:11,540
+That's the very...
+
+319
+00:19:11,624 --> 00:19:14,003
+proof that you went
+up to the second floor.
+
+320
+00:19:14,671 --> 00:19:15,757
+Take a look.
+
+321
+00:19:15,840 --> 00:19:18,011
+At that window facing
+the staircase.
+
+322
+00:19:19,515 --> 00:19:23,396
+Though it's up high, when committing
+the crime, Yasuko...
+
+323
+00:19:23,480 --> 00:19:25,527
+didn't want to be seen.
+
+324
+00:19:26,027 --> 00:19:30,494
+So she crouched down, passed by smoothly,
+and when she tried to stand back up...
+
+325
+00:19:30,578 --> 00:19:31,580
+(snagging sound)
+
+326
+00:19:32,582 --> 00:19:35,337
+Yes. On the wall past
+the window...
+
+327
+00:19:35,420 --> 00:19:38,886
+exactly at shoulder height,
+a nail was sticking out.
+
+328
+00:19:39,555 --> 00:19:41,684
+Please wait. You...
+
+329
+00:19:41,767 --> 00:19:45,107
+said Suzuki had no
+blood spatter on him, right?
+
+330
+00:19:45,190 --> 00:19:49,115
+But there's no blood of Katsuko's
+on my clothes either, is there?
+
+331
+00:19:49,908 --> 00:19:52,622
+The moment I saw that wound,
+I understood right away.
+
+332
+00:19:53,290 --> 00:19:56,296
+The nail injured your body...
+
+333
+00:19:56,379 --> 00:19:58,634
+but that T-shirt isn't torn.
+
+334
+00:19:59,218 --> 00:20:03,310
+The clothes you wore before this
+probably weren't torn either.
+
+335
+00:20:04,020 --> 00:20:05,982
+What does this mean?
+
+336
+00:20:06,775 --> 00:20:10,867
+After going to the bath, you
+stripped off all your clothes...
+
+337
+00:20:12,036 --> 00:20:15,167
+and killed Katsuko
+while completely naked.
+
+338
+00:20:15,877 --> 00:20:18,841
+(panting)
+
+339
+00:20:22,932 --> 00:20:24,978
+In that case, the blood spatter...
+
+340
+00:20:25,062 --> 00:20:28,569
+you wiped off roughly with the towel
+you used to hold the knife...
+
+341
+00:20:28,653 --> 00:20:33,537
+then, being careful not to leave any
+traces on the floor, returned to the bath...
+
+342
+00:20:33,621 --> 00:20:35,750
+and just washed it all
+off in the shower.
+
+343
+00:20:36,209 --> 00:20:38,171
+You're wrong. I...
+
+344
+00:20:38,631 --> 00:20:39,716
+In that case...
+
+345
+00:20:39,800 --> 00:20:42,054
+shall we have the bath's
+drainpipe examined?
+
+346
+00:20:42,847 --> 00:20:46,312
+Katsuko's blood is surely
+going to be detected.
+
+347
+00:20:48,358 --> 00:20:50,153
+Ah... ah...
+
+348
+00:20:51,072 --> 00:20:53,159
+Aaah.
+
+349
+00:20:53,451 --> 00:20:55,832
+Yasuko, why?
+
+350
+00:20:56,040 --> 00:20:58,879
+Click, click, click, click...
+it kept echoing down.
+
+351
+00:20:58,963 --> 00:21:03,806
+From right above me, every night,
+every night, the sound of her tap shoes.
+
+352
+00:21:03,889 --> 00:21:06,269
+No matter how many times I asked,
+she wouldn't stop.
+
+353
+00:21:07,104 --> 00:21:09,066
+I just couldn't take it anymore.
+
+354
+00:21:10,152 --> 00:21:11,864
+Over something like that...
+
+355
+00:21:13,701 --> 00:21:15,412
+She said it to me.
+
+356
+00:21:15,705 --> 00:21:18,251
+"You know, it actually
+feels really good."
+
+357
+00:21:18,460 --> 00:21:21,925
+"Like I'm stomping on you
+from right over your head."
+
+358
+00:21:22,426 --> 00:21:24,430
+"So just put up with it."
+
+359
+00:21:24,765 --> 00:21:27,812
+"A third-rate, unremarkable
+woman like you..."
+
+360
+00:21:28,438 --> 00:21:32,446
+"that's about all you're
+ever good for to me."
+
+361
+00:21:33,239 --> 00:21:39,251
+(Yasuko sobbing)
+
+362
+00:21:40,922 --> 00:21:46,934
+♪~
+
+363
+00:22:54,945 --> 00:23:00,455
+~♪
+
+364
+00:23:01,290 --> 00:23:02,710
+Hey, hey, Dad.
+
+365
+00:23:03,044 --> 00:23:05,131
+I just thought of
+a great idea.
+
+366
+00:23:05,883 --> 00:23:08,555
+Huh?
+Let's make our place a share house too.
+
+367
+00:23:08,639 --> 00:23:10,266
+It'd help the budget.
+
+368
+00:23:10,350 --> 00:23:12,062
+What nonsense are you...
+
+369
+00:23:12,437 --> 00:23:15,235
+I see. And here we have a...
+
+370
+00:23:15,318 --> 00:23:17,991
+beautiful career woman who
+earns a great living.
+
+371
+00:23:18,074 --> 00:23:20,286
+Hm?
+What a shame, what a shame.
+
+372
+00:23:20,370 --> 00:23:21,623
+(clears throat)
+
+373
+00:23:21,707 --> 00:23:24,378
+Well, if it helps the
+budget even a little...
+
+374
+00:23:24,587 --> 00:23:26,591
+Really? Yes!
+
+375
+00:23:26,675 --> 00:23:29,138
+Then I'll go post this in
+the empty room.
+
+376
+00:23:29,304 --> 00:23:30,306
+Hm?
+
+377
+00:23:30,390 --> 00:23:32,854
+This way the family can
+live together again.
+
+378
+00:23:32,937 --> 00:23:34,566
+I have to call Mom.
+
+379
+00:23:34,649 --> 00:23:38,072
+H... hey, Ran, stop. Give me that.
+
+380
+00:23:38,156 --> 00:23:39,951
+Oh, hello, Mom?
+Wait.
+
+381
+00:23:40,035 --> 00:23:42,330
+Hahaha... wait, hold on.
+
+382
+00:23:42,414 --> 00:23:44,627
+Ms. Kisaki's cooking is...
+
+383
+00:23:45,211 --> 00:23:49,428
+Aaah, wait, wait.
+Ran, please, wait.
+
+384
+00:23:51,307 --> 00:23:52,309
+Huh?
+
+385
+00:23:53,687 --> 00:23:56,985
+Here, a printed-out photo. Good luck.
+
+386
+00:23:57,612 --> 00:23:59,741
+Right. That was 15 years ago.
+
+387
+00:24:00,408 --> 00:24:02,622
+At another rental cabin
+near here...
+
+388
+00:24:03,499 --> 00:24:06,630
+When the officers rushed in
+after hearing the commotion...
+
+389
+00:24:07,924 --> 00:24:08,926
+Red...
+
 390
-00:23:13,311 --> 00:23:16,211
-Too bad when I know this beautiful, money-making career woman
+00:24:09,176 --> 00:24:10,178
+Red...
 
 391
-00:23:16,211 --> 00:23:18,211
-that could do us good.
+00:24:10,888 --> 00:24:11,932
+Red...
 
 392
-00:23:18,211 --> 00:23:21,311
-Really too bad.
-
-393
-00:23:21,311 --> 00:23:24,111
-Well, if it's going to help make ends meet.
-
-394
-00:23:24,111 --> 00:23:26,311
-Really? All right!
-
-395
-00:23:26,311 --> 00:23:29,911
--"Eri Kisaki" -I'll attach this on the vacant room then.
-
-396
-00:23:29,911 --> 00:23:32,611
-So now, we can live as a family once again.
-
-397
-00:23:32,611 --> 00:23:34,211
-I've got to call Mom.
-
-398
-00:23:34,211 --> 00:23:36,211
-Hey, Ran, don't!
-
-399
-00:23:38,011 --> 00:23:39,311
--Give that to me! -Hello, mom.
-
-400
-00:23:39,311 --> 00:23:40,811
-Give it to me I said!
-
-401
-00:23:40,811 --> 00:23:42,011
-Wait a second.
-
-402
-00:23:42,011 --> 00:23:44,811
-Her cooking is...
-
-403
-00:23:46,411 --> 00:23:48,911
-Wait, Ran! Please wait!
-
-404
-00:23:53,311 --> 00:23:55,811
-These are the pictures I printed out.
-
-405
-00:23:55,811 --> 00:23:57,111
-We're counting on you.
-
-406
-00:23:57,111 --> 00:23:59,911
-Well, it was 15 years ago.
-
-407
-00:23:59,911 --> 00:24:03,011
-At a different rental villa near here.
-
-408
-00:24:03,011 --> 00:24:06,411
-By the time a police officer who heard of this incident got to the room...
-
-409
-00:24:07,611 --> 00:24:08,811
-Red...
-
-410
-00:24:08,811 --> 00:24:10,211
-Red?
-
-411
-00:24:10,211 --> 00:24:12,111
-Red...
-
-412
-00:24:12,111 --> 00:24:13,711
-The bath tub is filled with...
+00:24:12,558 --> 00:24:13,811
+Inside the bathtub.
 
 413
 00:24:15,211 --> 00:24:16,611
@@ -1655,18 +1780,22 @@ Next Conan,
 "The Tragedy of the Red Woman (Bath Steam)"
 
 415
-00:24:36,211 --> 00:24:38,611
+00:24:36,143 --> 00:24:38,610
 Next Conan's Hint:
 
 416
 00:24:38,611 --> 00:24:40,611
 "Tomato".
 
-417
-00:24:40,611 --> 00:24:42,011
--No lemon, no melon. -Step on no pets
+395
+00:24:40,898 --> 00:24:42,524
+- Greengrocer. 
+- Woodpecker.
 
-418
-00:24:42,011 --> 00:24:45,011
--Stop or pots. -Star or rats.
-
+396
+00:24:42,608 --> 00:24:44,100
+Newspaper.
+Conan's a weird kid.
+397
+00:24:44,401 --> 00:24:47,001
+Wha...
