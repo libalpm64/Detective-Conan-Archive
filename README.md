@@ -89,7 +89,7 @@ This option is toggleable. If you are not a fan of the dub, avoid using the CR r
 | 20 | **The Darkest Nightmare** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 813 | |
 | 21 | **The Crimson Love Letter** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 855 | n/a |
 | 22 | **Zero the Enforcer** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 898 | |
-| 23 | **The Fist of Blue Sapphire** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 746 | n/a |
+| 23 | **The Fist of Blue Sapphire** | [Nyaa Link](https://nyaa.si/view/1573183) | After Ep 936 | n/a |
 | 24 | **The Scarlet Bullet** | [Nyaa Link](https://nyaa.si/view/1600960) | After Ep 1002 | |
 | 25 | **The Bride of Halloween** | [Nyaa Link](https://nyaa.si/view/1864836) | After Ep 1040 | |
 | 26 | **Black Iron Submarine** | [Nyaa Link](https://nyaa.si/view/1748824) | After Ep 1080 | |
