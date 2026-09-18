@@ -44,9 +44,9 @@ To denote, this is for archival purposes only. We are not promoting piracy and i
 
 ## Notes on Remasters
 There is a current English dub effort going on. The new episodes that are dubbed are:  
-1-5, 7, 10, 43, 48-49, 57-58, 76, 128-129, 176-178, 230-231, 286-288, 345, 425
+1-5, 7, 10, 43, 48-49, 57-58, 76, 128-129, 162, 170-171, 176-178, 188-193, 219, 226-227, 230-231, 258-259, 277-280, 286-288, 307-311, 335-336, 338-341, 345-347, 371-372, 425
 
-This option is toggleable. If you are not a fan of the dub, avoid using the CR remaster releases.
+These include CR subs, the dub is optional and has a secondary Japanese track. 
 
 ## Detective Conan Movies
 
